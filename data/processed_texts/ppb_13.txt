@@ -1,0 +1,1146 @@
+HPT/PER/GUD/042  
+Revision No.02 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+  
+  
+  
+ 
+ 
+GUIDELINES FOR SUSPENSION, WITHDRAWAL, 
+WITHHOLDING AND CANCELLATION/REVOCATION OF 
+MARKETING AUTHORIZATION OF HEALTH PRODUCTS AND 
+HEALTH TECHNOLOGIES IN KENYA 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+APRIL, 2025
+  
+ 
+ 
+Citation:  
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on condition that the recommended citation below is 
+made.  
+ 
+Recommended citation: Republic of Kenya, Ministry of Health, Pharmacy and 
+Poisons Board, Guidelines for Suspension, Withdrawal, Withholding and 
+Cancellation/Revocation of Marketing Authorization of Health Products and 
+Health Technologies in Kenya, Version number 2, 2025 
+ 
+All rights reserved:  
+©Pharmacy and Poisons Board, 2025  
+For clarifications, comments, or suggestions, please contact:  
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi  
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org   
+Website: www.pharmacyboardkenya.org   
+ 
+ 
+ 
+ 
+ii 
+Table of Contents 
+ABBREVIATIONS AND ACRONYMS ............................................................ iv 
+DEFINITION OF KEY TERMS ...................................................................... v 
+ACKNOWLEDGEMENT ............................................................................. vii 
+1.0 
+INTRODUCTION ................................................................................. 1 
+1.1 
+Background ..................................................................................... 1 
+1.2 
+Legal Framework ............................................................................. 1 
+1.3 
+Scope .............................................................................................. 2 
+2.0 
+REASONS FOR WITHDRAWAL, SUSPENSION, WITHHOLDING AND 
+CANCELLATION OF MARKETING AUTHORIZATION. .................................... 3 
+2.1 
+Cancellation of a Marketing Authorization by the Authority ............. 3 
+2.2 
+Suspension of a Marketing Authorization by the Authority ............... 4 
+2.3 
+Withholding of a Marketing Authorization by the Authority .............. 6 
+2.4 
+Withdrawal of Marketing Authorization by the MAH ......................... 6 
+2.5 
+Revocation of marketing authorization by the Authority ................... 7 
+3.0 
+PROCESS OF WITHDRAWAL, SUSPENSION AND CANCELLATION OR 
+REVOCATION OF MARKETING AUTHORIZATION. ...................................... 8 
+3.1 
+Suspension, cancellation and / or revocation of marketing 
+authorization by the Authority ................................................................. 8 
+3.2 
+Withdrawal of marketing authorization by the Applicant ................ 10 
+3.3 
+Suspension or Cancellation/Rovocation Without  Notice ................ 11 
+3.4 
+Cancellation of A Marketing Authorization By An Applicant ........... 11 
+4.0 
+PUBLICATION OF SUSPENSIONS/WITHDRAWALS/CANCELATIONS 12 
+5.0 
+REFERENCES .................................................................................. 13 
+6.0 
+REVISION HISTORY ......................................................................... 14 
+ 
+ 
+ 
+iii 
+7.0 
+CONTRIBUTORS/REVIEWERS ......................................................... 15 
+8.0 
+ANNEXES ......................................................................................... 16 
+Annex 1 - Form 5: Notice of intention to Withdraw the registration of a 
+health product or technology .................................................................. 16 
+Annex 2 - Form 6: Notice of intention to withdraw the registration of a health 
+product or technology ............................................................................ 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+ ABBREVIATIONS AND ACRONYMS  
+PPB  
+Pharmacy and Poisons Board  
+MAH  
+Marketing Authorization Holder  
+MA 
+Marketing Authorization 
+LTR  
+Local Technical Representative 
+GMP  
+Good Manufacturing Practices  
+WHO  
+World Health Organization  
+NMRA  
+National Medicine Regulatory Authority  
+HPT 
+Health Product and Technologies 
+INN 
+International Non-Proprietary Name 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+v 
+DEFINITION OF KEY TERMS  
+Withdrawal: It refers to the permanent discontinuation of Marketing 
+Authorization by the Marketing Authorization Holder (MAH). Reasons for 
+withdrawal could be manifold, including administrative or commercial. The 
+MAH shall declare the reason for withdrawal, particularly if his/her action 
+concerns the quality, safety and/or efficacy of the medicinal product.  
+Withholding: It refers to the decision to delay or pause the issuance of a 
+marketing Authorization or processing of a marketing authorization 
+application until suspected risks on quality, safety and efficacy linked to the 
+application or similar applications are resolved.  
+Cancellation: It refers to the action taken by the NMRA for the invalidation 
+of a marketing authorization that was lawful at the time of its granting and 
+for which the reason for invalidation occurred subsequently e.g. due to 
+additional [post-marketing] information about the medicinal product or due 
+to the violation of the terms and conditions specified in the the Act, the 
+Rules;or a condition of the issued certificate 
+Suspension: It refers to the action taken by the NMRA, if a ground for refusal 
+as defined in the legal provision developed or if one of the conditions imposed 
+pursuant to maintaining the marketing authorization has not been met and 
+the flaw has not been corrected within a reasonable period of time that is to 
+be specified by the NMRA. The authorization of a Health Product and 
+Technology is paused for a defined period on grounds of suspicion of public 
+health risks OR requirement of further assurance of Quality, Efficacy, 
+Effectiveness and Safety, until further regulatory actions can be taken. 
+Revocation: It refers to the Action taken by the NMRA, if a marketing 
+authorization was granted unlawfully from the outset, e.g., due to deception 
+or the like. 
+Health Product: This include human medicines, medical products, medicinal 
+substances, vaccines, diagnostics, medical devices, blood products, 
+traditional and alternative medicine, therapeutic feeds and nutritional 
+formulations, cosmetics and related products 
+ 
+ 
+ 
+vi 
+Health Technology: This is the application of organized knowledge and skills 
+in the form of devices, medicine, vaccines, procedures and systems developed 
+to solve a health problem and improve the quality of life. 
+The Board- The Pharmacy and Poisons Board 
+Marketing Authorization (MA): The official approval granted by the NMRA 
+that allows a pharmaceutical or medical product to be marketed or distributed 
+within the country after evaluation of safety, efficacy and quality in the 
+marketing authorization assessment process.  
+Marketing authorization holder-means an individual or a corporate entity 
+responsible for placing a health product or technology in the market either 
+through importation, donation, distribution or sale in Kenya; 
+Product Retention: Maintenance of a product in the register of licensed 
+products.  
+Recalls : the removal of specific batch/batches of a pharmaceutical product 
+from the market for reasons relating to deficiencies in quality, safety or 
+efficacy  
+Applicant (for MA)  
+A person or entity who has applied for regulatory approval of a product or a 
+change thereof. All applicants are to own the product. Representatives of 
+product owners may not hold themselves as applicants unless they own the 
+product.  
+In some jurisdictions this term is used in a wider sense (see “Marketing 
+authorization holder)”.  
+ 
+ 
+ 
+vii 
+ACKNOWLEDGEMENT 
+The Registrar, Pharmacy, and Poisons Board would like to thank the following 
+persons for their comments and contributions to the development of this 
+guideline. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+1.0 
+INTRODUCTION 
+1.1 
+Background 
+This guideline aims to offer overarching principles and aspects towards 
+marketing authorization of health products and technologies in Kenya, 
+ensuring that all HPTs in circulation meet the highest standards of quality, 
+safety, and efficacy. Prior to the issuance of marketing authorization (MA), the 
+Board conducts a thorough assessment of the information submitted by 
+Marketing Authorization Holders (MAH) to ensure that Health Products 
+comply with the requirements for quality, safety, and efficacy. Additionally, 
+the quality, safety and efficacy of these HPTs continue to be monitored post-
+authorization through pharmacovigilance activities and ongoing evaluations 
+of the benefit-risk balance. 
+If at any point in the product's life cycle the established standards for quality, 
+safety, and efficacy are compromised, the Board has the authority to take 
+appropriate measures, including withholding, suspending, or canceling the 
+issued marketing authorization certificate. Furthermore, the MAH may 
+voluntarily apply to the Board to withdraw the MA, provided they offer 
+adequate justification. These guidelines are designed to uphold the integrity 
+of HPTs available in Kenya, safeguarding public health by ensuring that only 
+quality, safe and efficacious HPTs products are accessible in the marketplace. 
+1.2 
+Legal Framework  
+The Pharmacy and Poisons Act, Cap 244, mandates the Board to, among 
+others, set standards to ensure high levels of public health protection by 
+ensuring access to quality, safe, efficacious and affordable HPTs. Sections 
+3A(c) and 3B(e)(f) of the Act gives the Board powers to grant or withdraw 
+marketing authorization subject to appropriate conditions and revise such 
+conditions for MA as necessary and maintain a register of all authorized 
+medicinal substances; 
+Section 11 (1) of the Pharmacy and Poisons (Registration of Health Products 
+and Technologies) Rules, 2022, Grants the  Board power to  withhold, 
+ 
+ 
+ 
+2 
+suspend, cancel or revoke the registration of a Health Product or Health 
+Technology. 
+1.3 
+Scope 
+This guideline addresses the withholding, suspending, withdrawing or 
+canceling of a registration or marketing authorization in the event that 
+quality, safety or efficacy issues are uncovered. This guideline also specifies 
+requirements on when and how to withhold, suspend, withdraw or cancel a 
+registration or MA. It applies to all HPTs in all cases covering pre-marketing, 
+marketing and post marketing authorization. 
+ 
+ 
+ 
+ 
+ 
+3 
+2.0 
+REASONS FOR WITHDRAWAL, SUSPENSION, WITHHOLDING AND 
+CANCELLATION OF MARKETING AUTHORIZATION. 
+2.1 
+Cancellation of a Marketing Authorization by the Authority 
+The Authority may cancel the marketing authorization of a registered health 
+product and technologies if; 
+2.1.1 
+It determines that the HPT poses harm to patients, lacks 
+therapeutic efficacy, or has an unfavorable risk-benefit 
+balance. A lack of therapeutic efficacy is indicated when it is 
+concluded that therapeutic results cannot be obtained from the 
+HPT.  
+2.1.2 
+There are significant changes to the formulation, composition, 
+design specifications, quality, safety, or presentation of the HPT 
+that make it unsuitable for continued registration.  
+2.1.3 
+A specific quality defect or safety issue is repeatedly reported 
+concerning a particular HPT from a specific MAH. 
+2.1.4 
+Accumulation of reported unanticipated adverse effects/ 
+reactions.  
+2.1.5 
+New published research findings stating irreversible quality, 
+safety or efficacy concerns.  
+2.1.6 
+The standard of quality, safety and efficacy as prescribed in the 
+documentation for marketing authorization is not being 
+complied with.  
+2.1.7 
+The product has proven to be ineffective for the approved 
+indication(s);  
+2.1.8 
+It is proven that the product is unsafe in the normal conditions 
+of use  
+2.1.9 
+If during the lifecycle of the generic product it is confirmed that 
+the risk-benefit balance of the reference medicinal product is 
+not favourable and the marketing authorization of that 
+reference medicinal product is cancelled, the same action 
+would be required also towards the generic medicinal products 
+of that reference medicinal product.  
+ 
+ 
+ 
+4 
+2.1.10 Where there is change in the treatment policy for public health 
+programmes. 
+2.1.11 The circumstances under which the medicinal product was 
+registered no longer exist. 
+ 
+In the event where a product is cancelled in any country because of safety, 
+quality, efficacy issues, the MAH shall notify the Board within one month of 
+the cancellation, failure to do so will lead to cancellation of the MA. 
+ 
+A written notice of cancellation shall then be issued to the Marketing 
+Authorization Holder, stating the reason(s) for cancellation.  
+ 
+2.2 
+Suspension of a Marketing Authorization by the Authority 
+Marketing 
+authorization 
+may 
+be 
+suspended 
+under 
+the 
+following 
+circumstances;  
+ 
+2.2.1 
+If any conditions specified in the marketing authorization 
+certificate have not been fulfilled or if the supporting 
+particulars have not been amended in accordance with Rule 13 
+of the Pharmacy and Poisons (Registration of Health Products 
+and Technologies) Rules, 2022.  
+2.2.2 
+If the manufacturing of the HPT does not comply with Good 
+Manufacturing Practices as outlined in Section 35(B) of CAP 
+244, the authorization may be suspended. This applies to any 
+premises used for manufacturing, packaging, or storage that 
+are deemed unsuitable.  
+2.2.3 
+If the Marketing Authorization Holder fails to apply for, pay 
+maintenance fees, and submit the required documentation for 
+annual retention and renewal of the certificate of registration 
+as prescribed in Rules 8, 9, and 10 of the Pharmacy and 
+Poisons (Registration of Health Products and Technologies) 
+Rules, 2022.  
+ 
+ 
+ 
+5 
+2.2.4 
+A registered medical product has been advertised in a manner 
+which is false or misleading or does not comply with the 
+provisions of the Laws and Regulations currently enforced by 
+the Authority;  
+2.2.5 
+The Marketing Authorization Holder has contravened the Laws 
+and Regulations currently enforced by the Authority;  
+2.2.6 
+The Marketing Authorization Holder made a false or misleading 
+statement or misrepresentation in the application;  
+2.2.7 
+The Marketing Authorization Holder has failed to comply with 
+the terms and conditions of the registration as provided in 
+certificate of registration; if the MAH does not effectively 
+implement product recalls, whether voluntary or statutory, as 
+prescribed by Rule 17 of the Pharmacy and Poisons 
+(Pharmacovigilance and Post Market Surveillance) Rules, 
+2022.  
+2.2.8 
+Where it is determined by the Board that a reported quality 
+defect or safety issue is resulting from negligence or deliberate 
+omissions by the manufacturer/ MAH. 
+2.2.9 
+The Marketing Authorization Holder has failed to pay the 
+prescribed retention fees within the prescribed time;  
+2.2.10 The Marketing Authorization Holder has failed to submit post-
+marketing Variations;  
+2.2.11 It is strongly suspected that the product is unsafe in the normal 
+conditions of use. 
+2.2.12 The Marketing Authorization Holder, intentionally and without 
+justifiable reasons has failed to submit reports on adverse 
+effects; 
+2.2.13 Renewal of product registration has been defaulted beyond the 
+specified grace period.  
+2.2.14 The Marketing Authorization Holder has failed to pay the 
+prescribed retention fees within the prescribed time;  
+2.2.15 Where the MAH failed to apply for renewal or re-registration 
+within time. 
+ 
+ 
+ 
+6 
+ 
+Any suspension shall be effected upon a written notice (Annex 2, Form 6).  
+The notice for suspension of a registered medical product shall:  
+ 
+a) Set out the reason for the proposed suspension, any corrective action 
+required to be taken and the time within which it must be taken;  
+b) Require the Marketing Authorization Holder to show reasons as to 
+why the suspension should not be effected.  
+ 
+2.3 
+Withholding of a Marketing Authorization by the Authority 
+2.3.1 
+The Board may withhold the issuance of marketing 
+authorization where discrepancies are identified in the data 
+submitted by the MAH during the review process, such as 
+inconsistencies in manufacturing processes or formulation. In 
+this instance, authorization may be delayed until these issues 
+are investigated and resolved. 
+2.3.2 
+The Board may act upon emerging safety signals related to 
+similar products currently in the market. If credible 
+information suggests that a new product may pose comparable 
+risks—such as reports of adverse reactions or product recalls—
+the Board may withhold authorization until a comprehensive 
+assessment is conducted. 
+2.3.3 
+The Board may withhold the issuance of marketing 
+authorization where there are concerns regarding the 
+sufficiency of clinical trial data or if post-marketing 
+surveillance uncovers issues that adversely affect the product's 
+benefit-risk profile 
+2.3.4 
+The Board may also withhold the issuance of marketing 
+authorization until the compliance with GMP has been verified 
+2.4 
+Withdrawal of Marketing Authorization by the MAH 
+2.4.1 
+The medicinal product proves to be harmful under normal 
+conditions of use; 
+2.4.2 
+Lack of  therapeutic efficacy; 
+ 
+ 
+ 
+7 
+2.4.3 
+Requirements or obligations relating to the grant of the 
+manufacturing authorization has not been fulfilled; 
+2.4.4 
+Commercial reasons (i.e. the withdrawal of the marketing 
+authorisation is not linked to underlying quality, safety, 
+efficacy or benefit/risk issues). 
+NB: The MAH will determine the reason for this action. They must in 
+particular declare whether it relates to the quality, safety, or efficacy of the 
+medicinal product, or if it stems from administrative or commercial decisions. 
+2.5 
+Revocation of marketing authorization by the Authority 
+Marketing authorization may be revoked under the following circumstances; 
+ 
+2.5.1 
+The premises, in which the medicine or part thereof is 
+manufactured, packaged or stored by or on behalf of the holder 
+of the Marketing Authorization Certificate is unsuitable for the 
+manufacture, packaging or storage of the medicines  
+2.5.2 
+Unauthorized variation (e.g. mis-labelling, change of applicant, 
+manufacturer, 
+labelling, 
+product 
+information 
+or 
+other 
+registered particulars)  
+2.5.3 
+Importation without permission and/or through unapproved 
+route  
+2.5.4 
+Distribution of products to unauthorized facilities/premises, 
+where applicable.  
+2.5.5 
+The product is found to have been promoted (by MAH, 
+distributor, any other stakeholder) in an appropriate or 
+unethical manner. 
+Any revocation shall be effected upon a written notice (Annex 2, Form 6). The 
+notice for revocation of a registered medical product shall:  
+ 
+a) Set out the reason for the proposed revocation, any corrective action 
+required to be taken and the time within which it must be taken;  
+b) Require the Marketing Authorization Holder to show reasons as to 
+why the revocation should not be effected.  
+ 
+ 
+ 
+ 
+ 
+8 
+3.0 
+PROCESS OF WITHDRAWAL, SUSPENSION AND CANCELLATION 
+OR REVOCATION OF MARKETING AUTHORIZATION. 
+3.1 
+Suspension, cancellation and / or revocation of marketing 
+authorization by the Authority  
+3.1.1 
+The process for suspension, revocation or cancellation of 
+marketing authorization begins with the identification of 
+potential issues regarding the HPT as described in section 2.0 
+above. This may include, but not limited to,  discrepancies in 
+submitted data, safety concerns, quality concerns or non-
+compliance with regulatory requirements. Such issues may 
+arise from routine inspections, post-marketing surveillance, 
+safety vigilance activities or stakeholder reports. 
+3.1.2 
+Upon identifying the reasons in (3.1.1) above, the Board 
+conducts a preliminary investigation to determine the severity 
+and implications of the concerns. This may involve reviewing 
+relevant documentation, consulting experts such as expert 
+committees, and gathering additional information from the 
+MAH within a specific timeline. 
+3.1.3 
+If the Board determines that further action is warranted, it 
+issues a Notice of Intention to Revoke, Suspend or Cancel the 
+marketing authorization. This notice, prepared in Form 6 
+(Annex 2), is sent to the MAH and clearly outlines the reasons 
+for the proposed action.  
+3.1.4 
+Following the issuance of the notice, the MAH is provided an 
+opportunity to respond. This allows the MAH to present 
+evidence, provide clarifications, or offer justifications regarding 
+the identified issues. The Board may arrange a hearing or 
+request written submissions to ensure a fair process. The 
+Board may limit the prohibition to supply the product, or its 
+withdrawal from the market, to those batches which are the 
+subject of dispute. 
+3.1.5 
+The Board reviews the MAH’s response and considers any 
+additional evidence provided. This may involve further 
+ 
+ 
+ 
+9 
+consultations with experts or additional assessments to ensure 
+a comprehensive understanding of the situation. 
+3.1.6 
+Based on the case specific outcomes, the Board makes a 
+decision regarding the suspension, withdrawal, revoking, or 
+cancellation of the marketing authorization. The decision is 
+made with careful consideration of public health implications 
+and regulatory standards. 
+3.1.7 
+Once a decision is reached, the Board formally notifies the MAH 
+of the outcome, including the reasons for the action taken. If 
+the marketing authorization is suspended, revoked or 
+canceled, the notice will outline any necessary steps the MAH 
+can take to rectify the situation, if applicable.  
+3.1.8 
+If the notice states that the action is necessary to prevent 
+potential risk of death, serious illness or serious injury (prevent 
+threat to public health) it becomes effective on the day on which 
+the notice is given; i.e., immediately. In any other case—on the 
+day specified for the purpose in the notice, being a day 
+not  later than 20 working days after the notice is given 
+3.1.9 
+The Board may, for a HPT whose marketing authorization has 
+been withdrawn, revoked or suspended, in exceptional 
+circumstances during a transitional period, allow the supply of 
+the medicinal product to patients who are already being treated 
+with the medicinal product. 
+3.1.10 Additional actions that will be taken by the Board will include 
+updating regulatory databases, informing any relevant 
+stakeholders.  
+3.1.11 During implementation of the actions, the Board will continue 
+to monitor compliance with any stipulated conditions, ensuring 
+that any necessary corrective actions are taken by the MAH. In 
+the case of suspension of marketing authorization, if conditions 
+for reinstatement or resumption of marketing authorization are 
+met, the MAH may apply for a review of the decision. 
+ 
+ 
+ 
+10 
+3.1.12 The Board shall take all appropriate steps to ensure that the 
+supply of such HPTs is prohibited and the HPT removed from 
+the market. 
+3.2 
+Withdrawal of marketing authorization by the Applicant 
+3.2.1 
+The Market Authorization Holder (MAH), will officially notify the 
+Board of any reasons for withdrawing the marketing 
+authorization issued for their HPT from the market. This 
+includes requests for withdrawal, along with the reasons for 
+such actions. Notifications should be submitted using a Form 
+5 (Annex 1) for voluntary withdrawal by the MAH.  
+3.2.2 
+In addition to completing the form, the MAH should provide 
+supplementary information, including the proposed effective 
+date for the withdrawal, available therapeutic alternatives, and 
+whether the planned withdrawal allows sufficient time for 
+physicians and patients to transition to alternative therapies. 
+3.2.3 
+The MAH must notify the Board at least 60 days in advance, 
+except in cases of unforeseeable circumstances that may 
+require immediate notification (e.g., safety concerns). 
+3.2.4 
+Upon receipt, the Board may issue a written notice to the MAH 
+or LTR approving the withdrawal of the HPT, provided that 
+sufficient 
+documentation 
+and 
+justification 
+have 
+been 
+submitted. 
+3.2.5 
+The board may request for additional information to facilitate 
+the processing of requests for withdrawals. 
+3.2.6 
+After resolving the issue that led to the withdrawal, the MAH 
+may re-apply for marketing authorization, if applicable, with a 
+revised dossier and all problems concerning the HPT sorted. 
+3.2.7 
+If  withdrawal is solely based on commercial reasons (i.e. the 
+withdrawal of the marketing authorisation is not linked to 
+underlying quality, safety, efficacy or benefit/risk issues), there 
+may be no need for batch recalls, the HPT can remain on the 
+Kenyan market until expiry date. The MAH remains 
+ 
+ 
+ 
+11 
+responsible for the batches on the market and for 
+pharmacovigilance activities.  
+3.2.8 
+MAHs are also required to notify the PPB of any action taken 
+outside  Kenya to suspend the marketing of a HPT, to withdraw 
+a medicinal product from the market, to request the withdrawal 
+of a marketing authorisation or not to apply for the renewal of 
+a marketing authorisation 
+3.3 
+ Suspension or Cancellation/Rovocation Without  Notice  
+ 
+The Authority may cancel or suspend the marketing authorization of a 
+medical product without prior notice if it is necessary to do so in order to 
+prevent injury to the health or safety of patients, users or other persons.  
+The Marketing Authorization Holder may apply to the Authority, in writing, 
+requesting that the cancellation or suspension be uplifted.  
+ 
+The Authority may, within thirty (30) days after the date of receiving the 
+application, review its decision.  
+ 
+Where the registration of a product is suspended/cancelled based on safety 
+or quality issues, the Authority shall withdraw the circulation of that product 
+from the market.  
+ 
+3.4 
+Cancellation of A Marketing Authorization By An Applicant  
+a) An applicant may cancel the marketing authorization of a product 
+by submitting a letter addressed to the Chief Executive Officer of the 
+Authority giving reason(s) for the cancellation of the marketing 
+authorization of the Health products and Technologies.  
+b) The Authority shall act on this request and amend its records within 
+30 working days.  
+ 
+ 
+ 
+ 
+12 
+An applicant may at any time after the cancellation of a registration, resubmit 
+a new application dossier for registration of the medical product, complying 
+with the current requirements for registration.  
+ 
+4.0 
+PUBLICATION OF SUSPENSIONS/WITHDRAWALS/CANCELATIONS 
+ 
+The Board updates its register of all HPTs with valid Marketing Authorization 
+in accordance with section 3B(2)(g) of the Cap 244. All products whose 
+Marketing Authorization has been suspended, withdrawn or revoked shall be 
+included in the list of Products Suspended, Withdrawn, or Revoked. 
+ 
+ 
+ 
+ 
+ 
+13 
+5.0 
+REFERENCES 
+1. Cap 244 Pharmacy And Poisons Laws Of Kenya 
+2. The Pharmacy and Poisons (Registration of Drugs) Rules  
+3. EMA Website 
+-https://www.ema.europa.eu/en/documents/regulatory-procedural-
+guideline/procedural-advice-publication-information-withdrawals-
+applications-related-marketing-authorisation-human-medicinal-
+products_en.pdf 
+4. FDA 
+Ghana. 
+GUIDELINES 
+FOR 
+THE 
+CANCELLATION/ 
+SUSPENSION OF A REGISTERED DRUG  
+5. https://fdaghana.gov.gh/wp 
+content/uploads/2024/09/GUIDELINES-ON-THE-WITHDRAWAL-
+CANCELLATION-OR-SUSPENSION-OF-MARKETING-
+AUTHORIZATION-OF-DRUGS.pdf.WHO. The BlueBook 2nd Edition. 
+Marketing Authorization of Pharmaceutical Products with Special 
+Reference to Multisource (Generic) Products: A Manual for Drug 
+Regulatory 
+Authorities 
+https://apps.who.int/iris/bitstream/handle/10665/65175/WHO_
+DMP_RGS_98.5.pdf;sequence=1  
+6. WHO. Guidelines for national authorities on quality assurance for 
+biological 
+products. 
+WHO 
+Expert 
+Committee 
+on 
+Biological 
+Standardization: 
+forty-second 
+report. 
+Geneva. 
+World 
+Health 
+Organization; 1992: Annex 2 (WHO Technical Report Series, No. 822) 
+(http://www.who.int/biologicals/publications/trs/areas/biological
+_products/WHO_TRS_822_A2.pdf)  
+ 
+7.  Guidelines for the Cancellation/ Suspension of Marketing 
+Authorization for medical products, Rwanda Food and Drug 
+Authority, Doc. No.: DFAR/HMDAR/GDL/016  
+ 
+ 
+ 
+ 
+ 
+14 
+6.0 
+REVISION HISTORY 
+Revision 
+No:  
+Date   
+Author/Reviewer   Section(s) 
+revised   
+Description of change  
+1.  
+18/10/2024 
+Dr Ali Arale 
+Table 
+of 
+Contents 
+Updated according to the 
+changes made in the 
+revised version 
+Definition 
+of 
+terms 
+Updation 
+and 
+Clarification of terms and 
+alignment with Cap 244 
+and 
+the 
+PPB 
+Rregistration 
+of 
+drugs 
+Rules, 2022 
+General 
+Considerations  
+Removal of  sections 
+already 
+addressed 
+in 
+other 
+guidelines, 
+including Organizational 
+Structure 
+and 
+Management, 
+Responsibilities 
+of 
+MAH/LTR, 
+General 
+Requirements 
+and 
+Procedures for MA, and 
+Types of MA 
+2. 
+10/04/2025 
+DPER/QMS 
+Section 2.0 
+More 
+additional 
+information 
+on 
+the 
+circumstances related to 
+reasons for  withdrawal, 
+suspension, 
+revoking 
+and 
+cancelation 
+of  
+marketing authorization 
+were included. 
+Revocation 
+of 
+Marketing 
+Authorization 
+Guideline 
+revised 
+to 
+clearly 
+outline 
+the 
+procedures 
+for 
+Revocation, Withdrawal, 
+Withholding, 
+and 
+Suspension of MA 
+Publications 
+of 
+suspensions/wi
+thdrawals/canc
+elations 
+Aligned 
+with 
+the 
+requirements of Cap 244 
+Annexes 
+Addition of Forms 5 and 
+6 
+for 
+application 
+submission 
+References 
+Inclusion and update of a 
+References Section 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+7.0 
+CONTRIBUTORS/REVIEWERS 
+ 
+1.  Dr. Ali Arale 
+Chief 
+Principle 
+Regulatory 
+Officer, 
+Product 
+Evaluation & Registration, PPB  
+2.  Dr. 
+Kariuki 
+Gachoki 
+Deputy Director, Medical Products & Health 
+Technologies, PPB 
+ 
+Reviewers: 
+1.  Dr. Ahmed Mohamed 
+Director, 
+Medical 
+Products 
+& 
+Health 
+Technologies, PPB 
+2.  Dr.Jonathan 
+Nawiy 
+Meriakol 
+Head Biologics Division,Product Evaluation 
+and Registration,PPB 
+3.  Dr. Felistas Chepwogen Product Evaluation & Registration, PPB 
+4.  Dr. Sarah Chesaro 
+Product Evaluation & Registration, PPB 
+5.  Dr. Burugu K. Edwin 
+Product Evaluation & Registration, PPB 
+6.  Dr. Bramwel Tongola 
+Product Evaluation & Registration, PPB 
+7.  Dr.Ann Tibin 
+Product Evaluation & Registration, PPB 
+8.  Dr.Vallarie Muguni 
+Product Evaluation & Registration, PPB 
+9.  Dr.Brayhan Ireri 
+Product Evaluation & Registration, PPB 
+10. Dr.Francis Letipila 
+Product Evaluation & Registration, PPB 
+11. Dr.Anushree Patel 
+Product Evaluation & Registration, PPB 
+12. Dr.Emmanuel Munguti Product Evaluation & Registration, PPB 
+13. Dr.Purity Mutinda 
+Product Evaluation & Registration, PPB 
+14. Dr.Kauther Bajaber 
+Product Evaluation & Registration, PPB 
+15. Dr.Natasha Nyaberi 
+Product Evaluation & Registration, PPB 
+16. Mr. Alex Mutai 
+Product Evaluation & Registration, PPB 
+17. Mr. Anthony Kemboi 
+Quality Management Systems 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+8.0 
+ANNEXES 
+Annex 1 - Form 5: Notice of intention to Withdraw the registration of a 
+health product or technology 
+ 
+MINISTRY OF HEALTH 
+Pharmacy and Poisons Board 
+FORM 5                                                                                                                  (r. 11(3))     
+NOTICE OF INTENTION OF WITHDRAWAL OF MARKETING AUTHORIZATION  OF 
+HEALTH PRODUCT OR TECHNOLOGY 
+Date  
+Month   
+Year  
+ 
+ 
+ 
+TYPE OF HEALTH PRODUCTS AND TECHNOLOGY  
+ 
+    
+    
+  
+  
+Human 
+health 
+product  
+Veterinary 
+health 
+product  
+Herbal 
+product  
+  
+Parallel 
+product  
+Medical device  
+PRODUCT DETAILS  
+Certificate of registration No.   
+Name of product  
+ 
+INN 
+ 
+Strength  
+ 
+Dosage/pharmaceutical form  
+Certificate of registration 
+holder  
+ 
+DETAILS OF CONTACT PERSON  
+Name  
+ 
+Address  
+ 
+Telephone No.  
+ 
+E-Mail Address  
+ 
+I would like to inform you that, <MAH’s name> has taken the decision to withdraw the 
+application for Marketing Authorization of <Product Name>, (INN), strength(s), 
+pharmaceutical form(s)>, which was intended to be used for <applied for MAH’s 
+proposed indication>.  
+ 
+ 
+ 
+ 
+REASON FOR WITHDRAWAL  
+ This withdrawal is based on the following reasons  
+<Refer to guideline for Suspension, withdrawal, withholding and Cancellation/Revocation of 
+Health Products and Technologies (HPT/PER/GUD/042) for the reasons of  withdrawal 
+under section 2.4 of the guideline. 
+The following are possible examples, amongst others>:  
+<identification of major manufacturing issues>  
+<identification of major pre-clinical issue>  
+<identification of major clinical issues>  
+<identification of major GxP issues>  
+Other: <please elaborate>  
+<Please provide any further detailed comment as appropriate>  
+<Provide additional information on any future plan for development of the product>  
+Declaration by the applicant 
+I agree for this letter to be published on the PPB website.  
+  
+ 
+Date  
+Name  
+Signature  
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2 - Form 6: Notice of intention to withdraw the registration of a 
+health product or technology 
+ 
+MINISTRY OF HEALTH 
+Pharmacy and Poisons Board 
+FORM 6                                                                                                           (r. 11(3))     
+NOTICE OF INTENTION TO SUSPEND,  CANCEL OR REVOKE THE MARKETING 
+AUTHORIZATION OF A HEALTH PRODUCT AND TECHNOLOGY 
+Date  
+Month   
+Year  
+ 
+ 
+ 
+TYPE OF MEDICAL PRODUCT OR HEALTH TECHNOLOGY  
+ 
+    
+    
+  
+  
+Human 
+health 
+product  
+Veterinary 
+health 
+product  
+Herbal 
+product  
+  
+Parallel 
+product  
+Medical device  
+PRODUCT DETAILS  
+Certificate of registration No.   
+Name of product  
+ 
+INN  
+ 
+Strength  
+ 
+Dosage/pharmaceutical form  
+Certificate of registration 
+holder  
+ 
+DETAILS OF CONTACT PERSON  
+Name  
+ 
+Address  
+ 
+Telephone No.  
+ 
+E-Mail Address  
+ 
+REASON FOR WITHHOLDING, SUSPENSION OR CANCELATION/REVOCATION  
+ 
+SIGNATURE  
+Date  
+Name  
+Signature  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 - 00506 Lenana Road Opposite Russian Embassy Nairobi, 
+Tel: +254-02-12345/6789, Fax: +254-02-12345, 
+Website: www.Pharmacyboardkenya.org.ke, 
+Email: info@pharmacyboardkenya.org.ke 
+ 
+ 

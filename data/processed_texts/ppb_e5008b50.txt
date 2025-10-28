@@ -1,0 +1,4815 @@
+         HPT/PER/GUD/026                 
+            Revision: 01 
+ 
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+ 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIOPHARMACEUTICS CLASSIFICATION SYSTEM (BCS) OF 
+VARIOUS DRUG SUBSTANCE 
+ 
+ 
+ 
+ 
+ 
+ 
+JANUARY, 2025 
+ 
+ 
+Citation page 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be reproduced 
+or adopted on condition that the recommended citation below is made. 
+ 
+Recommended Citation  
+The Republic of Kenya, Ministry of Health, Pharmacy and Poisons Board, 
+Biopharmaceutics Classification System (BCS) of Various Drug Substance version 1, 
+2025 
+ 
+©Pharmacy and Poisons Board, 2025 
+All rights reserved: 
+No part of this publication may be reproduced, stored in a retrieval system, or 
+transmitted in any form, or by any means, electronic, mechanical, photocopying, 
+recording, scanning, or otherwise, without the prior permission in writing from the 
+pharmacy and Poisons Board. 
+ 
+For clarifications, comments, or suggestions, please contact: 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+Website: www.pharmacyboardkenya.org
+ 
+ ii 
+ABBREVIATIONS, ACRONYMS AND DEFINITIONS 
+BA/BE 
+bioavailability and bioequivalence 
+BE 
+Bioequivalence 
+BCS 
+Biopharmaceutical Classification System 
+CEO 
+Chief Executive Officer 
+FDA 
+Food and Drugs Authority 
+HCL 
+Hydrochloric Acid  
+ICH 
+International Council for Harmonization 
+PH 
+Power of Hydrogen  
+PPB 
+Pharmacy & Poisons Board  
+RLD 
+Reference Listed Drug 
+US 
+United States  
+WHO 
+World Health Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ iii 
+Table of Contents 
+ABBREVIATIONS, ACRONYMS AND DEFINITIONS ...................................... ii 
+EXECUTIVE SUMMARY ............................................................................. iv 
+1. 
+INTRODUCTION ................................................................................. 1 
+1.1 
+BCS Class I: .................................................................................... 1 
+1.2 
+BCS Class II: ................................................................................... 1 
+1.3 
+BCS Class III: .................................................................................. 1 
+1.4 
+BCS Class IV: .................................................................................. 1 
+2. 
+LISTING OF DRUG SUBSTANCES ACCORDING TO THE BCS ............. 3 
+3. 
+LISTING OF DRUG SUBSTANCES ACCORDING TO ALPHABETICAL 
+ORDER ..................................................................................................... 16 
+4. 
+REVISION HISTORY ......................................................................... 30 
+5. 
+REFERENCES .................................................................................. 31 
+ 
+ 
+ 
+ 
+iv 
+EXECUTIVE SUMMARY 
+ 
+The Biopharmaceutics Classification System (BCS) serves as a fundamental 
+pillar in pharmaceutical regulation, providing a systematic framework for 
+categorizing drugs based on their solubility and permeability attributes. This 
+classification system plays a crucial role in predicting the performance of 
+drugs in vivo, particularly concerning their bioavailability and bioequivalence 
+(BA/BE), which are essential for ensuring medication efficacy and safety. The 
+BCS divides drugs into four distinct classes—Class I, II, III, and IV—based on 
+their solubility and permeability characteristics, which significantly impact 
+their pharmacokinetic behavior. Drugs classified as BCS Class I demonstrate 
+high solubility and permeability, leading to better absorption and high 
+bioavailability. Meanwhile, BCS Class II comprises drugs with low solubility 
+but high permeability, often facing challenges related to limited dissolution 
+rates that affect BA/BE despite their permeability. Drugs in BCS Class III 
+possess high solubility but low permeability, potentially resulting in good 
+dissolution rates but poor absorption, thereby influencing BA/BE. 
+Conversely, drugs in BCS Class IV exhibit low solubility and low permeability, 
+presenting hurdles in dissolution and absorption processes that ultimately 
+result in poor bioavailability. Classifying products with fixed combinations 
+according to the BCS entails evaluating the BCS classifications of each 
+individual component and examining their interactions within the 
+combination. One drug substance can belong to more than one BCS 
+classification depending on varying solubility and permeability characteristics 
+influenced by factors such as formulation and physiological conditions. It is 
+crucial to recognize the dynamic nature of BCS classification, subject to 
+revisions over time due to new discoveries and evolving insights into drug 
+properties. Regulatory agencies may mandate reclassifications based on 
+updated data or changing standards. Stakeholders in the pharmaceutical 
+sector, including researchers, manufacturers, and regulatory bodies, must 
+stay informed about BCS updates. Furthermore, exercising caution when 
+interpreting and applying BCS classifications is paramount, considering 
+variables such as formulation, manufacturing processes, and patient-specific 
+ 
+ 
+ 
+v 
+factors. A comprehensive evaluation, encompassing multiple aspects, is 
+essential when utilizing BCS classifications for drug development, 
+formulation, regulatory submissions, and clinical decision-making. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+1. INTRODUCTION 
+ 
+Biopharmaceutics Classification System (BCS) is a regulatory framework 
+employed in pharmaceutical sciences to categorize drugs based on their 
+solubility and permeability properties. This classification system aids in 
+predicting the in vivo performance of drugs, particularly regarding their 
+bioavailability and bioequivalence, which are crucial factors in ensuring the 
+efficacy and safety of medications. 
+ 
+The BCS classifies drugs into four categories, namely BCS Class I, II, III, and 
+IV, each characterized by distinct solubility and permeability characteristics, 
+thereby affecting their pharmacokinetic behavior. 
+ 
+1.1 BCS Class I: 
+• 
+Drugs in this class exhibit high solubility and high permeability. 
+They are typically well absorbed and have high bioavailability.  
+1.2 BCS Class II: 
+• 
+This class comprises drugs with low solubility but high 
+permeability. Despite their high permeability, these drugs often 
+face challenges related to limited dissolution rates, which can 
+affect their bioavailability.  
+1.3 BCS Class III: 
+• 
+Drugs in BCS Class III possess high solubility but low 
+permeability. While these drugs may have good dissolution 
+rates, their poor absorption due to low permeability can affect 
+their bioavailability.  
+1.4 BCS Class IV: 
+• 
+BCS Class IV drugs exhibit low solubility and low permeability, 
+presenting challenges in both dissolution and absorption 
+processes. Consequently, drugs in this class often have poor 
+bioavailability. 
+ 
+It is important to note that the lists provided for the BCS classification of drug 
+substances can evolve over time. As new drug substances are discovered and 
+as further studies or research are conducted, our understanding of their 
+ 
+ 
+ 
+2 
+solubility and permeability characteristics may change. Additionally, 
+regulatory agencies may mandate the re-classification of medicines based on 
+updated information or changes in regulatory requirements. Therefore, while 
+the lists presented here offer valuable insights into the classification of various 
+drugs according to the BCS, they should be viewed as dynamic and subject 
+to revision. It is crucial for stakeholders in the pharmaceutical industry, 
+including researchers, manufacturers, and regulatory authorities, to stay 
+informed about updates or revisions to BCS classifications. Moreover, caution 
+should be exercised when interpreting and applying these classifications, as 
+individual drug products may exhibit variability in their behavior due to 
+factors such as formulation, manufacturing processes, and patient-specific 
+factors. Hence, thorough evaluation and consideration of multiple factors are 
+necessary when utilizing BCS classifications for drug development, 
+formulation, regulatory submissions, and clinical decision-making.  
+ 
+It is possible for one drug substance to belong to more than one BCS 
+classification. This can occur when a drug substance exhibits varying 
+solubility and permeability characteristics under different conditions or 
+formulations. For example, a drug substance may demonstrate high solubility 
+and high permeability in one formulation, classifying it as BCS Class I. 
+However, in another formulation or under certain physiological conditions, 
+the same drug substance may exhibit low solubility or permeability, leading 
+to classification as BCS Class II, III, or IV. Factors such as particle size, crystal 
+form, polymorphism, pH, and excipients in the formulation can influence the 
+drug's solubility and permeability, potentially resulting in different BCS 
+classifications. Therefore, it is essential to consider the specific formulation 
+and conditions when determining the BCS classification of a drug substance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+2. LISTING OF DRUG SUBSTANCES ACCORDING TO THE BCS 
+CLASSES 
+ 
+DRUG SUBSTANCE 
+BCS  
+CLASS 
+Aceltysalicylic Acid 
+I 
+Alfuzosin Hcl 
+I 
+Alfuzosine Chlorhydrate 
+I 
+Ambroxol 
+I 
+Amiloride Hydrochloride 
+I 
+Amlodipine Besylate 
+I 
+Amoxycyllin 
+I 
+Ampicillin 
+I 
+Ascorbic Acid  
+I 
+Atomoxetine 
+I 
+Benazepril  
+I 
+Betahistine Hcl 
+I 
+Betaxolol Hydrochloride 
+I 
+Biperiden Hydrochloride 
+I 
+Bisoprolol Fumarate 
+I 
+Buspirone  
+I 
+Caffeine 
+I 
+Caffeine Anhydrous  
+I 
+Capecitabine 
+I 
+Cephalexin 
+I 
+Captopril 
+I 
+Cephalexin 
+I 
+Cerivastatin 
+I 
+Chloroquine 
+I 
+Chlorphenramine 
+I 
+Citicoline 
+I 
+Cyclobenzaprine  
+I 
+D-Pseudoephedrine  
+I 
+Desloratidine  
+I 
+Desvenlafaxine  
+I 
+Dexamethasone  
+I 
+Dexchlorpheniramine  
+I 
+Dexketoprofen  
+I 
+Dextranomer  
+I 
+Diazepam 
+I 
+Dicyclomine  
+I 
+Dienogest  
+I 
+Diltiazem  
+I 
+Diphenhydramine 
+Hydrochloride  
+I 
+Dipheraydramine 
+I 
+Ditiazem Hcl  
+I 
+Docycline  
+I 
+Donepezil Hydrochloride  
+I 
+Doxazosin  
+I 
+Doxycycline  
+I 
+Dydrogesterone  
+I 
+Escitalopram 
+I 
+Estradiol Valerate  
+I 
+Faropenem 
+I 
+Fenfluramine 
+I 
+Fluconazole  
+I 
+Fludarabine 
+I 
+Fluoxetine 
+I 
+Fluvoxamine 
+I 
+Guaiphenesin 
+I 
+Hydroxychloroquine Sulfate. 
+I 
+Imatinib mesylate 
+I 
+Imipramine  
+I 
+Isosorbide Dinitrate  
+I 
+Isosorbide-5-Mononitrate  
+I 
+Itopride Hydrochloride 
+I 
+Ivabradine Hydrochloride  
+I 
+Ketorolac Tromethamine 
+I 
+Labetalol Hydrochloride 
+I 
+Lacosamide 
+I 
+Lactulose 
+I 
+Letrozole  
+I 
+Levetiracetam 
+I 
+Levofloxacin 
+I 
+Levornogestrel 
+ 
+I 
+Lidocaine, Cetyltrimethyl 
+Ammonium Bromide 
+Tyrothricin 
+I 
+Linezolid 
+I 
+Lithium Carbonate 
+I 
+ 
+ 
+ 
+4 
+Lorazepam 
+I 
+Losartan Potassium 
+I 
+Maprotiline Hydrochloride 
+I 
+Mebeverine Hydrochloride 
+I 
+Metamizole Sodium  
+I 
+Metoprolol 
+I 
+Metronidazole 
+I 
+Midazolam 
+I 
+Minocycline Hyrdrochloride 
+I 
+Mirtazpine 
+I 
+Misoprostol 
+I 
+Molupinavir 
+I 
+Moxifloxacin 
+I 
+N-Acetylcysteine 
+I 
+Naftidrofuryl Oxalate 
+I 
+Nicotinic Acid  
+I 
+Norethisterone  
+I 
+oxacin 
+I 
+Oxybutylin 
+I 
+Palonosetron Hydrochloride 
+I 
+Palonsetron 
+I 
+Paroxetine  
+I 
+Penicillin V Calcium  
+I 
+Penicillin V. Potassium  
+I 
+Penicillun G Benzathine 
+I 
+Phenobarbitone 
+I 
+Phenoxymethylpenicillin 
+I 
+Potassium Chloride 
+I 
+Pramipexole Dihydrochloride 
+Monohydrate 
+I 
+Prednisone 
+I 
+Pregabalin 
+I 
+Primaquine Phosphate 
+I 
+Promethazine Hydrochloride 
+I 
+Propafenon Hydrochloride 
+I 
+Propranolol 
+I 
+Prucalopride 
+I 
+Pseudeophedrine 
+Hydrochloride 
+I 
+Psuedoephedrine Hcl  
+I 
+Quinapril Hydrochloride  
+I 
+Quinidine Bisulphate  
+I 
+Ruxolitinib  
+I 
+Salicylic Acid  
+I 
+Solifenacin Succinate  
+I 
+Sotalol  
+I 
+Stavudine 
+I 
+Tamsulosin Hydrochloride   
+I 
+Tamulosin Hcl  
+I 
+Tapentadol Hydrochloride  
+I 
+Temozolomide  
+I 
+Theophylline 
+I 
+Thioridazine Hydrochloride 
+I 
+Tianeptine  
+I 
+Timolol Maleate 
+I 
+Tolperisone 
+I 
+Tolterodine 
+I 
+Torasemide 
+I 
+Tramadol 
+I 
+Tranexamic Acid 
+I 
+Trimetazidine 
+I 
+Valproic Acid  
+I 
+Venlafaxine  
+I 
+Verapamil  
+I 
+Vortioxetine (As 
+Hydrobromide) 
+I 
+Warfarin Sodium 
+I 
+Zidovudine  
+I 
+Zolpidem Tartrate 
+I 
+Amitriptylline Hydrochloride 
+(I, II) 
+Abiraterone 
+(I, III) 
+Acetaminophen 
+(I, III) 
+Afanitib 
+(I, III) 
+Carbidopa, Levodopa 
+(I, III) 
+Codeine  
+(I, III) 
+Cyclophosphamide  
+(I, III) 
+Dihydrocodeine Tartrate 
+(I, III) 
+Ethosuximide  
+(I, III) 
+Folic Acid 
+(I, III) 
+Isoniazid   
+(I, III) 
+Oxycodone Hydrochloride  
+(I, III) 
+Paracetamol  
+(I, III) 
+Quinine Bisulphate  
+(I, III) 
+Terazosin Hydrochloride 
+Dihydrate  
+(I, III) 
+ 
+ 
+ 
+5 
+Desagestrel + 
+Ethinyloestradiol  
+(I, III)/ (I, III) 
+Paracetamol + Caffeine   
+(I, III)/1 
+Dihydrocodeine Tartrate + 
+Paracetamol  
+(I, III)/I 
+Paracetamol + Caffeine 
+Anhydrous 
++Chlorpheniramine Maleate 
++Pseudoephedrine 
+Hydrochloride  
+(I, III)/I/I/I 
+Isoniazid + Rifapentine  
+(I, III)/II 
+Emtricitabine +Tenofovir 
+Disoproxil Fumarate  
+(I, III)/III 
+Isoniazide + Ethambutol  
+(I, III)/III 
+Azithromycin 
+(II, IV) 
+Calcium Carbonate  
+(II, IV) 
+Calcium Carbonate + 
+Vitamin D3 Equivalent to 
+Vitamin D3  
+(II, IV) 
+Colecalciferol  
+(II, IV) 
+Cyclosporine  
+(II, IV) 
+D-Alpha-Tocopheryl  
+(II, IV) 
+Efavirenz  
+(II, IV) 
+Eltrombopag 
+(II, IV) 
+Frusemide  
+(II, IV) 
+Furosemide 
+(II, IV) 
+Hydrochlothiazide 
+(II, IV) 
+Mifepristone  
+(II, IV) 
+Nortriptyline 
+(II, IV) 
+Pyrimethamine 
+(II, IV) 
+Ritonavir  
+(II, IV) 
+Roxithromycin 
+(II, IV) 
+Roxythromycin  
+(II, IV) 
+Sunitinib Maleate  
+(II,IV) 
+Ursodeoxycholic Acid 
+(II,IV) 
+Vitamin D 
+(II,IV) 
+Vitamin D3 Cholecalciferol 
+(II, IV) 
+Voriconazole 
+(II, IV) 
+Vitamin D3 + Zinc Sulphate 
+Monohydrate  
+(II, IV) /  
+III 
+Calcium Carbonate + 
+Calcitriol + Zinc Sulphate 
+Monohydrate  
+(II, IV) /  
+(II, IV)/ III 
+Calcium Carbonate 
+Equivalent to Elemental 
+Calcium + Zinc Sulphate + 
+Calcitriol 
+(II, IV) / 
+III/ (II, IV) 
+Pyrimethamine +Sulfadoxine 
+(II, IV), I 
+Calcium Carbonate 
+Equivalent To Calcium + 
+Cholecalciferol Equivalent to 
+Vitamin D3 
+(II, IV)/ 
+ (II, IV) 
+Vitamin D3 + Vitamin C  
+(II, IV)/ I 
+Hydochlorothiazide + 
+Amiloride Hydrochloride  
+(II, IV)/(I, III) 
+Hydrochlorothiazide + 
+Amiloride + Timolol Maleate  
+(II, IV)/ 
+(I, III)/I 
+Calcium Carbonate 
+(Equivalent to Calcium) + 
+Cholecalciferol (Vit.D3)  
+(II, IV)/ 
+(II, IV) 
+Calcium Carbonate + 
+Vitamin D3 Equivalent to 
+Vitamin D3  
+(II, IV)/ 
+(II, IV) 
+Calcium Carbonate 
+Containing Calcium + 
+Vitamin D3 
+(II, IV)/ 
+(II, IV) 
+Calcium Carbonate 
+Equivalent To Elemental 
+Calcium + Vitamin D3 
+(II, IV)/ 
+(II, IV) 
+Calcium Carbonate + 
+Ascorbic Acid (Vitamin C) 
+(II, IV)/I 
+Calcium Carbonate + 
+Vitamin C + Vitamin D3 
+(II, IV)/I/ (II, 
+IV) 
+Cholecalciferol) Vitamin D3 + 
+(Ascorbic Acid) Vitamin C + 
+(Thiamine)Vitamin B1 + 
+(Riboflavin)Vitamin B2 + 
+(Pyridoxine)Vitamin B6 + 
+(Cobalamin)Vitamin B12  
+(II, 
+IV)/I/III/I/I/
+III 
+Frusemide + Spironolactone  
+(II, IV)/II 
+Calcium Carbonate + Zinc 
+Sulphate + Vitamin D (As 
+Ergocalciferol 200Iu) 
+(II, 
+IV)/III/(II, 
+IV) 
+Efivarenz + Emtricitabine 
++Tenofovir Disproxil 
+Fumarate  
+(II, IV)/III/III 
+Calcitriol 
+(II/IV) 
+Clomiphene Citrate 
+(III, I) 
+Doxylamine Succinate  
+(III, I) 
+Topiramate 
+(III, I) 
+Clavulanate Potassium, 
+Amoxicillin Trihydrate 
+(III, I)/I 
+Doxylamine Succinate + 
+Pyridoxine Hcl  
+(III, I)/I 
+Guaiphoniesin + Calcium 
+Gluoconate 
+1/II 
+Ascorbic Acid + 
+Cholecalciferol 
+I/ (II, IV) 
+Cadidopa + Levodopa 
+I/ (I, III) 
+Caffeine + Paracetamol  
+I/ (I, III) 
+Dipenhydramine 
+Hydrochloride + Codeine 
+Phosphate  
+I/ (I, III) 
+ 
+ 
+ 
+6 
+Diphenydramine H+ Codeine 
+Phosphate  
+I/ (I, III) 
+Caffein + Codein Phosphate 
++ Doxylamine Succinate + 
+Paracetamol 
+I/ (I, III)/ (I, 
+III)/(I/III) 
+Pseudoephedrine + Codeine 
++ Guaiphanisin  
+I/ (I, III)/I 
+Levodopa + Carbidopa + 
+Entacapone 
+I/ (I, III)/IV 
+Fluconazole + Azithromycin 
++ Secnidazole 
+I/ (II, IV)/III 
+Tramadol+ Paracetamol  
+I/ (III, I) 
+Ambroxol Hydrochloride + 
+Guaiphenesin 
+I/I 
+Caffeine + Phenylephrine 
+Hydrochloride 
+I/I 
+Dicyclomine +Simethicone  
+I/I 
+Dicycloverine + Simeticone 
+I/I 
+Diphenhydramine Hcl + 
+Chlorpheniramine Maleate  
+I/I 
+Guaiphenesin + 
+Chlorpheniramine Maleate  
+I/I 
+Guaiphenesin + 
+Theophylline 
+I/I 
+Guiafensin +  
+Psuedoephedrine  
+I/I 
+Losartan Potassium + 
+Amlodipine Besylate 
+I/I 
+Phenylephrine Hydrochloride 
++ Chlorphenamine Maleate 
+I/I 
+Promethazine Hcl + 
+Diphenhydramine Hcl  
+I/I 
+Promethazine Hcl + 
+Pholcodeine 
+I/I 
+Pseudoephedrine + 
+Guaephesin 
+I/I 
+Tamsulosin Hydrochloride + 
+Tolterodine Tartrate  
+I/I 
+Theophylline + Ephedrine  
+I/I 
+Promethazine Hydrochloride 
++ Diphenhydramine Hcl + 
+Ephedrine Hydrochloride 
+I/I/1 
+Codeine + 
+Guaiphenesin+Pseudoephed
+rine +Triprolidine  
+I/I/I 
+Ephedrine Hydrochloride + 
+Theophylline + 
+Phenobarbitone 
+I/I/I 
+Promethazine Hcl + Codeine 
+Phosphate + Ephedrine Hcl 
+I/I/I 
+Promethazine Hcl + Codeine 
+Phosphate + Ephedrine Hcl 
+I/I/I 
+Theophyllin + Guaiphenesin 
++ Ambroxol  
+I/I/I 
+Levofloxacin + Amoxycillin + 
+Esomeprazole 
+I/I/II 
+Pseudoephedrin + 
+Diphenhydramin + 
+Bromhexin Hc1 
+I/I/II 
+Codeine Phosphate + 
+Cafferine Anhydrous + 
+Paracetamol +Meprobamate  
+I/I/III/I 
+Pseudoephedrine Hcl + 
+Chlorpheniramine Maleate + 
+Paracetamol + Caffeine 
+Anhydrous 
+I/I/III/I 
+Phenylephrine Hydrochloride 
++ Diphenyl Pyraline Hcl + 
+Paracetamol + Caffeine + 
+Vitamin C 
+I/I/III/I/I 
+Losartan Potassium + 
+Amlodipine Besylate + 
+Chlorthalidone 
+I/I/IV 
+Benazepril + 
+Hydrochlorothiazide 
+I/II 
+Metronidazole+Diloxanide 
+I/II 
+Niacinamide+ Riboflavine 
+Hydrochloride 
+I/II 
+Phenobarbitone + Phenytoin 
+Sodium 
+I/II 
+Pregabalin + Nortrityline 
+I/II 
+Promethazine Hcl + 
+Bromhexine Hcl  
+I/II 
+Psendoephedrine + 
+Dextromethophan 
+I/II 
+Pseudoephedrine Hcl + 
+Ibuprofen 
+I/II 
+Pseudoephedrine Hcl + 
+Loratadine 
+I/II 
+Sotalol Hydrochloride + 
+Hydrochlorothiazide  
+I/II 
+Tamsulosin Hcl + 
+Dutasteride  
+I/II 
+Timolol Maleate + 
+Hydrochlorothiazide 
+I/II 
+Codeine + Promethazine + 
+Ephedrine  
+I/II/I 
+Metronidazole+Diloxanide 
+Furoate+Dicyclomine 
+I/II/I 
+Promethazine Hcl + 
+Dextromethorphan + 
+Guaiphenesin  
+I/II/I 
+Metronidazole+ Minconazole 
+Nitrate+Lidocaine 
+I/II/III 
+Busulphan 
+I/III 
+Dicyclomine + Paracetamol  
+I/III 
+Levonorgestrel + 
+Ethinylestradiol 
+I/III 
+Losartan Potassium + 
+Hydrochlorothiazide 
+I/III 
+Stavudine + Lamivudine  
+I/III 
+Vildagliptin + Metformin 
+I/III 
+ 
+ 
+ 
+7 
+Zidovudine + Lamivudine  
+I/III 
+Phenylephrine Hcl + 
+Paracetamol + 
+Chlorpheniramine Maleate 
+I/III/I 
+Phenylephrine Hydrochloride 
++ Paracetamol + 
+Chlorpheniramine Maleate 
+I/III/I 
+Pseudoephedrine Hcl + 
+Acetaminophen + 
+Chlorpheniramine Maleate 
+I/III/I 
+Caffeine + Thiamine Hcl + 
+Riboflavin + Pridoxine + 
+Cyanocobalamine  
+I/III/I/I/III 
+Caffeine + Thiamine Hcl 
++Ribofavine +Pyridoxine Hcl 
++ Cynocobalamin  
+I/III/I/I/III 
+Zidovudine + Lamivudine + 
+Nevirapine 
+I/III/II 
+Losartan Potassium + 
+Chlorthalidone 
+I/IV 
+Sulfadoxine + 
+Pyrimethamine  
+I/IV 
+Sulfadoxine + 
+Pyrimethamine  
+I/IV 
+Sulfadoxine + 
+Pyrimethamine + 
+Amodiaquine 
+I/IV/  
+(I, III) 
+Aceclofenac 
+II 
+Acemetacin 
+II 
+Agomelatine 
+II 
+Albendazole 
+II 
+Albendazole 
+II 
+Alprazolam 
+II 
+Amiodarone 
+II 
+Amonium Chloride + Sodium 
+Citrate  
+II 
+Amprenavir 
+II 
+Amprenavir 
+II 
+Anastrozole 
+II 
+Artemisinin 
+II 
+Atazanavir 
+II 
+Atorvastatin 
+II 
+Axitinib 
+II 
+Bambuterol Hydrochloride 
+II 
+Benzocaine 
+II 
+Bezafibrate  
+II 
+Bicalutamide 
+II 
+Bisacodyl 
+II 
+Bosentan  
+II 
+Bromocriptine 
+II 
+Budesonide  
+II 
+Bumetanide 
+II 
+Cabergoline 
+II 
+Candesartan 
+II 
+Carbamazepine 
+II 
+Carisoprodol  
+II 
+Carvedilol 
+II 
+cefuroxime 
+II 
+Celecoxib  
+II 
+Clarithromycin 
+II 
+Chlordiazepoxide  
+II 
+Chlorpropamide 
+II 
+Cilnidipine 
+II 
+Cinnarizine  
+II 
+Citalopram  
+II 
+Clarithromycin  
+II 
+Clobazam  
+II 
+Clofazimine  
+II 
+Clofibrate  
+II 
+Clonazepam 
+II 
+Clopidrogel  
+II 
+Clotrimazole  
+II 
+Clozapine  
+II 
+Cyproheptadine  
+II 
+Cyproterone  
+II 
+Dabigatran Etexilate 
+Mesylate  
+II 
+Daclatasvir  
+II 
+Dacomitinib  
+II 
+Danazol  
+II 
+Dapoxetine 
+II 
+Dapsone  
+II 
+Darifenacin  
+II 
+Darunavir   
+II 
+Dasatinib  
+II 
+Deferasirox  
+II 
+Deflazacort  
+II 
+Deprenyl 
+II 
+Dequalinium  
+II 
+Dexlansoprazole  
+II 
+Dextromethorphan 
+II 
+ 
+ 
+ 
+8 
+Diacerein  
+II 
+Diclofenac  
+II 
+Diethylcarbamazine  
+II 
+Diflunisal  
+II 
+Dilofenac Sodium  
+II 
+Dimenhydrinate  
+II 
+Dipyridamole  
+II 
+Docusate Sodium 
+II 
+Dolutegravir Sodium. 
+II 
+Domperidone  
+II 
+Drotaverine 
+II 
+Duloxetine Hydrochloride 
+II 
+Dutasteride  
+II 
+Ebastine  
+II 
+Econazole 
+II 
+Enthinyloestradiol  
+II 
+Enzalutamide 
+II 
+Eplerenone  
+II 
+Erlotinib Hydrochloride 
+II 
+Esomeprazole 
+II 
+Esomeprazole + 
+Domperidone 
+II 
+Esomeprazole + Itopride  
+II 
+Estriol  
+II 
+Ethionamide  
+II 
+Etodolac 
+II 
+Etoricoxib 
+II 
+Etravirine 
+II 
+Exemestane  
+II 
+Ezetimibe 
+II  
+Famotidine 
+II 
+Febuxostat 
+II 
+Felodipine 
+II 
+Fenbufen 
+II 
+Fenofibrate  
+II 
+Fenoprofen 
+II 
+Feribufen 
+II 
+Finasteride 
+II 
+Finerenone. 
+II 
+Flunarizine 
+II 
+Flunitrazepam 
+II 
+Flupenthixol  
+II 
+Fluphenazine  
+II 
+Fluribiprofen 
+II 
+Flutamide 
+II 
+Fluvastatin 
+II 
+Fosamprenavir 
+II 
+Framycetin 
+II 
+Furazolidone 
+II 
+Gefitinib 
+II 
+Gemfibrozil 
+II 
+Glibenclaminde 
+II 
+Gliclazide 
+II 
+Glipizide 
+II 
+Gliquidone 
+II 
+Glitazone  
+II 
+Griseofulvin 
+II 
+Hydrochloroquine Sulphate  
+II 
+Hydroflumethiazide  
+II 
+Hydrotalcite  
+II 
+Hydrotalcite- 
+II 
+Hydroxycarbamide 
+II 
+Hydroxyzine 
+II 
+Ibesartan  
+II 
+Ibrutinib Inn 
+II 
+Ibuprofen 
+II 
+Indapamide  
+II 
+Indaspamide  
+II 
+Indomethacine 
+II 
+Irbesartan  
+II 
+IRbesartan  
+II 
+Isotretinoin  
+II 
+Isradipine 
+II 
+Itraconazole 
+II 
+Ivermectin  
+II 
+Josamycin 
+II 
+Ketoconazole 
+II 
+Ketoprofen Fumarate 
+II 
+Ketotifen Fumarate 
+II 
+Lacidipine 
+II 
+Lamotrigine 
+II 
+Lansoprazole 
+II 
+Lapatinib 
+II 
+Latanoprost 
+II 
+ 
+ 
+ 
+9 
+Leflunomide 
+II 
+Loracarbef 
+II 
+Loratadine 
+II 
+Lornoxicam 
+II 
+Lovastatin 
+II 
+Lurasidone Hydrochloride 
+II 
+Mebendazole  
+II 
+Meclizine 
+II 
+Medroxyprogesterone  
+II 
+Mefenamic Acid 
+II 
+Mefenamic Acid 
+II 
+Mefloquine  
+II 
+Meloxicam  
+II 
+Mesterolone 
+II 
+Methocarbamol  
+II 
+Methy Prednisolone  
+II 
+Methyphenicate 
+Hydrochloride 
+II 
+Metolazone  
+II 
+Miconazole Nitrate 
+II 
+Mifepristone 
+II 
+Minoxidil  
+II 
+Momentasone Furoate 
+II 
+Mometasone Furoate 
+II 
+Montelukast 
+II 
+Mycophenolate Mofetill  
+II 
+Mycophenolic Acid  
+II 
+Nalidixic Acid  
+II 
+Naproxen 
+II 
+Nateglinide 
+II 
+Nebivolol Hydrochloride 
+II 
+Nevirapine  
+II 
+Nicergoline  
+II 
+Niclosamide  
+II 
+Nicorandil 
+II 
+Nifedipine 
+II 
+Nimesulide  
+II 
+Nimodipine  
+II 
+Niraparib  
+II  
+Nisemulide  
+II 
+Nitazoxanide  
+II 
+Nitrazepam  
+II 
+Nitrofurantoin  
+II 
+Obeticholic Acid . 
+II 
+Oestradiol  
+II 
+Oestrogen 
+II 
+Ofloxacin  
+II 
+Olanzepine  
+II 
+Olmesartan Medoxomil 
+II 
+Olopatadine Hydrochloride  
+II 
+Omeprazole 
+II 
+Ondansetron 
+II 
+Orlistat  
+II 
+Ornidazole  
+II 
+Oxcarbazepine  
+II 
+Palbociclib 
+II 
+Paliperidone Palmitate  
+II 
+Pazopanib Hydrochloride  
+II 
+Pentoxyfylline  
+II 
+Perhexilline Maleate 
+II 
+Phenazopyridine 
+II 
+Phenylbutazone 
+II 
+Phenyton Sodium 
+II 
+Pioglitazone 
+II 
+Piperazine Phosphate 
+II 
+Piroxicam 
+II 
+Pitavastatin Calcium 
+II 
+Pitnazepam 
+II 
+Posaconazole  
+II 
+Prasugrel Hydrochloride 
+II 
+Prazepan  
+II 
+Praziquantel 
+II 
+Primidone 
+II 
+Prochlorperazine Maleate 
+II 
+Progesterone 
+II 
+Protionamide 
+II 
+Quetiapine Fumarate  
+II 
+Racedadotril  
+II 
+Raloxifene Hydrochloride  
+II 
+Raltegravir  
+II 
+Ramipril  
+II 
+Ranolazine  
+II 
+Regorafenib  
+II 
+Repaglinide  
+II 
+ 
+ 
+ 
+10 
+Rifampicin  
+II 
+Rilmenidine (As Dihydrogen 
+Phosphate)  
+II 
+Rilpivirine Hydrochloride  
+II 
+Riluzole  
+II 
+Risperidone 
+II 
+Rivaroxaban 
+II 
+Rofecoxib 
+II 
+Roflumilast 
+II 
+Rosiglitazone  
+II 
+Rosuvastatin 
+II 
+Saroglitazar Magnesium 
+II 
+Satranidazole  
+II 
+Sertraline Hcl 
+II 
+Sildenafil Citrate  
+II 
+Silodosin  
+II 
+Silodosin + Dutasteride  
+II 
+Simvastatin  
+II 
+Sirolimus  
+II 
+Sodium Diphenylhydantoin  
+II 
+Sodium Valprorate 
+II 
+Sorafenib Tosylate  
+II 
+Sotagliflozin 
+II 
+Sparfloxacin  
+II 
+Spironolatone  
+II 
+Tacrolimus 
+II 
+Tadalafil   
+II 
+Tamoxifen Citrate 
+II 
+Tegazerod  
+II 
+Telmisartan  
+II 
+Tenoxicam 
+II 
+Terbinafine Hydrochloride 
+II 
+Terbutaline Sulphate  
+II 
+Terfenadine 
+II 
+Testosterone 
+II 
+Thiamine 
+II 
+Tibolone  
+II 
+Ticlopidine 
+II 
+Tinidazole 
+II 
+Tioconazole 
+II 
+Tizanidine  
+II 
+Tolfenamic Acid 
+II 
+Tolnafrate 
+II 
+Tracrolimus 
+II 
+Trandolapril 
+II 
+Trazodone 
+II 
+Trimethoprim 
+II 
+Valsartan 
+II 
+Vardenafil  
+II 
+Vericiguat 
+II 
+Vinpocetine 
+II 
+Voglibose 
+II 
+Zafirlukast 
+II 
+Ziprasidone 
+II 
+Zofenopril Calcium 
+II 
+Chlorzoxazone + 
+Paracetamol 
+II,(III,I) 
+Finasteride + Tamsulosin 
+Hydrochloride 
+II/ I 
+Ivermectin  + Albendazole  
+II/ II 
+Etoricoxib + Paracetamol + 
+Thiocolchicoside  
+II/(I,III)/II 
+Irbesartan + 
+Hydrochlorothiazide  
+II/(II,IV) 
+Sulfamethoxypyridazine + 
+Pyrimethamine  
+II/(II,IV) 
+Telmisartan + 
+Hydroclorthiazide  
+II/(II,IV) 
+Esomeprazole Magnesium + 
+Clarithromycin + Amoxicillin 
+Trihydrate  
+II/(II,IV)/I 
+Carisoprodol + Paracetamol 
++ Caffeine 
+II/(III,I)/I 
+Dutasteride + Tamsulosin  
+II/I 
+Felodipine + Metoprolol 
+Succinate 
+II/I 
+Latanoprost + Timolol 
+II/I 
+Loratadine + 
+Pseudoephedrine Sulphate 
+II/I 
+Lornoxicam + Paracetamol 
+II/I 
+Meclizine+ Caffeine  
+II/I 
+Meclizine+Pyridoxine 
+II/I 
+Miconazole 
+Nitrate+Metronidazole 
+II/I 
+Olmesartan Medoxomil + 
+Amlodipine Besylate  
+II/I 
+Trandolapril + Verapamil  
+II/I 
+Valsartan + Amlodipine 
+II/I 
+Bictegravir + Emtricitabine+ 
+Tenofovir Alafenamide  
+II/I/ III 
+Esomeprazole+ 
+Levofloxacin+Amoxicillin  
+II/I/I 
+ 
+ 
+ 
+11 
+Terbutaline Sulphate + 
+Ambroxol + Guaifenesin  
+II/I/I 
+Lornoxicam + Paracetamol + 
+Chlorzoxazone 
+II/I/II 
+Olmesartan +Medoxomil + 
+Amlodipine 
+Besylate+Hydrochlorothiazid
+e  
+II/I/II 
+Valsartan+ Amlodipine 
++Hydrochlorothiazide 
+II/I/II 
+Cyanocobalamine 
++Pyridoxyne + Thiamine  
+II/I/III 
+Nicotinamide+ Riboflavin+ 
+Thiamine Hc1 
+II/I/III 
+Betamethasone + 
+Dexchlorpheniramine 
+Meleate. 
+II/II 
+Chlordiazepoxide +  
+Clidinium 
+II/II 
+Cilnidipine + Nebivolol 
+Hydrochloride 
+II/II 
+Cilnidipine + Telmisartan  
+II/II 
+Clidinium + 
+Chlordiazepoxide 
+II/II 
+Cyproterone 
++Ethinyloestradial 
+II/II 
+Ezetimibe + Simvastatin  
+II/II 
+Ezetimibe + Atorvastatin 
+II/II 
+Fenofibrate + Rosuvastatin  
+II/II 
+Fluphenazine + Nortriptyline  II/II  
+Josamycin + Trimethoprim 
+II/II 
+Medoxomil+Hydrochlorothiaz
+ide  
+II/II 
+Miconazole 
+Nitrate+Chlorhexidine 
+Hydrochloride 
+II/II 
+Oestrogen 
++Medroxyprogesterone  
+II/II 
+Ofloxacin +Ornidazole  
+II/II 
+Olmesartan Medoxomil + 
+Hydrochlorothiazide  
+II/II 
+Piperaquine 
+Tetraphosphate+Dihydroarte
+misinin 
+II/II 
+Ramipril +Felodipine  
+II/II 
+Ramipril 
++Hydrochlorothiazide  
+II/II 
+Sulfamethoxazole + 
+Trimethoprim  
+II/II 
+Terbutaline Sulphate + 
+Bromhexine Hcl  
+II/II 
+Trimethroprim + 
+Sulphamethoxazole 
+II/II 
+Valsartan + 
+Hydrochlorothiazide 
+II/II 
+Zofenopril Calcium 
++Hydrochlorothiazide 
+II/II 
+Chlorzoxazone + Diclofenac 
++ Paracetamol 
+II/II/(III, I) 
+Dutasteride + Tadalafil + 
+Solifenacin Succinate  
+II/II/I 
+Lansoprazole + 
+Clarithromycin + Amoxycillin 
+II/II/I 
+Lansoprazole + 
+Clarithromycin + Tinidazole 
+II/II/II 
+Glimepiride + Pioglitazone + 
+Metformin  
+II/II/III 
+Buprenorphine +Naloxone 
+II/III 
+Diastase +Pepsin  
+II/III 
+Domperidone + Pantoprazole  II/III 
+Glimepride + Metformin  
+II/III 
+Ledipasvir + Sofosbuvir 
+II/III 
+Lornoxicam + 
+Thiocolchicoside 
+II/III 
+Montelukast 
+Sodium+Fexofenadine 
+Hydrochloride 
+II/III 
+Montelukast+Levocetrizine 
+II/III 
+Nifedipine + Atenolol  
+II/III 
+Pioglitazone Hydrochloride + 
+Metformin Hydrochloride 
+II/III 
+Rampicin +Isoniazid  
+II/III 
+Rifampicin + Isoniazid  
+II/III 
+Exprenolol + Hydralazine + 
+Chlorthacidone  
+II/III/ IV 
+Rifampicin + Isoniazid 
++Ethambutol   
+II/III/(I, III) 
+Rifampicin +Isoniazid + 
+Pyrazinamide  
+II/III/I 
+Rifampicin + Isoniazid 
++Pyrazinamide + Ethambutol  
+II/III/I/(I, 
+III) 
+Rifampin + Isoniazid 
++Pyrazinamide +Ethambutol  
+II/III/I/ (I, 
+III) 
+Rifampicin + Isoniazid 
++Pyrazinamide + Pyridoxine  
+II/III/I/II 
+Dolutegravir + Lamivudine + 
+Tenofovir Disoproxil 
+II/III/III 
+Rifampicin + Pyrazinamide 
++Ethambutaol + Isoniazid  
+II/III/III/III 
+Artemether + Lumefantrine 
+II/IV 
+Atazanavir Sulfate + 
+Ritonavir 
+II/IV 
+Dapson +Pyrimethamine 
+II/IV 
+Hydroxycarbamide + 
+Hydroxyurea  
+II/IV 
+Indinavir  
+II/IV 
+Lenvatinib 
+II/IV 
+ 
+ 
+ 
+12 
+Loperamide Hydrochloride 
+II/IV 
+Spironolactonce + 
+Furosemide  
+II/IV 
+Telmisartan + 
+Chlorthalidone  
+II/IV 
+Abacavir 
+III 
+Acebutolol Hydrochloride 
+III 
+Aciclovir 
+III 
+Alendronate  
+III 
+Aliskiren Hemifumarate  
+III 
+Almotriptan Malate 
+III 
+Amodiaquin 
+III 
+Apixaban 
+III 
+Atenolol 
+III 
+Atropine  
+III 
+Baclofen 
+III 
+Baricitinib 
+III 
+Bortezomib 
+III 
+Cefaclor  
+III 
+Cefadroxil 
+III 
+Cefprozil 
+III 
+Ceftriaxone 
+III 
+Cefuroxime 
+III 
+Cetrizine  
+III 
+Chloramphenicol 
+III 
+Chlorpromazine   
+III 
+Cimetidine 
+III 
+Clindamycin  
+III 
+Clonidine  
+III 
+Colchicine 
+III 
+Cycloserine  
+III 
+Dapagliflozin 
+III 
+Desmopressin  
+III 
+Dexrabeprazole  
+III 
+Didanosine  
+III 
+Doxofylline  
+III 
+Empagliflozin 
+III 
+Enalarpril Maleate  
+III 
+Enoxacin  
+III 
+Entecavir 
+III 
+Ethambutol  
+III 
+Ethinylosetadiol 
+III 
+Famcyclovir 
+III 
+Felxofenadine 
+III 
+Fexofenadine Hydrochloride 
+III 
+Fosfomycin 
+III 
+Fosinopril 
+III 
+Gabapentin 
+III 
+Gatifloxacin 
+III 
+Glucosamine 
+III 
+Granisetron  
+III 
+Hydrallazine Hydrochloride  
+III 
+Ibandronate Sodium 
+Monohydrate Eq. To 
+Ibandronic Acid  
+III 
+Ibandronic Acid  
+III 
+Iohexol 
+III 
+Isoxsuprine Hcl  
+III 
+Kanamycin Sulphate 
+III 
+Lactitol Monohydrate 
+III 
+Lenalidomide  
+III 
+Levamisole  
+III 
+Levocetrizine 
+Dihydrochloride 
+III 
+Levothyroxine Sodium 
+III 
+Linagliptin 
+III 
+Linagliptin + Metformin 
+Hydrochloride 
+III 
+Lincomycin Hcl 
+III 
+Lincomycin Hydrochloride 
+III 
+Lisinopril 
+III 
+Maraviroc  
+III 
+Mecobalamin 
+III 
+Metformin 
+III 
+Methydopa 
+III 
+Metoclopramide  
+III 
+Metroclopramide  
+III 
+Mirabegron 
+III 
+Morphine 
+III 
+Nadolol 
+III 
+Neomycin 
+III 
+Nizatidime  
+III 
+Oseltamivir  
+III 
+Osimertinib Mesylate 
+III 
+Pantoprazole  
+III 
+Paromomycin Sulphate  
+III 
+Peributolol Sulfate 
+III 
+ 
+ 
+ 
+13 
+Perindopril 
+III 
+Phenolphthalein 
+III 
+Phloroglucinol Dehydrate 
+III 
+Pindolol 
+III 
+Pipemidic Acid 
+III 
+Piracetam 
+III 
+Pirenzepin Dihydrochloride 
+III 
+Piribedil 
+III 
+Pivampicillin 
+III 
+Pivmecillinam Hydrochloride 
+III 
+Pizotifenum Hydrogen 
+Maleate 
+III 
+Podophyllotoxin 
+III 
+Potassium Citrate 
+III 
+Pravastatin  
+III 
+Prenoxdiazine 
+III 
+Procyclidine Hydrochloride 
+III 
+Proguanil Hydrochloride 
+III 
+Prolinate Hcl 
+III 
+Propanthelien Bromide 
+III 
+Proquanil Hydrochloride 
+III 
+Pryzinamide 
+III 
+Pyrazinamide  
+III 
+Pyridostigmine Bromide 
+III 
+Pyridoxine Hydrochloride  
+III 
+Rabeprazole Sodium 
+III 
+Ranitidine  
+III 
+Ribavirine  
+III 
+Risedronate Sodium 
+III 
+Rizatriptan  
+III 
+Ropinirole Hydrochloride 
+III 
+Salbutamol  
+III 
+Saxagliptin  
+III 
+Secnidazole 
+III 
+Seligiline Hydrochloride  
+III 
+Sennoside B 
+III 
+Silbutramine Hcl 
+Mononitrate  
+III 
+Sitagliptin  
+III 
+Sodium Alendronate  
+III 
+Sodium Bicarbonate 
+III 
+Sodium Biphosphate  
+III 
+Sofosbuvir  
+III 
+Spiramycine  
+III 
+Sumatriptan  
+III 
+Tenofovir Disporoxil 
+Fumarate  
+III 
+Tetracycline 
+III 
+Thiocolchicoside 
+III 
+Thyroxine Sodium  
+III 
+Tobramycin 
+III 
+Tofacitinib  
+III 
+Valacyclovir 
+III 
+Vonoprazan  
+III 
+Vonoprazan Fumarate 
+III 
+Zinc Sulphate  
+III 
+Zinc Sulphate Monohydrate 
+III 
+Zolmitraptan 
+III 
+Sodium Bicarbonate 
++Calcium Carbonate 
+III/ 
+(II, IV) 
+Rabeprazole + 
+Clarithromycin +Amoxicillin  
+III/  
+(II, IV)/I 
+Doxyllamine Succinate + 
+Phenylephrine Hydrochloride 
+III/1 
+Tobramycin + 
+Dexamethasone 
+III/1 
+Ethinyloestradiol + 
+Levonongesrel 
+III/I 
+Lamivudine + Stavudine 
+III/I 
+Lamivudine + Zidovudine 
+III/I 
+Mirabegron+Solifenacin 
+Succinate 
+III/I 
+Perindopril Arginine + 
+Amlodipine Besilate 
+III/I 
+Rabeprazole + Amoxicillin  
+III/I 
+Rabeprazole Sodium + 
+Itopride Hydrochloride  
+III/I 
+Thiamine Hcl + Riboflavine + 
+Pyridoxine +  Ascorbic Acid  
+III/I/  
+I/I 
+Rabeprazole + Levofloxacin 
++Amoxicillin  
+III/I/ 
+I 
+Thiamine Hcl + Riboflavin 
+Phosphate + Pyridoxine Hcl 
++ Chlolecalciferol  
+III/I/ 
+I/ (II, 
+IV) 
+Lamivudine +  Stavudine + 
+Efavirenz 
+III/I/ 
+II 
+Candesartan + 
+Hydrochlorothiazide 
+III/II 
+Clindamycin + Clotrimazole  
+III/II 
+Doxofylline  + Montelukast 
+Sodium  
+III/II 
+Levocetirizine Hydrochloride 
++ Montelukast 
+III/II 
+ 
+ 
+ 
+14 
+Levocetrizine Hcl + 
+Montelukast Sodium 
+III/II 
+Lisinopril + 
+Hydrochlorothiazide 
+III/II 
+Metformin+Glibenclamide 
+III/II 
+Methyldopa+Nifedipine 
+III/II 
+Pantoprazole +Domperidone 
+III/II 
+Perindopril Arginine + 
+Indapamide 
+III/II 
+Rabeprazole Sodium 
++Diclofenac Sodium  
+III/II 
+Rabeprazole Sodium 
++Domperidone  
+III/II 
+Rebeprazole Sodium 
++Domeporidone  
+III/II 
+Salbutamol +Bromhexine 
+Hydrochloride  
+III/II 
+Sumatriptan (As Succinate) 
++ Naproxen Sodium 
+III/II 
+Thiocolchicoside + Celocoxib 
+III/II 
+Sodium Alginate + 
+III/II/ 
+(II, IV) 
+Sodium Alginate + Sodium 
+Hydrogen Carbonate + 
+Calcium Carbonate  
+III/II/ 
+(II, IV) 
+Lamivudine + Nevirapine + 
+Stavudine 
+III/II/I 
+Lamivudine + Nevirapine + 
+Zidovudine 
+III/II/I 
+Salbutamol +Bromhexine + 
+Guaifenesin +Menthol  
+III/II/I/I 
+Salbutamol +Bromhexine 
++Guaiphensin +Menthol  
+III/II/I/I 
+Dapagliflozin+ Metformin 
+III/III 
+Empagliflozin + Metformin  
+III/III 
+Ethanbutol Hydrochloride + 
+Isoniazid  
+III/III 
+Gabapentine + 
+Methycobalamine 
+III/III 
+Lamivudine + Tenofovir 
+Disoproxil Fumerate 
+III/III 
+Neomycin Sulphate + 
+Polymixin Sulphate 
+III/III 
+Pivampicillin + Pivmecillinam 
+Hydrochloride 
+III/III 
+Saxagliptin + Metformin 
+Hydrochloride  
+III/III 
+Sitagliptin + Metformin Hcl  
+III/III 
+Sodium Alginate + Sodium 
+Bicarbonate  
+III/III 
+Sodium Biacrbonate + 
+Sodium Carbonate 
+Anhydrous  
+III/III 
+Sodium Bicarbonate 
++Sodium Alginate + Calcium 
+Carbonate  
+III/III/(II, IV) 
+Mecobalamin + Folic Acid + 
+Pyridoxine Hydrochloride  
+III/III/I 
+Zinc Sulphate +Thiamine 
+Hcl(Vit.B)+ Riboflavin(Vit.B2) 
++ Folic Acid + Pyridoxine 
+Hcl(Vit.B6)  
+III/III/I/(III/
+1)/I 
+Lamivudine + Tenofovir 
+Disoproxil Fumerate + 
+Efavirenz 
+III/III/II 
+Tenofovir Disoproxil 
+Fumarate+ Lamivudune + 
+Dolutegravir 
+III/III/II 
+Tenofovir disoproxilfumarate 
++ Lamivudine + Efavirenz  
+III/III/II 
+Leveonorgestrel + 
+Ethinylestradiol + Ferrous 
+Fumarate 
+III/III/III 
+Piperacillin Sodim + 
+Tazobactam Sodium 
+III/IV 
+Rabeprazole Sodium + 
+Levosulpiride   
+III/IV 
+Acetazolamide 
+IV 
+Allopurinol 
+IV 
+Anydrous Cefixime 
+IV 
+Aripiprazole 
+IV 
+Artesunate 
+IV 
+Azathioprine 
+IV 
+Bifonazole 
+IV 
+Boceprevir 
+IV 
+Canagliflozin 
+IV 
+Cefdinir 
+IV 
+Cefditoren  
+IV 
+Cefixime 
+IV 
+Cefpodoxime proxetil  
+IV 
+Chlorthalidone 
+IV 
+Ciproflxacin 
+IV 
+Crizonitib  
+IV 
+Digoxin  
+IV 
+Dihydroartemisin 
+IV 
+Dihydroartemisin 
+IV 
+Diloxanide Furoate 
+IV 
+Diloxanidefuroate 
+IV 
+Diosmin 
+IV 
+Erythromycin Stearate 
+IV 
+Erythromycinethyl Succinate  IV 
+ 
+ 
+ 
+15 
+Etoposide 
+IV 
+Everolimus 
+IV 
+Fluticasone Propionate 
+IV 
+Gemifloxacin 
+IV 
+Haloperiodol  
+IV 
+Hydroxyurea  
+IV 
+Levosulpiride 
+IV 
+Lopinavir + Ritonavir 
+IV 
+Lumefantrine + Artemether 
+IV 
+Mercaptopurine 
+IV 
+Meropenem 
+IV 
+Mesalamine  
+IV 
+Mesalazine 
+IV 
+Methotrerxate 
+IV 
+Mosapride Citrate 
+IV 
+Napafenac 
+IV 
+Nelfinavir 
+IV 
+Nepafenac  
+IV 
+Neratinib Maleate 
+IV 
+Nifuroxazide  
+IV 
+Nilotinib 
+IV 
+Norfloxacin 
+IV 
+Noscapine 
+IV 
+Nystatin 
+IV 
+Olaparib  
+IV 
+Oxamniquine 
+IV 
+Paclitaxel  
+IV 
+Pefloxacin 
+IV 
+Phentermine  
+IV 
+Pranlukast Hydrate 
+IV 
+Probenecid 
+IV 
+Pyrantel  
+IV 
+Rebamipide  
+IV 
+Rifaximin 
+IV 
+Saccharomyces Boulardii  
+IV 
+Saquinavir  
+IV  
+Silymarin  
+IV 
+Sulfadiazine 
+IV 
+Sulfamethiazole 
+IV 
+Sulphasalazine  
+IV 
+Sulphathiazole  
+IV 
+Ticagrelor 
+IV 
+Tolvaptan 
+IV 
+Tramterene 
+IV 
+Triamcinolone 
+IV 
+Diloxanidefuroate + 
+Metronidazole  
+IV/I 
+Diloxanide Furoate + 
+Metronidazole (As Benzoate) 
++ Dicyclomine Hcl  
+IV/I/I 
+Norfoxacin + Tinidazole  
+IV/II 
+Nystatin+ Tinidazole 
+IV/II 
+Sacubitril + Valsartan  
+IV/II 
+Canagliflozin + Metformin 
+IV/III 
+Fluticasone + Salmeterol 
+IV/III 
+Sodium Aluminium 
+Hydroxide + Dried 
+Aluminium Hydroxide + 
+Magnesium Trisilicate  
+IV/IV/IV 
+ 
+ 
+ 
+16 
+3. LISTING OF DRUG SUBSTANCES ACCORDING TO ALPHABETICAL 
+ORDER 
+ 
+DRUG SUBSTANCE 
+BCS Class 
+Abacavir 
+III 
+Abiraterone 
+(I, III) 
+Acebutolol Hydrochloride 
+III 
+Aceclofenac 
+II 
+Aceltysalicylic Acid 
+I 
+Acemetacin 
+II 
+Acetaminophen 
+(I, III) 
+Acetazolamide 
+IV 
+Aciclovir 
+III 
+Afanitib 
+(I, III) 
+Agomelatine 
+II 
+Albendazole 
+II 
+Albendazole 
+II 
+Alendronate  
+III 
+Alfuzosin Hcl 
+I 
+Alfuzosine Chlorhydrate 
+I 
+Aliskiren Hemifumarate  
+III 
+Allopurinol 
+IV 
+Almotriptan Malate 
+III 
+Alprazolam 
+II 
+Ambroxol 
+I 
+Ambroxol Hydrochloride + 
+Guaiphenesin 
+I/I 
+Amiloride Hydrochloride 
+I 
+Amiodarone 
+II 
+Amitriptylline 
+Hydrochloride 
+(I, II) 
+Amlodipine Besylate 
+I 
+Amodiaquin 
+III 
+Amonium Chloride + 
+Sodium Citrate  
+II 
+Amoxycyllin 
+I 
+Amphetamine 
+  
+Ampicillin 
+I 
+Amprenavir 
+II 
+Amprenavir 
+II 
+Anastrozole 
+II 
+Anhydrous Cefixime 
+IV 
+Apixaban 
+III 
+Aripiprazole 
+IV 
+Artemether + 
+Lumefantrine 
+II/IV 
+Artemisinin 
+II 
+Artesunate 
+IV 
+Ascorbic Acid  
+I 
+Ascorbic Acid + 
+Cholecalciferol 
+I/ (II, IV) 
+Atazanavir 
+II 
+Atazanavir Sulfate + 
+Ritonavir 
+II/IV 
+Atenolol 
+III 
+Atomoxetine 
+I 
+Atorvastatin 
+II 
+Atropine  
+III 
+Axitinib 
+II 
+Azathioprine 
+IV 
+Azithromycin 
+(II, IV) 
+Baclofen 
+III 
+Bambuterol 
+Hydrochloride 
+II 
+Baricitinib 
+III 
+Benazepril  
+I 
+Benazepril + 
+Hydrochlorothiazide 
+I/II 
+Benzocaine 
+II 
+Betahistine Hcl 
+I 
+Betamethasone + 
+Dexchlorpheniramine 
+Meleate. 
+II/II 
+Betaxolol Hydrochloride 
+I 
+Bezafibrate  
+II 
+Bicalutamide 
+II 
+Bictegravir + 
+Emtricitabine+ Tenofovir 
+Alafenamide  
+II/I/ III 
+Bifonazole 
+IV 
+Biperiden Hydrochloride 
+I 
+Bisacodyl 
+II 
+Bisoprolol Fumarate 
+I 
+Boceprevir 
+IV 
+Bortezomib 
+III 
+Bosentan  
+II 
+Bromocriptine 
+II 
+ 
+ 
+ 
+17 
+Budesonide  
+II 
+Bumetamide 
+II 
+Buprenorphine 
++Naloxone 
+II/III 
+Buspirone  
+I 
+Busulphan 
+I/III 
+Cabergoline 
+II 
+Cadidopa + Levodopa 
+I/ (I, III) 
+Caffein + Codein 
+Phosphate + Doxylamine 
+Succinate + Paracetamol 
+I/ (I, III)/ 
+(I, III) 
+road/(I/III) 
+Caffeine 
+I 
+Caffeine + Paracetamol  
+I/ (I, III) 
+Caffeine + Phenylephrine 
+Hydrochloride 
+I/I 
+Caffeine + Thiamine Hcl + 
+Riboflavin + Pridoxine + 
+Cyanocobalamine  
+I/III/I/I/III 
+Caffeine + Thiamine Hcl 
++Ribofavine +Pyridoxine 
+Hcl + Cynocobalamin  
+I/III/I/I/III 
+Caffeine Anhydrous  
+I 
+Calcitriol 
+(II/IV) 
+Calcium Carbonate  
+(II, IV) 
+Calcium Carbonate 
+Equivalent to Calcium + 
+Cholecalciferol Equivalent 
+to Vitamin D3 
+(II, IV)/ (II, 
+IV) 
+Calcium Carbonate 
+Equivalent to Elemental 
+Calcium + Zinc Sulphate 
++ Calcitriol 
+(II, IV) /III/ 
+(II, IV) 
+Calcium Carbonate 
+(Equivalent to Calcium) + 
+Cholecalciferol (Vit.D3)  
+(II, IV)/ (II, 
+IV) 
+Calcium Carbonate + 
+Ascorbic Acid (Vitamin C) 
+(II, IV)/I 
+Calcium Carbonate + 
+Calcitriol + Zinc Sulphate 
+Monohydrate  
+(II, IV) / (II, 
+IV)/ III 
+Calcium Carbonate + 
+Vitamin C + Vitamin D3 
+(II, IV)/I/ 
+(II, IV) 
+Calcium Carbonate + 
+Vitamin D3 Equivalent to 
+Vitamin D3  
+(II, IV)/ (II, 
+IV) 
+Calcium Carbonate + 
+Vitamin D3 Equivalent to 
+Vitamin D3  
+(II, IV) 
+Calcium Carbonate + Zinc 
+Sulphate + Vitamin D (As 
+Ergocalciferol 200Iu) 
+(II, IV)/III/ 
+(II, IV) 
+Calcium Carbonate 
+Containing Calcium + 
+Vitamin D3 
+(II, IV)/ (II, 
+IV) 
+Calcium Carbonate 
+Equivalent to Elemental 
+Calcium + Vitamin D3 
+(II, IV)/ (II, 
+IV) 
+Canagliflozin 
+IV 
+Canagliflozin + Metformin 
+IV/III 
+Candesartan 
+II 
+Candesartan + 
+Hydrochlorothiazide 
+III/II 
+Capecitabine 
+I 
+Caphalexin 
+I 
+Captopril 
+I 
+Carbemazepine 
+II 
+Carbidopa, Levodopa 
+(I, III) 
+Carisoprodol  
+II 
+Carisoprodol + 
+Paracetamol + Caffeine 
+II/ (III, I)/I 
+Carvedilol 
+II 
+Cefaclor  
+III 
+Cefadroxil 
+III 
+Cefdinir 
+IV 
+Cefditoren  
+IV 
+Cefixime 
+IV 
+Cefpodoxime proxetil  
+IV 
+Cefprozil 
+III 
+Ceftriaxone 
+III 
+cefuroxime 
+II 
+Cefuroxime 
+III 
+Celecoxib  
+II 
+Cephalexin 
+I 
+Cerivastatin 
+I 
+Cetrizine  
+III 
+Chlarithromycin 
+II 
+Chloramphenicol 
+III 
+Chlordiazepoxide  
+II 
+Chlordiazepoxide +  
+Clidinium 
+II/II 
+Chloroquine 
+I 
+Chlorphenramine 
+I 
+Chlorpromazine   
+III 
+Chlorpropamide 
+II 
+Chlorthalidone 
+IV 
+Chlorzoxazone + 
+Diclofenac + Paracetamol 
+II/II/ (III, I) 
+Chlorzoxazone + 
+Paracetamol 
+II, (III, I) 
+ 
+ 
+ 
+18 
+Cholecalciferol) Vitamin 
+D3 + (Ascorbic Acid) 
+Vitamin C + 
+(Thiamine)Vitamin B1 + 
+(Riboflavin)Vitamin B2 + 
+(Pyridoxine)Vitamin B6 + 
+(Cobalamin)Vitamin B12  
+(II, 
+IV)/I/III/I/
+I/III 
+Cilnidipine 
+II 
+Cilnidipine + Nebivolol 
+Hydrochloride 
+II/II 
+Cilnidipine + Telmisartan  
+II/II 
+Cimetidine 
+III 
+Cinnarizine  
+II 
+Ciproflxacin 
+IV 
+Citalopram  
+II 
+Citicoline 
+I 
+Clarithromycin  
+II 
+Clavulanate Potassium, 
+Amoxicillin Trihydrate 
+(III, I)/I 
+Clidinium + 
+Chlordiazepoxide 
+II/II 
+Clindamycin  
+III 
+Clindamycin + 
+Clotrimazole  
+III/II 
+Clobazam  
+II 
+Clofazimine  
+II 
+Clofibrate  
+II 
+Clomiphene Citrate 
+(III, I) 
+Clonazepam 
+II 
+Clonidine  
+III 
+Clopidrogel  
+II 
+Clotrimazole  
+II 
+Clozapine  
+II 
+Codeine  
+(I, III) 
+Codeine + 
+Guaiphenesin+Pseudoeph
+edrine +Triprolidine  
+I/I/I 
+Codeine + Promethazine + 
+Ephedrine  
+I/II/I 
+Codeine Phosphate + 
+Cafferine Anhydrous + 
+Paracetamol 
++Meprobamate  
+I/I/III/I 
+Colchicine 
+III 
+Colecalciferol  
+(II, IV) 
+Crizonitib  
+IV 
+Cyanocobalamine 
++Pyridoxyne + Thiamine  
+II/I/III 
+Cyclobenzaprine  
+I 
+Cyclophosphamide  
+(I, III) 
+Cycloserine  
+III 
+Cyclosporine  
+(II, IV) 
+Cyproheptadine  
+II 
+Cyproterone  
+II 
+Cyproterone 
++Ethinyloestradial 
+II/II 
+D-Alpha-Tocopheryl  
+(II, IV) 
+D-Pseudoephedrine  
+I 
+Dabigatran Etexilate 
+Mesylate  
+II 
+Daclatasvir  
+II 
+Dacomitinib  
+II 
+Danazol  
+II 
+Dapagliflozin 
+III 
+Dapagliflozin+ Metformin 
+III/III 
+Dapoxetine 
+II 
+Dapson +Pyrimethamine 
+II/IV 
+Dapsone  
+II 
+Darifenacin  
+II 
+Darunavir   
+II 
+Dasatinib  
+II 
+Deferasirox  
+II 
+Deflazacort  
+II 
+Deprenyl 
+II 
+Dequalinium  
+II 
+Desagestrel + 
+Ethinyloestradiol  
+(I, III)/ (I, 
+III) 
+Desloratidine  
+I 
+Desmopressin  
+III 
+Desvenlafaxine  
+I 
+Dexamethasone  
+I 
+Dexchlorpheniramine  
+I 
+Dexketoprofen  
+I 
+Dexlansoprazole  
+II 
+Dexrabeprazole  
+III 
+Dextranomer  
+I 
+Dextromethorphan 
+II 
+Diacerein  
+II 
+Diastase +Pepsin  
+II/III 
+Diazepam 
+I 
+Diclofenac  
+II 
+Dicyclomine  
+I 
+ 
+ 
+ 
+19 
+Dicyclomine + 
+Paracetamol  
+I/III 
+Dicyclomine 
++Simethicone  
+I/I 
+Dicycloverine + 
+Simeticone 
+I/I 
+Didanosine  
+III 
+Dienogest  
+I 
+Diethylcarbamazine  
+II 
+Diflunisal  
+II 
+Digoxin  
+IV 
+Dihydroartemisin 
+IV 
+Dihydroartemisin 
+IV 
+Dihydrocodeine Tartrate 
+(I, III) 
+Dihydrocodeine Tartrate + 
+Paracetamol  
+(I, III)/I 
+Dilofenac Sodium  
+II 
+Diloxanide Furoate 
+IV 
+Diloxanide Furoate + 
+Metronidazole (As 
+Benzoate) + Dicyclomine 
+Hcl  
+IV/I/I 
+Diloxanidefuroate 
+IV 
+Diloxanidefuroate + 
+Metronidazole  
+IV/I 
+Diltiazem  
+I 
+Dimenhydrinate  
+II 
+Diosmin 
+IV 
+Dipenhydramine 
+Hydrochloride + Codeine 
+Phosphate  
+I/ (I, III) 
+Diphenhydramine Hcl + 
+Chlorpheniramine 
+Maleate  
+I/I 
+Diphenhydramine 
+Hydrochloride  
+I 
+Diphenydramine H+ 
+Codeine Phosphate  
+I/ (I, III) 
+Dipheraydramine 
+I 
+Dipyridamole  
+II 
+Ditiazem Hcl  
+I 
+Docusate Sodium 
+II 
+Docycline  
+I 
+Dolutegravir + 
+Lamivudine + Tenofovir 
+Disoproxil 
+II/III/III 
+Dolutegravir Sodium. 
+II 
+Domperidone  
+II 
+Domperidone + 
+Pantoprazole  
+II/III 
+Donepezil Hydrochloride  
+I 
+Doxazosin  
+I 
+Doxofylline  
+III 
+Doxofylline + Montelukast 
+Sodium  
+III/II 
+Doxycycline  
+I 
+Doxylamine Succinate  
+(III, I) 
+Doxylamine Succinate + 
+Pyridoxine Hcl  
+(III, I)/I 
+Doxyllamine Succinate + 
+Phenylephrine 
+Hydrochloride 
+III/1 
+Drotaverine 
+II 
+Duloxetine Hydrochloride 
+II 
+Dutasteride  
+II 
+Dutasteride + Tadalafil + 
+Solifenacin Succinate  
+II/II/I 
+Dutasteride + Tamsulosin  II/I 
+Dydrogesterone  
+I 
+Ebastine  
+II 
+Econazole 
+II 
+Efavirenz  
+(II, IV) 
+Efivarenz + Emtricitabine 
++Tenofovir Disproxil 
+Fumarate  
+(II, 
+IV)/III/III 
+Eltrombopag 
+(II, IV) 
+Empagliflozin 
+III 
+Empagliflozin + 
+Metformin  
+III/III 
+Emtricitabine +Tenofovir 
+Disoproxil Fumarate  
+(I, III)/III 
+Enalarpril Maleate  
+III 
+Enoxacin  
+III 
+Entecavir 
+III 
+Enthinyloestradiol  
+II 
+Enzalutamide 
+II 
+Ephedrine Hydrochloride 
++ Theophylline + 
+Phenobarbitone 
+I/I/I 
+Eplerenone  
+II 
+Erlotinib Hydrochloride 
+II 
+Erythromycin Stearate 
+IV 
+Erythromycinethyl 
+Succinate  
+IV 
+Escitalopram 
+I 
+Esomeprazole 
+II 
+Esomeprazole + 
+Domperidone 
+II 
+ 
+ 
+ 
+20 
+Esomeprazole + Itopride  
+II 
+Esomeprazole Magnesium 
++ Clarithromycin + 
+Amoxicillin Trihydrate  
+II/ (II, IV)/I 
+Esomeprazole+ 
+Levofloxacin+Amoxicillin  
+II/I/I 
+Estradiol Valerate  
+I 
+Estriol  
+II 
+Ethambutol  
+III 
+Ethanbutol Hydrochloride 
++ Isoniazid  
+III/III 
+Ethinyloestradiol + 
+Levonongesrel 
+III/I 
+Ethinylosetadiol 
+III 
+Ethionamide  
+II 
+Ethosuximide  
+(I, III) 
+Etodolac 
+II 
+Etoposide 
+IV 
+Etoricoxib 
+II 
+Etoricoxib + Paracetamol 
++ Thiocolchicoside  
+II/ (I, III)/II 
+Etravirine 
+II 
+Everolimus 
+IV 
+Exemestane  
+II 
+Exprenolol + Hydralazine 
++ Chlorthacidone  
+II/III/ IV 
+Ezetimibe 
+II  
+Ezetimibe + Simvastatin  
+II/II 
+Ezetimibe + Atorvastatin 
+II/II 
+Famcyclovir 
+III 
+Famotidine 
+II 
+Faropenem 
+I 
+Febuxostat 
+II 
+Felodipine 
+II 
+Felodipine + Metoprolol 
+Succinate 
+II/I 
+Felxofenadine 
+III 
+Fenbufen 
+II 
+Fenfluramine 
+I 
+Fenofibrate  
+II 
+Fenofibrate + 
+Rosuvastatin  
+II/II 
+Fenoprofen 
+II 
+Feribufen 
+II 
+Fexofenadine 
+Hydrochloride 
+III 
+Finasteride 
+II 
+Finasteride + Tamsulosin 
+Hydrochloride 
+II/ I 
+Finerenone. 
+II 
+Fluconazole  
+I 
+Fluconazole + 
+Azithromycin + 
+Secnidazole 
+I/ (II, 
+IV)/III 
+Fludarabine 
+I 
+Flunarizine 
+II 
+Flunitrazepam 
+II 
+Fluoxetine 
+I 
+Flupenthixol  
+II 
+Fluphenazine  
+II 
+Fluphenazine + 
+Nortriptyline  
+II/II  
+Fluribiprofen 
+II 
+Flutamide 
+II 
+Fluticasone + Salmeterol 
+IV/III 
+Fluticasone Propionate 
+IV 
+Fluvastatin 
+II 
+Fluvoxamine 
+I 
+Folic Acid 
+(I, III) 
+Fosamprenavir 
+II 
+Fosfomycin 
+III 
+Fosinopril 
+III 
+Framycetin 
+II 
+Frusemide  
+(II, IV) 
+Frusemide + 
+Spironolactone  
+(II, IV)/II 
+Furazolidone 
+II 
+Furosemide 
+(II, IV) 
+Gabapentin 
+III 
+Gabapentine + 
+Methycobalamine 
+III/III 
+Gatifloxacin 
+III 
+Gefitinib 
+II 
+Gemfibrozil 
+II 
+Gemifloxacin 
+IV 
+Glibenclaminde 
+II 
+Gliclazide 
+II 
+Glimepiride + Pioglitazone 
++ Metformin  
+II/II/III 
+Glimepride + Metformin  
+II/III 
+Glipizide 
+II 
+Gliquidone 
+II 
+ 
+ 
+ 
+21 
+Glitazone  
+II 
+Glucosamine 
+III 
+Granisetron  
+III 
+Griseofulvin 
+II 
+Guaiphenesin 
+I 
+Guaiphenesin + 
+Chlorpheniramine 
+Maleate  
+I/I 
+Guaiphenesin + 
+Theophylline 
+I/I 
+Guaiphoniesin + Calcium 
+Gluoconate 
+1/II 
+Guiafensin + 
+Psuedoephedrine  
+I/I 
+Haloperiodol  
+IV 
+Hydochlorothiazide + 
+Amiloride Hydrochloride  
+(II, IV)/ (I, 
+III) 
+Hydrallazine 
+Hydrochloride  
+III 
+Hydrochloroquine 
+Sulphate  
+II 
+Hydrochlorothiazide + 
+Amiloride + Timolol 
+Maleate  
+(II, IV)/ (I, 
+III)/I 
+Hydrochlothiazide 
+(II, IV) 
+Hydroflumethiazide  
+II 
+Hydrotalcite  
+II 
+Hydrotalcite- 
+II 
+Hydroxycarbamide 
+II 
+Hydroxycarbamide + 
+Hydroxyurea  
+II/IV 
+Hydroxychloroquine 
+Sulfate. 
+I 
+Hydroxyurea  
+IV 
+Hydroxyzine 
+II 
+Ibandronate Sodium 
+Monohydrate Eq. To 
+Ibandronic Acid  
+III 
+Ibandronic Acid  
+III 
+Ibesartan  
+II 
+Ibrutinib Inn 
+II 
+Ibuprofen 
+II 
+Imatinib mesylate 
+I 
+Impramine  
+I 
+Indapamide  
+II 
+Indaspamide  
+II 
+Indinavir  
+II/IV 
+Indomethacine 
+II 
+Iohexol 
+III 
+Irbesartan  
+II 
+IRbesartan  
+II 
+Irbesartan + 
+Hydrochlorothiazide  
+II/ (II, IV) 
+Isoniazid   
+(I, III) 
+Isoniazid + Rifapentine  
+(I, III)/II 
+Isoniazide + Ethambutol  
+(I, III)/III 
+Isosorbide Dinitrate  
+I 
+Isosorbide-5-Mononitrate  
+I 
+Isotretinoin  
+II 
+Isoxsuprine Hcl  
+III 
+Isradipine 
+II 
+Itopride Hydrochloride 
+I 
+Itraconazole 
+II 
+Ivabradine Hydrochloride  
+I 
+Ivermectin  
+II 
+Ivermectin + Albendazole  
+II/ II 
+Josamycin 
+II 
+Josamycin + 
+Trimethoprim 
+II/II 
+Kanamycin Sulphate 
+III 
+Ketoconazole 
+II 
+Ketoprofen Fumarate 
+II 
+Ketorolac Tromethamine 
+I 
+Ketotifen Fumarate 
+II 
+Labetalol Hydrochloride 
+I 
+Lacidipine 
+II 
+Lacosamide 
+I 
+Lactitol Monohydrate 
+III 
+Lactulose 
+I 
+Lamivudine + Stavudine + 
+Efavirenz 
+III/I/II 
+Lamivudine + Nevirapine 
++ Stavudine 
+III/II/I 
+Lamivudine + Nevirapine 
++ Zidovudine 
+III/II/I 
+Lamivudine + Stavudine 
+III/I 
+Lamivudine + Tenofovir 
+Disoproxil Fumerate 
+III/III 
+Lamivudine + Tenofovir 
+Disoproxil Fumerate + 
+Efavirenz 
+III/III/II 
+Lamivudine + Zidovudine 
+III/I 
+Lamotrigine 
+II 
+Lansoprazole 
+II 
+ 
+ 
+ 
+22 
+Lansoprazole + 
+Clarithromycin + 
+Amoxycillin 
+II/II/I 
+Lansoprazole + 
+Clarithromycin + 
+Tinidazole 
+II/II/II 
+Lapatinib 
+II 
+Latanoprost 
+II 
+Latanoprost + Timolol 
+II/I 
+Ledipasvir + Sofosbuvir 
+II/III 
+Leflunomide 
+II 
+Lenalidomide  
+III 
+Lenvatinib 
+II/IV 
+Letrozole  
+I 
+Levamisole  
+III 
+Leveonorgestrel + 
+Ethinylestradiol + Ferrous 
+Fumarate 
+III/III/III 
+Levetiracetam 
+I 
+Levocetirizine 
+Hydrochloride + 
+Montelukast 
+III/II 
+Levocetrizine 
+Dihydrochloride 
+III 
+Levocetrizine Hcl + 
+Montelukast Sodium 
+III/II 
+Levodopa + Carbidopa + 
+Entacapone 
+I/(I,III)/IV 
+Levofloxacin 
+I 
+Levofloxacin + 
+Amoxycillin + 
+Esomeprazole 
+I/I/II 
+Levonorgestrel + 
+Ethinylestradiol 
+I/III 
+Levornogestrel 
+I 
+Levosulpiride 
+IV 
+Levothyroxine Sodium 
+III 
+Lidocaine, Cetyltrimethyl 
+Ammonium Bromide 
+Tyrothricin 
+I 
+Linagliptin 
+III 
+Linagliptin + Metformin 
+Hydrochloride 
+III 
+Lincomycin Hcl 
+III 
+Lincomycin Hydrochloride III 
+Linezolid 
+I 
+Lisinopril 
+III 
+Lisinopril + 
+Hydrochlorothiazide 
+III/II 
+Lithium Carbonate 
+I 
+Loperamide 
+Hydrochloride 
+II/IV 
+Lopinavir + Ritonavir 
+IV 
+Loracarbef 
+II 
+Loratadine 
+II 
+Loratadine + 
+Pseudoephedrine 
+Sulphate 
+II/I 
+Lorazepam 
+I 
+Lornoxicam 
+II 
+Lornoxicam + 
+Paracetamol 
+II/I 
+Lornoxicam + 
+Paracetamol + 
+Chlorzoxazone 
+II/I/II 
+Lornoxicam + 
+Thiocolchicoside 
+II/III 
+Losartan Potassium 
+I 
+Losartan Potassium + 
+Amlodipine Besylate 
+I/I 
+Losartan Potassium + 
+Amlodipine Besylate + 
+Chlorthalidone 
+I/I/IV 
+Losartan Potassium + 
+Chlorthalidone 
+I/IV 
+Losartan Potassium + 
+Hydrochlorothiazide 
+I/III 
+Lovastatin 
+II 
+Lumefantrine + 
+Artemether 
+IV 
+Lurasidone Hydrochloride 
+II 
+Maprotiline Hydrochloride I 
+Maraviroc  
+III 
+Mebendazole  
+II 
+Mebeverine Hydrochloride 
+I 
+Meclizine 
+II 
+Meclizine+ Caffeine  
+II/I 
+Meclizine+Pyridoxine 
+II/I 
+Mecobalamin 
+III 
+Mecobalamin + Folic Acid 
++ Pyridoxine 
+Hydrochloride  
+III/III/I 
+Medoxomil+Hydrochlorot
+hiazide  
+II/II 
+Medroxyprogesterone  
+II 
+Mefenamic Acid 
+II 
+Mefenamic Acid 
+II 
+Mefloquine  
+II 
+Meloxicam  
+II 
+ 
+ 
+ 
+23 
+Mercaptopurine 
+IV 
+Meropenem 
+IV 
+Mesalamine  
+IV 
+Mesalazine 
+IV 
+Mesterolone 
+II 
+Metamizole Sodium  
+I 
+Metformin 
+III 
+Metformin+Glibenclamide 
+III/II 
+Methocarbamol  
+II 
+Methotrerxate 
+IV 
+Methy Prednisolone  
+II 
+Methydopa 
+III 
+Methyldopa+Nifedipine 
+III/II 
+Methyphenicate 
+Hydrochloride 
+II 
+Metoclopramide  
+III 
+Metolazone  
+II 
+Metoprolol 
+I 
+Metroclopramide  
+III 
+Metronidazole 
+I 
+Metronidazole+ 
+Minconazole 
+Nitrate+Lidocaine 
+I/II/III 
+Metronidazole+Diloxanide 
+I/II 
+Metronidazole+Diloxanide 
+Furoate+Dicyclomine 
+I/II/I 
+Miconazole Nitrate 
+II 
+Miconazole 
+Nitrate+Chlorhexidine 
+Hydrochloride 
+II/II 
+Miconazole 
+Nitrate+Metronidazole 
+II/I 
+Midazolam 
+I 
+Mifepristone 
+II 
+Mifepristone  
+(II, IV) 
+Minocycline 
+Hyrdrochloride 
+I 
+Minoxidil  
+II 
+Mirabegron 
+III 
+Mirabegron+Solifenacin 
+Succinate 
+III/I 
+Mirtazpine 
+I 
+Misoprostol 
+I 
+Molupinavir 
+I 
+Momentasone Furoate 
+II 
+Mometasone Furoate 
+II 
+Montelukast 
+II 
+Montelukast 
+Sodium+Fexofenadine 
+Hydrochloride 
+II/III 
+Montelukast+Levocetrizin
+e 
+II/III 
+Morphine 
+III 
+Mosapride Citrate 
+IV 
+Moxifloxacin 
+I 
+Mycophenolate Mofetill  
+II 
+Mycophenolic Acid  
+II 
+N-Acetylcysteine 
+I 
+Nadolol 
+III 
+Naftidrofuryl Oxalate 
+I 
+Nalidixic Acid  
+II 
+Napafenac 
+IV 
+Naproxen 
+II 
+Nateglinide 
+II 
+Nebivolol Hydrochloride 
+II 
+Nelfinavir 
+IV 
+Neomycin 
+III 
+Neomycin Sulphate + 
+Polymixin Sulphate 
+III/III 
+Nepafenac  
+IV 
+Neratinib Maleate 
+IV 
+Nevirapine  
+II 
+Niacinamide+ Riboflavine 
+Hydrochloride 
+I/II 
+Nicergoline  
+II 
+Niclosamide  
+II 
+Nicorandil 
+II 
+Nicotinamide+ Riboflavin+ 
+Thiamine Hc1 
+II/I/III 
+Nicotinic Acid  
+I 
+Nifedipine 
+II 
+Nifedipine + Atenolol  
+II/III 
+Nifuroxazide  
+IV 
+Nilotinib 
+IV 
+Nimesulide  
+II 
+Nimodipine  
+II 
+Niraparib  
+II  
+Nisemulide  
+II 
+Nitazoxanide  
+II 
+Nitrazepam  
+II 
+Nitrofurantoin  
+II 
+ 
+ 
+ 
+24 
+Nizatidime  
+III 
+Norethisterone  
+I 
+Norfloxacin 
+IV 
+Norfoxacin + Tinidazole  
+IV/II 
+Nortriptyline 
+(II, IV) 
+Noscapine 
+IV 
+Nystatin 
+IV 
+Nystatin+ Tinidazole 
+IV/II 
+Obeticholic Acid. 
+II 
+Oestradiol  
+II 
+Oestrogen 
+II 
+Oestrogen 
++Medroxyprogesterone  
+II/II 
+Ofloxacin  
+II 
+Ofloxacin +Ornidazole  
+II/II 
+Olanzepine  
+II 
+Olaparib  
+IV 
+Olmesartan +Medoxomil 
++ Amlodipine 
+Besylate+Hydrochlorothia
+zide  
+II/I/II 
+Olmesartan Medoxomil 
+II 
+Olmesartan Medoxomil + 
+Amlodipine Besylate  
+II/I 
+Olmesartan Medoxomil + 
+Hydrochlorothiazide  
+II/II 
+Olopatadine 
+Hydrochloride  
+II 
+Omeprazole 
+II 
+Ondansetron 
+II 
+Orlistat  
+II 
+Ornidazole  
+II 
+Oseltamivir  
+III 
+Osimertinib Mesylate 
+III 
+oxacin 
+I 
+Oxamniquine 
+IV 
+Oxcarbazepine  
+II 
+Oxybutylin 
+I 
+Oxycodone Hydrochloride  (I, III) 
+Paclitaxel  
+IV 
+Palbociclib 
+II 
+Paliperidone Palmitate  
+II 
+Palonosetron 
+Hydrochloride 
+I 
+Palonsetron 
+I 
+Pantoprazole  
+III 
+Pantoprazole 
++Domperidone 
+III/II 
+Paracetamol  
+(I, III) 
+Paracetamol + Caffeine   
+(I, III)/1 
+Paracetamol + Caffeine 
+Anhydrous 
++Chlorpheniramine 
+Maleate 
++Pseudoephedrine 
+Hydrochloride  
+(I, III)/I/I/I 
+Paromomycin Sulphate  
+III 
+Paroxetine  
+I 
+Pazopanib Hydrochloride  
+II 
+Pefloxacin 
+IV 
+Penicillin V Calcium  
+I 
+Penicillin V. Potassium  
+I 
+Penicillun G Benzathine 
+I 
+Pentoxyfylline  
+II 
+Perhexilline Maleate 
+II 
+Peributolol Sulfate 
+III 
+Perindopril 
+III 
+Perindopril Arginine + 
+Amlodipine Besilate 
+III/I 
+Perindopril Arginine + 
+Indapamide 
+III/II 
+Phenazopyridine 
+II 
+Phenobarbitone 
+I 
+Phenobarbitone + 
+Phenytoin Sodium 
+I/II 
+Phenolphthalein 
+III 
+Phenoxymethylpenicillin 
+I 
+Phentermine  
+IV 
+Phenylbutazone 
+II 
+Phenylephrine Hcl + 
+Paracetamol + 
+Chlorpheniramine 
+Maleate 
+I/III/I 
+Phenylephrine 
+Hydrochloride + 
+Chlorphenamine Maleate 
+I/I 
+Phenylephrine 
+Hydrochloride + Diphenyl 
+Pyraline Hcl + 
+Paracetamol + Caffeine + 
+Vitamin C 
+I/I/III/I/I 
+Phenylephrine 
+Hydrochloride + 
+Paracatamol + 
+Chlorpheniramine 
+Maleate 
+I/III/I 
+ 
+ 
+ 
+25 
+Phenyton Sodium 
+II 
+Phloroglucinol Dehydrate 
+III 
+Pindolol 
+III 
+Pioglitazone 
+II 
+Pioglitazone 
+Hydrochloride + 
+Metformin Hydrochloride 
+II/III 
+Pipemidic Acid 
+III 
+Piperacillin Sodim + 
+Tazobactam Sodium 
+III/IV 
+Piperaquine 
+Tetraphosphate+Dihydroa
+rtemisinin 
+II/II 
+Piperazine Phosphate 
+II 
+Piracetam 
+III 
+Pirenzepin 
+Dihydrochloride 
+III 
+Piribedil 
+III 
+Piroxicam 
+II 
+Pitavastatin Calcium 
+II 
+Pitnazepam 
+II 
+Pivampicillin 
+III 
+Pivampicillin + 
+Pivmecillinam 
+Hydrochloride 
+III/III 
+Pivmecillinam 
+Hydrochloride 
+III 
+Pizotifenum Hydrogen 
+Maleate 
+III 
+Podophyllotoxin 
+III 
+Posaconazole  
+II 
+Potassium Chloride 
+I 
+Potassium Citrate 
+III 
+Pramipexole 
+Dihydrochloride 
+Monohydrate 
+I 
+Pranlukast Hydrate 
+IV 
+Prasugrel Hydrochloride 
+II 
+Pravastatin  
+III 
+Prazepan  
+II 
+Praziquantel 
+II 
+Prednisone 
+I 
+Pregabalin 
+I 
+Pregabalin + Nortrityline 
+I/II 
+Prenoxdiazine 
+III 
+Primaquine Phosphate 
+I 
+Primidone 
+II 
+Probenecid 
+IV 
+Prochlorperazine Maleate 
+II 
+Procyclidine 
+Hydrochloride 
+III 
+Progesterone 
+II 
+Proguanil Hydrochloride 
+III 
+Prolinate Hcl 
+III 
+Promethazine Hcl  + 
+Bromhexine Hcl  
+I/II 
+Promethazine Hcl + 
+Codeine Phosphate + 
+Ephedrine Hcl 
+I/I/I 
+Promethazine Hcl + 
+Codeine Phosphte + 
+Ephedrine Hcl 
+I/I/I 
+Promethazine Hcl + 
+Dextromethorphan + 
+Guaiphenesin  
+I/II/I 
+Promethazine Hcl + 
+Diphenhydramine Hcl  
+I/I 
+Promethazine Hcl + 
+Pholcodeine 
+I/I 
+Promethazine 
+Hydrochloride 
+I 
+Promethazine 
+Hydrochloride + 
+Diphenhydramine Hcl + 
+Ephedrine Hydrochloride 
+I/I/1 
+Propafenon Hydrochloride 
+I 
+Propanthelien Bromide 
+III 
+Propranolol 
+I 
+Proquanil Hydrochloride 
+III 
+Protionamide 
+II 
+Prucalopride 
+I 
+Pryzinamide 
+III 
+Psendoephedrine + 
+Dextromethophan 
+I/II 
+Pseudeophedrine 
+Hydrochloride 
+I 
+Pseudoephedrin + 
+Diphenhydramin + 
+Bromhexin Hc1 
+I/I/II 
+Pseudoephedrine + 
+Codeine + Guaiphanisin  
+I/ (I, III)/I 
+Pseudoephedrine + 
+Guaephesin 
+I/I 
+Pseudoephedrine Hcl + 
+Acetaminophen + 
+Chlorpheniramine 
+Maleate 
+I/III/I 
+Pseudoephedrine Hcl + 
+Chlorpheniramine 
+I/I/III/I 
+ 
+ 
+ 
+26 
+Maleate + Paracetamol + 
+Caffeine Anhydrous 
+Pseudoephedrine Hcl + 
+Ibuprofen 
+I/II 
+Pseudoephedrine Hcl + 
+Loratadine 
+I/II 
+Psuedoephedrine Hcl  
+I 
+Pyrantel  
+IV 
+Pyrazinamide  
+III 
+Pyridostigmine Bromide 
+III 
+Pyridoxine Hydrochloride  
+III 
+Pyrimethamine 
+(II, IV) 
+Pyrimethamine 
++Sulfadoxine 
+(II, IV), I 
+Quetiapine Fumarate  
+II 
+Quinapril Hydrochloride  
+I 
+Quinidine Bisulphate  
+I 
+Quinine Bisulphate  
+(I, III) 
+Rabeprazole + Amoxicillin  III/I 
+Rabeprazole + 
+Clarithromycin 
++Amoxicillin  
+III/ (II, 
+IV)/I 
+Rabeprazole + 
+Levofloxacin +Amoxicillin  
+III/I/I 
+Rabeprazole Sodium 
+III 
+Rabeprazole Sodium + 
+Itopride Hydrochloride  
+III/I 
+Rabeprazole Sodium + 
+Levosulpiride   
+III/IV 
+Rabeprazole Sodium 
++Diclofenac Sodium  
+III/II 
+Rabeprazole Sodium 
++Domperidone  
+III/II 
+Racedadotril  
+II 
+Raloxifene Hydrochloride  
+II 
+Raltegravir  
+II 
+Ramipril  
+II 
+Ramipril +Felodipine  
+II/II 
+Ramipril 
++Hydrochlorothiazide  
+II/II 
+Rampicin +Isoniazid  
+II/III 
+Ranitidine  
+III 
+Ranolazine  
+II 
+Rebamipide  
+IV 
+Rebeprazole Sodium 
++Domeporidone  
+III/II 
+Regorafenib  
+II 
+Repaglinide  
+II 
+Ribavirine  
+III 
+Rifampicin  
+II 
+Rifampicin + Isoniazid  
+II/III 
+Rifampicin + Isoniazid 
++Ethambutol   
+II/III/ (I, 
+III) 
+Rifampicin + Isoniazid 
++Pyrazinamide + 
+Ethambutol  
+II/III/I/ (I, 
+III) 
+Rifampicin + Isoniazid 
++Pyrazinamide + 
+Pyridoxine  
+II/III/I/II 
+Rifampicin + 
+Pyrazinamide 
++Ethambutaol + Isoniazid  
+II/III/III/III 
+Rifampicin +Isoniazid + 
+Pyrazinamide  
+II/III/I 
+Rifampin + Isoniazid 
++Pyrazinamide 
++Ethambutol  
+II/III/I/ (I, 
+III) 
+Rifaximin 
+IV 
+Rilmenidine (As 
+Dihydrogen Phosphate)  
+II 
+Rilpivirine Hydrochloride  
+II 
+Riluzole  
+II 
+Risedronate Sodium 
+III 
+Risperidone 
+II 
+Ritonavir  
+(II, IV) 
+Rivaroxaban 
+II 
+Rizatriptan  
+III 
+Rofecoxib 
+II 
+Roflumilast 
+II 
+Ropinirole Hydrochloride 
+III 
+Rosiglitazone  
+II 
+Rosuvastatin 
+II 
+Roxithromycin 
+(II, IV) 
+Roxythromycin  
+(II, IV) 
+Ruxolitinib  
+I 
+Saccharomyces Boulardii  
+IV 
+Sacubitril + Valsartan  
+IV/II 
+Salbutamol  
+III 
+Salbutamol +Bromhexine 
++ Guaifenesin +Menthol  
+III/II/I/I 
+Salbutamol +Bromhexine 
++Guaiphensin +Menthol  
+III/II/I/I 
+Salbutamol +Bromhexine 
+Hydrochloride  
+III/II 
+Salicylic Acid  
+I 
+Saquinavir  
+IV  
+Saroglitazar Magnesium 
+II 
+ 
+ 
+ 
+27 
+Satranidazole  
+II 
+Saxagliptin  
+III 
+Saxagliptin + Metformin 
+Hydrochloride  
+III/III 
+Secnidazole 
+III 
+Seligiline Hydrochloride  
+III 
+Sennoside B 
+III 
+Sertraline Hcl 
+II 
+Silbutramine Hcl 
+Mononitrate  
+III 
+Sildenafil Citrate  
+II 
+Silodosin  
+II 
+Silodosin + Dutasteride  
+II 
+Silymarin  
+IV 
+Simvastatin  
+II 
+Sirolimus  
+II 
+Sitagliptin  
+III 
+Sitagliptin + Metformin 
+Hcl  
+III/III 
+Sodium Alendronate  
+III 
+Sodium Alginate + 
+III/II/ (II, 
+IV) 
+Sodium Alginate + 
+Sodium Bicarbonate  
+III/III 
+Sodium Alginate + 
+Sodium Hydrogen 
+Carbonate + Calcium 
+Carbonate  
+III/II/ (II, 
+IV) 
+Sodium Aluminium 
+Hydroxide + Dried 
+Aluminium Hydroxide + 
+Magnesium Trisilicate  
+IV/IV/IV 
+Sodium Biacrbonate + 
+Sodium Carbonate 
+Anhydrous  
+III/III 
+Sodium Bicarbonate 
+III 
+Sodium Bicarbonate + 
+Calcium Carbonate  
+  
+Sodium Bicarbonate 
++Calcium Carbonate 
+III/ (II, IV) 
+Sodium Bicarbonate 
++Sodium Alginate + 
+Calcium Carbonate  
+III/III/ (II, 
+IV) 
+Sodium Biphosphate  
+III 
+Sodium 
+Diphenylhydantoin  
+II 
+Sodium Valprorate 
+II 
+Sofosbuvir  
+III 
+Solifenacin Succinate  
+I 
+Sorafenib Tosylate  
+II 
+Sotagliflozin 
+II 
+Sotalol  
+I 
+Sotalol Hydrochloride + 
+Hydrochlorothiazide  
+I/II 
+Sparfloxacin  
+II 
+Spiramycine  
+III 
+Spironolactonce + 
+Furosemide  
+II/IV 
+Spironolatone  
+II 
+Stavudine 
+I 
+Stavudine + Lamivudine  
+I/III 
+Sufadoxine + 
+Pyrimethamine  
+I/IV 
+Sulfadiazine 
+IV 
+Sulfadoxine + 
+Pyrimethamine  
+I/IV 
+Sulfadoxine + 
+Pyrimethamine + 
+Amodiaquine 
+I/IV/ (I, III) 
+Sulfamethiazole 
+IV 
+Sulfamethoxazole + 
+Trimethoprim  
+II/II 
+Sulfamethoxypyridazine + 
+Pyrimethamine  
+II/ (II, IV) 
+Sulphasalazine  
+IV 
+Sulphathiazole  
+IV 
+Sumatriptan  
+III 
+Sumatriptan (As 
+Succinate) + Naproxen 
+Sodium 
+III/II 
+Sunitinib Maleate  
+(II, IV) 
+Tacrolimus 
+II 
+Tadalafil   
+II 
+Tamoxifen Citrate 
+II 
+Tamsulosin Hcl + 
+Dutasteride  
+I/II 
+Tamsulosin 
+Hydrochloride   
+I 
+Tamsulosin 
+Hydrochloride + 
+Tolterodine Tartrate  
+I/I 
+Tamulosin Hcl  
+I 
+Tapentadol Hydrochloride  I 
+Tegazerod  
+II 
+Telmisartan  
+II 
+Telmisartan + 
+Chlorthalidone  
+II/IV 
+Telmisartan + 
+Hydroclorthiazide  
+II/ (II, IV) 
+Temozolomide  
+I 
+ 
+ 
+ 
+28 
+Tenofovir Disoproxil 
+Fumarate+ Lamivudune + 
+Dolutegravir 
+III/III/II 
+Tenofovir 
+disoproxilfumarate + 
+Lamivudine + Efavirenz  
+III/III/II 
+Tenofovir Disporoxil 
+Fumarate  
+III 
+Tenoxicam 
+II 
+Terazosin Hydrochloride 
+Dihydrate  
+(I, III) 
+Terbinafine Hydrochloride 
+II 
+Terbutaline Sulphate  
+II 
+Terbutaline Sulphate + 
+Ambroxol + Guaifenesin  
+II/I/I 
+Terbutaline Sulphate + 
+Bromhexine Hcl  
+II/II 
+Terfenadine 
+II 
+Testosterone 
+II 
+Tetracycline 
+III 
+Theophyllin + 
+Guaiphenesin + Ambroxol  
+I/I/I 
+Theophylline 
+I 
+Theophylline + Ephedrine  I/I 
+Thiamine 
+II 
+Thiamine Hcl + Riboflavin 
+Phosphate + Pyridoxine 
+Hcl + Chlolecalciferol  
+III/I/I/ (II, 
+IV) 
+Thiamine Hcl + 
+Riboflavine + Pyridoxine + 
+Ascorbic Acid  
+III/I/ I/I 
+Thiocolchicoside 
+III 
+Thiocolchicoside + 
+Celocoxib 
+III/II 
+Thioridazine 
+Hydrochloride 
+I 
+Thyroxine Sodium  
+III 
+Tianeptine  
+I 
+Tibolone  
+II 
+Ticagrelor 
+IV 
+Ticlopidine 
+II 
+Timolol Maleate 
+I 
+Timolol Maleate + 
+Hydrochlorothiazide 
+I/II 
+Tinidazole 
+II 
+Tioconazole 
+II 
+Tizanidine  
+II 
+Tobramycin 
+III 
+Tobramycin + 
+Dexamethasone 
+III/1 
+Tofacitinib  
+III 
+Tolfenamic Acid 
+II 
+Tolnafrate 
+II 
+Tolperisone 
+I 
+Tolterodine 
+I 
+Tolvaptan 
+IV 
+Topiramate 
+(III, I) 
+Torasemide 
+I 
+Tracrolimus 
+II 
+Tramadol 
+I 
+Tramadol+ Paracetamol  
+I/ (III, I) 
+Tramterene 
+IV 
+Trandolapril 
+II 
+Trandolapril + Verapamil  
+II/I 
+Tranexamic Acid 
+I 
+Trazodone 
+II 
+Triamcinolone 
+IV 
+Trimetazidine 
+I 
+Trimethoprim 
+II 
+Trimethroprim + 
+Sulphamethoxazole 
+II/II 
+Ursodeoxycholic Acid 
+(II, IV) 
+Valacyclovir 
+III 
+Valproic Acid  
+I 
+Valsartan 
+II 
+Valsartan + Amlodipine 
+II/I 
+Valsartan + 
+Hydrochlorothiazide 
+II/II 
+Valsartan+ Amlodipine 
++Hydrochlorothiazide 
+II/I/II 
+Vardenafil  
+II 
+Venlafaxine  
+I 
+Verapamil  
+I 
+Vericiguat 
+II 
+Vildagliptin + Metformin 
+I/III 
+Vinpocetine 
+II 
+Vitamin D 
+(II, IV) 
+Vitamin D3 + Vitamin C  
+(II, IV)/ I 
+Vitamin D3 + Zinc 
+Sulphate Monohydrate  
+(II, IV) / III 
+Vitamin D3 
+Cholecalciferol 
+(II, IV) 
+Voglibose 
+II 
+Vonoprazan  
+III 
+Vonoprazan Fumarate 
+III 
+ 
+ 
+ 
+29 
+Voriconazole 
+(II, IV) 
+Vortioxetine (As 
+Hydrobromide) 
+I 
+Warfarin Sodium 
+I 
+Zafirlukast 
+II 
+Zidovudine  
+I 
+Zidovudine + Lamivudine  
+I/III 
+Zidovudine + Lamivudine 
++ Nevirapine 
+I/III/II 
+Zinc Sulphate  
+III 
+Zinc Sulphate +Thiamine 
+Hcl(Vit.B)+ 
+Riboflavin(Vit.B2) + Folic 
+Acid + Pyridoxine 
+Hcl(Vit.B6)  
+III/III/I/(III
+/1)/I 
+Zinc Sulphate 
+Monohydrate 
+III 
+Ziprasidone 
+II 
+Zofenopril Calcium 
+II 
+Zofenopril Calcium 
++Hydrochlorothiazide 
+II/II 
+Zolmitraptan 
+III 
+Zolpidem Tartrate 
+I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+4. REVISION HISTORY 
+Revision No: 
+Date 
+Author  
+Section(s) 
+revised  
+Description of change 
+1.  
+31/12/2024 
+QAO 
+Document 
+Number  
+Changed 
+the 
+document 
+number 
+from 
+HPT/PER/GUD/092 
+to 
+HPT/PER/GUD/026 
+ 
+ 
+ 
+ 
+ 
+ 
+31 
+5. REFERENCES 
+ 
+1. FDA 
+Circular: 
+https://www.fda.gov.ph/wp-
+content/uploads/2021/08/FDA-Circular- No.2013-014.pdf 
+2. https://www.pharmaspecialists.com/p/bcs-class-1-drugs-list.html 
+3. WHO guideline on biopharmaceutics Classification System-based 
+Biowaiver.Working 
+document 
+QAS/23.929 
+July 
+2023. 
+https://cdn.who.int/media/docs/default- 
+source/medicines/regulatory-updates/qas23.929-whoguideline-on-
+biopharmaceutics- 
+classification-system--based-biowaivers.pdf?sfvrsn=cb4c905b_1 
+4. World Health Organization (WHO) Expert Committee on Specifications 
+for Pharmaceutical Preparations. &quot; Annex 7: Multisource 
+(Generic) 
+Pharmaceutical 
+Products: 
+Guidelines 
+on 
+Registration 
+Requirements to Establish Interchangeability. & quot; World Health 
+Organization Technical Report Series, No. 992, 2015. 
+5. Guidance for Industry: Waiver of In Vivo Bioavailability and 
+Bioequivalence Studies for Immediate-Release Solid Oral Dosage Forms 
+Based on a Biopharmaceutics Classification System, U.S. Food and 
+Drug Administration, 2017. 
+6. International Pharmaceutical Federation (FIP), & quot;FIP Guidelines 
+for Pharmaceutical Quality Systems, & quot; 2nd Edition, 2016. 
+7. Multisource 
+(generic) 
+pharmaceutical 
+products: 
+guidelines 
+on 
+registration requirements to 521 establish interchangeability. In: WHO 
+Expert 
+Committee 
+on 
+Specifications 
+for 
+Pharmaceutical 
+522 
+Preparations: fifty-first report. WHO Technical Report Series No. 1003, 
+Annex 
+6. 
+Geneva: 
+World 
+523 
+Health 
+Organization; 
+2017 
+(https://www.who.int/publications/m/item/annex-6-trs-1003 
+524 
+accessed on 3 March 2024). 
+8. Biopharmaceutics 
+Classification 
+System-Based 
+Biowaivers. 
+ICH 
+harmonized guideline M9, current step 4 version, November 2019. 
+International Conference on 
+ 
+ 
+ 
+32 
+Harmonization 
+of 
+Technical 
+Requirements 
+for 
+Registration 
+of 
+Pharmaceuticals 
+for 
+Human 
+Use; 
+2019 
+528(https://database.ich.org/sites/default/files/M9_Guideline_Step4
+_2019_1116.pdf accessed on 07 March 2024). 

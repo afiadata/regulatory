@@ -1,0 +1,4035 @@
+HPT/PER/GUD/091 
+               Rev. No: 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUIDELINES ON RELIANCE MECHANISMS FOR MARKETING 
+AUTHORIZATION OF HEALTH PRODUCTS AND TECHNOLOGIES IN 
+KENYA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+©JANUARY, 2025
+ 
+ 
+ 
+ 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on the condition that the recommended citation below 
+is made. 
+  
+Recommended citation: Republic of Kenya, Ministry of Health, Pharmacy 
+and Poisons Board, Guidance on Reliance for Regulatory Decision Making in 
+Kenya, Version 0, 2025 
+©Pharmacy and Poisons Board, 2025  
+All rights reserved: 
+  
+No part of this publication may be reproduced, stored in a retrieval system, 
+or transmitted in any form, or by any means, electronic, mechanical, 
+photocopying, recording, scanning, or otherwise, without prior permission in 
+writing from the Pharmacy and Poisons Board. 
+  
+  
+For clarifications, comments, or suggestions, please contact: 
+  
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+Website: www.pharmacyboardkenya.org 
+ 
+ 
+ 
+ 
+ 
+ii
+Table of Contents 
+FOREWORD .................................................................................................. v 
+ABBREVIATIONS AND ACRONYMS ............................................................ vii 
+ACKNOWLEDGEMENTS .............................................................................. ix 
+GLOSSARY.................................................................................................... x 
+1.0 
+INTRODUCTION .................................................................................. 1 
+1.1 
+SCOPE ............................................................................................. 2 
+2.0 
+PRINCIPLES OF RELIANCE ................................................................. 2 
+2.1 
+Sovereignty: ..................................................................................... 3 
+2.2 
+Legal basis: ...................................................................................... 3 
+2.3 
+Transparency ................................................................................... 3 
+2.4 
+Competency ..................................................................................... 4 
+2.5 
+Consistency:..................................................................................... 5 
+2.6 
+Universality ...................................................................................... 5 
+3.0 
+PART 1: HEALTH PRODUCTS RELIANCE FRAMEWORK .................... 6 
+3.1 
+RELIANCE EVALUATION PATHWAYS .............................................. 6 
+3.1.1 
+Verification ................................................................................ 6 
+3.1.2 
+Abridged .................................................................................... 7 
+3.1.3 
+Joint assessment or work-sharing ............................................. 8 
+3.1.4 
+Recognition: ............................................................................... 8 
+3.2 
+ELIGIBILITY 
+CRITERIA 
+FOR 
+SELECTION 
+OF 
+REFERENCE 
+REGULATORY AUTHORITY OR REFERENCE INSTITUTIONS.................... 9 
+3.2.1 
+General Documentation Required for Reliance Applications .... 10 
+3.2.2 
+For biologics including vaccines, reliance on testing carried out 
+by the National Reference Laboratory and/or Reference Institutions shall 
+serve as a basis for Marketing Authorization. ....................................... 12 
+3.2.3 
+Specific Requirements for Reliance Pathways .......................... 12 
+3.2.4 
+RELIANCE MECHANISMS IN HANDLING VARIATIONS. .......... 17 
+ 
+ 
+ 
+ 
+iii 
+3.2.5 
+ASSESSMENT TIMELINES ...................................................... 18 
+4.0 
+PART 2: RELIANCE FRAMEWORK FOR MEDICAL DEVICES AND IVDs.
+ 
+20 
+4.1 
+RELIANCE MECHANISMS USED IN REGISTRATION OF MEDICAL 
+DEVICES AND IN-VITRO DIAGNOSTICS ................................................. 20 
+4.2 
+RELIANCE PATHWAYS FOR MEDICAL DEVICES AND IVD’S ........ 20 
+4.3 
+RECOGNITION OF Market Authorization FOR MEDICAL DEVICES
+ 
+22 
+4.4 
+REFERENCE 
+REGULATORY 
+AUTHORITIES 
+FOR 
+RELIANCE 
+EVALUATION FOR MEDICAL DEVICES AND IVD’S. ................................ 23 
+4.5 
+RELIANCE EVALUATION PATHWAYS FOR MEDICAL DEVICES .... 24 
+4.6 
+ELIGIBILITY 
+CRITERIA 
+AND 
+REQUIRED 
+DOCUMENTS 
+FOR 
+RELIANCE EVALUATION. ........................................................................ 25 
+4.6.1 
+Conformity assessment process as determined by the device class
+ 
+25 
+4.7 
+Regulatory pathways for pre-market conformity assessment of 
+medical devices based on reliance ........................................................... 26 
+4.8 
+RELIANCE MECHANISMS USED IN REGISTRATION OF IN-VITRO 
+DIAGNOSTICS. ........................................................................................ 32 
+4.9 
+Requirements for IVDs Reliance Applications ................................ 32 
+4.9.1 
+Abridged Evaluation of IVDs .................................................... 33 
+4.10 
+Turnaround time for Medical Devices and IVDs .......................... 34 
+5.0 
+IMPLEMENTATION MECHANISM ...................................................... 34 
+6.0 
+REFERENCES ................................................................................... 36 
+7.0 
+REVISION HISTORY .......................................................................... 37 
+8.0 
+LIST OF CONTRIBUTORS AND REVIEWERS .................................... 38 
+9.0 
+List of Annexes .................................................................................. 39 
+10.0 
+Links to Appendices: ...................................................................... 39 
+Annex I: List of RRAs/RIs ........................................................................ 41 
+ 
+ 
+ 
+ 
+iv 
+Annex II: Confirmation of data sharing .................................................... 42 
+Annex III: QIS-RRA-FPP ........................................................................... 43 
+Annex 1V: Health Products Reliance Screening Checklist ....................... 57 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+v 
+FOREWORD 
+The guidelines on reliance mechanisms for marketing authorization of health 
+products and technologies in Kenya developed by the Pharmacy and Poisons 
+Board (PPB) of Kenya represents a significant step towards optimizing the 
+country’s regulatory processes for health products and technologies. This 
+guidance is a result of a collaborative effort between PPB staff, development 
+partners, and key stakeholders, drawing on insights from international, 
+regional, and local dialogues. The central objective is to maximize the effective 
+use of limited resources while ensuring timely and robust regulatory 
+outcomes. 
+ 
+The concept of reliance enables National Regulatory Authorities (NRAs) in Low 
+and Middle-Income Countries (LMICs) to utilize the regulatory decisions of 
+Stringent Regulatory Authorities (SRAs), such as those recognized by the 
+World Health Organization (WHO). This approach allows LMICs to conserve 
+valuable resources by relying on the comprehensive evaluations conducted by 
+SRAs, thereby reducing the need for duplicative assessments and accelerating 
+approval timelines for essential health products and technologies. 
+It also provides a resource-efficient alternative to the traditional, full 
+assessment pathway for product approval. It focuses on products that have 
+already been verified for quality, safety, and efficacy/performance in the case 
+of Medical Devices. This is particularly beneficial for LMICs, as it allows them 
+to prioritize national-specific regulatory activities, ensuring quicker access to 
+quality health products and technologies without compromising safety. 
+ 
+While Marketing Authorization (MA) is the most prominent regulatory 
+function of focus, reliance extends beyond this to include other key areas 
+including: Pharmacovigilance, Post-market surveillance, Clinical Trials and 
+Good Manufacturing Practices (GMP) oversight. 
+ 
+The implementation of reliance principles will significantly enhance the 
+efficiency and effectiveness of Kenya’s regulatory system. The anticipated 
+benefits include; improved regulatory efficiency: Reliance reduces the time 
+and resources required for local product assessments, thus enabling faster 
+ 
+ 
+ 
+ 
+vi 
+access to life-saving medications and technologies, stronger public health 
+systems: With a streamlined regulatory process, Kenya’s preparedness and 
+response capabilities during public health emergencies will be significantly 
+enhanced.  Consistency in decision-making: Reliance practices ensure 
+uniformity and consistency in regulatory decisions, leading to more 
+predictable and transparent outcomes in product approvals. With regards to 
+global collaboration and by adopting international best practices, Kenya can 
+strengthen its alignment with global regulatory standards, fostering greater 
+cooperation within the global health ecosystem. 
+ 
+ 
+Dr. Fred M. Siyoi 
+Chief Executive Officer
+ 
+ 
+ 
+ 
+vii
+ABBREVIATIONS AND ACRONYMS 
+ABRF 
+African Blood Regulators Forum Biomolecular  
+AMA 
+African Medicines Agency 
+AESI 
+Adverse event of special interest 
+AVAREF  
+African Vaccine Regulatory Forum  
+API 
+Active Pharmaceutical Ingredient 
+BE 
+Bioequivalence 
+BTP 
+Biotherapeutic products 
+COA 
+Certificate of analysis 
+CEP 
+Certificate of Suitability from the European Pharmacopeia 
+CPP 
+Certificate of Pharmaceutical Product  
+CTD 
+Common Technical Document 
+CV 
+Curriculum Vitae 
+CPQ 
+   Confirmation of Prequalification 
+CRO 
+Clinical Research Organization 
+EAC 
+East African Community  
+EAC- MRH 
+East Africa Medicines Registration Harmonization 
+EDQM 
+European Directorate for the Quality of Medicines and 
+Healthcare 
+EFTA 
+European Free Trade Association 
+EMA  
+European Medicines Authority 
+EU 
+European Union 
+EUA 
+Emergency Use Authorization 
+EUL 
+Emergency Use Listed 
+EU-M4ALL 
+European Union Medicines for all 
+EUCU 
+Emergency use and compassionate use 
+EPAR 
+European Public Assessment Report 
+DPER 
+Directorate of Product Evaluation and Registration 
+FPP 
+Finished Pharmaceutical Product 
+GCP 
+Good Clinical Practices 
+GMP 
+Good Manufacturing Practice 
+HPT 
+Health Products and Technologies  
+ICH 
+International Conference on Harmonization (of Technical 
+Requirements for Registration of Pharmaceuticals for 
+Human use) 
+IFU 
+Instructions For Use 
+ILAC 
+International Laboratory Accreditation 
+IR 
+Immediate Route 
+IVDs 
+In Vitro Diagnostics 
+ 
+ 
+ 
+ 
+viii
+Japan 
+(MHLW 
+/PMDA) 
+Japan, 
+Ministry 
+of 
+Health 
+Labour 
+and 
+Welfare/ 
+Pharmaceuticals and Medical Devices Agency. 
+IGAD 
+Intergovernmental Authority on Development  
+  LMIC 
+Low- and Middle-income country 
+LTR 
+Local technical representative 
+NCL 
+National control laboratory 
+NMRA 
+National Medicines Regulatory Authorities 
+MA 
+Marketing Authorization  
+MAGHP 
+Swiss medic Marketing Authorization for Global Health 
+Products  
+MAH 
+Marketing Authorization Holder 
+MHRA 
+Medicines and Health Products Regulatory Agency 
+MRH 
+Medicines Regulatory Harmonization 
+PASS 
+Post authorization safety studies 
+PIDM 
+Program for International Drug Monitoring  
+PIC/S 
+Pharmaceutical Inspection Cooperation Scheme 
+PIL 
+Patient information leaflet 
+PPB 
+Pharmacy and Poisons Board 
+PQT 
+Pre-Qualification Team 
+PRIMS 
+PPB Regulatory Information Management System 
+PV 
+Pharmacovigilance  
+QC  
+Quality Control 
+QIS 
+Quality information summary 
+REC 
+   Regional economic communities 
+RI 
+   Reference institution  
+RMNCH 
+   Reproductive, Maternal, Newborn and Child Health  
+RMP 
+Risk management program 
+RRA 
+Reference Regulatory authority 
+SF 
+Substandard and Falsified 
+SmPC 
+Summary of Product Characteristics  
+SRA 
+Stringent Regulatory Authority  
+UHC 
+Universal Health Coverage  
+UMC 
+Uppsala Monitoring Centre 
+US FDA 
+US Food and Drug Administration 
+WHO 
+World Health Organization 
+WHO-PQ 
+World Health Organization Prequalification 
+WLA 
+WHO -listed Authorities 
+ 
+ 
+ 
+ 
+ 
+ix 
+ACKNOWLEDGEMENTS   
+The PPB acknowledges the support of the Kenyan Ministry of Health for policy 
+direction and enabling international conventions supporting reliance 
+mechanisms in Kenya, the World Health Organization (WHO) for its leadership 
+on reliance frameworks and whose reliance document formed the basis of 
+developing this document, the Bill & Melinda Gates Foundation for financial 
+support under the Last Authorization Mile and Backlog Clearance Project-
+Kenya, the African Medicines Agency (AMA) for spearheading the continental 
+reliance mechanisms, and WHO Listed Authorities for serving as regulatory 
+references. 
+ 
+In particular, the Board appreciates its staff from the Product Evaluation and 
+Registration for their efforts in ensuring these guidelines was completed and 
+effective implementation to ensure efficient registration of Health Products 
+and Technologies.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x
+GLOSSARY 
+Definitions listed below are essential to ensure a common understanding of 
+concepts and clarity in interpreting guidance on reliance.  
+Abridged 
+regulatory 
+pathways 
+Regulatory procedures facilitated by reliance, whereby a 
+regulatory decision is solely or partially based on application 
+of reliance. It is expected that use of reliance in these pathways 
+will save resources and time as compared with standard 
+pathways, while ensuring that the standards of regulatory 
+oversight are maintained  
+Assessment 
+For this document, this term covers any evaluation conducted 
+for a regulatory function (e.g., evaluation of a clinical trial 
+application or of an initial marketing authorization for a 
+medical product or any subsequent post-authorization 
+changes, evaluation of safety data, evaluation as part of an 
+inspection).  
+Authority 
+Refers to Pharmacy and Poisons Board, also referred to as the 
+Board. 
+Emergency Use 
+Authorization: 
+Emergency use means a mechanism to facilitate the 
+availability and use of medical countermeasures upon 
+declaration of public health emergencies i.e. the use of a 
+medicine (therapeutic), vaccine, or in vitro diagnostic or 
+medical device) on patients in a life-threatening situation or 
+condition, including chemical, biological, radiological, or 
+nuclear attack, in which no standard treatment or diagnostic 
+is available, and there is no sufficient time to obtain product 
+registration.  
+Equivalence of 
+regulatory 
+systems: 
+Implies strong similarity between two regulatory systems, as 
+mutually established and documented through objective 
+evidence. Equivalence can be established using criteria and 
+approaches such as similarity of the regulatory framework and 
+practices, adherence to the same international standards and 
+guidelines, experience gained in use of assessments for 
+regulatory decision making, joint activities and exchanges of 
+staff. It is expected that equivalent regulatory systems will 
+result in similar standards and levels of regulatory oversight 
+or “control”.  
+Expedited 
+Pathway 
+Reliance pathway designed for higher-risk devices that have 
+prior approvals from multiple reference regulatory agencies 
+and meet specific criteria. They are fast-tracked for urgent or 
+breakthrough treatment or diagnostics. 
+ 
+ 
+ 
+ 
+xi 
+Immediate 
+Pathway 
+This pathway allows for automatic or near-instant recognition 
+of a medical device or IVD if it has been approved by a stringent 
+regulatory authority. 
+International 
+standards and 
+guidelines: 
+For this document, the term includes relevant WHO standards 
+and guidelines and any other relevant internationally 
+recognized standards (e.g., International Organization for 
+Standardization or pharmacopeial standards) and guidelines 
+(e.g., International Council on Harmonization of Technical 
+Requirements for Pharmaceuticals for Human Use [ICH] or 
+guidelines of the Pharmaceutical Inspection Convention and 
+Pharmaceutical Inspection Cooperation Scheme [PIC/S]).  
+In 
+Vitro 
+Diagnostics 
+A medical device, used alone or in combination, intended by 
+the manufacturer for the in vitro examination of specimens 
+derived from the human body solely or principally to provide 
+information for diagnostic, monitoring or compatibility 
+purposes. 
+Joint 
+assessment/ 
+Work-sharing: 
+A process by which NRAs of two or more jurisdictions share 
+activities to accomplish a specific regulatory task. The 
+opportunities for work- sharing include joint assessment of 
+applications for authorization of clinical trials or marketing 
+authorizations, joint inspections for good practices, joint post 
+marketing surveillance of the quality and safety of medical 
+products, joint development of technical guidelines or 
+regulatory standards and collaboration on information 
+platforms and technology.  
+Medical Device Any instrument, apparatus, implement, machine, appliance, 
+implant, reagent for in vitro use, software, material or other 
+similar or related article, intended by the manufacturer to be 
+used, alone or in combination, for human beings, for one or 
+more of the specific medical purposes (s) of:  
+a. diagnosis, prevention, monitoring, treatment or alleviation 
+of disease, 
+b. diagnosis, 
+monitoring, 
+treatment, 
+alleviation 
+of 
+or 
+compensation for an injury,  
+c. investigation, replacement, modification, or support of the 
+anatomy or of a physiological process,  
+d. supporting or sustaining life, 
+e. control of conception,  
+f. disinfection of medical devices,  
+g. providing information by means of in vitro examination of 
+specimens derived from the human body;  
+h. disinfection substances, i. aids for persons with disabilities, 
+devices incorporating animal and/or human tissues, 
+i. k. Devices for in-vitro fertilization or assisted reproduction 
+technologies.  
+ 
+ 
+ 
+ 
+ 
+xii
+Mutual 
+recognition 
+agreement:   
+A principle of international law whereby states party to mutual 
+recognition agreements recognize and uphold legal decisions 
+taken by competent authorities in another member state. 
+Mutual recognition is a process which allows conformity 
+assessments (such as, of qualifications and product) carried 
+out in one country to be recognized in another country. 
+Recognition: 
+Acceptance of the regulatory decision of another regulator or 
+trusted institution. Recognition should be based on evidence 
+that the regulatory requirements of the reference regulatory 
+authority are sufficient to meet the regulatory requirements of 
+the relying authority. Recognition may be unilateral or mutual 
+and may, in the latter case, be the subject of a mutual 
+recognition agreement.  
+Reference 
+Regulatory 
+Authority: 
+A regulatory authority whose regulatory decisions and/or 
+regulatory work processes are relied upon by another 
+regulatory authority to inform its own regulatory decisions.  
+Reference 
+Institution  
+Continental/Regional authority or a trusted institution such 
+as WHO prequalification (WHO PQ) whose regulatory decisions 
+and/or regulatory work processes are relied upon by another 
+regulatory authority to inform its own regulatory decisions. 
+Regional 
+regulatory 
+system: 
+A system composed of individual regulatory authorities, or a 
+regional body composed of individual regulatory authorities, 
+operating under a common regulatory framework but not 
+necessarily under a common legal framework. The common 
+framework must at least ensure equivalence among the 
+members in terms of regulatory requirements, practices and 
+quality assurance policies. The system or regional body may 
+have enforcement powers to ensure compliance with the 
+common regulatory framework.  
+Reliance: 
+The act whereby the regulatory authority in one jurisdiction 
+takes into account and gives significant weight to assessments 
+performed by another regulatory authority or trusted 
+institution, or to any other authoritative information, in 
+reaching its own decision. The relying authority remains 
+independent, responsible and accountable for the decisions 
+taken, even when it relies on the decisions, assessments and 
+information of others.  
+Reliance 
+Pathways  
+An alternative application or assessment pathway used by the 
+authority 
+in 
+its 
+regulatory 
+decision-making 
+regarding 
+marketing authorization of a product based on assessment 
+outcomes 
+of 
+Reference 
+regulatory 
+authority 
+(ies) 
+or 
+institutions. 
+ 
+Sameness 
+of 
+product: 
+For this document, sameness of product means that two 
+products have identical essential characteristics (i.e., the 
+product being submitted to the relying authority and the 
+product approved by the reference regulatory authority should 
+ 
+ 
+ 
+ 
+xiii
+be the same). Sameness does not need to be represented by 
+identical manufacturing sites but rather product should be 
+under same quality system.  
+All relevant aspects of drugs, medical devices and in vitro 
+diagnostics, including those related to the quality of the 
+product and its components, should be considered to confirm 
+that the product is the same or sufficiently similar (e.g. same 
+qualitative and quantitative composition, same strength, same 
+pharmaceutical 
+form, 
+same 
+intended 
+use, 
+same 
+manufacturing 
+process, 
+same 
+suppliers 
+of 
+active 
+pharmaceutical ingredients, same quality of all excipients). 
+Additionally, the results of supporting studies of safety, 
+efficacy and quality, indications and conditions of use should 
+be the same. The impact of potential justified differences 
+should be assessed by the manufacturer (for the purpose of 
+this 
+document, 
+manufacturer 
+also 
+means 
+marketing 
+authorization holder) and the relying national regulatory 
+authority (NRA) in determining the possibility of using foreign 
+regulatory assessments or decisions.  
+This could also be applied when assessing Medical Devices and 
+IVDs whereas the performance of the medical device should 
+confirm for sameness.  
+Secondary 
+Review: 
+Refers to where NRAs may perform secondary reviews of the 
+shared assessment and inspection outcomes from the PQT or 
+reference NRA. Moreover, this approach may be essential 
+where the NRA is involved or participates in the initial reviews, 
+for example, joint reviews between the NRA and the PQT or in 
+special access mechanisms by reference SRAs that have 
+provisions for NRA participation. As a result, the NRA’s input 
+may be incorporated into the final decision of the PQT or the 
+reference SRA, thereby facilitating a concurrent regulatory 
+decision where a parallel submission has been made. 
+ 
+Stringent 
+regulatory 
+authority: 
+A regulatory authority which is:  
+a. a member of the International Council for Harmonization 
+of Technical Requirements for Pharmaceuticals for 
+Human Use (ICH), being the European Commission, the 
+US Food and Drug Administration and the Ministry of 
+Health, Labour and Welfare of Japan also represented by 
+the Pharmaceuticals and Medical Devices Agency (as 
+before 23 October 2015); or  
+b. an ICH observer, being the European Free Trade 
+Association, as represented by Swissmedic, and Health 
+Canada (as before 23 October 2015); or  
+c. a regulatory authority associated with an ICH member 
+through a legally-binding, mutual recognition agreement, 
+ 
+ 
+ 
+ 
+xiv
+including Australia, Iceland, Liechtenstein and Norway 
+(as before 23 October 2015) 
+Trusted 
+Institution: 
+Means a regional or international institution that is involved 
+in assessment and approval (prequalification) of medicines for 
+human use such as WHO prequalification (WHO PQ), IGAD, 
+AMA, EMA, EAC etc whose assessment outcomes or regulatory 
+decisions are relied upon by the Pharmacy and Poisons Board  
+ 
+Unilateral 
+Recognition:  
+When a country chooses to rely on or formally recognize an 
+assessment from another country unilaterally and without 
+reciprocity. 
+ 
+Verified review 
+ 
+A streamlined review based primarily on verifying, instead of 
+evaluating, information submitted in the application against 
+information which has already been approved by WHO or a 
+Recognised Regulatory Authority. Note that un-redacted 
+reports are required for verified reviews as a fall-back option 
+for evaluators. 
+WHO 
+listed 
+authorities 
+A WHO Listed Authority (WLA) is a regulatory authority (RA) or 
+a regional regulatory system (RRS) that complies with all the 
+relevant indicators and requirements specified by WHO for 
+regulatory 
+capability 
+as 
+defined 
+by 
+an 
+established 
+benchmarking and performance evaluation process. A 
+regulatory authority provides the framework that supports the 
+WHO recommended regulatory functions. This is the authority 
+and affiliated institutions that are responsible for regulatory 
+oversight of medical products in a given country or region and 
+in charge of assuring the quality, safety and efficacy of medical 
+products as well as ensuring the relevance and accuracy of 
+product information. 
+Reference 
+Regulatory 
+Authority 
+for 
+Medical Devices 
+A reference regulatory Authority (RRA) is a regulatory authority 
+or a regional regulatory system such as the European union 
+that complies with all the relevant indicators and requirements 
+for the regulation of medical devices. This authority and 
+affiliated institutions are responsible for regulatory oversight 
+of medical devices in a given country or jurisdiction and 
+responsible for ensuring the quality, safety and performance. 
+The RRA is a member of the International medical devices 
+regulators forums, and whose regulatory decisions can be 
+relied upon by the PPB.     
+ 
+ 
+ 
+ 
+1
+1.0 
+INTRODUCTION  
+This document provides guidance on the modalities, processes, and 
+procedures employed by the Pharmacy and Poisons Board (PPB) to implement 
+reliance and/or utilize relevant Marketing Authorization (MA) decisions, 
+reports, or information from other National Regulatory Authorities (NRAs), 
+regional, and international bodies. 
+ 
+The PPB, recognizing the principles of Good Reliance Practices as outlined by 
+the World Health Organization (WHO), strives to strengthen its regulatory 
+system through efficient and effective reliance strategies. This approach 
+enables the PPB to leverage the expertise and resources of other competent 
+authorities while focusing its efforts on value-added activities crucial for the 
+Kenyan market, such as, Vigilance by monitoring the safety and effectiveness 
+of medicines post-market, Market Surveillance by ensuring the quality and 
+authenticity of HPTs in the Kenyan market, Local Manufacturing and 
+Distribution by supporting and overseeing the growth of local pharmaceutical 
+industries, and Quality Control that enhances the quality assurance of HPTs 
+through robust laboratory testing and inspection programs. 
+ 
+Reliance approaches facilitate timely access to safe, effective, and quality-
+assured HPTs for the Kenyan population. They are particularly valuable 
+during public health emergencies, enabling rapid regulatory responses. 
+ 
+In today's dynamic global healthcare landscape, NRAs face numerous 
+challenges, including: globalization of markets, rapid advancements in health 
+products and technologies, evolving regulatory science, Complex supply 
+chains and growing public expectations and resource constraints including 
+limited human, financial, and infrastructural resources. 
+ 
+These challenges underscore the critical need for international cooperation to 
+ensure the safety, quality, and efficacy/effectiveness of HPTs in Kenya. By 
+embracing enhanced collaboration and reliance strategies, the PPB aims to:  
+ 
+ 
+ 
+ 
+ 
+2
+a) Optimize resource utilization by avoiding unnecessary duplication of 
+efforts and focus resources on areas of greatest need. 
+b) Leverage on international expertise by gaining access to the knowledge and 
+experience of other competent authorities. 
+c) Facilitate timely access to medicines by ensuring timely availability of 
+essential and innovative medicines for the Kenyan population 
+d) Strengthen regulatory capacity by enhancing the PPB's scientific and 
+technical capabilities through knowledge exchange and training. 
+The attainment of Universal Health Coverage (UHC) in Kenya hinges on the 
+availability of quality-assured medicines and health technologies. PPB is 
+committed to strengthening its regulatory system through strategic reliance 
+partnerships to ensure access to quality, safe, efficacious medicines and 
+effective medical devices and IVD’s for all Kenyans. 
+1.1 
+SCOPE 
+This guidance provides a framework to marketing authorization holders on 
+the requirements for registration using the reliance principles for medicines, 
+vaccines, blood and blood products, food supplements, herbal products, 
+cosmetics, medical devices, and in-vitro-diagnostics.   
+The guideline is applicable to evaluations for initial marketing authorization, 
+post-approval changes, and renewals of applications submitted under both 
+routine and non-routine (EUCU) procedures in Pharmacy and Poisons Board. 
+This guidance is not applicable to applications for donations and unregistered 
+HPTs. 
+Reliance practices can also be used for quality audits of medical devices using 
+the medical devices single audit program (MDSAP). 
+ 
+ 
+2.0 
+PRINCIPLES OF RELIANCE  
+The adopted principles of reliance are in line with the WHO recommendations 
+and PPB will use these to optimize innovative and more effective forms of 
+collaboration to make the best use of the available resources and expertise, 
+avoid duplication to ensure quality, safe and efficacious Health Products and 
+Technologies. 
+ 
+ 
+ 
+ 
+3
+For further guidance, please refer to “Good reliance practices in the regulation 
+of medical products: high level principles and considerations” Annex 10 
+contained in Fifty-fifth report of the WHO Expert Committee on Specifications 
+for Pharmaceutical Preparations.  
+There are six (6) high level principles of reliance that are intended to 
+complement and extend the basic principles of good reliance practices. These 
+principles are: Sovereignty of decision making, respect for national and 
+regional legal bases, transparency, universality, consistency and competence. 
+2.1 
+Sovereignty:  
+Reliance is a sovereign decision. The Board will decide when and how to use 
+reliance and in which circumstances. In implementing reliance, the Board 
+shall maintain its independence, sovereignty and accountability in regulatory 
+decision making.   
+2.2 
+Legal basis:  
+The legal basis for reliance procedure is anchored under Sections 3A(c) and 
+3B(r) of the Pharmacy and Poisons Act CAP 244, the pharmacy and poisons 
+(registration of health products and technologies) rules, 2022 -rule No 7 on 
+Collaborative measures when processing application for registration and the 
+EAC Corporation Protocol for Medicines Harmonization Program 2018. 
+2.3 
+Transparency  
+The board will implement reliance mechanisms through unselective 
+application of the law, guidelines and procedures by all the parties involved 
+in regulation. The Board, as relying on NRA, shall provide to all parties clearly 
+defined standards, processes and approaches adopted in implementing 
+reliance measures.  
+The approaches undertaken by the Board in implementation of the reliance 
+system shall include all aspects of quality and transparency including 
+screening, evaluation by first Assessor, second Assessor and quality 
+assurance steps as defined in PPB quality management system. Regulatory 
+decisions made through reliance shall be published and made available by 
+PPB for purposes of information sharing. 
+ 
+ 
+ 
+ 
+4
+The Board shall make use of published information from the websites of 
+reference NRAs or other relevant organizations where applicable as primary 
+sources of information for assessment of applications.  
+In some cases, the Board may request manufacturers or applicants to provide 
+assessment reports and any other information that may make it easier for the 
+implementation of reliance approach. The Board may ask a manufacturer or 
+an applicant to give consent, for a reference agency to provide it with 
+assessment reports that may not be already published.  
+2.4 
+Competency  
+The Board shall use its available technical competencies to undertake critical 
+decision making for the proper implementation of the reliance guidelines. 
+The competency framework and curricula are useful tools to identify and 
+develop training programmes for regulators at different levels. At PBB, all 
+training programmes will incorporate tools that facilitate regulatory reliance, 
+such as mutual recognition agreements, regulatory reliance principles and 
+the WHO prequalification process.  
+The adoption of common competence requirements and performance 
+standards at the national, regional and continental level, using standardized 
+assessment tools, will enable regional, continental and international 
+collaborations and reliance among NRAs as per the Global Competency 
+Framework for Regulators of Medicines.  
+These competencies shall be built through the following but not limited to; 
+i. 
+Training programmes 
+ii. 
+Benchmarking against the reference authorities processes to build 
+trust on capacities 
+iii. 
+Induction training of new assessors by experienced assessors 
+iv. 
+On job training for assessors  
+v. 
+Attachment of assessor at WHO dossier assessment sessions 
+vi. 
+Participation of assessors in WHO dossier assessment activities 
+vii. 
+Participation of assessors in EAC dossier assessment activities 
+viii. 
+Participation of assessors in IGAD dossier assessment sessions 
+ 
+ 
+ 
+ 
+5
+ix. 
+Bilateral engagement with sister NRAs 
+x. 
+Involvement of technical experts in dossier assessment 
+xi. 
+Participation of assessors in WHO-Collaborative registration 
+Procedures for In-Vitro Diagnostics. 
+2.5 
+Consistency:  
+The Board shall implement a clearly defined process for practising reliance 
+that will be transparent and predictable. The Board plans to develop an online 
+for tracking reliance applications and timelines to market authorization. 
+Reliance shall be applied consistently for products/ processes in the same 
+predetermined categories. 
+ 
+2.6 
+Universality 
+Reliance applies to all NRAs irrespective of their levels of maturity or 
+resources. Reliance is relevant for all resource settings and different NRAs use 
+reliance for different reasons. For example, some use it to increase technical 
+in-house capacity. Others use to get expertise they do not have locally.
+ 
+ 
+ 
+ 
+6
+3.0 
+PART 1: HEALTH PRODUCTS RELIANCE FRAMEWORK 
+3.1 
+RELIANCE EVALUATION PATHWAYS  
+Reliance-based evaluations are based on the level of risk that the agency is 
+prepared to accept. The implementation of this risk-based evaluation shall 
+consider criteria such as the number and location of prior approvals, the 
+length of time a product may have been on the market, the quality (similarity) 
+of the product, local public health needs and priorities, level of resources and 
+expertise available in a NRA and unmet medical needs. 
+Reliance based applications are reviewed by the board through the following 
+Four (4) types of assessment pathways: Verification, Abridged, Joint 
+assessment or work sharing and recognition 
+3.1.1 Verification  
+In verification reviews, the agency recognises a previous authorisation of a 
+product by a reference or benchmark agency. In this process, the agency 
+validates this prior review while ensuring that the product conforms to local 
+requirements and authorised product specifications. 
+Verification is based primarily on verifying, instead of evaluating, information 
+submitted against information which has already been approved by a 
+reference regulatory authority. 
+The board shall undertake verification assessment of the product 
+information/dossier submitted for registration to ensure that the HPT is the 
+same as the one that has been approved by the reference regulatory authority.  
+Sameness of a product shall be confirmed as follows: 
+i. 
+The submitted product for marketing authorization shall have 
+the same qualitative and quantitative formulation as the one 
+approved by the reference regulatory authority.  
+ii. 
+The products seeking approval shall have the same 
+manufacturing site(s) for API and FPP including specific 
+block(s)/unit(s), chain, processes, control of materials and 
+final product, and in the case of vaccines also by the same 
+batch release scheme. Any additional sites, regardless of their 
+GMP status, are not acceptable under this procedure. Any 
+ 
+ 
+ 
+ 
+7
+changes or variations to include additional sites should be 
+approved by the reference regulatory authority before 
+inclusion in the dossier application. 
+iii. 
+The product seeking marketing authorization with the board 
+should have the same specifications for excipient, API and FPP 
+as the one approved in the reference regulatory authority.  
+iv. 
+The two products should have the same essential elements of 
+product information. (The essential elements of product 
+information will include the indications, contraindications, 
+posology (dosing), special warnings and precautions for use, 
+adverse reactions, storage conditions, primary packaging, and 
+shelf life.  
+v. 
+For pharmaceutical products, differences in brand name, the 
+name of the applicant, language, format, and degree of detail 
+of the product information, labelling of primary, secondary, 
+and tertiary packaging, among others, are not considered 
+essential for the purposes of this Procedure.  
+vi. 
+The 
+manufacturer 
+should 
+consider 
+country 
+specific 
+requirements such as product stability data according to the 
+stability zone and the local product labelling requirements. 
+Verification is particularly applicable for products approved under WHO-CRP, 
+those assessed and accepted under EAC, IGAD and AMA. 
+3.1.2 Abridged  
+When using an abridged review, the agency conducts a more detailed 
+assessment, relies on prior evaluations to inform local decisions, evaluating 
+the product under local conditions and regulatory requirements. 
+This review is based primarily on full assessment reports (if available) from 
+RRAs, replacing the need to evaluate all data (and summaries thereof) 
+submitted in support of an application. 
+ 
+In case where full assessment report from the reference regulatory authority 
+is not available, the Board may accept the decisions of these authorities or 
+ 
+ 
+ 
+ 
+8
+institutions based on a partial review of selected sections and/or modules of 
+the application dossier. 
+This approach applies to products evaluated and approved by SRA, WLA, and 
+regional economic communities (such as Zazibona, WAHO, NAMRH) etc.  
+Additionally, abridged assessment will be conducted for products (Vaccines, 
+In-Vitro Diagnostics or treatments that are yet to be licenced but have been 
+listed under the WHO-EUL (WHO-emergency use Listing procedures) whose 
+information is not yet fully available due to the nature of the procedure being 
+to facilitate availability of information during a public health emergency of 
+international concern (PHEIC). 
+ 
+Documentation and guidance for application required for Emergency use are 
+available in PPB guideline HPT/PER/GUD/024 Rev. 3. 
+3.1.3 Joint assessment or work-sharing  
+Under this pathway, the Board will engage in joint assessments or work-
+sharing arrangements with one or more regulatory authorities. This process 
+will involve a primary review conducted by one authority, a secondary review 
+by another authority, and a collaborative joint assessment session to finalize 
+the assessment report and address any comments.  
+This approach applies to products evaluated and approved by the African 
+Medicines Regulatory Harmonization Initiative (AMRH), the African Medicines 
+Agency (AMA), East African Community Medicine Regulatory Harmonization 
+(EAC-MRH), the Intergovernmental Authority on Development (IGAD), EU 
+Medicines for All (EU-M4ALL) procedure and Swiss medic’s Marketing 
+Authorization for Global Health Products (MAGHP).  
+3.1.4 Recognition:   
+Recognition, is the routine acceptance of the regulatory decision of another 
+regulator or other trusted institution. Recognition indicates that evidence of 
+conformity with the regulatory requirements of country A is sufficient to meet 
+the regulatory requirements of country B.  
+Under this pathway, the board shall undertake registration/approval process, 
+based on directly recognizing the outcome of review from a reference 
+ 
+ 
+ 
+ 
+9
+regulatory authority with which the pharmacy and poisons board shares a 
+recognition agreement. 
+Also, the Board may choose to rely on or formally recognize an assessment 
+from another reference regulatory authority unilaterally and without 
+reciprocity. Similarity between the local context is important for this 
+pathway/approach. 
+Pharmacy and Poisons Board may specify the NRA(s) or institutions whose 
+decision it recognizes. 
+Note: PPB is currently in the process of negotiating recognition agreements 
+with reference regulatory authorities and will thereafter develop mutual 
+recognition agreements.  
+The abridged and verification review processes do NOT involve an abbreviated 
+application – all data and information required for a full review should be 
+submitted, i.e. the full CTD module structure. Evaluators may still need to 
+review data in the dossier as required. 
+3.2 
+ELIGIBILITY 
+CRITERIA 
+FOR 
+SELECTION 
+OF 
+REFERENCE
+ 
+REGULATORY AUTHORITY OR REFERENCE INSTITUTIONS  
+Regulatory authorities or institutions shall fulfil the following criteria to be 
+included 
+in 
+the 
+list 
+of 
+PPB 
+recognized 
+reference 
+regulatory 
+authorities/reference institutions.  
+a) Shall publish detailed information on the approved medicines (like 
+public assessment report, labelling information and regulatory action, 
+deferred or rejected product information) on its website or include in 
+the approved or qualified list of medicines throughout the product life 
+cycle as applicable  
+b) Member of the International Council for Harmonization of Technical 
+Requirements for Pharmaceuticals for Human Use (ICH), and/or an ICH 
+observer,  
+c) National 
+regulatory 
+authority 
+or 
+institution 
+that 
+has 
+signed 
+memorandum of understanding or legally binding agreement with PPB. 
+The institution for bilateral agreement must have attained WHO ML3 
+and above   
+ 
+ 
+ 
+ 
+10
+d) World Health Organization collaborative registration procedures (WHO-
+CRP, SRA-CRP and WHO-EUL). 
+e) WHO Listed Authorities (WLAs)/SRA 
+f) WHO Transitional WLAs (Category A, B and C)- Category A - ML3 & ML4 
+NRAs for vaccines only, Category B- SRA and Category C- Highly 
+performing NRA (Vaccines) 
+g) Continental assessment forums (e.g., AMA, AVAREF, ABRF, ). 
+h) Regional Economic communities Regulatory Harmonization (e.g., EAC-
+MRH, 
+IGAD, 
+ZAZIBONA, 
+West 
+African 
+Medicine 
+Regulatory 
+Harmonization (WA-MRH)). 
+i) Global health programs such as EMA under article 58 and through the 
+Swiss medic’s Marketing Authorization for Global Health products or 
+the International Generic Drug Regulatory Programme (Swissmedic, 
+Health Canada and EU Medicine for all)  
+j) Member of the International Medical Devices Regulators Forum as a 
+founding member country. 
+Note: The list of Reference Regulatory Authorities shall be reviewed 
+from time to time based on WHO updates of WLA, changes in regulatory 
+environment and adoption of best practices.   
+3.2.1 General Documentation Required for Reliance Applications  
+a) Application dossiers should be only for products assessed and accepted 
+by the reference regulatory authorities or reference institutions.  
+b) The applicant should declare the “sameness” of the reference regulatory 
+authority or reference institution-approved medicine with the one 
+applied for marketing authorization of medicine by the authority. These 
+shall include, but not limited to:   
+i. 
+qualitative and quantitative formulation,   
+ii. 
+manufacturing site(s) for API and FPP including specific 
+block(s)/unit(s),   
+iii. 
+processes, control of materials and final product,   
+iv. 
+in the case of vaccines, batch release/ lot release scheme,   
+v. 
+specifications for excipient, API and FPP,   
+ 
+ 
+ 
+ 
+11
+vi. 
+essential elements of product information (SMPC, PIL, Primary 
+packaging and secondary packaging).  
+c) If any differences exist between the dossier submitted to PPB and the 
+dossier submitted to a recognized regulatory authority or institution, all 
+such differences should be clearly indicated and justified.  
+d) The submitted product should be prequalified and/or registered and 
+marketed in the market of at least one of the reference regulatory 
+authority’s countries, except for products prequalified by WHO jointly 
+assessed products.  
+e) The applicant should provide the “Quality information summary” 
+together with the dossier. 
+f) The 
+reference 
+regulatory 
+authority(s)or 
+reference 
+institutions 
+assessment reports or at least access or link to the portal on the web 
+site of the reference regulatory authority should be provided.  
+g) Commitment letter to notify the Board when there is pending variation, 
+withdrawal from the market or banned by reference regulatory or 
+reference institution due to any notice of concern. 
+h) Copy of valid GMP issued by PPB, laboratory testing report (where 
+applicable), and safety report (where applicable). 
+i) Full modules with CTD document as per the Guideline for Registration 
+of Medicines.  
+j) A declaration indicating that any post approval changes were reported 
+and accepted by the reference regulatory authority or reference 
+institution. This declaration should include the list of variations not yet 
+accepted by reference regulatory authority or reference institution and 
+section of the dossier affected by the accepted variations.  
+k) A copy of the marketing authorization, or the equivalent thereof, issued 
+by the reference NRA or institution to demonstrate that the product is 
+registered or licensed in accordance with the reference NRA or 
+institution requirements. If applicable, a copy of the latest renewal of 
+the marketing authorization should also be provided.  
+l) Public assessment report(s) and/or final acceptance letter issued by the 
+NRA or institution such as the Scientific Discussion of the European 
+Public Assessment Report (EPAR), issued by the reference NRAs or 
+ 
+ 
+ 
+ 
+12
+institution. Assessment report(s) issued by the reference SRA that are 
+not publicly available may be requested.  
+m) Written confirmation of permission for sharing confidential information 
+generated by the RRA/RI with the relying authority (the PPB (see Annex 
+II)). 
+n) Samples of the medical product from commercial batches, to be 
+submitted to support the application. 
+3.2.2 For biologics including vaccines, reliance on testing carried out by 
+the National Reference Laboratory and/or Reference Institutions 
+shall serve as a basis for Marketing Authorization.  
+o) Submission of the application dossier should be through PPB product’s 
+portal.  
+3.2.3 Specific Requirements for Reliance Pathways 
+3.2.3.1 WHO 
+Collaborative 
+Registration 
+Procedure 
+(WHO-
+CRP/SRA-CRP) 
+Applicants wishing to use this registration route should proceed as follows: 
+a) The medicines for which application is submitted to PPB should be in 
+the list of WHO prequalified products on the WHO website ( 
+https://extranet.who.int/prequal/content/prequalified-lists ) 
+b) Notify WHO/the SRA of their intention to use this Procedure for 
+registration of a particular product by sending the appropriate 
+notification form (Appendix 2/Appendix 3, Part A) to WHO/the SRA, as 
+outlined on the WHO website. If the applicant for national registration 
+is different from the manufacturer with a prequalified product/SRA-
+approved product, the mutual agreement between the applicant and the 
+manufacturer is necessary and the notification to WHO/the SRA has to 
+be sent by the manufacturer. 
+c) Follow the national guidance to applicants for registration as provided 
+for by PPB registration guidelines. More importantly, the following 
+should be considered: 
+i. 
+The PPB-prescribed Application form  
+ 
+ 
+ 
+ 
+13
+ii. 
+“WHO Collaborative Procedure”/“SRA Collaborative Procedure” 
+should be indicated as the proposed registration pathway in the 
+PPB product online portal and in the covering letter. 
+iii. 
+ Must submit the Expression of Interest form (Appendix 3 Part A), 
+as outlined on the WHO website. 
+iv. 
+The technical content of the dossier has to correspond exactly to 
+that submitted and currently approved by the PQT/SRA and as 
+specified in the corresponding Procedure guidelines. The dossier 
+has to be updated to reflect all post-prequalification variations 
+approved by the PQT/SRA and accompanied by the appropriate 
+current quality information summary (QIS) (Annex III). All 
+variations still pending at the PQT/SRA have to be notified, and 
+deviations from the prequalified product have to be clearly 
+declared in the Expression of Interest form (Appendix 3 Part A). 
+v. 
+ Additional requirements are: 
+(i) A valid GMP certificate from PPB.   
+(ii) Application fee per product. 
+(iii) 
+Stability data as per ICH climatic conditions for zone 
+IVb 
+(iv) The requirements on samples stays in place 
+(v) Labelling requirements as per PPB guidelines. 
+d) Pre-registration QC testing by the PPB recognised Laboratory is not 
+required for this procedure. Instead, post-registration risk-based 
+testing will be carried out by the applicant.  
+e) In situations where the applicant wishes to apply the Procedure to an 
+application that is already pending with PPB (applied through the 
+National pathway), the applicant should first update the dossier to 
+ensure that the technical part of the information is the same as that 
+currently approved by the PQT/SRA, as applicable. 
+f) The post-prequalification variations should be submitted to PPB within 
+90 working days from the PQT/SRA approval. The PQT/SRA approval 
+letter should be attached. 
+In case of questions/requests related to the CRP, the PPB’s focal person’s 
+contact information is as follows, reliance@ppb.go.ke  
+ 
+ 
+ 
+ 
+14
+Note: Applications submitted for products assessed and approved by WHO-
+CRP shall undergo verification/Abridged assessment.  
+3.2.3.2  WHO Listed Authority (WLA)/ Stringent Regulatory 
+Authority (SRA) 
+Applicants wishing to use this registration route should proceed as follows: 
+a) The PPB-prescribed Application form  
+b) “SRA Pathway” should be indicated as the proposed registration 
+pathway in the PPB product online portal. 
+c) Must submit the Expression of Interest addressed to the Chief 
+Executive Officer. 
+d) The technical content of the dossier has to correspond exactly to that 
+submitted and currently approved by the WLA/SRA and as specified in 
+the corresponding Procedure guidelines. The dossier has to be updated 
+to reflect all post-approval variations approved by the WLA/SRA and 
+accompanied by the appropriate current quality information summary 
+(QIS). All variations still pending at the WLA/SRA have to be notified, 
+and deviations from the approved product have to be clearly declared 
+in the Expression of Interest letter. 
+e) Submit the RRA detailed assessment reports, inspection reports and 
+endorsed or validated quality information summary (Annex 4) as well as 
+bridging reports (Appendix 6 ; Refer to WHO) if applicable. 
+f) Additional requirements are: 
+i. 
+WLA/RRA Approval letter/Marketing authorisation  
+ii. 
+A valid GMP certificate from PPB.  
+iii. 
+Application fee per product. 
+iv. 
+Stability data as per ICH climatic conditions for zone IVb 
+v. 
+The requirements on samples stays in place 
+vi. 
+Labelling requirements as per PPB guidelines. 
+g) Pre-registration testing from a PPB recognized Laboratoty or a WHO 
+prequalified laboratory is a requirement for this procedure. 
+h) In situations where the applicant wishes to apply the Procedure to an 
+application that is already pending with PPB (applied through the 
+National pathway), the applicant should first update the dossier to 
+ 
+ 
+ 
+ 
+15
+ensure that the technical part of the information is the same as that 
+currently approved by the WLA/SRA, as applicable. 
+i) The post-marketing Authorization variations should be submitted to 
+PPB within 90 working days from the WLA/SRA approval. The 
+WLA/SRA approval letter should be attached. 
+In case of questions/requests related to the CRP, the PPB’s focal person’s 
+contact information is as follows:reliance@ppb.go.ke  
+Note: Applications submitted for products assessed and approved by 
+WLA/SRA shall undergo Abridged assessment.  
+ 
+3.2.3.3 WHO Listed Authority (WLA)/ Reference Regulatory 
+Authority (RRA) with which PPB has a mutual recognition 
+agreement.  
+Pharmacy and Poisons Board will continuously publish a list of NRAs that 
+Kenya has signed mutual or bilateral agreement in the PPB website  
+Applicants to confirm from the list of NRAs from the PPB website that have 
+mutual or bilateral agreement with PPB. 
+The applicants shall then submit applications based on the documentation 
+required as follows: 
+a) The PPB-prescribed Application form  
+b) “SRA Pathway” should be indicated as the proposed registration 
+pathway in the PPB product online portal. 
+c) Must submit the Expression of Interest addressed to the Chief 
+Executive Officer. 
+d) The technical content of the dossier has to correspond exactly to that 
+submitted and currently approved by the WLA/RRA and as specified in 
+the corresponding Procedure guidelines. The dossier has to be updated 
+to reflect all post-approval variations approved by the WLA/RRA and 
+accompanied by the appropriate current quality information summary 
+(QIS). All variations still pending at the WLA/RRA have to be notified, 
+and deviations from the approved product have to be clearly declared 
+in the Expression of Interest letter. 
+ 
+ 
+ 
+ 
+16
+e) Submit the RRA detailed assessment reports, inspection reports and 
+endorsed or validated quality information summary (Annex 4) as well as 
+Bridging reports (Appendix 6 ; Refer to WHO) if applicable. 
+f)  Additional requirements are: 
+i. 
+WLA/RRA Approval letter/Marketing authorisation  
+ii. 
+A valid GMP certificate from PPB.  
+iii. 
+Application fee per product. 
+iv. 
+Stability data as per ICH climatic conditions for zone IVb 
+v. 
+The requirements on samples stays in place 
+vi. 
+Labelling requirements as per PPB guidelines. 
+g) In situations where the applicant wishes to apply the Procedure to an 
+application that is already pending with PPB (applied through the 
+National pathway), the applicant should first update the dossier to 
+ensure that the technical part of the information is the same as that 
+currently approved by the PQT/SRA, as applicable. 
+h) The post-marketing Authorization variations should be submitted to 
+PPB within 90 working days from the WLA/SRA approval. The 
+WLA/SRA approval letter should be attached. 
+i) In case of questions/requests related to the CRP, the PPB’s focal 
+person’s contact information is as follows: reliance@ppb.go.ke  
+Note: Applications submitted for products assessed and approved by 
+WLA/SRA that have mutual agreement with PPB shall undergo verification 
+assessment.  
+3.2.3.4  Regional joint assessment (AMA, EAC-MRH, IGAD, 
+ZAZIBONA, 
+West 
+African 
+Medicine 
+Regulatory 
+Harmonization (WA-MRH)) 
+a) A letter of approval from AMA, EAC-MRH, IGAD, ZAZIBONA, West 
+African Medicine Regulatory Harmonization (WA-MRH)) 
+b) The technical content of the dossier has to correspond exactly to that 
+submitted and currently approved by EAC/IGAD and as specified in the 
+corresponding Procedure guidelines. The dossier has to be accompanied 
+by the appropriate current quality information summary (QIS). 
+ 
+ 
+ 
+ 
+17
+c) In situations where the applicant wishes to apply the Procedure to an 
+application that is already pending with PPB (applied through the 
+National pathway), the applicant should first update the dossier to 
+ensure that the technical part of the information is the same as that 
+currently approved by the EAC/IGAD, as applicable. 
+d) Additional requirements are: 
+i. 
+A valid GMP certificate from PPB.   
+ii. 
+Application fee per product. 
+iii. 
+The requirements on samples stays in place 
+iv. 
+Labelling requirements as per PPB guidelines. 
+e) Pre-registration testing from a PPB recognized laboratory or a WHO 
+prequalified laboratory is a requirement for this procedure.  
+Note: Applications submitted for products assessed and approved by 
+IGAD/EAC joint assessment shall undergo verification assessment.  
+3.2.3.5 For products accepted by MAGHP, EU-M4ALL joint 
+assessment  
+a) A letter of positive opinion to PPB2) The technical content of the dossier 
+has to correspond exactly to that submitted and currently approved by 
+the MAGHP, EU-M4ALL and as specified in the corresponding 
+Procedure guidelines. The dossier has to be accompanied by the 
+appropriate current quality information summary (QIS). 
+b) Additional requirements are: 
+i. 
+A valid GMP certificate from PPB.  
+ii. 
+Application fee per product. 
+iii. 
+The requirements on samples stays in place. 
+iv. 
+Labelling requirements as per PPB guidelines. 
+c) Pre-registration testing from a PPB recognized laboratory or a WHO 
+prequalified laboratory is a requirement for this procedure. 
+3.2.4  RELIANCE MECHANISMS IN HANDLING VARIATIONS. 
+a) For variation applications to be assessed through reliance, the change 
+must be approved by WHO listed authority (WLA)/SRA/WHO, 
+The following conditions and documentation shall be fulfilled by the 
+ 
+ 
+ 
+ 
+18
+applicant; 
+All Conditions and documentation will be required as per the PPB 
+Guidelines for submission of variation applications for registered 
+medicines (HPT/PER/GUD/015 Rev No. 4) selected along with a copy 
+of the reference SRA/ WHO decision or other document confirming the 
+final decision of the reference SRA/WHO. 
+b) Confirmation letter that the information (variation dossier) submitted 
+to the PPB is the same as that submitted to reference SRA/WHO for the 
+variation.  
+c) Whenever FPPs have been registered on the basis of approval by a WHO 
+listed authority (WLA) (innovator products or generic products) or WHO 
+prequalification, subsequent applications for variations should also be 
+approved by the same WLA and WHO PQP, respectively, and the Board 
+shall be notified of the approval of the changes and the applicant shall 
+submit proof of approval of such changes from the respective agency, if 
+applicable.  
+d) For products formerly registered by PPB and subsequently approved by 
+WLAs, the variation(s) shall be approved based on submission of letter 
+of approval of the variation(s), from the WLAs. 
+e) For further guidance and application requirements regarding 
+variations, please consult the procedures and processes as laid out in 
+PPB Guidelines for submission of variation applications for registered 
+medicines, Vaccines and Biotherapeutics.   
+3.2.5 ASSESSMENT TIMELINES 
+The assessment target timelines will depend on submission pathways as 
+follows: 
+a) WHO Prequalified products registered through CRP/SRA-CRP and 
+regional expedited pathways: 
+i. 
+Screening and initial evaluation phase (10 working days) 
+ii. 
+Evaluation of additional screening questions (10 working 
+days). 
+iii. 
+First review (70 working Days) 
+ 
+ 
+ 
+ 
+19
+b) Products approved by Reference Regulatory Authorities including 
+(WLA/SRA).   
+i. 
+Screening and scheduling (10 working days) 
+ii. 
+Evaluation of additional information (30 working days) 
+iii. 
+First review (90 working days) 
+iv. 
+Decision phase (15 working days) 
+Time taken by applicant to respond to questions pauses the clock and is not 
+included as part of PPB regulatory timelines 
+ 
+ 
+ 
+ 
+ 
+20
+4.0 
+PART 2: RELIANCE FRAMEWORK FOR MEDICAL DEVICES AND 
+IVDs. 
+4.1 
+RELIANCE MECHANISMS USED IN REGISTRATION OF MEDICAL 
+DEVICES AND IN-VITRO DIAGNOSTICS  
+Reliance mechanisms for medical devices and invitro diagnostic follow the risk 
+classification and public health impact assessment, whilst also remaining 
+cognisant of emergency situations. The risk classification will influence the 
+reliance evaluation pathway to be adopted, the documentation required and 
+the turnaround time as outlined below  
+4.2 
+RELIANCE PATHWAYS FOR MEDICAL DEVICES AND IVD’S  
+a) Abridged Pathway  
+This pathway is prescribed for a medical device that has obtained at least two 
+reference regulatory agency approval for a labelled use identical to that 
+intended for marketing in Kenya at the time of submission. It typically 
+employed in lower-risk categories or when there's a demonstrated equivalence 
+to an already approved device. This pathway is to be used for all risk 
+classification of medical devices except class A. 
+Immediate pathway 
+This route facilitates immediate market access for medical devices. The 
+process facilitates a faster review and submission of less documentation than 
+typical approval procedures, but still requires adherence to basic safety and 
+effectiveness standard. This pathway is to be used by Class A&B medical 
+devices  
+b) Expedited  
+Medical devices that qualify for this method of reliance that fast-tracks 
+marketing authorisation of medical devices for emergency use or during 
+disease outbreaks and Class C medical devices. The criteria for consideration 
+for emergency use shall consider the following: 
+1. The medical device is needed:  
+▪ 
+to treat or diagnose any medical condition resulting from a public 
+health emergency;  
+ 
+ 
+ 
+ 
+21
+▪ 
+to prevent the spread or possible outbreak of an infectious 
+disease;  
+▪ 
+to treat or diagnose an infectious disease or any medical 
+condition associated with an infectious disease, where the 
+medical condition or infectious disease is potentially serious or 
+life threatening; and  
+▪ 
+no safe and effective alternatives have previously been authorized 
+or are reasonably available.  
+2. In the understanding of the NRA, there is:  
+▪ 
+preliminary scientific evidence that the medical device has the 
+potential:  
+▪ 
+–  to treat or diagnose the medical condition resulting from 
+the public health emergency,  
+▪ 
+–  to prevent the spread or possible outbreak of an 
+infectious disease, and  
+▪ 
+–  to treat or diagnose an infectious disease or any medical 
+condition associated with an infectious disease.  
+▪ 
+continued scientific evidence that the potential benefits of the 
+medical device outweigh the known risks of the medical device to 
+a person on whom the medical device is used, and;  
+▪ 
+a strong post-market surveillance structure and market 
+surveillance system to monitor product safety and performance, 
+update the benefit–risk assessment and reduce the chance of SF 
+products reaching the market.  
+The applicant is required to actively seek and submit more 
+evidence as it becomes available.  
+The diagram below represents the Process for emergency use 
+authorization  
+ 
+ 
+ 
+ 
+22
+ 
+ 
+ 
+4.3 
+RECOGNITION OF Market Authorization FOR MEDICAL DEVICES    
+Under this pathway, the Board shall undertake the registration/approval 
+process by directly recognizing the outcome of the review conducted by a 
+reference regulatory authority with which the Pharmacy and Poisons Board 
+has a formal mutual recognition agreement. 
+Furthermore, the Board may, at its discretion, choose to rely on or formally 
+recognize an assessment from another reference regulatory authority on a 
+unilateral basis, without requiring a reciprocal agreement. 
+The availability of assessment reports shared by the reference regulatory 
+authority will form the basis for which this recognition will be issued. 
+ 
+ 
+ 
+ 
+ 
+23
+4.4 
+REFERENCE 
+REGULATORY 
+AUTHORITIES 
+FOR 
+RELIANCE 
+EVALUATION FOR MEDICAL DEVICES AND IVD’S. 
+These are set out according to a confidence-based approach, leveraging on the 
+approvals by listed medical device reference regulatory agencies and/or prior 
+safe marketing history of the medical devices. The types of approvals that 
+qualify for the abridged, expedited and immediate evaluation routes are: 
+a) Australia Therapeutic Goods Administration (TGA) Device Registration 
+License 
+b) Health Canada (HC) Device Registration License 
+c) Japan Ministry of Health, Labor and Welfare (MHLW), Pharmaceutical 
+and Medical Devices Agency (PMDA) 
+i. 
+Pre-Market 
+Certification 
+from 
+a 
+Japanese 
+Registered 
+Certification Body 
+ii. 
+Pre-Market Approval from MHLW 
+d) US Food and Drug Administration (US FDA) 
+i. 
+510K clearance 
+ii. 
+Premarket Approval (PMA) 
+e)  European Union Notified Bodies (EU NB) via EC certificates issued 
+according to 
+i. 
+Regulation (EU) 2017/745 on medical devices (MDR) 
+ii. 
+Regulation (EU) 2017/746 (IVDR) on in vitro diagnostic 
+medical devices 
+f) Health Products Regulatory Authority of Ireland 
+g) Swiss Medic 
+h) Saudi Arabia Food and Drugs Authority 
+i) Therapeutic Goods Administration of Australia 
+ 
+The following additional procedures can be used for reliance/ collaborative 
+review, which are not strictly regulatory authorities: 
+a) World Health Organization (WHO) collaborative registration process   
+ 
+ 
+ 
+ 
+ 
+24
+4.5 
+RELIANCE EVALUATION PATHWAYS FOR MEDICAL DEVICES   
+Applications for reliance are assessed by the board for granting market 
+authorization (MA) through the following three (3) assessment reliance 
+pathways:  
+ 
+a) Abridged Evaluation Route- This route applies to medical devices that 
+have obtained approval from at least one of the reference regulatory 
+agencies for a labelled use identical to that intended for marketing in the 
+target country. It allows for a streamlined review process by leveraging 
+existing evaluations. Applies to class B, C and D medical devices. 
+b) Expedited Registration (ER) Evaluation Route-This route is designed 
+for higher-risk devices that have prior approvals from multiple reference 
+regulatory agencies and meet specific criteria. They are fast-tracked for 
+urgent or breakthrough treatment or diagnostics. Applies to class C and 
+D medical devices 
+c)  Immediate Registration (IR) Evaluation Route-This pathway allows 
+for automatic or near-instant recognition of a medical device or IVD if 
+it has been approved by a stringent regulatory authority. Applies to class 
+B and C 
+Note: A medical device that has not obtained any prior approval from any of 
+the listed medical device reference regulatory authorities at the point of 
+application will be subject to the full evaluation route. 
+  
+ 
+ 
+ 
+ 
+25
+4.6 
+ELIGIBILITY 
+CRITERIA 
+AND 
+REQUIRED 
+DOCUMENTS 
+FOR 
+RELIANCE EVALUATION. 
+Figure 1: Summary of evaluation routes for medical devices 
+ 
+4.6.1 Conformity assessment process as determined by the device class  
+ 
+The quality, safety and performance of a medical device regardless of its 
+classification are determined by systemic controls applied by the 
+manufacturer to its design, development, testing manufacture and 
+distribution and use over the device’s life-cycle. This process is done by the 
+manufacturer through implementation of a quality management system, 
+coupled with technical documentation showing that the medical device 
+conforms with essential principles. Thus, in considering the reliance 
+practices, conformity assessment by the manufacturer are to be considered.  
+ 
+ 
+ 
+ 
+ 
+The table below provides for this consideration depending on the risk 
+classification of the medical device. 
+ 
+ 
+ 
+ 
+26
+ 
+ 
+4.7 
+Regulatory pathways for pre-market conformity assessment of 
+medical devices based on reliance  
+For medical devices, reliance can take the form of assessment of technical 
+dossiers or reports of inspections or audits performed by another NRA or a 
+conformity assessment body, and on the evaluation of incidents made by 
+another NRA whereas such incidents also affect the domestic market. 
+The table below outlines the considerations for steps to market authorization 
+for a medical device based on reliance.  
+Conformity 
+assessment 
+element 
+Class A 
+Class B 
+Class C 
+Class D 
+Quality 
+management 
+system (QMS)  
+ 
+Regulatory 
+audit 
+normally not 
+required, 
+except where 
+assurance of 
+sterility 
+or 
+accuracy 
+of 
+the 
+measuring 
+function 
+is 
+required.  
+The NRA 
+should have 
+confidence that 
+a current and 
+appropriate 
+QMS is in place 
+or otherwise 
+conduct a QMS 
+audit prior to 
+market 
+authorization.  
+ 
+The NRA should 
+have confidence 
+that a 
+current and 
+appropriate QMS is 
+in place or 
+otherwise conduct a 
+QMS audit prior to 
+market 
+authorization.  
+ 
+The NRA should 
+have confidence 
+that a 
+current and 
+appropriate 
+QMS is in place 
+or otherwise 
+conduct a QMS 
+audit prior to 
+market 
+authorization.  
+ 
+Technical 
+documentation  
+ 
+Pre-market 
+submission 
+normally not 
+requested.  
+ 
+Not normally 
+reviewed pre-
+market. The 
+NRA may 
+request and 
+conduct a pre- 
+market or post- 
+market review 
+sufficient to 
+determine 
+conformity with 
+essential 
+principles.  
+The NRA will 
+undertake 
+a review sufficient 
+to determine 
+conformity with 
+essential principles 
+prior to the device 
+being placed on the 
+market.  
+ 
+The NRA will 
+undertake 
+an in-depth 
+review to 
+determine 
+conformity with 
+essential 
+principles, prior 
+to the device 
+being placed on 
+the market.  
+ 
+Declaration of 
+conformity  
+ 
+Submission 
+normally not 
+requested.  
+ 
+Review 
+and verify 
+compliance 
+with 
+requirements 
+by the NRA.  
+review 
+and verify 
+compliance with 
+requirements by the 
+NRA.  
+ 
+Review 
+and verify 
+compliance with 
+requirements by 
+the NRA.  
+ 
+ 
+ 
+ 
+ 
+27
+ 
+ 
+Class A Medical Devices 
+The Board shall not apply reliance mechanisms to Class A Medical Devices.  
+ 
+Reliance Evaluation Pathway for Class B, C and D Medical Device is as 
+per Table 1 below;   
+ 
+ 
+ 
+ 
+28
+Table 1: Reliance evaluation pathways for Classes B, C & D Medical Devices 
+Reliance 
+Evaluation 
+Pathway 
+Class B medical 
+devices 
+Class 
+C 
+medical 
+Device 
+Class D medical Device 
+Abridged 
+Eligibility 
+criteria 
+Must 
+have 
+approval from at 
+least 1 of PPBs 
+reference 
+regulatory 
+agencies. 
+Required 
+Documents 
+1.Proof 
+of 
+reference 
+agency’s 
+approval(s). 
+2.Proof 
+of 
+registration from 
+the 
+above 
+reference agency 
+for a minimum 
+of 3 years. 
+3.Declaration of 
+safety 
+of 
+the 
+device. 
+4.IFU/Technical 
+manual. 
+5.Proof 
+of 
+sterility 
+(If 
+applicable). 
+6.Risk analysis. 
+  
+Eligibility criteria 
+Approval from at least 
+1 of PPBs reference 
+regulatory agencies. 
+Required documents 
+1.Proof of registration 
+from 
+the 
+reference 
+regulatory agencies.  
+2.Instruction for use 
+(IFU)/Technical 
+manual identical to the 
+registered device  
+3.Duly 
+filled 
+the 
+Essential 
+principle 
+checklist. 
+  
+Eligibility criteria 
+A medical device that has 
+obtained 
+at 
+least 
+one 
+reference regulatory agency 
+approval for a labelled use 
+identical to that intended for 
+marketing in Kenya at the 
+point of submission will 
+qualify 
+for 
+the 
+abridged 
+evaluation route. 
+Required documents 
+1.Proof of registration from 
+the 
+reference 
+regulatory 
+agencies. (1) 
+2.Instruction 
+for 
+use 
+(IFU)/Technical 
+manual 
+identical to the registered 
+device  
+3.Dulfilled 
+Essential 
+principal checklist. 
+Expedited 
+N/A 
+Eligibility criteria 
+Condition 1 
+1.Approval 
+from 
+at 
+least 1 of reference 
+regulatory agency. 
+2.Marketed for ≥ 3 
+years 
+in 
+the 
+above 
+independent reference 
+regulatory 
+agency’s 
+jurisdictions. 
+3.No 
+safety 
+issues 
+globally. 
+Eligibility criteria 
+1.Obtained approvals from 
+at 
+least 
+two 
+of 
+PPBs 
+independent 
+reference 
+regulatory agencies for a 
+labelled use identical to 
+that intended for marketing 
+in Kenya 
+2.No rejection/withdrawal 
+of 
+the 
+medical 
+device 
+by/from 
+any 
+reference 
+regulatory 
+agency/that 
+foreign 
+jurisdiction(s) 
+or 
+ 
+ 
+ 
+ 
+29
+Reliance 
+Evaluation 
+Pathway 
+Class B medical 
+devices 
+Class 
+C 
+medical 
+Device 
+Class D medical Device 
+4.No prior rejection/ 
+withdrawal 
+by/from 
+any 
+independent 
+reference 
+regulatory 
+agencies or other NRA 
+(e.g. 
+withdrawal/rejection/
+refusal 
+to 
+register 
+specific models in an 
+application) 
+due 
+to 
+quality, 
+performance/efficacy 
+or safety issues. 
+OR 
+Condition 2 
+1.Approvals 
+from 
+at 
+least 
+2 
+reference 
+regulatory agencies 
+2.No 
+safety 
+issues 
+globally 
+3.No prior rejection/ 
+withdrawal 
+by/from 
+any 
+independent 
+reference 
+regulatory 
+agencies 
+or 
+other 
+NRAs. 
+(e.g. 
+withdrawal/rejection/
+refusal 
+to 
+register 
+specific models in an 
+application) 
+due 
+to 
+quality, 
+performance/efficacy 
+or safety issues. 
+Required documents 
+1.Proof of registration 
+from 
+the 
+reference 
+regulatory agencies. 
+2.Proof of registration 
+from 
+the 
+above 
+reference 
+regulatory 
+agency for a minimum 
+of 
+3 
+years 
+(For-
+Condition 1). 
+3.Instruction for use 
+(IFU)/Technical 
+PPB 
+due 
+to 
+quality, 
+performance/efficacy 
+or 
+safety issues. This includes 
+non-registration such as 
+refusal to register specific 
+models in an application. 
+Required documents. 
+1.Proofof registration from 
+the 
+reference 
+regulatory 
+agencies. (2) 
+2.Instruction 
+for 
+use 
+(IFU)/Technical 
+manual 
+identical to the registered 
+device  
+3.Duly 
+filled 
+Essential 
+principles checklist 
+  
+ 
+ 
+ 
+ 
+30
+Reliance 
+Evaluation 
+Pathway 
+Class B medical 
+devices 
+Class 
+C 
+medical 
+Device 
+Class D medical Device 
+manual identical to the 
+intended use of the 
+device to be marketed 
+in the Kenya market.  
+4.Safety declaration. 
+5.Duly filled Essential 
+principal checklist. 
+Immediate 
+Eligibility 
+criteria 
+Condition 1 
+1.Approval from 
+at least 1 of 
+reference 
+regulatory 
+agency. 
+2.Marketed for ≥ 
+3 years in the 
+above 
+independent 
+reference 
+regulatory 
+agency’s 
+jurisdictions. 
+3.No 
+safety 
+issues globally. 
+4.No 
+prior 
+rejection/ 
+withdrawal 
+by/from 
+any 
+independent 
+reference 
+regulatory 
+agencies 
+or 
+other NRA (e.g. 
+Withdrawal/rej
+ection/refusal 
+to register of 
+specific models 
+in 
+an 
+application)due 
+to 
+quality, 
+performance/ef
+Eligibility criteria 
+1.Obtained 
+approval 
+from at least one of 
+PPBs 
+independent 
+reference 
+regulatory 
+agencies for a labelled 
+use identical to that 
+intended 
+for 
+marketing in Kenya; 
+2.No 
+safety 
+issues 
+globally 
+associated 
+with the use of the 
+medical 
+device(s) 
+when 
+used 
+as 
+intended 
+by 
+the 
+product owner, in the 
+last 
+three 
+years, 
+defined as; 
+ a). no reported 
+deaths; 
+ b).no 
+reported 
+serious 
+deterioration in 
+the 
+state 
+of 
+health    of any 
+person; and 
+ c).no open field 
+safety 
+corrective 
+actions 
+(including 
+recalls) point of 
+submission. 
+3. 
+No 
+prior 
+rejection/withdrawal 
+ 
+ 
+ 
+ 
+ 
+31
+Reliance 
+Evaluation 
+Pathway 
+Class B medical 
+devices 
+Class 
+C 
+medical 
+Device 
+Class D medical Device 
+ficacy or safety 
+issues. 
+OR 
+Condition 2 
+1.Approvals 
+from at least 2 
+reference 
+regulatory 
+agencies 
+2.No 
+safety 
+issues globally 
+3.No 
+prior 
+rejection/ 
+withdrawal 
+by/from 
+any 
+independent 
+reference 
+regulatory 
+agencies 
+or 
+other 
+NRAs. 
+(e.g. 
+withdrawal/rej
+ection/refusal 
+to 
+register 
+specific models 
+in 
+an 
+application) 
+due to quality, 
+performance/ef
+ficacy or safety 
+issues. 
+Required 
+documents. 
+1.Proof 
+of 
+reference 
+agency’s 
+approval(s). 
+2.Proof 
+of 
+registration from 
+the 
+above 
+reference agency 
+for a minimum 
+of 3 years. 
+of the medical device 
+by/from any reference 
+regulatory agency due 
+to 
+quality, 
+performance/efficacy 
+or safety issues. This 
+includes 
+non-
+registration such as 
+refusal 
+to 
+register 
+specific models in an 
+application. 
+Required Documents 
+1.Proof of registration 
+from 
+the 
+reference 
+regulatory agencies. 
+2.Instruction for use 
+(IFU)/Technical 
+manual identical to the 
+device 
+intended 
+for 
+marketing in Kenya 
+3.Duly filled Essential 
+principle checklist. 
+4.Safety declaration. 
+  
+  
+ 
+ 
+ 
+ 
+32
+Reliance 
+Evaluation 
+Pathway 
+Class B medical 
+devices 
+Class 
+C 
+medical 
+Device 
+Class D medical Device 
+3.Declaration of 
+safety 
+of 
+the 
+device. 
+4.IFU/Technical 
+manual. 
+5.Proof 
+of 
+sterility 
+(If 
+applicable). 
+6.Risk Analysis. 
+  
+ 
+4.8 
+ RELIANCE MECHANISMS USED IN REGISTRATION OF IN-VITRO 
+DIAGNOSTICS. 
+The reliance mechanism for the registration of In Vitro Diagnostics (IVDs) is 
+designed to streamline regulatory pathways by leveraging prior approvals 
+from recognized regulatory authorities while ensuring product quality, safety, 
+and performance. Recognizing the critical role of In Vitro Diagnostics (IVDs) 
+in disease diagnosis, monitoring, and public health surveillance, and 
+acknowledging the need for timely access to essential diagnostics, particularly 
+during health emergencies, this reliance mechanism is established to 
+facilitate efficient registration processes. This approach leverages the 
+assessments of stringent regulatory authorities, considering the risk 
+classification of IVDs (from low-risk to high-risk) and prioritizing diagnostics 
+for significant public health concerns.   
+IVDs are categorized based on their risk to patients, users, and public health, 
+with higher-risk devices requiring more stringent evaluation. 
+4.9 
+Requirements for IVDs Reliance Applications  
+1) A full unredacted assessment report. 
+2) Evidence/proof 
+of 
+product 
+registration/granting 
+of 
+market 
+authorization in RRA: the product should have been registered, 
+ 
+ 
+ 
+ 
+33
+prequalified and/or granted marketing authorization and is, in the 
+latter case, on the market of the reference authority. 
+3) Permission for data sharing (Annex II) from the applicant (for WHO 
+prequalified products) 
+4) A formal written request from the applicant/MAH. 
+5) A declaration letter from the applicant stating full compliance with 
+eligibility requirements 
+6) For products with post-approval changes/variations all assessment 
+reports and/or documents concerning the post-approval variations, 
+including a tabulated summary of variation approvals from the RRA, 
+shall also be provided. 
+7) All annexes of the assessment report shall be submitted. 
+There’s only one reliance evaluation route for registration of IVDs: The 
+abridged evaluation route 
+4.9.1 Abridged Evaluation of IVDs 
+An abridged assessment considers available evidence that an eligible IVD 
+meets certain requirements as a result of the product’s previous 
+stringent/reference regulatory assessment and approval. This applies to class 
+B, C and D IVDs. 
+When considering whether a product qualifies for an abridged prequalification 
+assessment procedure, PPB takes into account the following two factors:  
+a) Whether the regulatory version of the IVD submitted for PPB registration 
+has been assessed and approved by any of the reference regulatory 
+authorities and, 
+b) If so, whether the regulatory version of the product submitted for PPB 
+registration is the same (or is not substantially different) as the regulatory 
+version that was stringently assessed and approved by the Recognized 
+RRA 
+Required Documents 
+a) Class B IVD  
+ 
+ 
+ 
+ 
+34
+i. 
+Proof of reference agency’s approval(s). 
+ii. 
+Proof of registration from the above reference agency for a minimum of 
+3 years. 
+iii. 
+Declaration of safety of the device. 
+iv. 
+Instruction for use (IFU)/Technical manual. 
+v. 
+Sterility report (If applicable). 
+vi. 
+Risk analysis. 
+vii. 
+Design and validation report. 
+b) Class C AND D IVD. 
+viii. 
+All the above documents in class B and C plus a Dully filled Essential 
+Principles Checklist. 
+4.10 Turnaround time for Medical Devices and IVDs 
+  
+  
+Risk Class 
+TURN AROUND TIME (WORKING DAYS) 
+   
+Abridged 
+  
+  Expedited 
+  
+Immediate 
+Class B 
+60 
+ 
+14 
+Class C 
+            90 
+30 
+14 
+Class D 
+     90 
+30 
+ 
+ 
+ 
+ 
+5.0 
+IMPLEMENTATION MECHANISM 
+For the successful implementation of this guidance, PPB shall; 
+a) Appoint Reliance Implementation Champions tasked with overseeing and 
+promoting the adoption of reliance practices. Their TORs shall include the 
+following; 
+• Identify reliance applications as per the RRAs/RI. 
+• Act as liaison officers for reliance mechanisms. 
+ 
+ 
+ 
+ 
+35
+• Undertake tracking of reliance applications using the design-thinking 
+approach. 
+• Offer training to staff and sensitization of stakeholders/applicants via 
+webinars, exchange programmes, etc.  
+• Collaborate and communicate with reference agencies.  
+• Keep the assessment team engaged in the science and keep them 
+challenged.   
+• Get buy-in from senior leadership.  
+• Any other duties that relate in promotion of reliance mechanisms 
+within the organisation and stakeholders. 
+ 
+b) Develop of an Online System: A dedicated digital platform will be set up to 
+manage reliance applications, ensuring that the process is seamless, 
+transparent, and traceable.  
+c) Ensure Resource Allocation and Monitoring: To track the success and 
+impact of the reliance initiative, PPB will implement monitoring and 
+evaluation systems, assessing both regulatory outcomes and public health 
+impacts. 
+ 
+ 
+ 
+ 
+ 
+36
+6.0 
+REFERENCES  
+1. WHO. (2021). Good reliance practices in regulatory decision-making: 
+High-level principles and recommendations. WHO TRS NO 1033, 
+2021, Annex 10 
+2. FDA. (2019). FDA Ghana reliance policy 
+3. FDA, Rwanda Reliance guideline 
+4. GMP Quality Manual. 
+5. Africa Regulatory Reliance Framework 
+6. Ethiopian FDA, Guidelines on Reliance for Medicine Marketing 
+Authorization 
+7. Achieving effective regulation of medicines and vaccines by national 
+regulatory authorities with very limited resources. 
+8. Good practices of national regulatory authorities in implementing 
+the collaborative registration procedures for medical products 
+(Working document QAS/24.956 August 2024) 
+9. WHO, 
+Collaborative 
+procedure 
+between 
+the 
+World 
+Health 
+Organization and national regulatory authorities in the assessment 
+and accelerated national registration of WHO-prequalified in vitro 
+diagnostics. 
+10. 
+South Africa, SAPHRA, Reliance guideline (SAHPGL -BAU-01_v4 
+11. 
+Health Science Authority, Singapore, Guidance on medical device 
+product registration. 
+12. 
+Brazilian Health Regulatory Agency, ANVISA, Good Reliance 
+Practices in MDR. 
+13. 
+WHO Global Model Regulatory Framework for Medical Devices 
+Including In Vitro Diagnostic 
+ 
+ 
+ 
+ 
+37
+7.0 
+REVISION HISTORY  
+Revision 
+Number  
+Date 
+Author 
+Section(s) 
+Revised 
+Description 
+of Change  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38
+8.0 
+LIST OF CONTRIBUTORS AND REVIEWERS  
+1.  
+Dr Fred Siyoi 
+ 
+Chief Executive Officer, Pharmacy and Poisons 
+Board 
+2.  
+Dr Ahmed Mohamed 
+Director Health Product and Technologies 
+3.  
+Dr Ali Arale 
+Chief Principal Regulatory Officer Department of 
+Product Evaluation and Registration 
+4.  
+Dr. Kariuki Gachoki 
+Deputy Director, Product Evaluation and 
+Registration 
+5.  
+Dr Jonathan Meriakol Senior Principal Regulatory Officer, Department 
+of Product Evaluation and Registration 
+6.  
+Dr Sarah Chesaro 
+ 
+Senior Principal Regulatory Officer, Department 
+of Product Evaluation and Registration 
+7.  
+Paulyne Wairimu 
+Senior Principal regulatory officer, Medical 
+Devices and In-Vitro Diagnostics 
+ 
+List of Reviewers 
+1.  Dr Felistas Chepwogen  
+2.  Dr Eugene Odame 
+3.  Dr Solomon Koech  
+4.  Mr Alex Mutai 
+5.  Mr Erick Kitangala 
+6.  Mr Henry Chweya 
+7.  Dr Brayhan Kariuki 
+8.  Dr Gitobu Kireran 
+9.  Dr Kauthar Bajaber 
+10. Dr Beatrice Cheruiyot 
+11. Dr Anushree Patel 
+12. Dr Shellan Omondi  
+13. Dr. Anne Tibin 
+14. Dr. Francis Letipila 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+39
+9.0 
+List of Annexes  
+Annex I _ List of RRAs 
+Annex II _ Documentation abridged procedure 
+Annex II _ Confirmation of data sharing 
+Annex III _ Quality Information Summary 
+10.0 Links to Appendices:  
+WHO PQ- CRP: 
+a)  Appendix 1A:  NMRA participation agreement 
+b) Appendix 1B: NMRA focal point(s)' confidentiality undertaking 
+c)  Appendix 2: Prequalification holder’s consent to information-sharing 
+d) Appendix 3: Part A Applicant’s expression of interest in application of 
+the procedure 
+ 
+e) Appendix 3: Part B Acceptance by the NMRA to apply the procedure 
+f) Appendix 3: Part C Notification of outcomes of national registration 
+procedure 
+g) Appendix 4: Report on post-registration actions 
+ 
+WHO SRA CRP: 
+a) Appendix 1: Agreement of the national regulatory authority to participate 
+in the collaborative procedure in assessment and accelerated national 
+registration of pharmaceutical products and vaccines by stringent 
+regulatory authorities 
+b)  Appendix 2: Example of information included in the list of participating 
+reference stringent regulatory authority(ies) 
+c)  Appendix 3A:  Manufacturer's consent for information sharing with 
+participating national regulatory authority(ies) and the World Health 
+Organization 
+d)   Appendix 3B:  Manufacturer's request for SRA permission for sharing 
+SRA-owned non-public information with participating NRAs and the 
+World Health Organization 
+ 
+ 
+ 
+ 
+40
+e)   Appendix 4: Quality information summary of the FPP or vaccine 
+approved by the reference SRA (QIS-SRA (crp)) 
+f)   Appendix 5: Proposed documentation for collaborative procedure for 
+reference SRA-approved FPPs and vaccines 
+g)   Appendix 6: Requirements for provision of a bridging report for reference 
+SRA-approved pharmaceutical product and vaccines for consideration of 
+registration in participating countries 
+h) Appendix 7: Expression of interest to national regulatory authority 
+i)    Appendix 8: Confidential disclosure agreement 
+j)  Appendix 9: Notification of an outcome of the national registration 
+provided by the participating manufacturer to the World Health 
+Organization
+ 
+ 
+ 
+ 
+41
+Annex I: List of RRAs/RIs 
+a) WHO collaborative registration procedures (WHO CPQ and SRA CRP) 
+b) Regional and international reference institutions (e.g. by IGAD, EAC, 
+Swiss MAGHP, EU-M4ALL). 
+c) Continental/ regional bodies/ forums (e.g., AMA, AVAREF, ABRF). 
+d) National Regulatory Authorities with mutual or bilateral recognition 
+agreement with PPB.  
+e) Institutions for reliance on Active Pharmaceutical Ingredient (API) 
+assessment: WHO (Certificate of a Pharmaceutical Product (CPP)), WHO 
+Prequalification 
+Team 
+- 
+Medicines 
+(PQTm) 
+(Confirmation 
+of 
+Prequalification (CPQ)) or European Directorate for the Quality of 
+Medicines and Healthcare (EDQM) (Certificate of Suitability to the 
+monographs of the European Pharmacopoeia (CEP)).  
+f) WHO Listed Authorities (WLAs) 
+g) WHO Transitional WLAs (Category A, B and C)- Category A - ML3&ML4 
+NRAs for vaccines only, Category B- SRA and Category C- Highly 
+performing NRA (Vaccines) 
+h) European Medicines Agency (EMA)  
+ 
+ 
+ 
+ 
+ 
+42
+Annex II: Confirmation of data sharing 
+Manufacturer’s request for reference institution’s (RI) permission for 
+sharing RI owned non- public information with <PPB> 
+Date:                           dd/mm/yyyy                                      
+  
+<manufacturer> 
+  
+RE: Request to <RRA/RI> for a permission to <manufacturer> to share 
+<RRA/RI>’s non-public information concerning <Product> with <PPB>. 
+  
+Dear 
+<REFERENCE 
+REGULATORY 
+AUTHORITY 
+/REFERENCE 
+INSTITUTION>, 
+<Manufacturer> as a <Marketing Authorization Holder> of the <RRA/RI> 
+authorized <Product>, hereby requests the <RI’s/RRA’S> permission to 
+share <RI/RRA>-owned non-public information concerning <Product> for 
+the purpose of the procedures of verification or abridged/abbreviated review 
+and accelerated national registration of medicinal products based on 
+reliance on recognized reference institutions.6 The information to be shared 
+consists of 
+<RI/RRA> final GxP inspection reports for Product <date; version>; 
+<RI/RRA> Product assessment reports; and 
+<RI/RRA> <other, please specify> documents/reports that may be 
+needed in the context of this Procedure. 
+The information will be shared with the <PPB>.  
+Yours sincerely, 
+Name:                                                                                      
+   
+Title:                                                                                          
+    
+RRA:            Address:      
+Email:                                                                                       
+   
+Telephone number:           
+  cc: 
+_______________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43
+Annex III: QIS-RRA-FPP 
+Quality Information Summary of The Finished Pharmaceutical Product 
+Approved By The Reference Institution (RRA) (QIS-RRA-FPP) 
+INTRODUCTION 
+(a)  Summary of product information: 
+ 
+Non-proprietary name(s) of the finished 
+pharmaceutical product(s) (FPP) 
+  
+Proprietary 
+name(s) 
+of 
+the 
+finished 
+pharmaceutical product(s) (FPP) 
+  
+International non-proprietary name(s) of the 
+active pharmaceutical ingredient(s) (API(s)), 
+including form (salt, hydrate, polymorph) 
+  
+Applicant name and address 
+  
+Dosage form 
+  
+Application Number 
+  
+Strength 
+  
+Route of administration 
+  
+Proposed indication(s) 
+  
+  
+  
+ 
+(b) Administrative Summary: 
+Applicant’s 
+date 
+of 
+preparation 
+or 
+revision of the QIS 
+  
+Version and/or date of acceptance 
+(official use only) 
+ 
+Related dossiers (e.g. FPP(s) with the same API(s) submitted to EMP TC 
+by the applicant): 
+Applicati
+on 
+number 
+( ) 
+Registrati
+on status 
+(Y/N) 
+API, 
+strength, 
+dosage form 
+(e.g. 
+Irinotecan 
+(as 
+chloride) 
+20mg 
+per 
+ml 
+Solution) 
+API manufacturer 
+(Including address if same 
+manufacturer as current 
+dossier) 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+44
+2.3.S DRUG SUBSTANCE (or ACTIVE PHARMACEUTICAL INGREDIENT 
+(API)) (NAME, MANUFACTURER) 
+Indicate which option applies for the submission of API information: 
+<check one only> 
+ 
+Name of API: 
+  
+Name of API manufacturer: 
+          
+□ 
+Certificate of suitability to the European Pharmacopoeia (CEP) 
+Option 1. 
+□ 
+Confirmation of API prequalification document: 
+Option 2 
+□ 
+API approval number ____________. 
+Option 3a. 
+□ 
+Active pharmaceutical ingredient master file 
+(EMP-TC APIMF) 
+procedure: 
+APIMF number assigned by EMP TC (if known): _______ ; version 
+number(s) including amendments (and/or date(s)) of the open part: 
+_______ ; version number(s) including amendments (and/or date(s)) of 
+the restricted part: : _______. 
+Option 3b. 
+□ 
+Full details in the PD 
+Open part DMF version number_________________ 
+Restricted part DMF version number_____________ 
+Identifier of current module 3.2.S:  _______________ 
+Option 4. 
+ 
+2.3.S.2 Manufacture (name, manufacturer) 
+2.3.S.2.1 Manufacturer(s) (name, manufacturer) 
+(a) Name, address and responsibility (e.g. fabrication, packaging, labelling, 
+testing, storage) of each manufacturer, including contractors and each 
+proposed production site or facility involved in these activities: 
+ 
+ 
+ 
+ 
+ 
+45
+Name 
+and 
+address 
+(including 
+block(s)/unit(s)) 
+Responsibility 
+CEP number/ 
+WHOAPI-PQ 
+number /WHO 
+APIMF/ EMP 
+TC 
+Listing 
+No./Approved 
+APIMF/ 
+if 
+applicable) 
+Letter 
+of 
+access 
+provided? 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2.3.S.2.3 Control of Materials (name, manufacturer) – for API option 4 
+only 
+(a) Name of starting material: 
+(b) Name and manufacturing site address of starting material 
+manufacturer(s): 
+2.3.S.4 Control of the API (name, manufacturer) 
+2.3.S.4.1 Specification (name, manufacturer) 
+(a) API specifications of the FPP manufacturer:  
+ 
+Standard (e.g. Ph.Int., Ph.Eur., BP, USP, in-
+house) 
+  
+Specification reference number & version 
+effective date 
+  
+Test 
+Acceptance criteria 
+Analytical procedure 
+(Type/Source/Version) 
+Description 
+  
+  
+Identification 
+  
+  
+Impurities 
+  
+  
+Assay 
+  
+  
+etc. 
+  
+  
+  
+  
+  
+ 
+2.3.S.6 Container Closure System (name, manufacturer) 
+(a) Description of the container closure system(s) for the storage and 
+shipment of the API: 
+2.3.S.7 Stability (name, manufacturer) 
+ 
+ 
+ 
+ 
+46
+2.3.S.7.1 Stability Summary and Conclusions (name, manufacturer) 
+(a) Proposed storage conditions and re-test period (or shelf-life, as 
+appropriate): 
+ 
+Container 
+closure 
+system 
+Storage statement 
+Re-test period* 
+  
+  
+  
+  
+  
+  
+* Indicate if a shelf-life is proposed in lieu of a re-test period (e.g. in the case 
+of labile APIs) 
+2.3.P DRUG PRODUCT (or FINISHED PHARMACEUTICAL PRODUCT (FPP)) 
+Indicate which option applies for the submission of FPP information: 
+<check one only> 
+Name of API: 
+  
+Name 
+of 
+API 
+manufacturer: 
+          
+□ 
+Full details 
+□ 
+WHO collaborative procedure 
+□ 
+SRA Abridged procedure 
+□ 
+EU Article 58 procedure 
+  
+Any other recognized regulatory or QA procedure 
+ 
+ 
+ 
+2.3.P.1 Description and Composition of the FPP 
+(a) Description of the FPP (in signed specifications): 
+(b) Composition of the FPP: 
+(i) Composition, i.e. list of all components of the FPP and their 
+amounts on a per unit basis and percentage basis (including 
+individual components of mixtures prepared in-house (e.g. 
+coatings) and overages, if any): 
+ 
+Component 
+and 
+quality 
+standard 
+(and grade, if 
+applicable) 
+Fun
+ctio
+n 
+Strength (label claim) 
+  
+  
+  
+Quant
+. 
+per 
+unit 
+% 
+Quant. 
+per 
+% 
+Quantit
+y 
+per 
+% 
+ 
+ 
+ 
+ 
+47
+or per 
+mL 
+unit or 
+per mL 
+unit 
+or 
+per mL 
+<complete with appropriate titles e.g. Core tablet (Layer 1, Layer 2, etc. as 
+applicable), Contents of capsule, Powder for injection> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Subtotal 1 
+  
+  
+  
+  
+  
+  
+  
+ <complete with appropriate title e.g. Film-coating > 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Subtotal 2 
+  
+  
+  
+  
+  
+  
+  
+Total 
+  
+  
+  
+  
+  
+  
+  
+ 
+(ii) Composition of all components purchased as mixtures (e.g. 
+colourants, coatings, capsule shells, imprinting inks): 
+(c) Description 
+of 
+accompanying 
+reconstitution 
+diluent(s), 
+if 
+applicable: 
+  
+2.3.P.2.2.1 Formulation Development 
+(a) Information on primary (submission, registration, exhibit) batches 
+including comparative bioavailability or biowaiver, stability, 
+commercial: 
+(i) Summary of batch numbers: 
+  
+Batch number(s) of the FPPs used in 
+Bioequivalence 
+<e.g. 
+bioequivalence 
+batch A12345>. 
+Biowaiver 
+<e.g. 
+biowaiver 
+batch X12345> 
+For 
+proportional 
+strength 
+biowaiver: 
+the 
+bioequivalence batch of the reference strength 
+  
+Dissolution profile studies 
+  
+Stability studies (primary batches) 
+‹Packaging configuration I› 
+  
+  
+  
+‹ Packaging configuration II› 
+  
+  
+  
+ 
+ 
+ 
+ 
+48
+‹Add/delete as many rows as necessary› 
+  
+  
+  
+Stability studies (production batches) 
+‹ Packaging configuration I› 
+  
+  
+  
+‹ Packaging configuration II› 
+  
+  
+  
+(Add/delete as many rows as necessary) 
+  
+  
+  
+Validation studies (primary batches) 
+‹ Packaging configuration I› 
+  
+  
+  
+‹ Packaging configuration II› 
+  
+  
+  
+(Add/delete as many rows as necessary) 
+  
+  
+  
+Validation studies (at least the first three 
+consecutive production batches) version(s) for 
+process validation protocol(s) 
+  
+  
+  
+  
+ 
+Summary of formulations and discussion of any differences: 
+Component 
+and quality 
+standard 
+(e.g. NF, BP, 
+Ph.Eur, in-
+house) 
+Relevant batches 
+Comparative 
+bioavailability 
+or biowaiver 
+Stability 
+Process 
+validation 
+Commercial 
+(2.3.P.1) 
+<Batch 
+nos. 
+and sizes> 
+<Batch nos. 
+and sizes> 
+<Batch nos. 
+and sizes> 
+<Batch 
+nos. 
+and sizes> 
+Theor. 
+quantit
+y 
+per 
+batch 
+% 
+Theor. 
+quanti
+ty per 
+batch 
+% 
+Theor. 
+quanti
+ty per 
+batch 
+% 
+Theor. 
+quanti
+ty per 
+batch 
+% 
+<complete with appropriate titles e.g. Core tablet (Layer 1, Layer 2, etc. as 
+applicable), Contents of capsule, Powder for injection> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Subtotal 1 
+  
+  
+  
+  
+  
+  
+  
+  
+<complete with appropriate title e.g. Film-coating > 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Subtotal 2 
+  
+  
+  
+  
+  
+  
+  
+  
+Total 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+49
+2.3.P.3 Manufacture 
+2.3.P.3.1 Manufacturer(s) 
+(a) Name, address and responsibility (e.g. fabrication, packaging, 
+labelling, testing) of each manufacturer, including contractors and 
+each 
+proposed 
+production 
+site 
+or 
+facility 
+involved 
+in 
+manufacturing and testing: 
+Name and address 
+(include block(s)/unit(s)) 
+Responsibility 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2.3.P.3.2 Batch Formula 
+Largest intended commercial batch size: 
+Other intended commercial batch sizes: 
+<information on all intended commercial batch sizes should be in the 
+QIS> 
+(a) List of all components of the FPP to be used in the manufacturing 
+process and their amounts on a per batch basis (including 
+components of mixtures prepared in-house (e.g. coatings) and 
+overages, if any): 
+Strength (label claim) 
+  
+  
+  
+Master production document 
+reference 
+number 
+and/or 
+version 
+  
+  
+  
+Proposed commercial batch 
+size(s) (e.g. number of dosage 
+units) 
+  
+  
+  
+Component 
+and 
+quality 
+standard 
+(and grade, if applicable) 
+Quantity 
+per batch 
+(e.g. 
+kg/batch) 
+Quantity 
+per batch 
+(e.g. 
+kg/batch) 
+Quantity 
+per batch 
+(e.g. 
+kg/batch) 
+<complete with appropriate titles e.g. Core tablet (Layer 1, Layer 2, etc. as 
+applicable), Contents of capsule, Powder for injection> 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+50
+Subtotal 1 
+  
+  
+  
+<complete with appropriate title e.g. Film-coating > 
+  
+  
+  
+  
+  
+  
+  
+  
+Subtotal 2 
+  
+  
+  
+Total 
+  
+  
+  
+  
+2.3.P.3.3 Description of Manufacturing Process and Process Controls 
+(a) Flow diagram of the manufacturing process: 
+(b) Narrative description of the manufacturing process, including 
+equipment type and working capacity, process parameters: 
+2.3.P.3.4 Controls of Critical Steps and Intermediates 
+(a) Summary of controls performed at the critical steps of the 
+manufacturing process and on isolated intermediates: 
+Step 
+(e.g. granulation, compression, 
+coating) 
+Controls 
+(parameters/limits/frequency 
+of 
+testing) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Proposed/validated holding periods for intermediates (including bulk 
+product): 
+2.3.P.3.5 Process Validation and/or Evaluation 
+(a) Summary of the process validation and/or evaluation studies 
+conducted and/or a summary of the proposed validation protocol 
+for the critical steps or critical assays used in the manufacturing 
+process (e.g. protocol number, parameters, results): 
+ 
+Document code(s) for the process validation protocol(s) and/or 
+report(s) (including reference number/version/date): 
+  
+2.3.P.5 Control of FPP 
+2.3.P.5.1 Specification(s) 
+(a) Specification(s) for the FPP: 
+ 
+ 
+ 
+ 
+51
+Standard (e.g. Ph.Int., BP, USP, in-house) 
+  
+Specification reference number and version 
+  
+Test 
+Acceptance 
+criteria 
+(release) 
+Acceptance 
+criteria 
+(shelf-life) 
+Analytical 
+procedure 
+(type/source/ve
+rsion) 
+Description 
+  
+  
+  
+Identification 
+  
+  
+  
+Impurities 
+  
+  
+  
+Assay 
+  
+  
+  
+etc. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2.3.P.7 Container Closure System 
+(a) Description of the container closure systems, including unit count 
+or fill size, container size or volume: 
+  
+Description 
+(including 
+materials 
+of 
+construction) 
+Strength 
+Unit count or fill 
+size 
+(e.g. 60s, 100s etc.) 
+Container size 
+(e.g. 5 ml, 100 ml 
+etc.) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2.3.P.8 Stability 
+2.3.P.8.1 Stability Summary and Conclusions 
+(a)  Proposed storage statement and shelf-life (and in-use storage 
+conditions and in-use period, if applicable): 
+ 
+ 
+ 
+ 
+52
+Container 
+closure 
+system 
+Storage statement 
+Shelf-life 
+  
+  
+  
+  
+  
+  
+  
+2.3.P.8.2 Post-approval Stability Protocol and Stability Commitment 
+(a) Stability protocol for Primary stability batches (e.g. storage 
+conditions (including tolerances), batch numbers and batch sizes, 
+tests and acceptance criteria, testing frequency, container closure  
+Parameter 
+Details 
+Storage condition(s) (◦C, % RH) 
+  
+Batch number(s) / batch size(s) 
+<primary batches> 
+Tests and acceptance criteria 
+Description 
+  
+Moisture 
+  
+Impurities 
+  
+Assay 
+  
+etc. 
+  
+  
+  
+Testing frequency 
+  
+Container closure system(s) 
+  
+(b) system(s)): 
+  
+(c) Stability protocol for Commitment batches (e.g. storage conditions 
+(including tolerances), batch numbers (if known) and batch sizes, 
+tests and acceptance criteria, testing frequency, container closure 
+system(s)): 
+ 
+ 
+ 
+ 
+53
+ 
+Parameter 
+Details 
+Storage condition(s) 
+(◦C, % RH) 
+  
+Batch 
+number(s) 
+/ 
+batch size(s) 
+<not less than three production batches in 
+each container closure system> 
+Tests and acceptance 
+criteria 
+Description 
+  
+Moisture 
+  
+Impurities 
+  
+Assay 
+  
+etc. 
+  
+Testing frequency 
+  
+Container 
+closure 
+system(s) 
+  
+ 
+  
+(d) Stability protocol for Ongoing Batches (e.g. storage conditions 
+(including tolerances), number of batches per strength and batch 
+sizes, tests and acceptance criteria, testing frequency, container 
+closure system(s)): 
+ 
+Parameter 
+Details 
+Storage condition(s) (◦C, % 
+RH) 
+  
+Batch 
+size(s), 
+annual 
+allocation 
+<at least one production batch per year 
+(unless none is produced that year) in each 
+container closure system > 
+Tests 
+and 
+acceptance 
+criteria 
+Description 
+  
+Moisture 
+  
+Impurities 
+  
+ 
+ 
+ 
+ 
+54
+Assay 
+  
+etc. 
+  
+Testing frequency 
+  
+Container 
+closure 
+system(s) 
+  
+  
+2.3.P.8.3 Stability Data 
+(a) Bracketing and matrixing design for commitment and/or 
+continuing (i.e. ongoing) batches, if applicable: 
+  
+WRITTEN COMMITMENTS OF THE MANUFACTURER – for NRA use 
+API 
+If applicable (primary stability study commitment): 
+The Applicant (or API manufacturer) undertook in writing (date of letter of 
+commitment) to continue long-term testing of <INN of API> for a period of time 
+sufficient to cover the whole provisional re-test period (period ending 
+month/year) and to report any significant changes or out-of-specification 
+results immediately to EMP TC for the following batches : 
+<Batch numbers, manufacturing dates, batch size, primary packing 
+materials> 
+If applicable (commitment stability studies): 
+Since stability data on three production scale batches were not provided with 
+the application, the remaining number of production scale batches should be 
+put on long-term stability testing. Any significant changes or out-of-
+specification results should be reported immediately to EMP TC. The approved 
+stability protocol should be used for commitment batches. 
+  
+API option 1 – CEP 
+The Applicant provided a commitment in writing (date of letter of commitment) 
+to inform EMP TC in the event that the CEP is revised or withdrawn, and that 
+revisions to the CEP will be handled as per variation guidelines.  Note that 
+revisions or withdrawal will require additional consideration of the API data 
+requirements to support the dossier. 
+API option 2 – WHOAPI-CPQ 
+The Applicant provided a commitment in writing (date of letter of commitment) 
+to inform EMP TC in the event that the WHOAPI-CPQ is revised or withdrawn, 
+ 
+ 
+ 
+ 
+55
+and that revisions to the WHOAPI-CPQ will be handled as per variation EMP 
+TC Variation guidelines.  Note that revisions or withdrawal will require 
+additional consideration of the API data requirements to support the dossier. 
+  
+API option 4 – full details in the PD (ongoing stability study commitment) 
+The Applicant undertook in writing (date of letter of commitment) a 
+commitment regarding ongoing stability studies.  Unless otherwise justified, 
+at least one batch per year of the product will be included in the stability 
+programme (unless none is produced during that year).  The stability protocol 
+will be that which was approved for primary batches (or the protocol was 
+submitted for assessment).  Out-of-specification results or significant atypical 
+trends will be investigated.  Any confirmed significant change or out-of-
+specification result will be reported immediately to EMP TC. The possible 
+impact on batches on the market will be considered in consultation with   GMP 
+inspection. 
+FPP 
+If applicable (primary stability study commitment): 
+The Applicant undertook in writing (date of letter of commitment) to continue 
+long-term testing of < FPP reference number, trade name (INN of API), 
+strength, pharmaceutical form> for a period of time sufficient to cover the 
+whole provisional shelf-life (period ending month/year) and to report any out-
+of-specification results or significant changes immediately for the following 
+batches : 
+<Batch numbers, manufacturing dates, batch size, primary packing materials 
+> 
+If applicable (commitment stability studies): 
+Since stability data on three production scale batches was not provided with 
+the application, the Applicant undertook in writing, (date of letter of 
+commitment) to put the remaining number <e.g. additional two (2)> 
+production scale batches of < FPP reference number, trade name (INN of API), 
+strength, pharmaceutical form, primary packing material> on long-term 
+stability testing. Any out-of-specification results or significant changes during 
+the study will immediately be reported to EMP TC.  The approved stability 
+protocol will be used for commitment batches. 
+If applicable (when the proposed largest commercial batch size is 200 
+000 units (x units) or less) 
+The Applicant undertook in writing (date of letter of commitment) to place the 
+first three batches of any production size larger than x units on stability.   The 
+stability protocol will be that which was approved for primary batches (or the 
+ 
+ 
+ 
+ 
+56
+protocol was submitted for assessment).  Out-of-specification results or 
+significant atypical trends will be investigated.  Any confirmed significant 
+change or out-of-specification result will be reported immediately to EMP TC. 
+Ongoing stability study commitment 
+The Applicant undertook in writing (date of letter of commitment) a 
+commitment regarding ongoing stability studies.  Unless otherwise justified, 
+at least one batch per year of the product manufactured in every primary 
+packaging type will be included in the stability programme (unless none is 
+produced during that year).  The stability protocol will be that which was 
+approved for primary batches (or the protocol was submitted and found 
+acceptable).  Out-of-specification results or significant atypical trends will be 
+investigated.  Any confirmed significant change or out-of-specification result 
+will be reported immediately to EMP TC. The possible impact on batches on 
+the market will be considered in consultation with GMP inspection.  
+If applicable (validation of production batches) 
+Validation data on production scale batches of not less than three (3) 
+consecutive batches of <FPP reference number, trade name (INN of API), 
+strength, pharmaceutical form, primary packing material> was not provided 
+with the application. Therefore, the Applicant submitted a written 
+commitment (date of letter of commitment) that three consecutive production 
+batches would be prospectively validated and a validation report —in 
+accordance with the details of the validation protocol provided in the dossier— 
+would be made available as soon as possible for evaluation by assessors or 
+for verification by the GMP inspection. 
+ 
+ 
+ 
+ 
+ 
+ 
+57
+Annex 1V: Health Products Reliance Screening Checklist 
+ 
+Information required 
+(Please put a tick √ as applicable. If requirement not fully met, 
+please comment below)  
+YES 
+NO 
+1. 
+Has the applicant submitted consent form to WHO and SRA to 
+share information with PPB under the procedure. 
+ 
+ 
+Comment  
+ 
+2. 
+Has the applicant submitted the Expression of Interest form. 
+ 
+ 
+Comment 
+ 
+3. 
+Has the applicant submitted the mutual agreement between 
+the applicant and the manufacturer, if the applicant for 
+national registration is different from the manufacturer with a 
+prequalified product/SRA-CRP approved product. 
+ 
+ 
+Comment 
+ 
+ 
+ 
+4. 
+Has the applicant submitted the declaration of sameness of the 
+product as approved. 
+ 
+ 
+Comment 
+ 
+5. 
+Has the applicant provided a declaration that the dossier has 
+been updated to reflect all post-prequalification variations 
+approved. 
+ 
+ 
+Comment 
+ 
+6. 
+Has the applicant attached the current approved Quality 
+Information Summary (QIS). 
+ 
+ 
+Comment 
+ 
+7. 
+Has the applicant submitted the product’s approval letter. 
+ 
+ 
+Comment 
+ 
+8. 
+Has the applicant submitted assessment report (Public or non-
+public) 
+ 
+ 
+Comment 
+ 
+ 
+Change History 
+Date of preparation of original QIS: 
+Date of revised 
+version 
+Section 
+(e.g. S.2.1) 
+Revision 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi, Lenana Road Opposite Russian Embassy 
+Nairobi, 
+Telephone: 0709770100 
+Website: www.pharmacyboardkenya.org.ke 
+Email: info@pharmacyboardkenya.org.ke 
+ 
+ 

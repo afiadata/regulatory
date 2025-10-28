@@ -1,0 +1,809 @@
+                                                                                                     HPT/ISE/GMP/GUD/006 
+Revision. 01 
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+ 
+GUIDELINES FOR ESTABLISHING MANUFACTURING 
+FACILITIES FOR HEALTH PRODUCTS & TECHNOLOGIES IN 
+KENYA 
+ 
+ 
+ 
+ 
+ 
+April 2023 
+ 
+ 
+Citation of this Document 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on condition that the recommended citation below is 
+made. 
+Recommended Citation: Republic of Kenya, Ministry of Health, Pharmacy 
+and Poisons Board, Guidance for Establishing Manufacturing Facilities for 
+Health Products and Technologies in Kenya, Revision 1,2023. 
+ 
+All rights reserved: 
+©Pharmacy and Poisons Board, 2023 
+ 
+For clarifications, comments, or suggestions, please contact: 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+Website: www.pharmacyboardkenya.org 
+ 
+ 
+ii 
+Table of Contents 
+ABBREVIATIONS AND ACRONYMS .................................................................................................................................. III 
+GLOSSARY OF TERMS ............................................................................................................................................................... IV 
+ACKNOWLEDGEMENT ................................................................................................................................................................. V 
+PREFACE ............................................................................................................................................................................................... VI 
+1.0 
+INTRODUCTION ................................................................................................................................................................. 1 
+1.1 
+BACKGROUND ..................................................................................................................................................................... 1 
+1.2 
+LEGAL FRAMEWORK ........................................................................................................................................................ 3 
+1.3 
+SCOPE .................................................................................................................................................................................... 3 
+2.0 
+ESTABLISHING MANUFACTURING FACILITIES FOR HEALTH PRODUCTS AND 
+TECHNOLOGIES ................................................................................................................................................................................ 4 
+2.1 
+USEFUL GUIDANCE DOCUMENTS .................................................................................................................... 5 
+3.0 
+APPLICATION PROCEDURE ..................................................................................................................................... 6 
+3.1 
+SUBMISSION OF LETTER OF INTENT ......................................................................................................................... 6 
+3.2 
+INITIAL PPB MEETING WITH THE APPLICANT ......................................................................................................... 7 
+3.3 
+PREPARATION OF QUALITY MANAGEMENT SYSTEM .......................................................................................... 9 
+3.4 
+PRE-CERTIFICATION INSPECTION ............................................................................................................................... 9 
+4.0 
+GMP CERTIFICATION INSPECTION ................................................................................................................. 10 
+5.0 
+REFERENCES ................................................................................................................................................................... 11 
+6.0 
+REVISION HISTORY ..................................................................................................................................................... 12 
+7.0 
+CONTRIBUTORS/REVIEWERS ........................................................................................................................... 13 
+8.0 
+ANNEXES ............................................................................................................................................................................. 14 
+ANNEX 1: LETTER OF INTENT TO SET UP PHARMACEUTICAL MANUFACTURING 
+FACILITY ............................................................................................................................................................................................... 14 
+ANNEX 2: LETTER OF NO OBJECTION FOR COMMENCEMENT OF CONSTRUCTION .......... 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii 
+Abbreviations and Acronyms 
+ 
+ 
+ 
+ 
+ 
+ 
+HPTs 
+Health Products and Technologies 
+ICT 
+Information Communication Technology 
+PIC/S 
+Pharmaceutical Inspection Co-operation Scheme 
+PRIMS 
+Pharmaceutical 
+Regulatory 
+Information 
+Management 
+System 
+PPB 
+Pharmacy and Poisons Board 
+WHO 
+World Health Organization 
+ 
+iv 
+Glossary of terms 
+Applicant means a person, organization, company, or entity seeking 
+approval to set up a manufacturing facility in Kenya.  
+Board means the Pharmacy and Poisons Board appointed under the 
+provisions of section 3 of the Cap 244. 
+Health Products and technologies (HPT) This includes any product that is 
+used in treatment, diagnosis or to prevent a disease or alter physiology in a 
+human or in animals. 
+Local Technical Representatives An entity bearing a wholesale dealers 
+license in Kenya appointed to represent a third party in Kenya for purposes 
+of engagement with PPB.  
+ 
+ 
+ 
+v 
+Acknowledgement  
+The Pharmacy and Poisons Board (PPB) is grateful to all the stakeholders 
+and staff who contributed to the successful review of this guideline. 
+ 
+vi 
+Preface  
+With increased influx of applications for setting up manufacturing facilities in 
+Kenya, and given the responsibility to regulate the manufacture and trade of 
+Health Products and Technologies, the Pharmacy and Poisons Board has 
+developed this guidance notes for the industry in Kenya.  
+The primary purpose of this guidance is to promote the establishment and 
+operation of manufacturing facilities that adhere to the highest standards of 
+quality, safety, and efficiency. By sharing best practices, regulatory 
+requirements, and industry insights, we aim to facilitate the creation of 
+manufacturing facilities that can reliably produce health products and 
+technologies that meet the needs of patients, healthcare providers, and the 
+broader healthcare ecosystem. 
+This guidance is intended to facilitate the setting up of manufacturing 
+facilities in Kenya fit for manufacture of quality health products and 
+technologies that meet international standards as well as protecting 
+personnel working in these premises. This guidance is intended to guide on 
+establishment 
+of 
+manufacturing 
+facilities 
+for 
+health 
+products 
+and 
+technologies as well as ease of doing business.  
+Over the years, HPTs manufacturing has evolved so much that it is important 
+for Pharmacy and Poisons Board to establish a guidance document to ensure 
+that the development and maintenance of new and existing HPTs 
+manufacturing facilities are done according to current international 
+standards.  
+Taking note that Health Products & Technologies manufacturing premises 
+often 
+require 
+substantial 
+resources 
+to 
+construct 
+and 
+maintain, 
+standardization in the construction of HPTs manufacturing is important for 
+improving the health of the public in Kenya and in the region. This guidance 
+therefore, is meant to act as reference to ensure appropriate planning, 
+development and upgrading of the HPTs manufacturing facilities in Kenya.  
+We hope that this guidance will serve as a valuable resource for all 
+stakeholders committed to advancing healthcare through the establishment 
+ 
+vii 
+of manufacturing facilities. By working together to uphold the highest 
+standards and embrace innovation, we can collectively contribute to better 
+health outcomes for individuals and communities 
+ 
+ 
+Thank you.  
+ 
+ 
+ 
+DR. F.M. SIYOI 
+Chief Executive Officer  
+ 
+1 
+1.0 INTRODUCTION 
+1.1 Background 
+The pharmaceutical and biopharmaceutical industries are dedicated to 
+the production of life-saving medicines, vaccines, and therapies, making 
+it vital that every aspect of the manufacturing process adheres to the 
+highest standards of safety, quality, and efficacy. Good Manufacturing 
+Practices (GMP) represent a set of rigorous guidelines and regulations 
+that have been established to ensure that pharmaceutical products are 
+consistently produced and controlled in a manner that meets 
+predetermined quality standards. 
+One of the foundational elements in the successful implementation of 
+GMP is the manufacturing facility itself. The design, construction, and 
+operation of such facilities are pivotal in maintaining the integrity of the 
+production process and the quality of the final products. A well-designed 
+and maintained facility provides the optimal environment for the 
+production of pharmaceuticals, biologics, and medical devices, 
+safeguarding against contamination and deviations that could 
+compromise the safety and effectiveness of the end products. The 
+"Guidelines for Establishment of Manufacturing Facilities in GMP" have 
+been developed to address the critical aspects of setting up, maintaining, 
+and operating GMP-compliant manufacturing facilities. These guidelines 
+serve as a comprehensive resource, offering insights into the 
+considerations, best practices, and regulatory requirements that must 
+be adhered to during the planning, construction, validation, and 
+operation of GMP manufacturing facilities. 
+This document is the result of collaborative efforts from experts in the 
+pharmaceutical, biopharmaceutical, and medical device industries, as 
+well as regulatory authorities and other stakeholders. It is designed to 
+be a living reference point, continually updated to reflect evolving 
+industry standards and regulations. These guidelines not only offer a 
+roadmap for manufacturers but also provide regulatory authorities with 
+ 
+2 
+a framework to assess and approve facilities that meet GMP 
+requirements. 
+The significance of the establishment and operation of GMP-compliant 
+manufacturing facilities cannot be overstated. These facilities are at the 
+very heart of the pharmaceutical manufacturing process, and they must 
+conform to the highest standards of quality, safety, and compliance. The 
+guidelines outlined in this document serve as a common language for 
+manufacturers, regulators, and all parties involved in the design and 
+operation of these facilities. Their comprehensive nature ensures that 
+the facilities established are not just in compliance with GMP but also 
+adaptable to changes in technology, regulation, and industry best 
+practices. 
+As the pharmaceutical and biopharmaceutical sectors continue to 
+innovate and advance, these guidelines play a vital role in ensuring that 
+manufacturing facilities remain in step with industry changes. By 
+adhering to these guidelines, manufacturers demonstrate a commitment 
+to providing patients with safe, effective, and consistently high-quality 
+therapeutic products. 
+We encourage manufacturing companies, regulatory authorities, and 
+other stakeholders to embrace these guidelines as a benchmark for 
+excellence in the establishment and operation of GMP-compliant 
+manufacturing facilities. Together, we can maintain the highest 
+standards of quality, safety, and efficacy in the production of 
+pharmaceuticals, biologics, and medical devices, while advancing the 
+collective goal of improving public health and well-being. 
+This document reflects our shared dedication to upholding the principles 
+of GMP and ensuring that every manufacturing facility continues to be 
+a bastion of safety, quality, and innovation in the pharmaceutical and 
+biopharmaceutical industries. 
+ 
+3 
+1.2 Legal Framework 
+The Pharmacy and Poisons Act Cap 244 of the Laws of Kenya states that 
+every person who is granted a manufacturing license is mandated to 
+comply with good manufacturing practices. Additionally, a marketing 
+authorization is granted upon confirming the site of manufacture 
+complies with Good Manufacturing Practices. To ensure that this 
+requirement is met the PPB exercises regulatory oversight over 
+manufacturers of Health Products and Technologies in Kenya and 
+performs periodic GMP inspections for all manufacturers of products 
+marketed in Kenya whether locally produced or imported. 
+1.3 Scope  
+This guideline applies to;  
+a) Individuals or companies interested in investing in and 
+establishing health product manufacturing facilities in Kenya. 
+b) Manufacturers and industry professionals involved in the day-to-
+day operations of the manufacturing facilities including production 
+managers, quality control personnel. 
+c) Regulatory authorities responsible for overseeing and regulating 
+health product manufacturing end ensuring compliance with 
+relevant laws, standards and regulations. 
+d) Financial institutions that may provide funding or financial 
+support to investors and entrepreneurs involved in manufacturing 
+of HPTs. 
+e) Environmental 
+and 
+sustainability 
+agencies 
+overseeing 
+environmental regulations and sustainability practices, ensuring 
+that manufacturing facilities adhere to responsible and eco-
+friendly standards. 
+ 
+ 
+ 
+4 
+2.0 ESTABLISHING 
+MANUFACTURING 
+FACILITIES 
+FOR 
+HEALTH 
+PRODUCTS AND TECHNOLOGIES 
+Establishing manufacturing facilities for health products and technologies in 
+Kenya holds immense potential for advancing healthcare and promoting 
+economic development. Kenya, like many other developing nations, faces 
+health challenges that can be mitigated through the local production of health 
+products and technologies.  
+Kenya's healthcare landscape has long grappled with issues such as limited 
+access to quality medical products, especially in rural areas. By establishing 
+manufacturing facilities, the country can address these challenges by 
+producing a range of health products locally. This not only reduces 
+dependence on imports but also ensures a more reliable and cost-effective 
+supply chain. The key considerations and benefits associated with this 
+endeavor are as follows: 
+a) One crucial aspect of this initiative is regulatory compliance. A robust 
+regulatory framework ensures that health products meet quality 
+standards and adhere to safety protocols. Collaborating with regulatory 
+bodies is essential to streamline approval processes and foster a 
+conducive environment for manufacturing. 
+b) Selecting 
+an 
+appropriate 
+site 
+and 
+developing 
+the 
+necessary 
+infrastructure are pivotal steps. Accessibility, utilities, and proximity to 
+suppliers and markets must be carefully considered. Moreover, 
+incorporating eco-friendly practices and ensuring compliance with 
+environmental regulations reflects a commitment to sustainability. 
+c) Quality control and assurance are paramount to the success of health 
+product manufacturing. Strict adherence to international quality 
+standards, coupled with well-documented quality assurance protocols, 
+instills confidence in both consumers and regulatory bodies. 
+In conclusion, establishing manufacturing facilities for health products and 
+technologies in Kenya is a multifaceted endeavor with the potential to bring 
+about transformative changes. From improving healthcare access to fostering 
+ 
+5 
+economic growth, these facilities can play a pivotal role in shaping a healthier 
+and more prosperous future for the nation.  
+Through careful planning, regulatory adherence, and collaboration, Kenya 
+can unlock the full potential of local health product manufacturing, positively 
+impacting the lives of its citizens and contributing to the nation's overall 
+development. 
+2.1 
+Useful guidance documents 
+Persons or agencies intending to set up manufacturing facilities of HPTs in 
+Kenya, must apply to the Pharmacy and Poisons Board for approval in the 
+form and format provided (Annexes I & II) Their knowledge and acquaintance 
+to Kenya legal requirements and guidelines related to HPTs manufacturing in 
+Kenya is a useful starting point. 
+This guide explains the useful documents needed for the application 
+procedure as follows: 
+a) Submission of letter of intent 
+b) Initial PPB meeting with the applicant 
+c) Preparation of Quality Management System 
+d) Pre-certification inspection 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+3.0 APPLICATION PROCEDURE 
+The figure below provides the highlights of the application process.  
+Figure 1: General Process Flow Chart for the Manufacturing Facility Set Up 
+ 
+ 
+3.1  Submission of Letter of intent  
+An applicant shall submit a letter of Intent to set up a HPT 
+manufacturing facility. The Letter should contain such information as 
+contained in Annex 1 below. (Letter of Intent). The Letter of intent is   
+meant to arrange a meeting with the relevant PPB Department before 
+the commencement of the manufacturing facility construction. The 
+1.Letter of Intent 
+2.Initial Meeting 
+3.Facility Plan layout 
+4.Preparation of 
+Quality Management  
+Meeting 
+5.Pre- Certification 
+6.Manufacturing Process 
+Validation
+7.Certification Inspection
+ 
+7 
+meeting will discuss highlights of the proposed manufacturing facility 
+as discussed under section 3.2 below. 
+Only applicants whose application forms have been received shall be 
+allowed to proceed as in Figure 1 above representing general setup 
+process. Any other arrangements will not be admissible. 
+3.2  Initial PPB meeting with the applicant  
+During the initial meeting, the company is expected to make a 
+presentation of the company and the layouts of the new facility. The 
+company team should preferably constitute persons that are technically 
+conversant with the project. No less than two senior GMP inspectors 
+shall represent the Board in the meeting. During the inaugural meeting, 
+the applicant will be required to make a concise presentation on but 
+not limited to;  
+a) Background 
+b) Information of the product(s) proposed to be manufactured,  
+c) Concept design report/notes  
+The applicant will be required to submit the following documents: 
+a) Certified copies of the memorandum and articles of association. 
+b) An environment impact assessment report from National 
+Environment Management Authority (NEMA). 
+c) Where appropriate, clearance from the Radiation Protection 
+Board 
+d) As may be applicable, Authorization from the Kenya Investment 
+Authority and county governments. 
+e) Company Profile 
+f) Architectural layout plan of the site 
+g) A clear, defined facility layout plan  
+h) Proposed manufacturing process flow  
+ 
+8 
+i) Approval or no-objection letter from applicable proximal 
+government Installations whose approval may be required for 
+establishment of your proximal facility would be required. These 
+could include Kenya Airports Authority and Ministry of Internal 
+Security (MIS). 
+The documents will be reviewed with the view of assessing the 
+suitability of the layout in the manufacture of the HPTs. An assessment 
+will also be made to determine the suitability of the proposed 
+establishment in providing sufficient protection to the environment and 
+personnel involved in production. 
+The facility layout must be an integrated design that satisfies the 
+following: 
+a) Process requirements 
+b) Personnel flows 
+c) Material flows (product, component and raw material movements) 
+d) Equipment layout requirements 
+e) Operational access requirements 
+f) Maintenance access requirements 
+If necessary, additional information may be requested for review 
+alongside the above documents. After satisfactory review of the 
+preliminary documentation, the company will be given approval-for 
+execution and to establish a Quality Management System appropriate 
+for the manufacture of HPTs. This shall be in the form an “approved for 
+execution” rubber stamp, date and sign of a layout plan.  
+Unforeseen minor changes that do not result in significant change in 
+the layout plan may be acceptable during construction. The Pharmacy 
+and Poisons Board shall be notified of any such deviations in writing. 
+Final approval of the plan shall be made after construction and 
+commissioning of the plant. This shall be in the form of an “Approved” 
+rubber stamp, sign and date of the final layout plan.  
+ 
+9 
+A deviation from an approved for execution plan shall have to be pre-
+approved by PPB. This shall require a submission of a new layout, 
+which should be re-presented from stage 3 in the flow chart above. 
+Depending on the extent of deviation, a presentation by the company 
+may be waived for the approval of the updated version.  
+Following the company’s presentation, PPB’s GMP inspectors will 
+assess the suitability of the proposed location for setting up of the 
+manufacturing facility and the layouts. This assessment may constitute 
+an onsite inspection which shall be considered with reference to 
+activities to be undertaken in the proposed site against all the 
+neighboring facilities, activities and human settlement among other 
+considerations. 
+On conclusion of document review and approval of the layouts by the 
+Board, a Letter of No Objection for Commencement of construction, 
+qualifications of equipment and development of Quality Management 
+System including documentation preparation shall be issued as per 
+Annex 2. 
+3.3  Preparation of Quality Management System 
+The facility will proceed to begin construction of the facility, undertake 
+qualifications of equipment and development of Quality Management 
+System including documentation preparation. 
+Preliminary inspections may be carried out at various stages of 
+construction and setting up the site and reports prepared for each of 
+the steps. These may include: 
+a) Site visits before and during construction of premises 
+b) Site visit upon completion of construction. 
+3.4  Pre-certification inspection  
+A Pre-Certification inspection will be conducted once the company 
+indicates to have completed construction, validation/qualification and 
+ 
+10 
+preparation of quality management system. At this point the company 
+would have commissioned the facility and submitted a formal 
+application for GMP inspection of the applicable areas and a license to 
+manufacture HPTs. 
+Having paid the prescribed fee, the application should be made on the 
+PRIMS (www.prims.pharmacyboardkenya.org). An Inspection shall be 
+carried out in-line with WHO Good Manufacturing Practice Guidelines 
+and other guidelines recognised by the PPB. 
+A letter recognizing the applicant as a manufacturer and indicating 
+readiness of the facility to begin manufacturing activities (manufacture 
+process validation batches) shall be issued. This letter may be used to 
+apply for provisional manufacturing license. 
+4.0 GMP CERTIFICATION INSPECTION 
+A GMP Certification inspection will be conducted once the company 
+indicates to have completed process validation batches in view of full 
+certification. These batches are not for commercial purposes unless 
+otherwise approved by the PPB. 
+Applicants may get more information and answers by contacting;  
+Department  
+GMP Division,  
+Pharmacy and Poisons Board of Kenya 
+Telephone  
++254709770100/200/202/207 
+Email  
+gmp@pharmacyboardkenya.org  
+Postal Address 
+P.O. Box 27663-00506 Nairobi 
+ 
+ 
+ 
+ 
+11 
+5.0 REFERENCES 
+WHO good manufacturing practices for pharmaceutical products: Main 
+principles. WHO Expert Committee on Specifications for Pharmaceutical 
+Preparations. Forty-eight Report Geneva, World Health Organization, 2014 (WHO 
+Technical Report Series, No. 986), Annex 2 
+https://www.who.int/publications/m/item/trs986-annex2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+6.0 REVISION HISTORY  
+ 
+Revision 
+No: 
+Date 
+Author 
+Section(s) 
+revised  
+Description of change 
+1 
+10/04/2023 Dr. 
+Dominic 
+Kariuki 
+Title  
+Changed 
+from 
+“Guidance 
+notes for establishing medical 
+products 
+and 
+health 
+technologies 
+manufacturing 
+facilities 
+in 
+Kenya” 
+to 
+“Guidelines for establishing 
+manufacturing 
+facilities 
+for 
+health 
+products 
+& 
+technologies in Kenya”.  
+Content 
+Procedure Revised  
+Annex I 
+Deleted Product Classification 
+application form  
+Annex III 
+Deleted PPB setup inspection 
+report  
+Annex IV 
+Deleted Assessment of plant 
+layout application  
+Annex V 
+Deleted Application for pre-
+certification of GMP inspection  
+ 
+7.0 CONTRIBUTORS/REVIEWERS  
+Sr. No 
+NAME 
+POSITION 
+1.  
+Dr. F.M. Siyoi 
+Chief Executive Officer 
+2.  
+Dr. Ahmed Mohamed  
+Director, Health Products and 
+Technologies 
+3.  
+Dr. Dominic Kariuki 
+Deputy Director, Inspectorate, 
+Surveillance and Enforcement 
+4.  
+Dr. Omar Abdulkadir 
+Head, GMP 
+5.  
+Dr. Edwin Burugu 
+GMP Division 
+6.  
+Dr. James Owuor 
+GMP Division 
+7.  
+Dr. Sharon Kipkosgei 
+GMP Division 
+ 
+ 
+ 
+ 
+ 
+ 
+8.0 ANNEXES 
+Annex 1: Letter of Intent to set up Pharmaceutical Manufacturing 
+Facility 
+Part I: Applicant Details 
+Company name: 
+Click here to enter text. 
+Official Address: 
+Click here to enter text. 
+ 
+ 
+Name and address of applicant to whom correspondence should be addressed to: 
+(Name of applicant) 
+(Applicant’s correspondence address) 
+Contact phone no.: 
+Click here to enter text. 
+Contact fax no.:  
+Click here to enter text. 
+Email address of applicant: 
+Click here to enter text. 
+Part II: Product/s Details  
+Category 
+Dosage Form 
+Active ingredients 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part III: Manufacturing Details  
+Manufacturing facility address: 
+Click here to enter text. 
+ 
+Packaging facility address:  
+(if applicable) 
+Click here to enter text. 
+ 
+ 
+ 
+ 
+Part IV: Applicant’s Declaration 
+ 
+ 
+ 
+With this application, I hereby declare that; 
+☐the above particulars are, to the best of my knowledge and belief, correct. 
+☐ understand the purpose of this application 
+Signature (applicant) 
+and company stamp 
+ 
+ 
+ 
+ 
+Name: 
+Click here to enter text. 
+Title / Position: 
+Click here to enter text. 
+Date:  
+Click here to enter a date. 
+Part V: For Office Use Only 
+Officer in charge: 
+Click here to enter text. 
+Date of meeting: 
+Click here to enter a date. 
+Date of correspondence: 
+Click here to enter a date. 
+Part VI: Reminder (for applicant’s reference) 
+The following information must be prepared prior to meeting with the Pharmacy and 
+Poisons Board. 
+No. 
+Checklist for Presentation 
+☒ 
+1. 
+Presentation slide 
+ 
+Company’s background 
+☐ 
+Product/s information; type and source, name of 
+active ingredient 
+☐ 
+Facility layout plan; personnel and material flow 
+(starting to finished products 
+☐ 
+2. 
+Own laptop (compatible with VGA/HDMA cable 
+connector) 
+☐ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Letter of No Objection for Commencement of Construction  
+  PPB REFERENCE NUMBER  
+ 
+                               DATE 
+ 
+COMPANY NAME 
+PHYSICAL ADDRESS 
+POSTAL ADDRESS 
+LOCALITY  
+KENYA 
+ 
+RE: NO OBJECTION TO EXECUTION OF PROPOSED LAYOUT PLAN   
+ 
+Following proposed layout presentation made on……………., You are hereby 
+recognised as a potential manufacturer of HPTs. 
+ 
+You may proceed with construction, equipment installation, qualification and, 
+establishment of Pharmaceutical Quality Management System as stipulated 
+in the “Guidance for establishing pharmaceutical manufacturing facilities for 
+health products and technologies in Kenya”  
+ 
+Meanwhile you are required to submit your final Layout plan encompassing 
+any recommendations made and any minor, but essential modifications made 
+in the course of construction for approval and filing.   
+ 
+Note that this phase should be guided by applicable WHO GMP guidelines 
+(and where applicable other internationally recognized GMP guidelines) 
+relevant to; the Location, suitability of the Design, Construction, Adaptation 
+and Maintenance of the Premises used for manufacture, quality control, 
+packaging and release of pharmaceuticals as well as to the establishment of 
+applicable Pharmaceutical Quality System. 
+ 
+In addition, you are required to adhere to applicable Kenyan Law and to 
+requirements set by other government agencies and, where applicable obtain 
+clearance.   
+ 
+ 
+Deputy Director; 
+Inspectorate & Enforcement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+END OF DOCUMENT 
+ 
+ 
+© Pharmacy and Poisons Board 2023. 
+All rights reserved. This is a controlled document. 
+It must not be copied without authorization from the Pharmacy and Poisons 
+Board. 

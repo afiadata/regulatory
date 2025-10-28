@@ -1,0 +1,1021 @@
+                                                                                  
+ 
+                  
+HPT/PER/POL/017 
+                                                                                                
+ Rev No. 1 
+ 
+ 
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+Pharmacy and Poisons Board 
+ 
+ 
+ 
+ 
+ 
+RENEWALS FRAMEWORK FOR MEDICNES AND VACCINES IN 
+KENYA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December, 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Citation 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on condition that the recommended citation below is 
+made. 
+ 
+Recommended citation: Republic of Kenya, Ministry of Health, Pharmacy and 
+Poisons Board, Renewals Framework for Medicines and Vaccines in Kenya, 
+Revision 1, 2023. 
+ 
+All rights reserved: 
+©Pharmacy and Poisons Board, 2023 
+ 
+All rights reserved: 
+For clarifications, comments, or suggestions, please contact: 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ii 
+Table of Contents 
+Glossary of Terms 
+iv 
+1.0 INTRODUCTION 
+1 
+1.1 
+Background 
+1 
+1.2 
+Renewals Framework 
+2 
+1.3 
+Legal and Regulatory Framework-Relevant Kenyan Legislation 
+2 
+1.4 
+Scope 
+3 
+1.5 
+Historical Background 
+3 
+1.6 
+Purpose of the Framework 
+4 
+2.0 INTERNATIONAL GUIDELINES AND STANDARDS 
+4 
+2.1 
+Compliance Verification: 
+4 
+2.2 
+Consistency and Alignment: 
+5 
+3.0 Overview of the Medicines Renewal Process 
+5 
+3.1 
+Renewal Frequency: 
+5 
+3.2 
+Renewal Fee: 
+5 
+3.3 
+Annual Product Retention: 
+5 
+3.4 
+Retention Fee: 
+6 
+3.5 
+Variations and Changes: 
+6 
+3.6 
+Variation Fee: 
+6 
+3.7 
+Exemptions for Safety-Related Changes: 
+6 
+3.8 
+Time buckets 
+6 
+3.9 
+Expected Time for Completion: 
+6 
+4.0 PREPARING FOR RENEWAL 
+7 
+4.1 
+Staffing and capacity building 
+7 
+4.2 
+Information management system 
+8 
+4.3 
+Stakeholder Sensitization Workshop: 
+8 
+4.4 
+Pilot Phase Implementation 
+8 
+ 
+ 
+ 
+iii 
+4.5 
+Sensitization Timeline: 
+8 
+4.6 
+Application Process: 
+9 
+4.7 
+Frequently Asked Questions (FAQ): 
+10 
+5.0 RENEWAL BACKLOG CLEARANCE STRATEGIES 
+10 
+5.1 
+Streamlined Data Management 
+10 
+5.2 
+Streamlining and Eliminating Applications 
+10 
+5.2.1 
+Adoption of New Evaluation Models 
+10 
+5.2.2 
+Segmenting and Prioritizing Applications 
+10 
+5.2.3 
+Leveraging Reliance Pathways 
+11 
+5.2.4 
+Fast-Track submission and review of applications. 
+11 
+5.2.5 
+Integration of New recruited Staff 
+11 
+5.3 
+Funding for backlog reduction strategies; 
+11 
+6.0 DOCUMENTATION REQUIREMENS AND REVIEW 
+11 
+6.1 
+Documenting Existing Registrations: 
+11 
+7.0 TIMELINES AND DEADLINES: 
+12 
+7.1 
+Application Timeline: 
+12 
+7.2 
+Phased Approach for Backlog: 
+13 
+7.3 
+Initial Focus on Five-Year Period: 
+13 
+7.4 
+Five-Year Renewal Cycle: 
+13 
+8.0 RENEWAL FEES AND PENALTIES 
+13 
+8.1 
+Penalty Provisions for Non-Compliance: 
+13 
+9.0 RECORD KEEPING AND DOCUMENTATION: 
+13 
+9.1 
+Documentation Requirements: 
+14 
+10.0 CONTINUOUS IMPROVEMENT AND REVIEW: 
+14 
+11.0 IMPORTANCE OF RENEWAL 
+15 
+12.0 REVISION HISTORY 
+16 
+13.0 REFERENCING: 
+17 
+ 
+ 
+ 
+ 
+iv 
+Glossary of Terms 
+Renewal:   
+ 
+         Marketing Authorization renewal every five   
+                                               years. 
+ 
+Retention:  
+Maintenance of a Marketing Authorization 
+upon payment of the prescribed annual fee. 
+ 
+Product Quality Review (PQR): A mechanism (regular periodic or rolling 
+quality reviews of all licensed medicinal 
+products) to ensure that data captured by the 
+Pharmaceutical Quality System (PQS) is 
+reviewed for trends in order to verify the 
+consistency of the existing process, the 
+appropriateness of current specifications for 
+both starting materials and finished products, 
+highlight any adverse quality trends and to 
+identify product and process improvements.  
+The Product Quality review (PQR) is an 
+effective quality improvement tool to enhance 
+the consistency of the process and the overall 
+quality of the product. 
+ 
+Pharmacovigilance:  
+The practice of monitoring the effects of 
+medical drugs after they have been licensed for 
+use, especially in order to identify and evaluate 
+previously unreported adverse reactions. 
+ 
+Product complaints:  
+A complaint is a statement from a customer 
+expressing 
+dissatisfaction 
+with 
+the 
+manufactured product, whether with the 
+manufacturer's 
+service, 
+the 
+product's 
+packaging, the product's usability, or damage 
+to the product. 
+ 
+Market Surveillance:  
+Activities carried out and measures taken by 
+public authorities to ensure that products 
+comply with the applicable legislations and do 
+not endanger health, safety or any other aspect 
+of public interest protection. It may include 
+product traceability activities. 
+ 
+ 
+ 
+ 
+v 
+Risk management plan:  
+A risk management plan (RMP) provides 
+information on a medicine's safety profile, 
+describes the activities of the marketing 
+authorization holder to further characterize 
+the safety profile during post-marketing 
+(pharmacovigilance activities), and explains 
+the measures that are taken in order to 
+prevent or minimize the risks. 
+Product retention:  
+Means maintenance of a product in the 
+register of licensed products. 
+ 
+Marketing Authorization (MA): Also means product registration 
+ 
+MA withdrawal: 
+Means voluntary withdrawal of a marketing 
+authorization by the marketing authorization 
+holder. 
+ 
+PRIMS:  
+ 
+ 
+ 
+Pharmaceutical Regulatory Information 
+Management System 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+1.0 INTRODUCTION 
+1.1 
+Background 
+The Pharmacy and Poisons Board, hereafter referred to as “The Board” is 
+mandated under the Pharmacy and Poisons Act to regulate Health products 
+and Health Technologies. Renewals serves to provide the regulatory authority 
+with cumulative changes/updates that may significantly impact on the 
+quality, safety and efficacy of the product and ensuring that registered 
+products continue to be safe, effective and of good quality for public use. It is 
+the Board’s requirement that all registered medicines are retained annually 
+and renewed after every five (5) years following issuance of marketing 
+authorization. 
+In addition, renewals of medicines and vaccines has become a crucial 
+requirement, driven by regulatory systems strengthening assessment 
+initiative by the World Health Organization's Global Benchmarking Tool 
+(WHO-GBT) of the Board in June 2022 in response, the Board developed 
+comprehensive Guidelines and Standard Operating Procedures (SOPs) within 
+a renewal framework. This framework encompasses all medicines and 
+vaccines registered in Kenya since 1981. The framework provides guidance 
+for both the regulator (PPB) and applicant in the preparation of a policy on 
+Market Authorization renewal applications to The Board, while ensuring 
+access of medicines and vaccines is not disrupted and that quality, safe and 
+efficacious medicines and vaccines are available during their entire lifecycle. 
+PPB has established and implemented documented procedures and tools for 
+the renewal of medicine and vaccine registrations. Each stage of the renewal 
+process, including application receipt, screening, review, and decision-
+making, must be thoroughly documented and rigorously implemented. These 
+guidelines explicitly define the appropriate validity periods for initial 
+registrations while outlining the requirements for renewing registrations, 
+which are limited to a five-year cap as mandated by law. 
+ 
+ 
+ 
+ 
+ 
+2 
+1.2  Renewals Framework 
+ 
+ 
+1.3  Legal and Regulatory Framework-Relevant Kenyan Legislation 
+The Board is empowered under Section 3A(c) of the Pharmacy and 
+Poisons Act, Chapter 244 Laws of Kenya (“the Act”) to grant or withdraw 
+marketing authorization for medicines and vaccines subject to 
+appropriate conditions and revise such conditions for marketing 
+authorization as necessary. These conditions include the validity period 
+of the marketing authorization as specified in the Pharmacy and Poisons 
+(Registration of Health Products and Technologies) Rules, 2022. 
+The Pharmacy and Poisons (Registration of Health Products and 
+Technologies) Rules, 2022, under Rule 10 provide that an issued 
+Certificate of Registration of Health Products shall be valid for a period 
+of five (5) years from the date of issue. 
+Additionally, Rule 9 of the Pharmacy and Poisons (Registration of Health 
+Products and Technologies) Rules, 2022, provides for the requirements 
+for renewing the registration, which is required to be in compliance with 
+the prescribed guidelines for Renewal of Medicines and Vaccines. 
+• Guidelines and SOPs,
+• Renewal fees
+• Service charter timelines, 
+• backlog clearance strategies
+• time buckets 
+• Human Resourcess; dedicated 
+staff, external experts & 
+capacity buidling, 
+• Funding of backlog reduction 
+strategy
+• Information management 
+systems 
+• Regulations and 
+collaborations
+• Background 
+• Cost-benefit, cost-
+effectiveness analysis
+• stakeholder management
+• Monitoring & Evaluation
+• Frequently Asked Questiions 
+Performance  
+Legal 
+Framework
+Processes 
+Resources
+ 
+ 
+ 
+3 
+1.4  Scope 
+The five-year renewal cycle will begin with medicines and vaccines 
+registered in 2019. The requirements will be applied both prospectively 
+following a 5-year cycle and retrogressively to include products registered 
+as early as from 1980 handled through the time buckets described 
+herein.  This phased approach considers the growth in the number of 
+medicines and vaccines registered over the years, reflecting both the 
+increasing number of applications received and those evaluated and 
+granted market authorization. 
+1.5  Historical Background 
+The journey of market authorization for medicines and vaccines in Kenya 
+has evolved significantly over the years: 
+1981 – 2015: The inception of market authorization for medicines and 
+vaccines in Kenya dates back to the 1980s. During this period, the 
+process was predominantly manual, lacking a structured evaluation of 
+data. Although manual dossier submissions were made, the capacity of 
+PPB to thoroughly review the data was limited. 
+2016 – 2017: A pivotal transformation occurred in 2016 with the 
+introduction of an online system. This system adopted a standardized 
+electronic submission of applications in the Common Technical 
+Document format, revolutionizing the evaluation of dossiers. This digital 
+shift marked a significant step towards harmonization and structured 
+assessment processes. 
+2018 – 2020: Post-market authorization, in 2018, a pivotal annual 
+retention system was established. Initially, this system was founded on 
+the principle of listing retained medicines and vaccines based on their 
+potential market presence. This policy aimed to ensure the continued 
+availability of medicines and vaccines in the market. 
+2021 – to date: Building on the progress made, 2021 witnessed a 
+substantial upgrade in the retention system. The introduction of the 
+ 
+ 
+ 
+4 
+"wallet system" represented a significant enhancement. This modernized 
+approach further streamlined the retention process, contributing to a 
+more efficient and responsive regulatory framework. 
+1.6  Purpose of the Framework 
+The purpose of this framework is to ensure that PPB complies with the 
+Pharmacy 
+and 
+Poisons 
+(Registration 
+of 
+Health 
+Products 
+and 
+Technologies) Rules, 2022, under Rule 9 and 10 in ensuring that 
+medicines and vaccines are consistently of quality, safe and efficacious. 
+As part of regulatory systems strengthening, the Board is conforming to 
+the WHO requirement of Subsection MA04.02: of the GBT tool 
+“Documented procedures have been implemented to renew and/or to 
+periodically review the MAs granted have been established and 
+implemented. Similar to the initial registration and MA, the benefit-risk 
+balance of the medical product is the core consideration for marketing 
+re-authorization by regulatory authorities. The procedures shall be 
+supported with guidance on the requirements to be reviewed, and on the 
+SOPs to be implemented at the various stages of the renewal or periodic 
+review process.  
+The framework will cover the health product registration renewals for all 
+medicines as governed by the CAP 244 Laws of Kenya. 
+ 
+2.0 INTERNATIONAL GUIDELINES AND STANDARDS 
+International guidelines and standards play a crucial role in shaping the 
+renewal process. The following key considerations are derived from the WHO 
+Technical Report Series, No. 1019, 2019: 
+2.1 
+Compliance Verification: 
+The renewal process presents a valuable opportunity to verify whether all 
+commitments made by applicants during the initial registration phase have 
+been satisfactorily fulfilled. This includes the assessment of approved 
+ 
+ 
+ 
+5 
+variations, requalification for registered medicines and vaccines, and any 
+updates or changes to the conditions of registration in the reference NRA. 
+2.2 
+ Consistency and Alignment: 
+Ensuring consistency is essential. This involves verifying that the conditions 
+of registration remain up to date and aligned with the nationally registered 
+product. Collaboration with Product Quality Teams (PQT), reference SRAs 
+(Stringent Regulatory Authorities), and national registration conditions is vital 
+to maintain alignment and regulatory harmony. 
+3.0 Overview of the Medicines Renewal Process 
+In accordance with the Cap 244 laws of Kenya, the renewal of medicines and 
+vaccines is a vital regulatory process that ensures the ongoing quality, safety, 
+and efficacy of medicines and vaccines in the market. The process can be 
+summarized as follows: 
+3.1 
+Renewal Frequency: 
+Renewal is mandated to occur every five years. This regularity ensures that 
+medicines and vaccines are continually evaluated and maintained to meet 
+evolving standards.  
+3.2 
+ Renewal Fee: 
+This fee is payable by applicants to support the regulatory process. The fee 
+for both local and foreign applications will be in accordance with the gazette 
+notice under Rule 9.  
+3.3 
+ Annual Product Retention: 
+Following the issuance of market authorization, applicants are required to 
+retain their medicines and vaccines annually. This retention is facilitated 
+through the submission of product information and updates. 
+ 
+ 
+ 
+6 
+3.4 
+ Retention Fee: 
+An annual retention fee per product is applicable for product retention. This 
+fee contributes to the ongoing oversight and maintenance of registered 
+medicines and vaccines. 
+3.5 
+ Variations and Changes: 
+If any variations or changes to a product are necessary, applicants must 
+submit these changes to the regulatory authority. 
+3.6 
+ Variation Fee: 
+A variation fee per change is applicable for variations or modifications to a 
+product. It ensures that the regulatory authority is informed and can assess 
+the impact of changes effectively. 
+3.7 
+ Exemptions for Safety-Related Changes: 
+Changes related to safety, such as Periodic Safety Update Reports (PSUR), are 
+exempt from fees and are processed free of charge. This exemption encourages 
+prompt reporting and ensures the safety of medicines and vaccines. 
+3.8 
+ Time buckets  
+To efficiently manage the renewal process, a strategy matrix has been 
+established. It categorizes medicines and vaccines based on the number of 
+registered products during specific time periods. This approach ensures a 
+systematic and organized renewal process, addressing medicines and 
+vaccines in a structured manner. In overall, time buckets are a valuable tool 
+in data analysis, providing a way to group data into intervals of time for 
+efficient processing, aggregation, and analysis. 
+ 
+3.9 
+ Expected Time for Completion: 
+The renewal process will start with medicines and vaccines due for renewal 
+within the five-year renewal period. 
+ 
+ 
+ 
+7 
+The process will extend over a span of 5 (five) years to accommodate all eligible 
+medicines and vaccines. 
+This structured approach ensures that the renewal effort aligns with evolving 
+regulatory standards and contributes to maintaining the quality, safety, and 
+efficacy of medicines and vaccines in Kenya's market. 
+ 
+Time Buckets: 
+Time Buckets 
+Renewal Timeline 
+Products Under Renewal (By Year of 
+Registration) 
+2024 
+2019 (Due) 
+2025 
+2020;  
+2013-2018 
+2026 
+2021; 
+2007 to 2012 
+2027 
+2022; 
+2000 to 2006 
+2028 
+2023; 
+1993 to 1999 
+2029 
+2024 
+1980 to 1992 
+ 
+Note: This is a live document and thus remains dynamic based on 
+performance of every year. 
+4.0 PREPARING FOR RENEWAL 
+As part of the comprehensive renewal process, effective stakeholder 
+sensitization is paramount to ensure a smooth transition and cooperation 
+from all parties involved. The Pharmacy and Poisons Board (PPB) has 
+developed a structured approach to achieve this goal: 
+4.1 
+ Staffing and capacity building  
+It is envisaged that both the PPB and the MAH will assign responsibility of 
+handling renewals applications and review to dedicated staff. For elimination 
+ 
+ 
+ 
+8 
+of backlog the PPB will adopt two strategies; building internal capacity and 
+use of external experts. 
+4.2 
+ Information management system 
+The online portal for renewal of registration of medicines and vaccines is part 
+of the PRIMS. Applicants are required to commence the process for renewal 
+by preparing the required documentation for submission as and when 
+requested in line with the guidelines outlined in the Renewals Framework for 
+Medicines and Vaccines in Kenya, 2023.  
+ 
+4.3 
+ Stakeholder Sensitization Workshop: 
+To facilitate a clear understanding of the renewal process and guidelines, a 
+periodic stakeholder consultative meeting will be conducted. This workshop 
+will provide detailed insights into the regulatory requirements and managing 
+stakeholder expectations. 
+ 
+4.4 
+ Pilot Phase Implementation 
+The sensitization process will be initiated through a pilot phase in 2024. In 
+the first phase, which aligns with the 2019-time bucket, medicines and 
+vaccines due for renewal in that year will be the primary focus. 
+This phased approach ensures that the stakeholders are well-prepared for the 
+renewal process, starting with a manageable subset of medicines and 
+vaccines. 
+ 
+4.5 
+ Sensitization Timeline: 
+The stakeholder sensitization workshop for the pilot phase is scheduled to 
+take place before end of December 2023. 
+During this workshop, industry representatives will receive comprehensive 
+information about the renewal guidelines, procedures, and expectations. 
+ 
+ 
+ 
+9 
+4.6 
+ Application Process: 
+To implement the process of health product registration renewals, ensuring a 
+consistent approach to benefit all stakeholders and to ensure quality, 
+efficacious and safe medicines and vaccines are available to the public, the 
+following approaches shall be taken: 
+a) Submitting 
+the 
+application: 
+The 
+completed 
+renewal 
+application form shall be submitted via the Pharmacy and 
+Poisons Board online application portal, along with any 
+required supporting documentation. 
+b) Clear instructions and user assistance in the form of a 
+screening form shall be provided to guide applicants through 
+the registration and renewal process to assist in avoidance of 
+errors and ensure that the renewal process is completed 
+correctly. 
+c) An application fees will be required to be made based on the 
+prescribed gazette fee. 
+d) Timely renewal reminders will be sent to Market Authorization 
+Holders (MAH) based on programmed time stamps to ensure 
+that they do not miss the renewal deadline. 
+e) Details of contact persons will be provided and filled in into 
+the application form to ensure that any questions or issues 
+that arise during the renewal process can be addressed 
+quickly and efficiently. 
+f) Review and approval: The regulatory authority will review the 
+renewal application and supporting documentation to ensure 
+that the product continues to meet the required standards for 
+safety, efficacy, and quality. 
+g) Abbreviated renewal process: An abbreviated renewal process 
+may be used for facilities that have not had any changes to 
+their registration information since the last renewal. This will 
+make the process more efficient for these facilities. 
+h) Turnaround time: The turnaround time for health product 
+registration renewal shall be within 120 Working days. 
+ 
+ 
+ 
+10 
+ 
+4.7 
+Frequently Asked Questions (FAQ): 
+The Board shall supplement the stakeholder sensitization with periodic issues 
+of FAQs and guidance documents to the industry to facilitate the process of 
+renewals.  
+5.0 RENEWAL BACKLOG CLEARANCE STRATEGIES 
+PPB will employ several strategies to clear the backlog of marketing 
+authorization applications: 
+5.1 
+Streamlined Data Management 
+a. Data Auditing: Conduct a comprehensive audit and data cleaning of 
+the existing database to identify duplicate assessments (Manual vs 
+electronic) and blank dossiers. 
+b. Data Validation: Improve on screening process during the dossier 
+submission process to prevent the inclusion of blank or duplicate 
+dossiers. 
+5.2 
+Streamlining and Eliminating Applications 
+Eliminating Old Applications: PPB will encourage industry stakeholders to 
+'opt-in' for applications submitted in 2018 or earlier, considering that these 
+older applications may be out-of-date, duplicated, or of less commercial 
+interest. Failure to 'opt-in' will result in the elimination of these older 
+applications from the backlog. 
+5.2.1 Adoption of New Evaluation Models 
+PPB will explore new models of evaluation, such as focusing on specific 
+sections of applications, especially for products with common API 
+manufacturers and sources. 
+5.2.2 Segmenting and Prioritizing Applications 
+Applications will be segmented and prioritized based on public health need, 
+locally manufactured, WHO listed Authorities & Stringent regulatory 
+authorities. 
+ 
+ 
+ 
+11 
+5.2.3 Leveraging Reliance Pathways 
+PPB will establish reliance pathways to facilitate regulatory decisions, 
+including recognition procedures, verification review procedures, and 
+abridged review procedures. These pathways will optimize the use of 
+assessments from stringent regulatory authorities. 
+5.2.4 Fast-Track submission and review of applications. 
+PPB will consider fast-track submissions and review. 
+5.2.5 Integration of New recruited Staff 
+a) Staff Roles and Responsibilities: Clearly define roles and responsibilities 
+for new staff members within the assessment process. 
+b) Training and Orientation: Provide comprehensive training and 
+orientation to new staff members, ensuring they are well-equipped to 
+contribute effectively. 
+c) Collaborative 
+Assessment: 
+Encourage 
+collaboration 
+between 
+experienced assessors and new staff to facilitate knowledge transfer and 
+skill development. 
+d) Measuring and monitoring review timelines. 
+5.3 
+Funding for backlog reduction strategies; 
+The Backlog Reduction Strategy is expected to be a capital-intensive initiative 
+and will require financial, human and time resources. To effectively manage 
+the backlog and conform with service charter timelines, the Board will allocate 
+specific budget to the process and in addition mobilize resources from 
+development partners to supplement the Board’s limited resources.  
+  
+6.0 DOCUMENTATION REQUIREMENS AND REVIEW 
+6.1 
+Documenting Existing Registrations: 
+To effectively manage the renewal process, it is imperative to 
+maintain a comprehensive database of all registered medicines and 
+vaccines. This database will include the following categories of 
+medicines and vaccines: 
+ 
+ 
+ 
+12 
+a. All Manual Registered Medicines and vaccines: 
+This category encompasses medicines and vaccines that were 
+registered through manual submission processes. Their inclusion 
+in the database ensures that all medicines and vaccines, 
+regardless of the registration method, are now integrated into an 
+online submission model to ensure that their information is easily 
+retrievable and accessible. 
+b. All online CTD Registered Medicines and vaccines: 
+Medicines and vaccines registered using the electronic/online 
+submission of Common Technical Document (CTD) format will be 
+updated with the current information and changed will be 
+trackable and updated information regarding the product made 
+available over the product life cycle. 
+c. List of All Retained Medicines and vaccines: 
+An inventory of retained medicines and vaccines will be 
+maintained. Retained medicines and vaccines are those for which 
+annual retention is required. This list ensures ongoing compliance 
+with regulatory requirements. 
+d. List of All Withdrawn Medicines and vaccines that have been 
+withdrawn or removed from the market will also be documented. 
+Tracking withdrawn medicines and vaccines will be undertaking 
+during the renewal period to help know what products still exist in 
+the database and ensure regulatory oversight and market safety. 
+7.0 TIMELINES AND DEADLINES: 
+To ensure a systematic and efficient renewal process, specific timelines 
+and deadlines have been established: 
+7.1 
+ Application Timeline: 
+All applicants must submit their renewal applications at least 3 
+months before the expiry of their Market Authorization. 
+ 
+ 
+ 
+13 
+7.2 
+ Phased Approach for Backlog: 
+To effectively manage the renewal backlog, a phased approach will be 
+implemented. This approach spans a period of five (5) years. 
+7.3 
+ Initial Focus on Five-Year Period: 
+The renewal process will commence with medicines and vaccines that 
+are due for renewal within the first five-year period. 
+7.4 
+ Five-Year Renewal Cycle: 
+Subsequently, the process will continue to address medicines and 
+vaccines according to their renewal due dates, aligning with the 
+standard five-year renewal cycle. 
+8.0 RENEWAL FEES AND PENALTIES 
+The fee structure for renewal is as follows: 
+a) Renewal Fee: The fee for both local and foreign applications will be as 
+gazette in accordance with the gazette notice under Rule 9. 
+b) Good Manufacturing Practice (GMP) Fee: The GMP fee is applicable 
+across all medicines and vaccines, with the fee amount determined by 
+the validity of the GMP certificate. 
+c) Penalty Fee: To encourage timely compliance with renewal timelines, 
+a penalty fee will be introduced for those who fail to renew their 
+medicines and vaccines within the prescribed period. The penalty fee 
+will apply accordingly for overdue renewals. 
+8.1 
+ Penalty Provisions for Non-Compliance: 
+Past the sixth month of no renewal, it is presumed that market 
+withdrawal will be instituted against such medicines and vaccines. 
+9.0 RECORD KEEPING AND DOCUMENTATION: 
+To maintain transparency, accountability, and regulatory oversight, a 
+robust record-keeping system will be established: 
+a) Online Application System and Record Maintenance: All renewal 
+applications will be submitted and processed through the Pharmacy 
+ 
+ 
+ 
+14 
+and Poisons Board's online PRIMS system. A Comprehensive record of 
+all renewal applications, evaluations, and decisions will be 
+meticulously maintained within the system. 
+b) Meeting Minutes: During the renewal process, minutes of meetings 
+and discussions will be documented. These minutes will serve as a 
+valuable resource for tracking decisions, actions, and discussions 
+related to the renewal of medicines and vaccines. 
+9.1 
+Documentation Requirements: 
+All documentation requirements for the renewal process will be in 
+strict accordance with the guidelines outlined in the Renewal 
+Guideline. 
+10.0  CONTINUOUS IMPROVEMENT AND REVIEW: 
+A proactive approach to continuous improvement and review will be 
+implemented, these will be as done as follows: 
+a) Quarterly Review Meetings: Regular quarterly review meetings will 
+be conducted to assess the status of the renewal framework. These 
+meetings serve as opportunities to identify areas that require 
+improvement and to address any emerging challenges promptly. 
+b) Renewal Committee: A dedicated Renewal Committee will be 
+established to oversee and coordinate the renewal process. This 
+committee will play a pivotal role in ensuring the process runs 
+smoothly and aligns with regulatory objectives. 
+c) Periodic Process Review: There will be periodic reviews of the entire 
+renewal process to evaluate its effectiveness and relevance. This review 
+process allows for adjustments and enhancements as needed to 
+maintain the highest standards of regulatory oversight. 
+d) Market Withdrawal for Non-Renewals: Beyond the sixth month of 
+non-renewal, it will be assumed that market withdrawal procedures 
+will be initiated for medicines and vaccines that have not undergone 
+renewal. This proactive measure helps maintain the integrity and 
+safety of the market. 
+ 
+ 
+ 
+15 
+11.0  IMPORTANCE OF RENEWAL 
+a) Ensuring Safety and Efficacy through periodically reviewing and 
+assessing the safety and efficacy of medicines and vaccines. This helps 
+in identifying any new safety concerns or emerging risks associated with 
+a particular medication. 
+b) Quality Control by providing an opportunity to re-evaluate the quality 
+of medicines and vaccines in the market thus help identify issues with 
+manufacturing or quality control processes that may have arisen since 
+initial approval. 
+c) Continuous monitoring of adverse events and side effects associated 
+with medicines and vaccines. This ongoing assessment ensures that 
+any potential safety issues are addressed promptly. 
+d) Alignment with Current Standards by the fact that medicines and 
+vaccines regulations and standards may evolve over time thus allow for 
+alignment with the latest regulatory standards, pharmacopoeias, and 
+guidelines. 
+e) Labeling and Packaging updates through changes in labeling and 
+packaging requirements to be addressed during renewal, ensuring that 
+information provided to healthcare professionals and patients is up-to-
+date and accurate. 
+f) Continual Assessment of Benefit-Risk Profile following a benefit-risk 
+profiles changes as new data become available thus providing an 
+opportunity to reassess the balance between a medicine's benefits and 
+risks. 
+g) Encouraging Innovation by maintaining a robust regulatory system that 
+includes renewal, and encouraging pharmaceutical companies to 
+continually invest in research and development to improve existing 
+medicines and vaccines or develop new ones. 
+h) Streamlining the Market by removing outdated or unsafe medicines and 
+vaccines from the market, streamlining the availability of medicines and 
+vaccines, and reducing the risk of patients receiving ineffective or 
+harmful treatments. 
+ 
+ 
+ 
+16 
+i) Global Harmonization through promotion and alignment with 
+international 
+standards 
+and 
+practices, 
+making 
+it 
+easier 
+for 
+pharmaceutical companies to operate in multiple markets and reducing 
+duplication of efforts in the review process. 
+j) Build Public Trust through regular renewal and ongoing oversight by 
+PPB to enhance public trust in the safety and efficacy of medicines, 
+which is crucial for healthcare systems. 
+k) Supporting 
+Pharmacovigilance: 
+Renewal 
+can 
+enhance 
+pharmacovigilance efforts by requiring companies to submit updated 
+safety data and ensuring that surveillance systems remain effective. 
+l) Compliance Monitoring: It allows PPB to monitor compliance with 
+regulatory requirements over time, reducing the likelihood of non-
+compliance and ensuring that manufacturers adhere to quality 
+standards. 
+ 
+ 
+12.0  REVISION HISTORY 
+Revision 
+No. 
+Date 
+Author/Reviewer Section(s) 
+revised 
+Description 
+of 
+change 
+Rev.1. 
+15/12/2023 
+Pharmacy 
+and 
+Poisons Board 
+1.2 
+Addition of 
+Renewal 
+Framework 
+Section 
+15/12/2023 
+Pharmacy 
+and 
+Poisons Board 
+3.9 
+Revision of Time 
+Buckets 
+15/12/2023 
+Pharmacy 
+and 
+Poisons Board 
+5 
+Addition of 
+Renewal Backlog 
+Clearance 
+Strategies 
+ 
+ 
+ 
+ 
+ 
+17 
+13.0  REFERENCING: 
+1. Registration Renewals Implementation Framework South African 
+Health Products Regulatory Authority Medicines, July 2023 
+2. World Health Organization Global Benchmarking Tool, 2018 
+3. The Pharmacy and Poisons Board Act, Cap 244 Laws of Kenya, 
+amended 2019. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 00506 Lenana Road Opposite Russian Embassy Nairobi, 
+Tel: +2540212345/6789,  
+Fax: +2540212345, Website: www.Pharmacyboardkenya.org.ke, 
+Email: info@pharmacyboardkenya.org.ke 
+ 

@@ -1,0 +1,1206 @@
+HPT/ISE/GMP/GUD/071 
+                                                                                                                                                       Rev No. 1 
+ 
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KENYA GOOD MANUFACTURING PRACTICES GUIDELINES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+April 2023 
+ 
+ 
+ 
+ 
+Citation of this Document 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on condition that the recommended citation below is 
+made. 
+ 
+Recommended Citation: Republic of Kenya, Ministry of Health, Pharmacy 
+and Poisons Board, Kenya Good Manufacturing Practices Guidelines, Revision 
+1, 2023. 
+ 
+All rights reserved: 
+©Pharmacy and Poisons Board, 2023 
+ 
+For clarifications, comments, or suggestions, please contact: 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+Website: www.pharmacyboardkenya.org 
+ 
+ 
+ 
+ 
+ 
+ii 
+Table of Contents 
+GLOSSARY ........................................................................................................................................................ IV 
+ACKNOWLEDGEMENTS ................................................................................................................................ V 
+PREFACE ........................................................................................................................................................... VI 
+1. 
+INTRODUCTION ....................................................................................................................................... 7 
+1.1 LEGAL FRAMEWORK ............................................................................................................................... 7 
+1.2 SCOPE ........................................................................................................................................................ 7 
+1.3 OBJECTIVE ................................................................................................................................................. 8 
+2. 
+GOOD MANUFACTURING PRACTICE .............................................................................................. 9 
+3. 
+SETTING UP A PHARMACEUTICAL MANUFACTURING FACILITY ....................................... 10 
+4. 
+TYPES OF INSPECTION ...................................................................................................................... 10 
+4.1 
+MARKETING AUTHORIZATION-RELATED GMP INSPECTIONS ....................................................... 10 
+4.2 
+FOR-CAUSE INSPECTIONS ................................................................................................................ 10 
+4.3 
+CONCISE INSPECTIONS .................................................................................................................... 10 
+4.4 
+FOLLOW-UP INSPECTIONS ............................................................................................................... 11 
+5. 
+RISK-BASED APPROACH TO INSPECTIONS ............................................................................... 11 
+6. 
+COMPLETE A PRE-INSPECTION FORM ........................................................................................ 11 
+7. 
+SCHEDULING OF MANUFACTURERS FOR GMP INSPECTION ............................................. 11 
+8. 
+THE PROCESS OF GMP INSPECTION ........................................................................................... 12 
+9. 
+GMP RELIANCE MECHANISM .......................................................................................................... 12 
+10. 
+CLASSIFICATION OF GMP INSPECTION DEFICIENCIES ................................................... 13 
+10.1 
+CRITICAL DEFICIENCY ...................................................................................................................... 13 
+10.2 
+MAJOR DEFICIENCY ......................................................................................................................... 13 
+10.3 
+MINOR DEFICIENCY .......................................................................................................................... 13 
+11. 
+ACTIONS AFTER GMP INSPECTIONS ....................................................................................... 13 
+12. 
+GUIDANCE ON RESPONDING TO A POST-INSPECTION LETTER ................................... 14 
+13. 
+SUSPENSION OF MANUFACTURING LICENCE ..................................................................... 18 
+14. 
+KEY PERSONNEL ............................................................................................................................. 18 
+15. 
+FEES FOR GMP INSPECTIONS .................................................................................................... 18 
+16. 
+CONTACT ............................................................................................................................................ 18 
+17. 
+REFERENCES .................................................................................................................................... 19 
+18. 
+REVISION HISTORY ........................................................................................................................ 20 
+19. 
+CONTRIBUTORS/REVIEWERS .................................................................................................... 21 
+ANNEX 1: LIST OF GMP GUIDELINES USED BY PPB GMP INSPECTORS ................................. 22 
+ 
+ 
+ 
+ 
+ 
+iii 
+ABBREVIATIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GMP 
+Good Manufacturing Practice 
+HPTs 
+Health Products and Technologies 
+ICT 
+Information Communication Technology 
+PIC/S 
+Pharmaceutical Inspection Co-operation Scheme 
+PPB 
+Pharmacy and Poisons Board 
+PRIMS 
+Pharmaceutical Regulatory Information Management 
+System 
+PIC/s 
+Pharmaceutical Inspection Co-operation Scheme 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+ 
+iv 
+GLOSSARY 
+“Applicant” means a person, organization, company or entity seeking 
+inspection of premises to ensure good manufacturing practices are followed 
+ 
+“Board” means the Pharmacy and Poisons Board appointed under the 
+provisions of Section3 of Cap 244 
+ 
+“Health Products and Technologies” means all devices, medicines, systems 
+and procedures intended at improving health 
+   
+“Manufacture” means any process carried out in the course of making a 
+product or medicinal substance and includes but is not limited to packaging, 
+blending, mixing, assembly, distillation processing, changing of form, or 
+application of any chemical or physical process in the preparation of a 
+medicinal substance or product; but does not include dissolving or dispensing 
+the product by diluting or mixing it with some other substances used as a 
+vehicle for administration 
+ 
+“Manufacturer” means the natural or legal person or a firm that is involved 
+in the production, preparation, processing, compounding, formulating, filling, 
+refining, transformation, packing, packaging, re-packaging, and labelling of 
+drug and herbal drugs. 
+ 
+“Marketing authorization holder” means an entity that holds the marketing 
+approval for a product. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+v 
+ACKNOWLEDGEMENTS 
+The Pharmacy and Poisons Board (PPB) is grateful to all the stakeholders 
+and staff who contributed to the successful review of this guideline. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vi 
+PREFACE 
+The Pharmacy and Poisons Board (PPB) has adopted and published this 
+document that contains multiple technical guidelines on Good Manufacturing 
+Practice (GMP) published by the World Health Organization (WHO). It 
+references separate and specific guidance and procedure in cases where WHO 
+makes recommendations for National Regulatory Authorities to develop 
+country-specific guidance to suit the local circumstances or national 
+requirements 
+Non-technical GMP guidelines developed to guide the local manufacturing 
+Industry and PPB GMP inspectors have been developed and published by PPB. 
+As much as practicable, these too are developed in line with internationally 
+recognized guidelines. Through the implementation of the guidelines in this 
+document in regulatory oversight of GMP inspections, PPB shall better 
+oversight manufacturers of Health Products and Technologies (HPTs) 
+manufactured in, imported into, or exported from Kenya. It will ensure that 
+products are consistently produced and controlled according to the quality 
+standards appropriate to their intended use and as require by the marketing 
+authorization or product specification. 
+The Board shall reference the WHO guidelines in updating and implementing 
+this guidance document in keeping with regulatory best practices. 
+ 
+Thank you.  
+ 
+ 
+ 
+DR. F.M. SIYOI 
+Chief Executive Officer  
+ 
+ 
+ 
+ 
+7 
+1. Introduction 
+This document contains multiple technical guideline links on Good 
+Manufacturing Practices (GMP) as published by the World Health 
+Organization. It does not provide any additional technical guidance above 
+technical recommendations provided by the WHO. 
+Where in the guidelines WHO recommends that National Regulatory 
+Authorities adopt specific recommendations to suit any local circumstances 
+or national requirements or national requirements, the Board will develop 
+separate guidance or procedure to address this provision. This is provided for 
+and explained in this document. 
+The Pharmacy and Poisons Board from time to time develops and publishes 
+non-technical GMP guidelines to guide the local manufacturing industry and 
+PPB GMP inspectors 
+ 
+1.1 Legal Framework 
+The Pharmacy and Poisons Act Cap 244 of the Laws of Kenya every person 
+who is granted a manufacturing license is mandated to comply with good 
+manufacturing practices. Additionally, marketing authorisation is granted 
+upon confirming that the site of manufacture complies with Good 
+Manufacturing Practices. 
+To ensure that this requirement is met the PPB exercises regulatory 
+oversight over manufacturers of Health Products and Technologies (HPTs) in 
+Kenya and performs periodic GMP inspections for all manufacturers of 
+products marketed in Kenya whether locally produced or imported. 
+ 
+ 
+1.2 Scope 
+This document is intended to provide specific guidance to manufacturers of 
+HPTs and the PPB GMP inspectors in the area of Good Manufacturing 
+Practices. 
+Foreign manufacturers of HPTs intending to obtain Kenyan GMP certification 
+may also find this collection of GMP guidelines useful and as reference 
+documents for use during the Kenya GMP inspections 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+1.3 Objective 
+The objective of this guidelines is to regulate the production, verification and 
+validation of manufactured products and ensure that they are effective and 
+safe for market use and distribution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+2. Good manufacturing practice  
+This guidance is meant to help applicants to comply with good manufacturing 
+practices (GMP) requirements, and prepare for an inspection. 
+Good manufacturing practice (GMP) represents the minimum standard that 
+a manufacturer of medicines must adhere to in their production processes. 
+GMP serves to ensure that the products manufactured are: 
+1. Consistently of high-quality; 
+2. Appropriate to their intended use; 
+3. In compliance with the requirements of the marketing authorization 
+clinical trial authorization or product specification. 
+Entities subject to compliance with good manufacturing practice (GMP) 
+include: 
+1. Holders of Manufacturing licenses; 
+2. Holders of blood establishment authorizations; 
+3. Overseas facilities contracted by Kenyan marketing authorization 
+holders; 
+4. Overseas facilities holding or intending to hold Kenyan marketing 
+authorization; 
+5. Quality Control Laboratory for Pharmaceutical Manufacturers  
+The Kenya Pharmacy and Poisons Board (PPB) conducts inspections to assess 
+the adherence of manufacturing sites to GMP standards established by the 
+World Health Organization (https://www.who.int/teams/health-product-
+policy-and-standards/standards-and-specifications/gmp). 
+These inspections occur as part of the application process for a manufacturer 
+license and are periodically conducted based on risk assessments. Overseas 
+manufacturing sites are also subject to inspections.  
+For guidance Manufacturers intending to market products in Kenya are 
+expected to submit the most recent site master file in the format and content 
+prescribed 
+by 
+the 
+World 
+Health 
+Organization 
+https://www.who.int/publications/m/item/trs961-annex14 
+In cases where an organization manufactures both human and veterinary 
+medicines using the same facility, the PPB may conduct inspections for both 
+areas but evaluate GMP compliance exclusively for human medicines. The 
+inspection and certification for GMP compliance of veterinary product 
+manufacturing facilities does not fall under the purview of the PPB. 
+ 
+ 
+ 
+ 
+10 
+3. Setting up a pharmaceutical manufacturing facility 
+The PPB has issued comprehensive guidance notes titled "Guidance Notes for 
+Establishing Manufacturing Facilities of Health Products and Technologies in 
+Kenya" to provide further clarity and direction on this matter.  
+ 
+4. Types of inspection 
+4.1 
+Marketing Authorization-related GMP inspections 
+The PPB conducts product-related routine GMP inspections when evaluating 
+an application for a Kenyan marketing authorization. These inspections 
+assess 
+whether 
+the 
+manufacturer 
+complies 
+with 
+GMP 
+standards. 
+Manufacturers of products are informed in advance about these inspections. 
+These applications can be done through prims.pharmacyboardkenya.org/  
+In some instances, inspections are conducted jointly with inspectors from 
+East African medicines regulatory agencies, as part of East Africa Joint 
+Inspections. Under this framework, member states collaborate by deploying 
+GMP inspectors to jointly assess the compliance of manufacturing sites with 
+GMP principles. These sites would have applied through the East African 
+Community pathways for the joint GMP inspections and product joint 
+assessment for marketing authorization in respective countries, 
+ 
+4.2 
+For-cause inspections 
+The PPB may initiate inspections of manufacturing facilities following 
+significant product quality related complaints or recalls and if it becomes 
+aware of potential GMP violations through various channels, including: 
+a. Reports from whistleblowers. 
+b. Notifications from other PPB departments. 
+c. Alerts from other regulatory authorities. 
+For-cause inspections, often referred to as triggered inspections or special 
+inspections, may involve minimal or no advance notification to the parties 
+involved. 
+ 
+ 
+ 
+4.3 
+Concise inspections 
+The PPB may conduct concise inspection for manufacturers with consistent 
+records of compliance with GMP requirements through previous routine 
+ 
+ 
+ 
+ 
+11 
+inspections. Concise inspection focus on specific GMP requirements selected 
+as indicators of overall GMP performance. 
+ 
+4.4 
+Follow-up inspections 
+This are GMP inspections by the PPB undertaken to monitor the results of 
+Corrective actions. They are undertaken after a specified period after the 
+initial inspections depending on the nature of the defects and the depth and 
+extent of inspection to be undertaken.  
+5. Risk-based approach to inspections 
+Every manufacturer is assigned a risk rating, and the Kenya Pharmacy and 
+Poisons Board (PPB) prioritizes inspections for those with the highest risk 
+ratings. Manufacturers are typically notified of upcoming inspections in 
+advance. However, under the short-notice inspection program, the PPB may 
+provide little or no advance notification. 
+During these inspections, GMP inspectors assess the systems employed in 
+the manufacturing of medicines. Following a GMP inspection, the inspected 
+site's risk rating is determined based on the following factors: 
+a) The site's compliance report. 
+b) Internal information related to previous inspection history. 
+c) Organizational changes 
+Any upward revision of the risk rating is subject to peer review by a team of 
+GMP inspectors before finalization. Manufacturers or any other inspected 
+sites have the option to appeal the PPB risk rating, taking into consideration 
+the risk rating report.  
+6. Complete a pre-inspection form 
+Before an inspection, the inspected site may be required to complete a GMP 
+pre-inspection compliance report comprising the company's biodata and the 
+site's compliance details. This is not applicable for a triggered or for-cause 
+inspection, which may be notified on short notice. 
+When the completion of this form is necessary, the inspected site should 
+submit the fully filled form in MS Word Document format to the email address 
+provided by the Lead inspector. 
+7. Scheduling of manufacturers for GMP inspection 
+Inspection schedules of applications are developed every six months and 
+allocated tentative dates and inspection teams based on; 
+a) Type and purpose of inspection to be performed; 
+ 
+ 
+ 
+ 
+12 
+b) Anticipated duration of inspection based on plant size: number of 
+blocks, production lines and activities; 
+c) Location of the site;  
+d) Compliance history and risk rating of the site. 
+8. The process of GMP inspection 
+PPB inspectors conduct GMP inspections to assess compliance with WHO 
+GMP 
+guidelines 
+(https://www.who.int/teams/health-product-and-policy-
+standards/standards-and-specifications/norms-and-standards-for-
+pharmaceuticals/guidelines/production) and any other internationally 
+recognized GMP guidelines adopted by Kenya.  
+During the GMP inspection, the PPB inspection team will: 
+a. Interview relevant personnel. 
+b. Review pertinent documents. 
+c. Conduct on-site visits. 
+Site visits may encompass any facility or process involved in the production 
+of medicines, including: 
+a) Manufacturing areas. 
+b) Quality Control (QC) laboratories. 
+c) Storage areas. 
+d) Stability study sites. 
+e) Utility areas. 
+f) Returned goods areas. 
+The inspection team may request additional documentation and samples for 
+testing during the inspection. They may also adjust the inspection's focus if 
+they suspect significant non-compliance. 
+In the closing meeting, the inspector will provide feedback, discuss any 
+identified deficiencies, and establish timelines for corrective actions. 
+9. GMP reliance mechanism 
+The PPB has published a reliance guideline in order to leverage the GMP 
+inspection and certification activities of other identified Medicines Regulatory 
+Authorities (MRA) when assessing the compliance of overseas manufacturing 
+facilities intending to obtain marketing authorization in Kenya. This 
+mechanism reduces duplication of efforts, optimizes resources, and facilitates 
+the global supply chain of pharmaceuticals and other regulated products.  
+ 
+ 
+ 
+ 
+13 
+The PPB may recognize the GMP compliance decisions of identified NRAs or 
+determine compliance of a manufacturer through a desk review of stringent 
+regulatory authority inspection reports and related documents in possible lieu 
+of a PPB on-site inspection.  
+PPB also leverages inspection outputs already produced by WHO 
+prequalification, under the WHO collaborative procedure for accelerated 
+registration of prequalified finished pharmaceutical products.  
+10. 
+Classification of GMP inspection deficiencies 
+Deficiencies found during inspections are classified at 3 levels as summarized 
+below based on the assessed risk level and may vary depending on the nature 
+of the products manufactured; 
+ 
+10.1 
+Critical deficiency 
+A critical deficiency is an observation that has produced or which may result 
+in a significant risk of producing, a product that is harmful to the user. 
+ 
+10.2 
+Major deficiency 
+A major deficiency is a non-critical observation that: 
+a) has produced or may produce a product that does not comply 
+with its marketing authorization (including variations); 
+b) indicates a major deviation from the GMP guide; 
+c) indicates a failure to carry out satisfactory procedures for the 
+release of batches; 
+d) indicates a failure of the person responsible for quality 
+assurance/quality control to fulfil his or her duties; 
+e) consists of several “minor” deficiencies, none of which on its own 
+may be major, but which together may represent a major 
+deficiency and should be explained and reported as such. 
+10.3 
+Minor deficiency 
+A deficiency which cannot be classified as either ‘critical’ or ‘major’ or there is 
+not enough information to classify it as ‘critical’ or ‘major’ but which indicates 
+a departure from good manufacturing practice. 
+11. 
+Actions after GMP inspections  
+Following the closing meeting of the inspection, the PPB team will provide 
+feedback to the company at the end of the inspection. It may issue either an 
+exit report or a draft report that confirms any identified deficiencies. 
+ 
+ 
+ 
+ 
+14 
+The company is expected to respond to the inspector using the official email 
+address provided by the inspector. The response should confirm the proposed 
+corrective and preventive actions along with the specified timelines (referred 
+to as the Corrective and Preventive Action Plan) for completing these actions. 
+Upon receiving the proposed Corrective and Preventive Action Plan, the 
+inspector will review the company's response. If the response is deemed 
+acceptable, the inspected company will receive a GMP certificate along with 
+the GMP inspection report. 
+However, an inadequate or unacceptable response may lead to escalated 
+compliance measures if further requests for information are not satisfactory. 
+12. 
+Guidance on responding to a post-inspection letter 
+12.1 Inspection Completion: 
+The GMP inspection fee paid to the PPB covers all expenses related to 
+inspection preparation, reporting, and the conclusion of the inspection 
+process. An inspection is considered "complete" when inspectors have 
+assessed the responses from the inspected facility regarding the deficiencies 
+outlined in the initial Inspection Report. 
+ 
+12.2 Additional Office-Based Inspection Fee: 
+The PPB does not impose an additional office-based inspection fee, even if 
+inspectors need to invest extra time overseeing post-inspection activities. This 
+can happen when critical deficiencies or significant non-compliance issues 
+require inspectors to ensure the adequacy of the company's Corrective and 
+Preventive Actions (CAPA) as the company works towards compliance. 
+These post-inspection activities may include: 
+a) Reviewing CAPA plans. 
+b) Conducting impact assessments. 
+c) Receiving periodic CAPA status updates. 
+While the PPB inspectorate encourages inspected companies to respond in a 
+manner that expedites the decision-making process regarding compliance 
+following the inspection, it's essential to note that adhering to a specific format 
+is not obligatory. 
+ 
+12.3 Inspection with Critical deficiencies 
+Critical deficiencies will be more complex, and responses may take different 
+formats depending on the issues cited. Specific guidance is therefore not 
+provided, but the general principles below apply. 
+ 
+ 
+ 
+ 
+15 
+  
+12.4 An inspection with Major deficiencies 
+Companies should submit a tabular Corrective and Preventive Action (CAPA) 
+plan in the format provided by the inspector.  
+12.5 Site Response 
+The initial response should be placed under the "Most Probable Root Cause" 
+and "Proposed CAPA and Timelines" sections. To facilitate efficient use of time, 
+the answer to the deficiencies is raised directly, clearly and succinctly in each 
+column, preferably on the same Word document provided. Verbose responses 
+with extraneous information may be returned without review, with a request 
+to simplify. 
+Under "Most Probable Root Cause," identify the root cause most likely 
+responsible for the issue based on analysis and validation. This is the cause 
+that, when addressed, is expected to prevent the issue from recurring. Once 
+the most probable root cause is determined, develop corrective and preventive 
+actions to address the issue and document under the Corrective and 
+Preventive Action (CAPA) column.  
+Corrective Action addresses the immediate issue and prevents its recurrence, 
+while Preventive Action implements measures to prevent similar issues in the 
+future. 
+Subtitle this first set of responses as “initial response” 
+ 
+It's crucial for the company to: 
+a) Clearly state actions and deadlines (DDMMYYYY). If the response 
+is a commitment to ‘review a system’, then it should state when 
+the review will be complete and what will happen with the output 
+of the review, the inspector may request that the output be 
+provided. 
+b) Choose appropriate timelines that are realistic (do not give 
+extended times for simple actions). 
+c) Consider a broader review of systemic issues including other 
+sites/sections/aspects in the organisation and do not just 
+respond with a correction to the single identified point. 
+d) If all similar areas have been reviewed to find other examples of 
+the deficiency, but no others were found, this should clearly be 
+stated and should include a description of how the system review 
+was performed. 
+e) Where timelines are long due to the complexity of the solution, 
+but operations are continued, implement interim actions. These 
+ 
+ 
+ 
+ 
+16 
+should be designed to protect the patient until the longer-term 
+action is complete. 
+f) Provide evidence only when specifically requested. 
+g) Provide the company response in an editable Word document to 
+allow the inspector to respond (if required). 
+h) Hard copies are not required and will not be reviewed. 
+i) Place second responses of the site directly below the PPB request 
+for additional information. The site should choose a new colour 
+for all sets of responses and reply underneath the further request. 
+j) Maintain consistency in responses when providing additional 
+information.  
+k) Not change the previous response text when providing additional 
+information or further response 
+ 
+12.6 PPB request for further information 
+A. The inspector requiring further information from the inspected 
+company may put the request directly below the point that they require 
+information on for using a different colour. The whole record of all 
+queries and responses will therefore be in a single document. 
+B. The use of different colours for each set of responses allows each party 
+to clearly identify which points require further response. 
+12.7 An inspection with Minor deficiencies  
+Initial Site Responses for deficiencies classed as ‘Minor’ follow the same 
+format for Major responses as outlined above. 
+12.8 Inspector Comments 
+Inspector comments are not deficiencies. The site should respond to 
+comments, even if it is just to acknowledge them. Inspected companies are 
+required to communicate with the inspector(s) in advance if the timeline 
+commitment is going to be missed.  
+The post-inspection compliance decisions are based on the acceptance of the 
+remediation actions and their associated timescales for completion. The 
+registered email can be used to notify of delays to commitment completion. 
+ 
+12.9 Compliance Management for Kenyan Manufacturers 
+Companies demonstrating poor compliance without reaching the threshold 
+for regulatory action may undergo the compliance escalation process 
+(compliance management process). In such cases, a re-inspection may be 
+conducted to ensure the completion of actions in accordance with the agreed 
+remediation program. 
+ 
+ 
+ 
+ 
+17 
+The objective of continuing the Compliance Management process post-
+inspection is to assist companies in achieving compliance before regulatory 
+action becomes necessary. 
+Further deficiencies identified during the re-inspection are independently 
+reviewed by a peer review team, and the final classification is confirmed in 
+writing within 30 days. The timescale for addressing deficiencies is typically 
+30 days and will be specified in the post-inspection letter. 
+If the company's remediation plan is still in progress, the original deficiencies 
+leading to compliance management escalation remain valid for consideration 
+until it is confirmed that effective remedial actions have been implemented, 
+usually upon re-inspection. 
+Companies are notified of compliance management objectives, which can be 
+clarified by the inspector upon request. 
+Re-inspection deficiencies are reviewed by the peer review team, and further 
+correspondence regarding continuing compliance action is communicated 
+separately by the GMP department. This communication may follow the 
+receipt and assessment of the company's post-inspection responses. 
+Ongoing compliance management review determines whether there are 
+grounds for the Licensing department to consider formal regulatory action, 
+which may be based on current inspection deficiencies, inadequacy of 
+proposals to correct these deficiencies, or failure to implement commitments 
+effectively or promptly. 
+It is crucial for the company to maintain open communication channels with 
+the assigned site inspector (the Senior Superintended Inspector) and the GMP 
+department throughout the process. Any significant changes in GMP 
+compliance, whether positive or negative, including delays in implementing 
+corrective action commitments, should be promptly reported. 
+Once the compliance escalation process is concluded, the company returns 
+to the routine risk-based inspection program. However, regulatory action may 
+still be considered if the necessary improvements are not made. 
+The compliance escalation process may also be employed if the GMP peer 
+review team has closed the referred case with a recommendation for 
+monitoring until remedial action plans are completed. 
+This process may involve making recommendations for close monitoring of 
+compliance improvement work through inspection, holding meetings and 
+correspondence 
+with 
+company 
+senior 
+management 
+to 
+outline 
+the 
+consequences of continued non-compliance, and more. 
+ 
+ 
+ 
+ 
+18 
+13. 
+Suspension of manufacturing licence 
+In cases where a manufacturer's previous inspection has revealed critical 
+and/or major deficiencies or when previously agreed-upon action plans to 
+address inspection deficiencies remain unresolved, the PPB will take the 
+following steps: 
+Increased Inspection Visits: The Deputy Director may initiate more frequent 
+inspection visits to the facility in question. 
+Meeting with License Holder: The Deputy Director may request a meeting 
+with the license holder to discuss the identified issues. 
+Recommendation 
+for 
+License 
+Suspension: 
+In 
+severe 
+cases, 
+a 
+recommendation to the department responsible for Licensing may be made 
+that the company's manufacturing license be suspended. 
+If the company's remediation plan is still in progress, the original deficiencies 
+that led to the referral to the Licensing department continue to be valid for 
+considering regulatory action until effective remedial actions are confirmed, 
+typically upon re-inspection. Manufacturers will have received prior 
+notifications regarding potential regulatory actions and their implications. 
+Any questions or clarifications regarding these actions can be addressed by 
+the inspector or the Licensing department upon request. 
+The suspension of manufacturing licenses and other regulatory restrictions 
+are not permanent barriers to manufacturing activities. These restrictions will 
+be lifted if the manufacturer can demonstrate, usually upon re-inspection, 
+the effective implementation of corrective actions that address the identified 
+GMP deficiencies 
+14. 
+Key Personnel 
+The PPB has developed guidance on Qualification and Experience 
+Requirements 
+and 
+Responsibilities 
+for 
+Key 
+Personnel 
+of 
+licensed 
+Manufacturers of Health Products and Technologies in Kenya 
+15. 
+Fees for GMP inspections 
+The PPB charges GMP fees that are gazetted from time to time for GMP 
+inspection available to all applicants. The PPB charges fees for all new 
+inspections and re-inspections. 
+16. 
+Contact  
+For further information on good manufacturing practices and for planning of 
+GMP inspections, please email gmp@pharmacyboardkenya.org  
+ 
+ 
+ 
+ 
+ 
+19 
+17. 
+References 
+a) WHO good manufacturing practices for medicinal gases. WHO 
+Expert Committee on Specifications for Pharmaceutical 
+Preparations. Fifty-sixth Report Geneva, World Health 
+Organization, 2022 
+b) WHO good manufacturing practices for sterile pharmaceutical 
+products. 
+WHO 
+Expert 
+Committee 
+on 
+Specifications 
+for 
+Pharmaceutical Preparations. Fifty-sixth Report Geneva, World 
+Health Organization, 2022 (WHO Technical Report Series, No. 1044), 
+Annex 2. 
+c) WHO good manufacturing practices guidelines on validation. WHO 
+Expert Committee on Specifications for Pharmaceutical Preparations. 
+Fifty-third Report Geneva, World Health Organization, 2019 (WHO 
+Technical Report Series, No. 1019), Annex 3. 
+d) WHO good practices for research and development facilities of 
+pharmaceutical products. WHO Expert Committee on Specifications 
+for Pharmaceutical Preparations. Fifty-sixth Report Geneva, World 
+Health Organization, 2022 (WHO Technical Report Series, No. 1044), 
+Annex 6. 
+e) WHO good manufacturing practices for pharmaceutical products: 
+Main principles. WHO Expert Committee on Specifications for 
+Pharmaceutical Preparations. Forty-eight Report Geneva, World 
+Health Organization, 2014 (WHO Technical Report Series, No. 986), 
+Annex 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+18. 
+Revision History 
+ 
+Pharmacy 
+and Poisons 
+Board 
+Revision History 
+HPT/ISE/GUD/071 
+ 
+Date 
+Prepared 
+by 
+Sections 
+Revised 
+Description of Change 
+Revision 1 
+7/4/2023 
+Dr 
+Kariuki 
+1.0 
+3.1 
+7.0 
+15.0 
+Hyperlinks have been 
+added 
+Section 16 
+References Added 
+Section 18 
+Contributors/Reviewers 
+Added 
+ 
+ 
+ 
+ 
+19. 
+Contributors/Reviewers 
+1. Dr Fred Siyoi- CEO, Pharmacy and Poisons Board 
+2. Dr Ahmed Mohamed-Director Health Products and Technologies 
+3. Dr Dominic Kariuki- Deputy Director Health Products and Technologies 
+4. Dr Sichei Chemworei-Quality Control Department 
+5. Dr Abdul Omar-Inspectorate Surveillance and Enforcement 
+6. Dr James Owuor-Inspectorate Surveillance and Enforcement 
+7. Dr Edwin Burugu- Inspectorate Surveillance and Enforcement 
+8. Dr Sharon Kipkosgei- Inspectorate Surveillance and Enforcement 
+ 
+ 
+ 
+ 
+Annex 1: List of GMP guidelines used by PPB GMP inspectors 
+ 
+1. 
+WHO good manufacturing practices for medicinal gases. WHO Expert 
+Committee on Specifications for Pharmaceutical Preparations. Fifty-sixth 
+Report Geneva, World Health Organization, 2022 (WHO Technical Report 
+Series, No. 1044), Annex 5. 
+https://www.who.int/publications/m/item/trs1044-annex5  
+ 
+2. 
+WHO good manufacturing practices for sterile pharmaceutical products. 
+WHO Expert Committee on Specifications for Pharmaceutical Preparations. 
+Fifty-sixth Report Geneva, World Health Organization, 2022 (WHO Technical 
+Report Series, No. 1044), Annex 2. 
+https://www.who.int/publications/m/item/trs1044-annex2 
+ 
+3. 
+WHO 
+good 
+practices 
+for 
+research 
+and 
+development 
+facilities 
+of 
+pharmaceutical products. WHO Expert Committee on Specifications for 
+Pharmaceutical Preparations. Fifty-sixth Report Geneva, World Health 
+Organization, 2022 (WHO Technical Report Series, No. 1044), Annex 6. 
+https://www.who.int/publications/m/item/trs1044-annex6 
+ 
+4. 
+WHO good manufacturing practices for investigational products. WHO Expert 
+Committee on Specifications for Pharmaceutical Preparations. Fifty-sixth 
+Report Geneva, World Health Organization, 2022 (WHO Technical Report 
+Series, No. 1044), Annex 7. 
+https://www.who.int/publications/m/item/trs1044-annex7 
+ 
+5. 
+IAEA/WHO guidelines on good manufacturing practices for investigational 
+radiopharmaceutical products. WHO Expert Committee on Specifications for 
+Pharmaceutical Preparations. Fifty-sixth Report Geneva, World Health 
+Organization, 2022 (WHO Technical Report Series, No. 1044), Annex 3. 
+https://www.who.int/publications/m/item/trs1044-annex3  
+ 
+6. 
+WHO guidelines on technology transfer in pharmaceutical manufacturing. 
+WHO Expert Committee on Specifications for Pharmaceutical Preparations. 
+Fifty-sixth Report Geneva, World Health Organization, 2022 (WHO Technical 
+Report Series, No. 1044), Annex 4. 
+https://www.who.int/publications/m/item/trs1044-annex4 
+ 
+7. 
+WHO good manufacturing practices: water for pharmaceutical use. WHO 
+Expert Committee on Specifications for Pharmaceutical Preparations. Fifty-fifth 
+Report Geneva, World Health Organization, 2021 (WHO Technical Report 
+Series, No. 1033), Annex 3. 
+https://www.who.int/publications/m/item/annex-3-trs-1033 
+ 
+8. 
+WHO Guidance on good data and record management practices. WHO Expert 
+Committee on Specifications for Pharmaceutical Preparations. Fifty-fifth Report 
+Geneva, World Health Organization, 2021 (WHO Technical Report Series, No. 
+1033), Annex 3. 
+https://www.who.int/publications/m/item/annex-4-trs-1033 
+ 
+ 
+ 
+ 
+ 
+9. 
+Points to consider when including Health Based Exposure Limits (HBELs) in 
+cleaning 
+validation. 
+WHO 
+Expert 
+Committee 
+on 
+Specifications 
+for 
+Pharmaceutical Preparations. Fifty-fifth Report Geneva, World Health 
+Organization, 2021 (WHO Technical Report Series, No. 1033), Annex 2. 
+https://www.who.int/publications/m/item/annex-2-trs-1033 
+ 
+10. IAEA-WHO good manufacturing practices for radiopharmaceutical products. 
+WHO Expert Committee on Specifications for Pharmaceutical Preparations. 
+Fifty-fourth Report Geneva, World Health Organization, 2020 (WHO 
+Technical Report Series, No. 1025), Annex 2. 
+https://www.who.int/publications/m/item/trs1025-annex2 
+ 
+11. Points to consider for manufacturers and inspectors: environmental aspects 
+of manufacturing for the prevention of antimicrobial resistance. WHO Expert 
+Committee on Specifications for Pharmaceutical Preparations. Fifty-fourth 
+Report Geneva, World Health Organization, 2020 (WHO Technical Report 
+Series, No. 1025), Annex 6. 
+https://www.who.int/publications/m/item/trs-1025-annex-6 
+ 
+12. WHO production of water for injection by means other than distillation. WHO 
+Expert Committee on Specifications for Pharmaceutical Preparations. Fifty-
+fourth Report Geneva, World Health Organization, 2020 (WHO Technical 
+Report Series, No. 1025), Annex 2. 
+https://www.who.int/publications/m/item/trs-1025-annex-3-water-for-
+injection   
+ 
+13. WHO good manufacturing practices for heating, ventilation and air-
+conditioning systems for non-sterile pharmaceutical products (part 2): 
+interpretation of guidelines. WHO Expert Committee on Specifications for 
+Pharmaceutical Preparations. Fifty-third Report Geneva, World Health 
+Organization, 2019 (WHO Technical Report Series, No. 1019), Annex 2. 
+https://www.who.int/publications/m/item/trs1019-annex2 
+ 
+14. WHO good manufacturing practices guidelines on validation. WHO Expert 
+Committee on Specifications for Pharmaceutical Preparations. Fifty-third 
+Report Geneva, World Health Organization, 2019 (WHO Technical Report 
+Series, No. 1019), Annex 3. 
+https://www.who.int/publications/m/item/trs1019-annex3 
+ 
+15. WHO Guidelines on heating, ventilation and air-conditioning system for non-
+sterile pharmaceutical products. WHO Expert Committee on Specifications for 
+Pharmaceutical Preparations. Fifty-second Report Geneva, World Health 
+Organization, 2018 (WHO Technical Report Series, No. 1010), Annex 8 
+https://www.who.int/publications/m/item/Annex-8-trs-1010  
+ 
+16. WHO good manufacturing practices for the manufacture of herbal medicines. 
+WHO Expert Committee on Specifications for Pharmaceutical Preparations. 
+ 
+ 
+ 
+ 
+Fifty-second Report Geneva, World Health Organization, 2018 (WHO 
+Technical Report Series, No. 1010), Annex 2 
+https://www.who.int/publications/m/item/trs1010-annex2 
+ 
+17. WHO good manufacturing practices for the manufacture of herbal medicines. 
+WHO Expert Committee on Specifications for Pharmaceutical Preparations. 
+Fifty-second Report Geneva, World Health Organization, 2018 (WHO 
+Technical Report Series, No. 1010), Annex 1 
+https://www.who.int/publications/m/item/trs1010-annex1  
+ 
+18. WHO good manufacturing practices for biological products (jointly with 
+expert committee on Biological Standardization). WHO Expert Committee on 
+Specifications for Pharmaceutical Preparations. Fiftieth Report Geneva, World 
+Health Organization, 2016 (WHO Technical Report Series, No. 996), Annex 3 
+https://www.who.int/publications/m/item/trs996-annex3 
+ 
+19. WHO General guidance on hold-time studies. WHO Expert Committee on 
+Specifications for Pharmaceutical Preparations. Forty-Ninth Report Geneva, 
+World Health Organization, 2015 (WHO Technical Report Series, No. 992), 
+Annex 4 
+https://www.who.int/publications/m/item/trs992-annex4 
+ 
+20. WHO good manufacturing practices for pharmaceutical products: Main 
+principles. WHO Expert Committee on Specifications for Pharmaceutical 
+Preparations. Forty-eight Report Geneva, World Health Organization, 2014 
+(WHO Technical Report Series, No. 986), Annex 2 
+https://www.who.int/publications/m/item/trs986-annex2  
+ 
+21. WHO guidelines on quality risk management. WHO Expert Committee on 
+Specifications for Pharmaceutical Preparations. Forty-Seventh Report Geneva, 
+World Health Organization, 2013 (WHO Technical Report Series, No. 981), 
+Annex 2 
+https://www.who.int/publications/m/item/trs981-annex2 
+ 
+22. WHO good manufacturing practices for blood establishments (jointly with the 
+Expert Committee on Biological Standardization). WHO Expert Committee on 
+Specifications for Pharmaceutical Preparations. Forty-Seventh Report Geneva, 
+World Health Organization, 2011 (WHO Technical Report Series, No. 961), 
+Annex 4 
+https://www.who.int/publications/m/item/trs961-annex4 
+ 
+23. WHO good manufacturing practices for active pharmaceutical ingredients 
+(bulk drug products). WHO Expert Committee on Specifications for 
+Pharmaceutical Preparations. Forty-fourth Report. Geneva, World Health 
+Organization, 2010 (WHO Technical Report Series, No. 957), Annex 2. 
+https://www.who.int/publications/m/item/annex-2-trs-957  
+ 
+24. WHO Good Practices for Pharmaceutical Products Containing Hazardous 
+Substances.  WHO Expert Committee on Specifications for Pharmaceutical 
+ 
+ 
+ 
+ 
+Preparations. Forty-fourth Report. Geneva, World Health Organization, 2010 
+(WHO Technical Report Series, No. 957), Annex 3. 
+https://www.who.int/publications/m/item/trs957-annex3 
+ 
+25. WHO Guidelines on packaging for pharmaceutical products.  WHO Expert 
+Committee on Specifications for Pharmaceutical Preparations. Forty-fourth 
+Report. Geneva, World Health Organization, 2002 (WHO Technical Report 
+Series, No. 902), Annex 9 
+https://www.who.int/publications/m/item/annex-9-trs-902 
+ 
+26. WHO Good manufacturing practices: supplementary guidelines for the 
+manufacture of pharmaceutical excipients.  WHO Expert Committee on 
+Specifications for Pharmaceutical Preparations. Thirty-second Report. Geneva, 
+World Health Organization, 1999 (WHO Technical Report Series, No. 885), 
+Annex 5 
+https://www.who.int/publications/m/item/trs885-annex5 
+ 
+27. WHO Good chromatography practices. WHO Expert Committee on 
+Specifications for Pharmaceutical Preparations. Fifty-fourth report Geneva, 
+World Health Organization, 2020 (WHO Technical Report Series, No. 1025), 
+Annex 4 
+https://www.who.int/publications/m/item/trs1025-annex4  
+ 
+28. WHO good practices for pharmaceutical quality control laboratories. WHO 
+Expert Committee on Specifications for Pharmaceutical Preparations. Forty-
+eight Report Geneva, World Health Organization, 2010 (WHO Technical 
+Report Series, No. 957), Annex 1 
+https://www.who.int/publications/m/item/trs957-annex1 
+ 
+29. 
+WHO Good practices for pharmaceutical microbiology laboratories. WHO 
+Expert Committee on Specifications for Pharmaceutical Preparations. Fourth-six 
+Report. Geneva, World Health Organization, 2011 (WHO Technical Report 
+Series, No. 961), Annex 2 
+https://www.who.int/publications/m/item/trs961-annex2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+END OF DOCUMENT 
+ 
+ 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+Website: www.pharmacyboardkenya.org 

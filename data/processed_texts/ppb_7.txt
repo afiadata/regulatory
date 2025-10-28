@@ -1,0 +1,980 @@
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+1. 
+ACKNOWLEDGEMENTS 
+The Board acknowledges all the authors and contributors who contributed 
+to the preparation of this document. 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+TABLE OF CONTENTS 
+ACKNOWLEDGEMENTS 
+ii 
+ABBREVIATIONS AND ACRONYMS 
+iv 
+DEFINITIONS 
+v 
+1. 
+INTRODUCTION 
+1 
+1.1 Background 
+1 
+1.2 Legal Framework 
+2 
+1.3 Scope 
+2 
+2. 
+REGISTRATION OF MEDICAL DEVICES ESTABLISHMENTS 
+3 
+2.1 Application for registration of medical devices establishments 
+3 
+2.2 
+Processing of the application 
+4 
+2.3 
+Issuance of a registration certificate 
+5 
+2.4 
+Refusal to issue a medical devices establishment registration 
+certificate 
+6 
+2.5 
+Notification of change 
+6 
+2.6 
+Suspension, revocation, withholding or cancellation of a 
+Establishment registration certificate 
+6 
+2.7 
+Restoration of a registration certificate 
+7 
+2.8 Other general regulatory requirements for holders of establishment 
+registration certificates for medical devices establishments 
+7 
+3. 
+REFERENCES 
+9 
+4. 
+CONTRIBUTORS AND REVIEWERS: 
+10 
+5. 
+ANNEXURES: 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+2. 
+ABBREVIATIONS AND ACRONYMS 
+CSDT 
+Common Submission Dossier Template  
+EU NB 
+European Union Notified Bodies 
+EWG 
+Experts Working Group 
+GMDN 
+Global Medical Devices Nomenclature 
+GMP 
+Good Manufacturing Practices 
+IMDRF 
+International Medical Devices Regulators Forum 
+IVD-MD 
+In-Vitro Diagnostics Medical Device 
+LAR 
+Local Authorized Representative 
+LM 
+Legal Manufacturer 
+PMA 
+Premarket Approval 
+STED 
+Summary Technical Documentation for Demonstrating 
+Conformity   to the Essential Principles of Safety and 
+Performance of Medical Devices 
+UDI 
+Unique Device Identification 
+UMDNS 
+Universal Medical Device Nomenclature System 
+US FDA 
+US Food and Drug Administration 
+WHO 
+World Health Organization 
+ISO 
+International Standards Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+3. 
+DEFINITIONS 
+The definitions given below apply to the terms as used in this document. 
+They may have different meanings in other contexts. 
+Act: a statute or law made by a legislative body. 
+The Pharmacy and Poisons Board, hereinafter referred to as the ‘Board’ is 
+the national regulatory authority in Kenya that exercises a legal right to 
+control the use or sale of medical devices within its jurisdiction, and that 
+may take enforcement action to ensure that medical products marketed 
+within its jurisdiction comply with legal requirements.  
+Authorized representative: a natural or legal person established within a 
+country or jurisdiction that has received a written mandate from the 
+manufacturer, distributor or wholesaler to act on its behalf for specified 
+tasks related to the latter’s obligations under that country or jurisdiction’s 
+legislation. 
+Classification name: the term used by the Board and its classification 
+panels to describe a device or class of devices for purposes of classifying 
+devices. 
+Classification system: the classification system for medical devices, 
+including in-vitro diagnostics (IVDs), that guides the regulatory controls to 
+be implemented for each device class. It is widely accepted that medical 
+devices are separable into groups or classes (typically four: A, B, C and D) 
+by applying a set of classification rules and specifying separately the various 
+conformity assessment procedures that should apply to each group of 
+devices. 
+Commercial distribution: any distribution of a medical device intended for 
+human use which is held or offered for sale.  
+Distributor: a natural or legal person in the supply chain who, on his/her 
+own behalf, furthers the availability of a medical device to the end user.  
+ 
+8 
+ 
+ 
+Establishment 
+registration: 
+registration 
+of 
+the 
+medical 
+devices 
+establishment that manufactures, imports and/or distributes medical 
+devices as prescribed in these guidelines and the Pharmacy and Poisons Act  
+Importer: a natural or legal person in the supply chain that is the first in a 
+supply chain to make a medical device, manufactured in another country 
+or jurisdiction, available in the country or jurisdiction where it is to be 
+marketed.  
+In-vitro diagnostic (IVD): a medical device, whether used alone or in 
+combination, intended by the manufacturer for the in-vitro examination of 
+specimens derived from the human body solely or principally to provide 
+information for diagnostic, monitoring or compatibility purposes.  
+Manufacturer: any natural or legal person with responsibility for design 
+and/or manufacture of a medical device with the intention of making the 
+medical device available for use, under his/her name; whether or not such 
+a medical device is designed and/or manufactured by that person himself 
+or on his behalf by another person(s).  
+Note: This “natural or legal person” has ultimate legal responsibility for 
+ensuring compliance with all applicable regulatory requirements for the 
+medical device in the countries or jurisdictions where it is intended to be 
+made available or sold, unless this responsibility is specifically imposed on 
+another person by the regulatory authority within that jurisdiction. 
+Material change: includes any change or modification in the labelling of or 
+advertisements that affects the identity or safety and effectiveness of the 
+device. These changes may include, but are not limited to, changes in the 
+common, usual or proprietary name, declared ingredients or components, 
+intended use, contraindications, warnings or instructions for use. Changes 
+that are not material may include graphic layout, grammar, correction of 
+typographical errors which do not change the content of the labelling, 
+changes in lot number and, for devices where the biological activity or 
+ 
+9 
+ 
+ 
+known composition differs with each lot produced, the labelling containing 
+the actual values for each lot. 
+Medical device: any instrument, apparatus, implement, machine, 
+appliance, implant, reagent for in-vitro use, software, material or other 
+similar or related article, intended by the manufacturer to be used, alone or 
+in combination, for human beings, for one or more of the specific medical 
+purpose(s) of: 
+● diagnosis, prevention, monitoring, treatment or alleviation of disease; 
+● diagnosis, monitoring, treatment and alleviation of or compensation 
+for an injury; 
+● investigation, replacement, modification or support of the anatomy or 
+of a physiological process; 
+● supporting or sustaining of life; 
+● control of conception; 
+● disinfection of medical devices; 
+● providing information by means of in-vitro examination of specimens 
+derived from the human body; 
+and which does not achieve its primary intended action by pharmacological, 
+immunological or metabolic means, in or on the human body, but which 
+may be assisted in its intended function by such means.  
+Authorized Person: the person designated as in charge of the 
+establishment and responsible for the following: 
+● Registration of the establishment; 
+● Market authorization and regulatory matters 
+● Correspondence with the Board  
+● Safety and performance of the products. 
+ 
+10 
+ 
+ 
+Owner or operator: the corporation, subsidiary, affiliated company, 
+partnership or proprietor directly responsible for the activities of the 
+registering establishment. 
+Product code: the code used by the Board to identify the generic category 
+of a device. 
+Quality management system: set of interrelated or interacting elements of 
+an organization to establish quality policies and quality objectives and to 
+establish the processes that are needed to ensure that those policies are 
+followed, and those objectives are achieved.  
+The current Good Manufacturing Practices (cGMPs) for medical device 
+manufacturers are an interrelated set of practices that describe up-to-date 
+manufacturing practices for medical devices required to maintain 
+compliance with established quality standards, and ensure the quality, 
+safety and efficacy/performance of the medical device. Compliance Good 
+Manufacturing Practices and Quality System Regulations is imperative for 
+medical device manufacturers. 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1. 
+INTRODUCTION 
+1.1 Background  
+Medical devices play a critical role in the diagnosis, management and 
+prevention of disease. It is therefore critical that available medical devices 
+should be safe and high-quality and perform as intended by the originating 
+manufacturer throughout their life cycle. The International Organization for 
+Standardisation (ISO) standard ISO 13485:2016 (Medical devices – quality 
+management systems – requirements for regulatory purposes) is widely 
+accepted by regulators as the basis of the appropriate quality management 
+systems requirements for medical devices establishments that need to 
+demonstrate their ability to provide medical devices and related services that 
+consistently meet customer requirements and regulatory requirements 
+applicable to medical devices and related services throughout the product life-
+cycle.  
+The medical devices establishment is expected to have an established quality 
+management system to ensure continued safety, quality and performance of 
+all medical devices throughout the product’s life cycle and within the supply 
+chain. The registration of the establishment is one of the processes which 
+ensures that the manufacturer, importer and/or distributor fulfils the 
+regulatory requirements, as determined through the legislative framework 
+informing the control of medical devices. 
+This Guideline provides the framework for Registration of Medical devices 
+Establishments under the Pharmacy and Poisons Act. It should be read 
+alongside other relevant guidance documents and other relevant legislation.  
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+1.2 Legal Framework  
+ 
+In regulation of health products and technologies, the Board is empowered 
+under section 3A and Section 3B(2)(e) of the Pharmacy and Poisons Act, Cap 
+244 of the Laws of Kenya, to grant, withdraw or revoke licenses to 
+manufacturers, wholesalers, retailers, importers, exported and distributors. 
+This empowers the Board to regulate contractors for medical devices and 
+physical security for products including radioactive material and biological 
+products. 
+ 
+Premises, facilities, establishments and companies that manufacture, 
+distribute, import, export and trade in medical devices in Kenya will require 
+to be licensed in accordance with the laws of Kenya. Section 3B(2)(j) of the Act 
+mandates the Board to inspect and license all manufacturing premises, 
+importing and exporting agents, wholesalers, distributors, pharmacies, 
+including those in hospitals and clinics, and other retail outlets.  
+ 
+The personnel, premises and practices employed in the manufacture, storage, 
+marketing, distribution and sale of medicinal substances including medical 
+devices and IVDs comply with the defined codes of practice and other 
+prescribed requirements in line with Section 3B(2)(c) of the Act.  
+ 
+Except where necessary, regulated entities such as  manufacturers, 
+establishments that are already licensed under the Pharmacy and Poisons Act 
+do not need to apply separately to be licensed for purposes of medical devices. 
+ 
+1.3 Scope  
+This guidance is intended to provide medical device, manufacturers, 
+importers, wholesalers, distributors and retailers in Kenya with the 
+requirements for registration of medical devices establishments, based on 
+implementation of quality management systems, to ensure their conformity 
+with the requirements of ISO 13485:2016 through established processes. 
+ 
+3 
+ 
+ 
+ 
+The manufacture, importation, exportation and distribution of medical 
+devices is subject to the legal provisions of the Pharmacy and Poisons Act. 
+The intent of the medical devices’ establishment registration is to ensure that 
+the Board, is made aware of: 
+a) manufacturers of medical devices in Kenya and the classification of the 
+medical devices manufactured in Kenya; 
+b) persons importing and distributing medical devices in Kenya and the 
+risk classification of those medical devices; and 
+c) to establish criteria for importation of medical devices into Kenya 
+Manufacturers, importers and distributors shall ensure that the quality, 
+safety and performance of medical devices are maintained throughout their 
+life cycle, as specified in national regulations, by registering medical devices 
+establishments and ensuring compliance with regulations. Other law 
+enforcers shall collaborate with national regulatory authorities (Boards) when 
+executing their legal mandate to ensure optimum enforcement of the Act and 
+other relevant national laws. 
+Manufacturing, use and handling of medical devices is guided by risk 
+classification established in the PPB Guideline on submission of 
+documentation for registration of medical devices and In-Vitro Diagnostics. It 
+is the role of the manufacturer to determine and establish the risk class of 
+the medical device. A medical devices establishment registration certificate 
+shall be required for all medical devices 
+ 
+4 
+ 
+ 
+2. 
+REGISTRATION OF MEDICAL DEVICES ESTABLISHMENTS 
+Any establishment that manufactures, imports or distributes a medical device 
+in Kenya shall be registered by the Board.  
+The Board may, subject to these guidelines and regulations under the 
+Pharmacy and Poisons Act, upon application in the prescribed manner and 
+after payment of the prescribed fee, issue to a manufacturer, wholesaler or 
+distributor of a medical device a registration certificate to: 
+a) manufacture;  
+b) import;  
+c) export; or 
+d) act as a wholesaler of, 
+as the case may be, such a medical device, in such conditions and with the 
+application of such acceptable quality assurance principles as the Board may 
+determine.  
+No company or individual shall manufacture, import or export or distribute 
+any medical device unless he or she is the holder of a registration certificate, 
+as provided for in the Pharmacy and Poisons Act. Medical devices intended to 
+be manufactured, imported or distributed by the applicant must be listed in 
+the application for the registration of a medical device’s establishment. 
+Individuals importing medical devices for personal use shall not be required 
+to make an application to the Board for the registration of a medical device’s 
+establishment. However, authorization to import medical devices for personal 
+use must be obtained from the Board. 
+2.1 Application for registration of medical devices establishments 
+An application for registration of medical device establishments shall 
+be made through the online licensing system to the Board and must be 
+accompanied by the following documents: 
+ 
+5 
+ 
+ 
+a) application form, duly filled in, signed and dated (see Annex 1 for the 
+form to be used for the initial application and Annex 2 for the form to 
+be used for registration renewal); 
+b) copy of the quality manual; 
+c) quality management system in place 
+d) attestation by an Official Correspondent of the establishment that the 
+establishment has documented procedures in place with respect to: 
+complaints handling, including field safety corrective action; handling 
+of substandard and falsified products; disposal; and any other 
+procedure as required by quality management systems; 
+e) an attestation by an Authorized Representative or responsible 
+establishment official that the establishment has documented 
+procedures in place, where applicable, for handling, storage, delivery, 
+installation, corrective action and servicing in respect of the devices. 
+f) electronic copy of the establishment quality management system 
+manual and establishment procedures and processes; 
+g) copy of practice/certificate of registration of the Official Correspondent; 
+h) copy of items required for national registration of companies, such as a 
+business licence; 
+i) Business registration certificate or certificate of incorporation from the 
+Registrar of Companies 
+j) list of all medical devices imported into Kenya product codes, product 
+description, brand name and group/family name, as applicable 
+k) evidence of payment of prescribed fees. 
+2.2 
+Processing of the application 
+The Board shall review the application and perform a desk review of the 
+quality manual and the establishment procedures and processes. 
+In evaluating an application for registration of a medical device’s 
+establishment, the Board will consider the supporting documentation 
+ 
+6 
+ 
+ 
+provided and information therein including evidence of availability and 
+implementation of at least the following: 
+A. quality management system addressing all aspects of quality assurance 
+covering: contracts (agreements); purchasing; manufacturing; final 
+product handling; storage; facility installation; servicing; cleanliness; 
+documentation controls and records; international regulatory control; 
+internal and external audits; training; complaints handling; emergency 
+plan and recalls; quality assurance; management review; distribution 
+(transport, delivery, temperature control); and export documentation 
+(proof of export); 
+B. written formal agreement in case any of the activities are delegated to a 
+competent third party. 
+C. list of all medical devices imported into Kenya product codes, product 
+description, brand name and group/family name, as applicable; 
+D. for a medium-to-high-risk (Class C) or high-risk (Class D) medical 
+device, proof of pre-market approval or registration of the device from 
+at least one of the member regulatory authorities of the International 
+Medical 
+Device 
+Regulators 
+Forum 
+or 
+confirmation 
+of 
+WHO 
+prequalification; 
+such 
+pre-market 
+approval(s) 
+or 
+registration(s) 
+submitted with an application will be referred to as the “originating 
+approval(s)”; 
+E. for a low-to-medium-risk (Class B), medium-to-high-risk (Class C) or 
+high-risk (Class D) medical device, certificate of free sale from country 
+of manufacture or final assembly; the certificate of free sale is evidence 
+that the medical devices are legally sold or distributed in the open 
+market, freely and without restriction, and are approved by the 
+regulatory authorities in the country of origin; 
+F. for a medium-to-high-risk (Class C) or high-risk (Class D) medical 
+device, the holder of the medical devices establishment registration 
+certificate must be able to provide full technical documentation on the 
+request of the Board; 
+G. where relevant, certificate of conformance/analysis. 
+ 
+7 
+ 
+ 
+The Board will conduct onsite inspection to assess implementation of the 
+quality management system requirements. 
+2.3 
+Issuance of a registration certificate 
+Upon confirmation of fulfilment of the requirements specified in section 3.1 
+above, the Board shall issue a registration certificate for the medical device’s 
+establishment in the prescribed format. (Annex 2). Registration certificates 
+issued through the online licensing system shall bear an electronic signature 
+and will not be subject to physical signing.  
+A medical devices establishment registration certificate shall expire on 31st 
+December each year and it is renewable annually. The registration certificate 
+for manufacturers will be valid for five years following a successful 
+reinspection. 
+2.4 
+Refusal to issue a medical devices establishment registration 
+certificate 
+The Board may refuse to issue a medical devices establishment registration 
+certificate if: 
+a) the applicant has made false or misleading statement(s) in the 
+application; or 
+b) the Board has reasonable grounds to believe that issuing the medical 
+devices establishment registration certificate will constitute a risk to the 
+health or safety of patients, users or other persons; or 
+c) the applicant has failed to meet the conditions for medical devices 
+establishment registration as specified in section 3.1 above. 
+In any case where the Board does not recommend the issuing of a medical 
+device’s establishment registration certificate, the Board shall: 
+a) notify 
+the 
+applicant 
+in 
+writing 
+of 
+the 
+reasons 
+for 
+not 
+recommending/refusing the registration of the establishment; and 
+b) give the applicant an opportunity to respond to the Board and provide 
+relevant documentation/evidence in support of the application. 
+ 
+8 
+ 
+ 
+2.5 
+Notification of change 
+After the issuance of a medical device’s establishment registration certificate, 
+if there is a change to any of the information submitted at the time of 
+application, the holder of the registration certificate shall submit the new 
+information to the Board within 10 working days of the change. 
+The Board shall be notified of any changes to the application for registration 
+of a medical device’s establishment. The applicant shall obtain written 
+authorization from the Board prior to the implementation of any change(s) 
+that are likely to impact the quality, safety or performance of medical devices. 
+Variations to an existing registration can also be notified online and shall be 
+subject to approval 
+2.6 
+Suspension, revocation, withholding or cancellation of an 
+establishment registration certificate 
+Subject to the requirement stated under section 3.4 above, the Board may 
+suspend, revoke or cancel a medical devices establishment registration if the 
+Board has reasonable grounds to believe that: 
+a) the holder of a registration certificate has contravened conditions of 
+licensure as provided in these guidelines or regulations or in the 
+Pharmacy and Poisons Act relating to medical devices; or 
+b) the holder of a medical devices establishment registration certificate 
+has made false or misleading statement(s) in the application or 
+notification of change; or 
+c) failure to suspend the medical devices establishment registration 
+certificate would compromise the safety, performance and/or quality of 
+the medical device, or constitute a risk to the health or safety of 
+patients, users or other persons. 
+The Board shall not cancel, revoke or suspend a medical devices 
+establishment registration certificate unless: 
+ 
+9 
+ 
+ 
+a) It has sent written notice of 21 working days to the holder of an 
+establishment registration certificate, setting out the reason for the 
+proposed suspension; 
+b) The period of time set out in the notice for corrective action, if required, 
+has passed without the action having been taken; and  
+c) The establishment registration certificate holder has been given an 
+opportunity to respond to the Board in respect of the suspension. 
+2.7 
+Restoration of a registration certificate 
+The Board may, within 30 working days of the date of receiving the response 
+from the holder of a registration certificate and considering the supporting 
+documentation/information provided by the holder, reinstate the medical 
+devices establishment registration certificate. 
+2.8 Other general regulatory requirements for holders of establishment 
+registration certificates for medical devices establishments 
+a) Holders of registration certificates are required to follow the PPB 
+Guideline on the safety and vigilance of Medical Products and Health 
+Technologies and WHO Guide on post-marketing surveillance and 
+market surveillance of medical devices including in vitro diagnostics (6), 
+including adverse event reporting and recalls, in the event of an incident 
+or need to withdraw a medical device from the market. 
+b) Holders of registration certificates that are responsible for the 
+manufacture, import, export, distribution and/or wholesale of medical 
+devices are required to be certified under ISO 13485 within 1 year from 
+date of issuance of registration certificate. 
+c) In terms of the exportation of medical devices, it is the responsibility of 
+the holder of the registration certificate to comply with the legal 
+registration information approved by the relevant competent authority 
+of the importing country. 
+ 
+ 
+10 
+ 
+ 
+  
+3. 
+REFERENCES 
+1.  Global Harmonization Task Force (GHTF)-/SG1/N12:2000 Role of 
+Standards in the Assessment of Medical Devices. 
+2. GHTF/SG1/N29:2005 Information Document Concerning the 
+Definition of the Term ‘Medical Device’. 
+3. GHTF/SG1/N40:2006 Principles of Conformity Assessment for 
+Medical Devices. 
+4. GHTF/SG1/N41:2005 Essential Principles of Safety and Performance 
+of Medical Device. 
+5. The Global Harmonization Task Force (GHTF)which is now The 
+International Medical Devices Regulatory Forum (IMDRF) 
+6. The Asian Harmonization Working Party (AHWP) 
+7. British Standard Institute 
+8. Health Safety Authority  
+9.  Global Medical Devices Agency 
+10. ISO Standards 
+    11. World Health Organization (WHO) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+ 
+4. 
+CONTRIBUTORS AND REVIEWERS: 
+Dr Fred. M. Siyoi, The Chief Executive Officer, Pharmacy and Poisons Board 
+ 
+Dr Paulyne Wairimu, The Chair of the African Medical Devices Forum  
+ 
+Dr. Ahmed Mohamed Hussein Director, Health Products and Technologies  
+ 
+Dr.Wilfred Ochieng Director, Pharmacy Practice 
+ 
+Dr. Peter Mbwiiri Ikamati Chief Principal Regulatory officer, Drug Product 
+Evaluation and Registration (DPER) Department, Directorate of Health 
+Products and Technologies 
+ 
+Dr. Cheworei Sichei Deputy Director, Quality Control Services 
+ 
+Dr. Tom Kauki Regional Regulatory Coordinator, Central Region 
+ 
+Dr. Ronald Inyangala, Deputy-Director, Senior Principal Regulatory Officer, 
+Drug Product Evaluation and Registration (DPER) Department, HPT 
+ 
+Dr. Jonathan Meriakol, Senior Principal Regulatory officer, Drug Product 
+Evaluation and Registration (DPER) Department, Directorate of Health 
+Products and Technologies 
+ 
+Dr. Ali Arale, Principal Regulatory Officer, Drug Product Evaluation and 
+Registration (DPER) Department, Directorate of Health Products and 
+Technologies 
+ 
+Dr. James Owuor, Assistant Principal Regulatory Officer, Drug Product 
+Evaluation and Registration (DPER) Department, Directorate of Health 
+Products and Technologies 
+ 
+ 
+12 
+ 
+ 
+Dr. Edwin Burugu, Assistant Principal Regulatory Officer, Drug Product 
+Evaluation and Registration (DPER) Department Directorate of Health 
+Products and Technologies 
+ 
+Dr. Eugene Odame, Senior Regulatory officer, Product Evaluation and 
+Registration (PER)  (MD&IVDs), Department, Directorate of Health Products 
+and Technologies  
+ 
+Dr. Serah Chebet Chesaro, Principal Regulatory officer, Drug Product 
+Evaluation and Registration (DPER) Department, Directorate of Health 
+Products and Technologies 
+ 
+Mr. Alex Mutai, Assistant Principal Regulatory Officer, Blood and Blood 
+Products Department, Directorate of Health Products and Technologies 
+ 
+Ms. Jacqueline Yahuma , Assistant Principal Regulatory Officer, Cosmetics 
+Department, Directorate of Health Products and Technologies 
+ 
+Mr. Henry Chweya, Assistant Principal Regulatory Officer, Border line 
+Products Department, Directorate of Health Products and Technologies 
+ 
+Mr. Peter Mugala, Information and Communication Technology Officer; Drug 
+Product Evaluation and Registration (DPER) Department, Directorate of 
+Health Products and Technologies 
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+5. 
+ANNEXURES: 
+ANNEX 1. APPLICATION FOR CERTIFICATE OF REGISTRATION FOR A 
+MEDICAL DEVICES ESTABLISHMENT 
+APPLICATION FOR CERTIFICATE OF REGISTRATION OF MEDICAL DEVICES 
+ESTABLISHMENT  
+PHARMACY AND POISONS CAP 244  CAP  
+P.O Box 27663-00506 
+Nairobi, Kenya 
+I/We hereby apply for registration of my/our existing/new establishment 
+registration certificate in accordance with PHARMACY AND POISONS CAP 244  
+CAP  
+ 
+Name of 
+applicant.................................................................................................................
+................... 
+Physical postal address.......................................Tel. No................... 
+Email................................ 
+Full name(s) of partner(s)/director(s)......................................................... 
+Full name(s) of official correspondent/registered 
+practitioner.............................................., 
+ 
+Certificate number 
+…………………………………………………………………………………………….. 
+Establishment type.................................................................................................. 
+ 
+The business will be under the direct supervision of (full name(s) of Official 
+Correspondent and Registered Practitioner).............................................., 
+Certificate no. ………………………………………….. 
+ 
+My/our financial resources committed to this business amount 
+to.............................. and my/our annual projected turnover is  
+ 
+If my/our establishment is registered, I/we shall keep it in hygienic condition and 
+in a good state of repair as required under the above-mentioned PHARMACY AND 
+POISONS CAP 244  CAP  and Regulations. 
+ 
+I/we have not been convicted of any offence relating to any provision of PHARMACY 
+AND POISONS CAP 244  CAP   and Regulations or any other written law related to 
+the business being applied for in the 6 months immediately preceding this 
+Application and have not been disqualified from holding a certificate, and my/our 
+certificate has been/has not been suspended. 
+ 
+NB False declaration constitutes an offence. 
+ 
+ 
+14 
+ 
+ 
+Date ............................................... Signed 
+.............................................................................................. 
+Fees 45,000 Kenya Shillings..................................Receipt No. ....................... dated 
+............................................. 
+ 
+FOR OFFICIAL USE ONLY 
+Registration granted/not granted 
+because...................................................................................................................
+................................................................................................ ……… 
+Registration No................................Approved by management meeting 
+No............... dated............................................................ 
+Date   
+ 
+ 
+ 
+ 
+Signature of Applicant 
+………………………………..  
+ 
+ 
+…………………………………………………………. 
+ 
+ 
+ 
+15 
+ 
+ 
+ANNEX 2. APPLICATION FOR RENEWAL OF REGISTRATION CERTIFICATE OF 
+MEDICAL DEVICES ESTABLISHMENTS 
+ 
+APPLICATION FOR RENEWAL OF REGISTRATION CERTIFICATE OF MEDICAL 
+DEVICES ESTABLISHMENTS  
+PHARMACY AND POISONS BOARD   
+PO BOX 27663-00506 
+Nairobi Kenya 
+PART I: 
+I/We hereby apply for renewal of certificate/for a new certificate to manufacture, 
+sell, pack, store or distribute the following: 
+................................................................................................................................
+................. 
+Name of Applicant ......................................................................................... 
+……………………………………… 
+Postal address .......................................Tel. No ...................Fax ....................... 
+Email .......... 
+Full name(s) of 
+partner(s)/director(s)................................................................................................
+................................ 
+Establishment situated at....................... Street/village/plot No......................... 
+District/municipality ……………………………………...................................................
+...... 
+Region.....................................................................................................................
+....... 
+Establishment registered for the business 
+of................................................................……………………… 
+Establishment Registration No....................................... 
+Dated................................................................ 
+Existing certificate No................................. Dated............................. Expiry 
+date …………………………………………………....................................... 
+ 
+PART II: APPLICABLE TO MANUFACTURERS ONLY 
+ 
+PRODUCT REGISTRATION STATUS 
+I wish to manufacture the following item, whose registration status is shown below: 
+Serial No.  
+Common Trade Name Registration  
+ 
+ 
+ 
+ 
+ 
+For official use only/generic No. 
+Name 
+…………………………………………………………………………………………………………… 
+ 
+ 
+ 
+16 
+ 
+ 
+PART III: APPLICANT DECLARATIONS 
+If my/our business is registered, I/we shall keep the establishment in hygienic 
+condition and in a good state of repair as required under the above-mentioned 
+CAP244 and Regulations. 
+I/we have not been convicted of any offence relating to any provision of the 
+Pharmacy and Poisons CAP 244 and Regulations made there under or any other 
+written law related to the business being applied for within 3 months immediately 
+preceding this application and have not been disqualified from holding a certificate 
+and my/our certificate is/is not suspended. 
+NB False declaration constitutes an offence. 
+ 
+Date...................................................................................................... 
+…………………………………… 
+Signature of Applicant and stamp 
+ 
+Fees 50,000 Kshs.............................................Receipt No......................... 
+dated............................ 
+ 
+FOR OFFICIAL USE ONLY 
+Certificate granted/not granted 
+because................................................................................. 
+Certificate No................................Approved by management meeting No. 
+................................. dated .............................................................. 
+ 
+......................  
+ 
+ 
+................................................................. 
+Date   
+ 
+ 
+ 
+Signature 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+ 
+ANNEX 3. REGISTRATION CERTIFICATE OF MEDICAL DEVICES 
+ESTABLISHMENT 
+ 
+REGISTRATION CERTIFICATE OF MEDICAL DEVICES ESTABLISHMENT  
+PHARMACY AND POISONS BOARD  
+ 
+This is to certify that the establishment owned by (Name) 
+.................................................... of 
+(Postal address)............................................... which is located 
+at............................................. Street, 
+in...................................Village/township/municipality/city, have been registered 
+to be used 
+as............................................................................................................................
+................................... for 
+preparation/selling/packing/carrying/advertising/storing/manufacturing 
+of.............................................................................................................................
+.................... with establishment Registration No................... 
+ 
+Subject to the following conditions. 
+1. The establishment and the manner in which the business is to be conducted 
+must conform to requirements of the PHARMACY AND POISONS CAP 244    
+or any other written law related to the establishment registration at all times 
+failing of which this certificate shall be suspended or revoked. 
+2. Any change in the ownership, name and location of the registered 
+establishment shall be approved by the Board. 
+3. This certificate is not transferable to any other establishment or person. 
+4. This certificate shall be displayed conspicuously in the registered 
+establishment. 
+ 
+ 
+ 
+ 
+ 
+ 
+Date:  
+ 
+ 
+ 
+ 
+ 
+ 
+Signature of:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 00506 Lenana Road Opposite Russian Embassy Nairobi, 
+Tel:  +254-02-12345/6789, Fax: +254-02-12345, Website:  
+www.Pharmacyboardkenya.org.ke, Email: 
+info@pharmacyboardkenya.org.ke 
+ 
+ 

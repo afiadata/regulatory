@@ -1,0 +1,592 @@
+   HPT/PER/POL/018 
+              Revision 1 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+ 
+PHARMACY AND POISONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ROADMAP FOR THE IMPLEMENTATION OF 
+BIOEQUIVALENCE REQUIREMENTS FOR 
+MULTISOURCE DRUG PRODUCTS IN KENYA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December, 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Citation page 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on condition that the recommended citation below is 
+made. 
+ 
+Recommended Citation  
+The Republic of Kenya, Ministry of Health, Pharmacy and Poisons Board,  
+Roadmap For the Implementation of Bioequivalence Requirements for 
+Multisource Drug Products in Kenya, version 1, 2023 
+ 
+©Pharmacy and Poisons Board, 2023 
+ 
+All rights reserved: 
+ 
+No part of this publication may be reproduced, stored in a retrieval system, 
+or transmitted in any form, or by any means, electronic, mechanical, 
+photocopying, recording, scanning, or otherwise, without the prior 
+permission in writing from the pharmacy and Poisons Board. 
+ 
+For clarifications, comments, or suggestions, please contact: 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+Website: www.pharmacyboardkenya.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii 
+ABBREVIATIONS, ACRONYMS AND DEFINITIONS 
+BCS 
+Biopharmaceutical Classification System 
+BE 
+Bioequivalence 
+EAC-MRH 
+East African Community-Medicines Regulation Harmonization 
+GCP 
+Good Clinical Practices 
+MAH 
+Market Authorization Holder 
+MSDPs 
+Multisource Drug Products 
+OOS 
+Out of Specifications 
+PPB 
+Pharmacy & Poisons Board  
+RLD 
+Reference Listed Drug 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii 
+ACKNOWLEDGEMENTS 
+The Registrar, Pharmacy and Poisons Board would like to thank the 
+following persons for their comments and contributions to the development 
+of this guideline. 
+ 
+LIST OF AUTHORS/CONTRIBUTORS 
+1. Dr. Fred M. Siyoi, Chief Executive Officer, Pharmacy and Poisons 
+Board 
+2. Dr. Ahmed Mohammed –      Director, Health Products & Technologies 
+(DHPT)  
+3. Dr. Kariuki Gachoki, Deputy Director, Product Evaluation and 
+Registration (DPER) Department, Directorate of Health Products and 
+Technologies 
+4. Dr. Ali Arale, Principal Regulatory Officer, Drug Product Evaluation 
+and Registration (DPER) Department, Directorate of Health Products 
+and Technologies. 
+5. Dr. Felistas Chepwogen, Head, Bio-equivalence Division, Product 
+Evaluation and Registration (DPER) Department, Directorate of Health 
+Products and Technologies & Focal Person EAC-MRH Programme, 
+Pharmacy and Poisons Board, Kenya 
+6. Dr. Sarah Chesaro, Principal Regulatory Officer, Directorate of Health 
+Products and Technologies. 
+7. Dr. Brayhan Kariuki, Regulatory Officer, Drug Product Evaluation and 
+Registration (DPER) Department, Directorate of Health Products and 
+Technologies. 
+ 
+ 
+REVIEWERS 
+1. Dr. Anthony Toroitich, Deputy Director, Product Safety Department, 
+Directorate of Health Products and Technologies 
+2. Dr. Sichei Cheworei, Deputy Director, Quality Control Laboratory. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+Table of Contents 
+ABBREVIATIONS, ACRONYMS AND DEFINITIONS ................................................ ii 
+ACKNOWLEDGEMENTS ................................................................................................. iii 
+LIST OF AUTHORS/CONTRIBUTORS ........................................................................ iii 
+REVIEWERS ........................................................................................................................ iii 
+1. 
+Introduction ............................................................................................................... 1 
+1.1 
+Purpose of the Roadmap ................................................................................................ 1 
+1.2 
+Scope .................................................................................................................................... 1 
+1.3 
+Legal framework ................................................................................................................ 2 
+1.4 
+Eligibility Criteria .............................................................................................................. 2 
+2. 
+Guidelines for Submission of Bioequivalence Studies ................................. 2 
+3. 
+Criteria for scheduling of mandatory bioequivalence study 
+requirements in Kenya ...................................................................................................... 3 
+3.1.1 
+Criterion 1: All new Applications submitted after implementation of this 
+roadmap 3 
+3.1.2 
+Criterion 2: All applications pending review prior to implementation of this 
+roadmap 3 
+3.1.3 
+Criterion 3: All eligible generic medicines with Marketing Authorization prior 
+to implementation of this roadmap .................................................................................................... 3 
+4. 
+Implementation of the roadmap .......................................................................... 4 
+4.1 
+Time Buckets of implementation of mandatory bioequivalence ........................ 5 
+studies in Kenya. .......................................................................................................................... 5 
+5. 
+Stakeholder management and sensitization ................................................... 7 
+6. 
+Bioequivalence regulatory process ..................................................................... 7 
+7. 
+Post-Market Surveillance ...................................................................................... 7 
+8. 
+Periodic Review and updates of the roadmap ................................................. 7 
+9. 
+Revision History ....................................................................................................... 8 
+10. 
+Reference .................................................................................................................... 9 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+1. Introduction 
+The Pharmacy and Poisons Board (PPB), Kenya's national regulatory 
+authority, has the crucial mandate to regulate clinical trials and issue 
+marketing authorization based on assessment of quality, safety, and efficacy 
+documentation submitted by the Market Authorization Holder/applicant. Part 
+of the essential requirements for acquiring market authorization in Kenya is 
+submission of Bioequivalence (BE) data, crucial to prove interchangeability of 
+multisource products. 
+ 
+This comprehensive roadmap delineates the specific timelines within which 
+Market Authorization Holders (MAHs) shall submit Bioequivalence study 
+data. The primary objective is to prove that multisource (generic) 
+pharmaceutical 
+drug 
+products 
+are 
+therapeutically 
+equivalent 
+and 
+interchangeable with their corresponding innovator’s products. The roadmap 
+not only outlines the criteria for scheduling of mandatory bioequivalence for 
+both new applications and already marketed products, but also incorporates 
+a phased approach to ensure the compliance of all marketed products that 
+require bioequivalence with the standards of quality, efficacy and safety. 
+ 
+1.1 Purpose of the Roadmap 
+The roadmap is meant to ensure the same criteria is applied for assessing 
+applications regardless of the origin of or destination for the medical products. 
+It ensures demonstration of bioequivalence of multisource local and foreign 
+products marketed in Kenya conform to prescribed standards of quality, 
+safety and efficacy. This roadmap is in compliance with WHO requirements 
+following formal benchmarking assessment on the status of the Kenyan 
+regulatory system against the WHO’s Global Benchmarking Tool (GBT). 
+ 
+1.2 Scope 
+The scope of this road map will cover all eligible multisource products falling 
+under BCS class 2 & 4 both locally manufactured and imported products 
+ 
+ 
+ 
+ 
+ 
+2 
+marketed in Kenya. The roadmap will cover all new applications and marketed 
+products spanning from the year 1982 and all future market authorizations 
+applications. 
+1.3 Legal framework  
+The regulation for the conduct of clinical trials is governed under the 
+provisions of the Pharmacy and Poisons Act, Cap 2441 Laws of Kenya 
+(hereinafter referred to as the “Act”) and the Subsidiary Legislation 
+thereunder. Since submission of Bioequivalence data is also part of 
+requirements for issuance market authorization in Kenya to prove 
+interchangeability of multisource products, the Board is mandated under 
+provisions of CAP 244 Act, of 2019, section 3B(2)(p) ensure that all medicinal 
+products manufactured in, imported into or exported from the country 
+conform to prescribed standards of quality, safety and efficacy; and 3B(2)(o) 
+approve the use of any unregistered medicinal substance for purposes of 
+clinical trials and compassionate use; and (p) approve and regulate clinical 
+trials on medicinal substances. 
+ 
+1.4 Eligibility Criteria  
+All multisource (generic) products that require demonstration of therapeutic 
+equivalence already marketed or intended to be marketed in Kenya are eligible 
+for mandatory Bioequivalence studies.  
+This mandatory requirement for demonstrating therapeutic equivalence for 
+all marketed products shall be implemented over a 5-year period beginning 
+from January 2025 and progressing through phases as discussed under the 
+section outlining the criteria for scheduling of mandatory bioequivalence 
+study requirements in Kenya below.  
+2. Guidelines for Submission of Bioequivalence Studies 
+This roadmap will be implemented in line with the Guidelines on 
+Bioequivalence 
+Requirements 
+in 
+Kenya 
+and 
+the 
+Framework 
+for 
+ 
+1 Laws of Kenya (1989). The Pharmacy and Poisons Act, Chapter 244. Nairobi:  
+ 
+ 
+ 
+ 
+ 
+3 
+Implementation of Bioequivalence in Kenya, Pharmacy and Poisons Board, 
+2023.  
+3. Criteria 
+for 
+scheduling 
+of 
+mandatory 
+bioequivalence 
+study 
+requirements in Kenya 
+This roadmap encompasses three processes; implementation plan for new 
+applications, applications pending review and products issued with marketing 
+authorization. 
+To enable a gradual and structured implementation of the mandatory 
+Bioequivalence as per the Guidelines on Bioequivalence Requirements in the 
+Compendium of Guidelines of Medicines Evaluation and Registration 
+(HPT/PER/GUD/016), the Board has adopted a phased-out approach; 
+ 
+3.1.1 Criterion 1: All new Applications submitted after implementation 
+of this roadmap 
+Effective 1st January 2024, all new applications for eligible generic products 
+manufactured 
+locally 
+and 
+imported 
+products 
+requiring 
+marketing 
+authorization shall submit bioequivalence studies under the Clinical Study 
+Reports within Module 5 of the Common Technical Document (CTD). 
+ 
+3.1.2 Criterion 
+2: 
+All 
+applications 
+pending 
+review 
+prior 
+to 
+implementation of this roadmap 
+All applications for eligible generic products that will not have been registered 
+by 31st December 2023 will be subject to rescreening to ensure compliance 
+with mandatory bioequivalence requirement under the Clinical Study Reports 
+within Module 5 of the CTD.  
+ 
+3.1.3 Criterion 3: All eligible generic medicines with Marketing 
+Authorization prior to implementation of this roadmap 
+The PPB shall apply BE requirements to all marketed medicines products on 
+a phased-out approach based on Biopharmaceutics Classification System 
+(BCS) as follows; 
+ 
+ 
+ 
+ 
+ 
+4 
+a) All eligible marketed products registered before 2010 (local and foreign 
+manufactured) when the BE requirement was made mandatory will be 
+required to demonstrate Bioequivalence. 
+b) Bioequivalence  studies data of all eligible marketed products registered 
+after 2010 shall be  verified.  
+c) All locally manufactured products registered after 2010, when BE 
+studies were waived, will be required to demonstrate Bioequivalence. 
+ 
+4. Implementation of the roadmap  
+Already marketed products will be required to provide BE studies data in 
+accordance to the time buckets specified in this roadmap effective from 
+January 2025. The time buckets will be implemented over a period of five (5) 
+years. The review of BE data will be aligned to the renewal cycle of 5 years. 
+The Board will undertake the following strategies to ensure compliance of all 
+marketed products to the BE Requirements as follows; 
+ 
+a) Mapping out all BCS class 2 and 4 products issued with marketing 
+authorization in Kenya since 1982 (see table 1 below). 
+b) Re-registering all mapped BCS class 2 and 4 products according to the 
+time buckets implemented over a period of 5 years effective 2025 (see 
+table 1 below) 
+c)  BCS class 2 and 4 products contained in priority list developed under 
+the following criteria, shall be required to  demonstrate of 
+bioequivalence irrespective of the time buckets stated in (b) above; 
+1. BCS class 2 and 4 products  with  Market complaints for the 
+past two years following post market surveillance that fail 
+comparative dissolution studies effective 2024. 
+2. BCS class 2 and 4 products with Out of Specifications (OOS) for 
+the past two years, effective 2024. 
+ 
+ 
+ 
+ 
+ 
+5 
+4.1 
+Time Buckets of implementation of mandatory bioequivalence 
+studies in Kenya.  
+The time buckets are designed to cluster the products according to the years 
+when marketing authorization was issued. For the purposes of this 
+roadmap, the mandatory BE requirements will apply to all eligible marketed 
+products from 1982 to 2023.  
+Note the first-time market authorization in Kenya for products under BCS 
+class 2 and 4 was issued 1982.  
+ 
+Time Buckets  
+The following are the time buckets that will be implemented in this roadmap 
+for eligible BCS class 2/4 registered products as follows:  
+ 
+Year 1: 2024 - the effective date for new applications and priority listed 
+products 
+ 
+Year 2 (2025): BCS 2/4 registered in 2020 and 2013-2018. 
+ 
+Year 3 (2026): BCS 2/4 registered in 2021 and 2007-2012. 
+ 
+Year 4 (2027): BCS 2/ registered in 2022 and 2000-2026. 
+ 
+Year 5 (2028): BCS 2/4 registered in 2023 and 1993-1999. 
+ 
+Year 6(2029): BCS 2/4 registered in 2024, 1980 -1992, and 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+Table 1: Time Buckets for implementation of mandatory BE in Kenya. 
+Time Buckets 
+BE data submission Timelines 
+Timelines based on year of 
+registration) 
+2024 
+New applications 
+2025 
+2020; and  
+2013-2018 
+2026 
+2021; and  
+2007 to 2012 
+2027 
+2022; and  
+2000 to 2006 
+2028 
+2023; and  
+1993 to 1999 
+2029 
+2024 
+1980 to 1992 and 2019 
+ 
+ 
+ 
+ 
+ 
+7 
+5. Stakeholder management and sensitization 
+The PPB has established systems for public participation and shall undertake 
+periodic stakeholder sensitization of pharmaceutical industry, and all relevant 
+government institutions.  
+ 
+The PPB shall foster collaborations with national, regional, continental and 
+international agencies/institutions to harmonize bioequivalence standards 
+and facilitate information sharing. 
+ 
+As part of collaboration, the PPB will participate in national, regional and 
+international forums to share knowledge, expertise, and best practices for 
+bioequivalence implementations.  
+6. Bioequivalence regulatory process  
+The PPB will issue a circular on mandatory BE to applicants/MAH, review the 
+Priority list in the Bioequivalence Roadmap from time to time, and take 
+necessary regulatory actions.  
+7. Post-Market Surveillance  
+The Board will continuously monitor the safety and efficacy of approved and 
+marketed 
+products 
+through 
+pharmacovigilance 
+and 
+post-marketing 
+surveillance programs including active market surveillance, investigations of 
+market complaints, out of specifications, and conducting comparative 
+dissolution studies of both BCS Class 2 and 4 pharmaceutical drug products. 
+8. Periodic Review and updates of the roadmap  
+A proactive approach to continuous improvement and review will be adopted 
+in the implementation of this roadmap. The Board shall therefore review and 
+update this roadmap to reflect advances in scientific knowledge and 
+technology. In addition, the Board shall continuously evaluate and improve 
+the effectiveness of bioequivalence requirements and regulatory actions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+9. Revision History  
+Revision 
+No: 
+Date  
+Author/Reviewer  Section(s) 
+revised 
+Description of 
+change 
+Revision 
+No.001 
+15/12/2023 Pharmacy and 
+Poisons Board 
+Section 1.14  Revision of the 
+roadmap 
+implementation 
+period from 11 
+years to 5 years. 
+15/12/2023 Pharmacy and 
+Poisons Board 
+Section 4.1 
+Revision of time 
+buckets 
+implementation 
+period from   10 
+years to 5 years 
+for products 
+already issued 
+with Marketing 
+Authorization. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+10. 
+Reference 
+1. South African Health Products Regulatory Authority (2022). 
+Medicines Registration Renewals Implementation Framework. 
+(Issue No.: HPA 01-2022/23) 
+2. World Health Organization (2021). WHO Global Benchmarking 
+Tool (GBT) for Evaluation of National Regulatory Systems of 
+Medical Products, Revision VI. Geneva. License: CC BY-NC-SA 3.0 
+IGO. 
+3. Laws of Kenya (1989). The Pharmacy and Poisons Act, Chapter 
+244. Nairobi: 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 

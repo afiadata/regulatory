@@ -1,0 +1,2965 @@
+HPT/PER/GUD/079 
+Rev. 0 
+ 
+ 
+ 
+ 
+ 
+                  
+ 
+       
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+GUIDELINE ON SUMMARY OF PRODUCT CHARACTERISTICS, PATIENT 
+INFORMATION LEAFLET, AND LABELLING 
+ 
+ 
+ 
+ 
+ 
+AUGUST  2022 
+ 
+ 
+ 
+ 
+HPT/PER/GUD/079 
+Rev. 0 
+ 
+ 
+ii 
+ 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on condition that the recommended citation below is 
+made. 
+ 
+Recommended citation: Republic of Kenya, Ministry of Health, Pharmacy 
+and Poisons Board. Guideline on Summary of Product Characteristics, Patient 
+Information Leaflet, and Labelling. Version number 0, 2022. 
+ 
+ 
+All rights reserved: 
+ 
+ 
+©Pharmacy and Poisons Board, 2022 
+ 
+ 
+For clarifications, comments, or suggestions, please contact: 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+Website: www.pharmacyboardkenya.org 
+  
+  
+  
+  
+ 
+iii
+ 
+ 
+ 
+iv
+Table of Contents 
+ABBREVIATIONS AND ACRONYMS ............................................................................. VI 
+GLOSSARY OF TERMS ..............................................................................................VII 
+ACKNOWLEDGEMENT ................................................................................................IX 
+REVIEWERS ................................................................................................................ X 
+INTRODUCTION ...................................................................................................... - 1 - 
+BACKGROUND ........................................................................................................ - 1 - 
+SCOPE .................................................................................................................... - 1 - 
+LANGUAGE .............................................................................................................. - 1 - 
+A. 
+FORMAT AND CONTENT OF SUMMARY OF PRODUCT CHARACTERISTICS FOR 
+PHARMACEUTICAL PRODUCTS ............................................................................... - 2 - 
+PRINCIPLES OF PRESENTING INFORMATION ......................................................... - 2 - 
+3. 
+PHARMACEUTICAL FORM................................................................................ - 8 - 
+4. 
+CLINICAL PARTICULARS .................................................................................. - 9 - 
+4.1 
+THERAPEUTIC INDICATIONS ...................................................................................... - 9 - 
+4.2 
+POSOLOGY AND METHOD OF ADMINISTRATION ............................................................ - 10 - 
+4.3 
+CONTRAINDICATIONS ............................................................................................ - 15 - 
+4.4 
+SPECIAL WARNINGS AND PRECAUTIONS FOR USE ........................................................ - 16 - 
+4.5 
+INTERACTION WITH OTHER MEDICINAL PRODUCTS AND OTHER FORMS OF INTERACTION ...... - 20 - 
+4.6 
+FERTILITY, PREGNANCY AND LACTATION ................................................................... - 23 - 
+4.7  
+EFFECTS ON ABILITY TO DRIVE AND USE MACHINES..................................................... - 26 - 
+4.8 
+UNDESIRABLE EFFECTS ......................................................................................... - 26 - 
+4.9 
+OVERDOSE ......................................................................................................... - 35 - 
+5. 
+PHARMACOLOGICAL PROPERTIES ................................................................ - 35 - 
+5.1  
+PHARMACODYNAMIC PROPERTIES ............................................................................ - 35 - 
+5.2 
+PHARMACOKINETIC PROPERTIES ............................................................................. - 38 - 
+5.3 
+PRECLINICAL SAFETY DATA .................................................................................... - 40 - 
+6. 
+PHARMACEUTICAL PARTICULARS ................................................................. - 41 - 
+6.1 
+LIST OF EXCIPIENTS ............................................................................................. - 41 - 
+6.2 
+INCOMPATIBILITIES ............................................................................................... - 43 - 
+6.3 
+SHELF LIFE ......................................................................................................... - 44 - 
+6.4 
+SPECIAL PRECAUTIONS FOR STORAGE ...................................................................... - 45 - 
+6.5 
+NATURE AND CONTENTS OF CONTAINER .................................................................... - 45 - 
+6.6 
+SPECIAL PRECAUTIONS FOR DISPOSAL <AND OTHER HANDLING>.................................... - 46 - 
+7. 
+MARKETING AUTHORIZATION HOLDER AND MANUFACTURING SITE 
+ADDRESSES .......................................................................................................... - 48 - 
+8. 
+MARKETING AUTHORIZATION NUMBER ........................................................ - 49 - 
+9. 
+DATE OF FIRST <REGISTRATION> / RENEWAL OF THE <REGISTRATION> ... - 49 - 
+10. 
+DATE OF REVISION OF THE TEXT ............................................................. - 49 - 
+11. 
+DOSIMETRY (IF APPLICABLE) .................................................................... - 49 - 
+ 
+v
+12 INSTRUCTIONS FOR PREPARATION OF RADIOPHARMACEUTICALS (IF 
+APPLICABLE) ........................................................................................................ - 49 - 
+B. 
+FORMAT AND CONTENT OF LABELS FOR PHARMACEUTICAL PRODUCTS..... - 51 - 
+1. 
+GENERAL REQUIREMENTS ............................................................................ - 51 - 
+(A) 
+THE LABEL TEXT ..................................................................................................... - 51 - 
+(B) 
+CONFORMITY WITH THE SUMMARY OF PRODUCT CHARACTERISTICS ............................... - 51 - 
+(C) 
+LANGUAGE ............................................................................................................. - 51 - 
+2. 
+PARTICULARS TO BE INCLUDED ON THE LABEL ........................................... - 52 - 
+(A) 
+OUTER PACKAGING OR, WHERE THERE IS NO OUTER PACKAGING, ON THE IMMEDIATE PACKAGING
+ 
+- 52 - 
+(B) 
+GUIDANCE FOR SMALL CONTAINERS ........................................................................... - 53 - 
+(C) 
+GUIDANCE FOR BLISTERS AND STRIPS ........................................................................ - 54 - 
+(D) ADDITIONAL LABELLING INFORMATION REQUIRED BY SOME PARTNER STATES .................. - 54 - 
+3. 
+CONTROL OF THE CONFORMITY OF THE LABELLING ................................... - 55 - 
+4. 
+CHANGES TO THE LABELLING....................................................................... - 55 - 
+C. 
+FORMAT AND CONTENT OF PACKAGE INSERTS FOR PHARMACEUTICAL 
+PRODUCTS ............................................................................................................ - 55 - 
+1. 
+GENERAL REQUIREMENTS ............................................................................ - 55 - 
+2. 
+PARTICULARS TO BE INCLUDED ON THE PACKAGE INSERT ......................... - 56 - 
+2.2 
+CONTENT AND FORMAT OF THE PATIENT INFORMATION LEAFLET ......... - 57 - 
+2.2.1 TEMPLATE FOR PATIENT INFORMATION LEAFLET ................................... - 57 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vi
+ABBREVIATIONS AND ACRONYMS 
+API 
+Active Pharmaceutical Ingredient 
+APIMF 
+Active Pharmaceutical Ingredient Master File 
+CEP 
+Certificate of Suitability to the monograph of Ph Eur  
+                          Monograph 
+CTD 
+Common Technical Document 
+EAC 
+East Africa Community   
+EAMRH 
+East Africa Medicines Registration Harmonization 
+EA-PSNMRA 
+East Africa Partner State National Medicines Regulatory 
+                          Authority  
+EDQM 
+European Directorate for the Quality of Medicines 
+EU 
+European Union 
+FPP 
+Finished Pharmaceutical Product 
+GCP 
+Good Clinical Practice 
+GMP 
+Good Manufacturing Practice 
+ICH 
+International Conference on Harmonization (Of Technical 
+Requirements for Registration          Pharmaceuticals for 
+Human Use) 
+PPB 
+Pharmacy and Poisons Board 
+PD 
+Product Dossier 
+PHIS 
+Pharmaceutical Health Information System 
+PI 
+Product Information 
+SDRA 
+Stringent Drug Regulatory Authority 
+SmPC 
+Summary of Product Characteristics 
+ 
+ 
+ 
+ 
+vii
+GLOSSARY OF TERMS 
+Active 
+pharmaceutical 
+ingredient (API) 
+ 
+An active ingredient is any component that provides 
+pharmacological activity or other direct effect in the 
+diagnosis, cure, mitigation, treatment, or prevention of 
+disease, or to affect the structure or any function of the 
+body of man or animals. 
+(USFDA Glossary of terms, it can be found online at 
+Drugs@FDA Glossary of Terms). 
+Active 
+Pharmaceutical 
+Ingredient 
+(API) 
+starting material 
+A raw material, intermediate, or an API that is used in 
+the production of an API and that is incorporated as a 
+significant structural fragment into the structure of the 
+API. (WHO Glossary of Terms).  
+Commitment 
+batches 
+Production batches of an API or FPP for which the 
+stability studies are initiated or completed post-
+approval through a commitment made in a regulatory 
+application. 
+Comparator 
+product 
+A pharmaceutical product with which the generic 
+product is intended to be interchangeable in clinical 
+practice. The comparator product will normally be the 
+innovator product for which efficacy, safety and quality 
+have been established. 
+Existing API 
+An API that is not considered a new active substance, 
+which has been previously approved through a finished 
+product by a stringent regulatory authority. (WHO 
+Glossary of Terms). 
+Finished 
+pharmaceutical 
+product (FPP) 
+A finished dosage form of a pharmaceutical product 
+that has undergone all stages of manufacture, 
+including packaging in its final container and labelling. 
+(WHO Glossary of Terms). 
+Generic product 
+Is a medicinal product which has the same qualitative 
+and quantitative composition in active substances and 
+the same pharmaceutical form as the reference 
+ 
+viii
+medicinal product, and whose bioequivalence with the 
+reference medicinal product has been demonstrated by 
+appropriate bioavailability studies. 
+(PHIS Glossary 2009, can be found online 
+at: 
+http://phis.goeg.at/index.aspx? alias=phisglossary) 
+Innovator 
+medicinal 
+product 
+Generally, the medicinal product that was first 
+authorized for marketing (normally as a patented 
+product) on the basis of documentation of efficacy, 
+safety and quality. (WHO Glossary of Terms). 
+Manufacturer 
+A manufacturer is a natural or legal person with 
+responsibility for manufacturing of a medicinal product 
+or active pharmaceutical ingredient.  It involves 
+operations 
+such 
+as 
+production, 
+packaging, 
+repackaging, 
+labelling 
+and 
+relabelling 
+of 
+pharmaceuticals. 
+(PHIS Glossary 2009, can be found on line at: 
+http://phis.goeg.at/index.aspx?alias=phisglossary)  
+Market 
+Authorization 
+Holder (MAH) 
+Is a person resident/domiciled to each of the PPB 
+Partner States who holds authorization to place a 
+medicinal product in the PPB Partner Sates and is 
+responsible for that product.  
+Mock-up 
+A copy of the flat artwork design in full colour, 
+providing a replica of both the outer and immediate 
+packaging, providing a two-dimensional presentation of 
+the packaging/ labelling of the medicine. It is also 
+referred to as a paper copy or computer-generated 
+version. 
+Officially 
+recognized 
+pharmacopoeia 
+(or compendium) 
+The official recognized pharmacopoeias in the PPB-
+MRH project are British Pharmacopoeia (BP), European 
+Pharmacopoeia 
+(Ph 
+Eur.), 
+The 
+International 
+Pharmacopoeia (Ph.Int), Japanese Pharmacopoeia (JP) 
+and United States Pharmacopeia (USP). 
+ 
+ix
+On-going stability 
+study 
+The study carried out by the manufacturer on 
+production batches according to a predetermined 
+schedule in order to monitor, confirm and extend the 
+projected retest period (or shelf-life) of the API, or 
+confirm or extend the shelf-life of the FPP. (WHO 
+Glossary of Terms). 
+Pilot-scale batch 
+A batch of an API or FPP manufactured by a procedure 
+fully representative of and simulating that to be applied 
+to a full production-scale batch. For example, for solid 
+oral dosage forms a pilot scale is generally, at a 
+minimum, one-tenth that of a full production scale or 
+100 000 tablets or capsules, whichever is the larger; 
+unless otherwise adequately justified. (WHO Glossary 
+of Terms). 
+Primary batch 
+A batch of an API or FPP used in a stability study, from 
+which stability data are submitted in a registration 
+application for the purpose of establishing a retest 
+period or shelf-life. (WHO Glossary of Terms). 
+Production batch 
+A batch of an API or FPP manufactured at production 
+scale by using production equipment in a production 
+facility as specified in the application. 
+Specimen 
+A sample of the actual printed outer and inner 
+packaging materials and package leaflet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x
+ 
+CONTRIBUTORS 
+The Pharmacy and Poisons Board 
+ 
+REVIEWERS 
+Dr. Ahmed Mohammed              Director, Health Products and Technologies  
+Dr. Ronald Inyangala 
+Deputy-Director, 
+Senior 
+Principal 
+Regulatory 
+Officer, 
+Drug 
+Product 
+Evaluation 
+and 
+Registration 
+(DPER) 
+Department, HPT 
+Dr. Jonathan Meriakol  
+Senior Principal Regulatory Officer, Drug 
+Product 
+Evaluation 
+and 
+Registration 
+(DPER) Department, Directorate of Health 
+Products and Technologies 
+Dr. Ali Arale 
+Principal Regulatory Officer, Drug Product 
+Evaluation 
+and 
+Registration 
+(DPER) 
+Department, 
+Directorate 
+of 
+Health 
+Products and Technologies) 
+Dr. Sarah Chesaro                Principal Regulatory Officer, Drug Product 
+Evaluation 
+and 
+Registration 
+(DPER) 
+Department, 
+Directorate 
+of 
+Health 
+Products and Technologies 
+Dr. James Owuor  
+Assistant Principal Regulatory Officer, 
+Drug Product Evaluation and Registration 
+(DPER) Department, Directorate of Health 
+Products and Technologies)  
+Dr. Edwin Burugu 
+Assistant Principal Regulatory Officer, 
+Drug Product Evaluation and Registration 
+(DPER) Department Directorate of Health 
+Products and Technologies) 
+Dr. Eugene Odame 
+Assistant Principal Regulatory Officer, 
+Medical Devices Department, Directorate 
+of Health Products and Technologies) 
+ 
+xi
+Dr. Pauline Wairimu 
+Principal 
+Regulatory 
+Officer, 
+Medical 
+Devices Department,  Department, 
+Directorate 
+of 
+Health 
+Products 
+and 
+Technologies 
+Mr. Alex Mutai 
+Assistant Principal Regulatory Officer, 
+Blood, and Blood Products Department, 
+Directorate 
+of 
+Health 
+Products 
+and 
+Technologies 
+ Ms. Jacqueline Yahuma 
+Assistant Principal Regulatory Officer, 
+Cosmetics 
+Department, 
+Directorate 
+of 
+Health Products and Technologies 
+Mr. Henry Chweya 
+Assistant Principal Regulatory Officer, 
+Borderline 
+Products 
+Department, 
+Directorate 
+of 
+Health 
+Products 
+and 
+Technologies 
+Mr. Peter Mugala 
+Senior Information and Communication 
+Technology 
+Officer; 
+Drug 
+Product 
+Evaluation 
+and 
+Registration 
+(DPER) 
+Department, 
+Directorate 
+of 
+Health 
+Products and Technologies 
+Mr. Anthony Kemboi 
+Information 
+and 
+Communication 
+Technology 
+Officer; 
+Drug 
+Product 
+Evaluation 
+and 
+Registration 
+(DPER) 
+Department, 
+Directorate 
+of 
+Health 
+Products and Technologies 
+ Mr. Victor Kipchumba 
+Information 
+and 
+Communication 
+Technology 
+Officer 
+Medical 
+Devices 
+Department Directorate of Health Products 
+and Technologies 
+ 
+ 
+ 
+- 1 -
+GUIDELINE ON SUMMARY OF PRODUCT CHARACTERISTICS, PATIENT 
+INFORMATION LEAFLET, AND LABELLING 
+Introduction 
+Background  
+This guideline provides guidance for applicants preparing to submit 
+Summary of Product Characteristics (SmPC), Patient Information Leaflet 
+(PIL), and Labelling requirements when submitting the documents during 
+the marketing Authorisation Review. 
+ 
+Scope 
+These guidelines will assist applicants to prepare SmPC, PIL, and Labelling 
+requirements when submitting products for Market Authorisation.  
+ 
+Language 
+In terms of this guideline, all applications for SmPC, PIL, and labelling 
+should be presented in English (UK). Original documents not in English 
+should be accompanied by an English translation. 
+ 
+ 
+ 
+- 2 -
+ 
+A. 
+FORMAT 
+AND 
+CONTENT 
+OF 
+SUMMARY 
+OF 
+PRODUCT 
+CHARACTERISTICS FOR PHARMACEUTICAL PRODUCTS 
+PRINCIPLES OF PRESENTING INFORMATION 
+i. 
+The SmPC should be worded in clear and concise language. 
+ii. 
+Each section of the SmPC should first deal with those issues that apply 
+to the core population for whom the medicine is indicated followed (when 
+necessary) by specific information for any relevant special population 
+(e.g., children or elderly). 
+iii. 
+Consistent medical terminology from the Medical Dictionary for 
+Regulatory Activities (MedDRA) should be used throughout the SmPC. 
+iv. 
+The SmPC provides information on a particular medicinal product; 
+therefore, it should not include reference to other medicinal products 
+(e.g., through statements such as “Like other medicines of the same class 
+…”) except when it is a class warning recommended by a competent 
+authority. 
+ 
+SMPC FORMAT AND CONTENT 
+The SmPC will be structured and populated as outlined in 1-10 below. 
+ 
+1. 
+NAME OF THE MEDICINAL PRODUCT 
+Both the strength and the pharmaceutical form should follow the 
+proprietary name. However, when otherwise referring to the medicinal 
+product throughout the SmPC text, the strength and the pharmaceutical 
+form do not have to be mentioned in the name. The International Non-
+proprietary Name (INN) or the usual common name of the active substance 
+should be used when referring to properties of the active substance(s) rather 
+than those of the product. The use of pronouns (e.g., “it”) is encouraged 
+whenever possible. 
+ 
+ 
+ 
+ 
+ 
+- 3 -
+Strength 
+The strength should be the relevant quantity for identification and use of the 
+product and should be consistent with the quantity stated in the 
+quantitative composition and in the posology. Different strengths of the 
+same medicinal product should be stated in the same way, e.g., 250 mg, 
+500 mg, 750mg. The use of decimal points should be avoided where these 
+can be easily removed (e.g., 250 micrograms, not 0.25 mg). However, where 
+a range of medicinal products of the same pharmaceutical form includes 
+strengths of more than one unit (e.g., 250 micrograms, 1 mg, and 6 mg), it 
+may be more appropriate in certain cases to state the strengths in the same 
+unit for the purpose of comparability (e.g., 0.25 mg, 1 mg, and 6 mg). For 
+safety reasons, micrograms and millions (e.g., for units) should always be 
+spelled out in full rather than abbreviated. 
+ 
+Pharmaceutical form 
+The pharmaceutical form of a medicinal product should be described by a 
+PPB standard term (see Appendix 1). No reference should be made to the 
+route of administration or container unless these elements are part of the 
+standard term or where there is a particular safety reason for their inclusion 
+or where there are identical products, which may be distinguished only by 
+reference to the route of administration or to the container.  
+ 
+2. 
+QUALITATIVE AND QUANTITATIVE COMPOSITION 
+Full details of the qualitative and quantitative composition in terms of the 
+active substance(s) and excipients, knowledge of which are essential for the 
+proper administration of the medicinal product, should be provided in 
+section 2 of the SmPC and as appropriate in section 4.3 or 4.4. Excipients 
+that are required to be declared on the labelling (see PPB Guidelines on 
+Format and Content of Labels for Medicinal Products) should be stated here 
+under a separate subheading qualitatively, and, quantitatively. The following 
+standard statement should be included at the end of the section, i.e. ‘for a 
+full list of excipients, see section 6.1’. 
+ 
+ 
+ 
+- 4 -
+If a diluent is part of the medicinal product, information should be included 
+in the relevant sections(usually sections 3, 6.1, 6.5, and 6.6). 
+ 
+Qualitative declaration 
+The active substance should be declared by its recommended INN 
+accompanied by its salt or hydrate form if applicable. References to the 
+pharmacopoeial quality should not be included. 
+ 
+Quantitative declaration 
+The quantity of the active substance should be expressed per dosage unit 
+(for metered dose inhalation products, per delivered dose, and/or per 
+metered dose), per unit volume, or per unit of weight, and should be related 
+to the declaration of strength in section 1. 
+ 
+Quantity should be expressed in internationally recognised standard terms 
+which could be complemented with another term if more meaningful to 
+healthcare professionals. 
+ 
+Salts and hydrates 
+Where the active substance is present in the form of a salt or hydrate, the 
+quantitative composition should be expressed in terms of the mass (or 
+biological activity in International (or other) units where appropriate) of the 
+active moiety (base, acid, or anhydrous material), e.g. ‘60 mg toremifene (as 
+citrate)’ or toremifene citrate equivalent to 60 mg toremifene’. 
+ 
+Where salt is formed in situ during the preparation of the finished product 
+(i.e. formed during the mixture of a solvent and powder), the quantity of the 
+active moiety should be stated, with a reference to the in situ formation of 
+the salt. 
+ 
+In the case of established active substances in medicinal products where the 
+strength has traditionally been expressed in the form of a salt or hydrate, 
+ 
+ 
+- 5 -
+the quantitative composition may be declared in terms of the salt or hydrate, 
+e.g. ‘60 mg diltiazem hydrochloride’. This may also apply when the salt is 
+formed in situ. 
+ 
+Esters and pro-drugs 
+If the active substance is an ester or pro-drug, the quantitative composition 
+should be stated in terms of the quantity of the ester or pro-drug. When the 
+active moiety is an active substance of an already approved medicinal 
+product, the quantitative composition should also be stated in terms of the 
+quantity of this active moiety (e.g. 75 mg of fosphenytoin is equivalent to 50 
+mg of phenytoin). 
+ 
+Oral powders for solution or suspension 
+The quantity of active substance should be stated per unit dose if the 
+product is a single-dose preparation or otherwise per unit dose volume after 
+reconstitution; a reference to the molar concentration may also be 
+appropriate in some cases. 
+ 
+Parenterals excluding powders for reconstitution 
+For single-dose parenteral, where the total contents of the container are 
+given in a single dose (‘total use’), the quantity of active substance(s) should 
+be stated per presentation (e.g. 20 mg, etc.) not including any overages or 
+overfill. The quantity per ml and the total labelled volume should also be 
+given. 
+ 
+For single-dose parenteral, where the amount to be given is calculated on 
+the basis of the patient's weight or body surface or another variable (‘partial 
+use’), the quantity of active substance(s) should be stated per ml. The 
+quantity per total labelled volume should also be given. Overages or overfills 
+should not be included. 
+ 
+For multi-dose and large volume parenterals, the quantity of active 
+substance(s) should be stated per ml, per 100 ml, per 1000 ml, etc. as 
+ 
+ 
+- 6 -
+appropriate, except for multidose vaccines containing ‘n’ doses of the same 
+dose. In this case, the strength should be expressed per dose volume. 
+Overages or overfill should not be included. 
+ 
+Where appropriate, e.g. for X-ray contrast media, and parenterals containing 
+inorganic salts, the quantity of active substance(s) should also be indicated 
+in millimoles. For X-ray contrast media with iodine-containing actives 
+substances, the quantity of iodine per ml should be stated in addition to the 
+quantity of the active substance. 
+ 
+Powders for reconstitution prior to parenteral administration 
+When the product is a powder to be reconstituted prior to administration, 
+the total quantity of active substance in the container should be stated not 
+including overages or overfills, as well as the quantity per ml when 
+reconstituted, unless there are several means of reconstituting, or different 
+quantities used, which result in different final concentrations. 
+ 
+Concentrates 
+The quantity should be stated as the content per ml in the concentrate and 
+as the total content of the active substance. The content per ml when 
+diluted as recommended should also be included unless the concentrate is 
+to be diluted to within a range of different final concentrations. 
+ 
+Transdermal patches 
+The following quantitative details should be given: the content of active 
+substance(s) per patch, the mean dose delivered per unit time, and the area 
+of the releasing surface, e.g. ‘Each patch contains 750micrograms of 
+estradiol in a patch size of 10 cm2, releasing a nominal 25 micrograms of 
+estradiol per24 hours'. 
+ 
+ 
+ 
+ 
+ 
+ 
+- 7 -
+Multidose solid or semi-solid products 
+Quantity of active substance should be stated, where possible, per unit 
+dose, otherwise per gram, per 100g or percentage, as appropriate. 
+ 
+Biological medicinal products 
+Expression of strength 
+The quantity of biological medicinal products should be expressed in terms 
+of mass units, units of biological activity, or International Units as 
+appropriate for the particular product. 
+ 
+The biological origin of the active substance 
+The origin of the active substance should be defined briefly. Thus, the 
+nature of any cellular system(s) used for production and, if relevant, the use 
+of recombinant DNA technology should be specified. The entry should take 
+the form: “produced in XXX cells <by recombinant DNA technology>”. The 
+following are examples of the application of this principle: 
+ 
+“produced in human diploid (MRC-5) cells”, 
+“produced in Escherichia coli cells by recombinant DNA technology”, 
+“produced in chick-embryo cells”, 
+“produced from the plasma of human donors”, 
+“produced from human urine”, 
+“produced from <animal>blood”, 
+“produced from porcine pancreatic tissue”, 
+“produced from porcine intestinal mucosa”. 
+ 
+Special provisions for normal immunoglobulins 
+In the case of normal immunoglobulins, the IgG subclass distribution 
+should be stated in terms of the percent of total IgG present. The upper limit 
+of the IgA content should follow. 
+ 
+ 
+ 
+ 
+ 
+- 8 -
+Special provisions for vaccines 
+In the case of vaccines, the content of active substance per dose unit (e.g., 
+per 0.5 ml) should be stated. 
+Adjuvants, if present, should be stated qualitatively and quantitatively. 
+ 
+Residues that are of special relevance (e.g., ovalbumin in egg-derived 
+vaccines) should be specified. 
+ 
+Additional 
+specific 
+guidance 
+is 
+available 
+in 
+CHMP 
+guidelines 
+on 
+biotechnological medicinal products, e.g., the CHMP Guideline on the 
+Pharmaceutical Aspects of the Product Information for Human Vaccines. 
+ 
+Herbal medicinal products 
+The quantitative declaration should be in accordance with the existing 
+quality guidelines on herbal medicinal products. 
+ 
+3. 
+PHARMACEUTICAL FORM 
+The pharmaceutical form should be described by a full standard term of the 
+PPB using the singular form. The term used in this section should be the 
+same as the term used in section 1. A visual description of the appearance 
+of the product (colour, markings, etc.) should be given, in a separate 
+paragraph to the standard term, including information on the actual size of 
+a solid oral formulation, e.g. In the case of tablets designed with a score line, 
+information should be given on whether or not reproducible dividing of the 
+tablets has been shown. e.g., ‘the score line is only to facilitate breaking for 
+ease of swallowing and not to divide into equal doses’, ‘the tablet can be 
+divided into equal halves.  
+ 
+Information on pH and osmolality should be provided, as appropriate. In the 
+case of products to be reconstituted before use, the appearance before 
+reconstitution should be stated in this section. The appearance of the 
+product after reconstitution should be stated in sections 4.2and 6.6. 
+ 
+ 
+ 
+- 9 -
+4. 
+CLINICAL PARTICULARS 
+4.1 Therapeutic indications 
+The indication(s) should be stated clearly and concisely and should define 
+the 
+target 
+disease 
+or 
+condition 
+distinguishing 
+between 
+treatment 
+(symptomatic, curative, or modifying the evolution or progression of the 
+disease), prevention (primary or secondary), and diagnostic indication. When 
+appropriate it should define the target population especially when 
+restrictions to the patient populations apply. 
+ 
+Study endpoints should not normally be included. The objective of a 
+prevention indication may be mentioned in general terms only. This should 
+also be done for the target population. 
+ 
+Where results from subsequent studies provide further definition or 
+information on an authorized indication, such information provided it does 
+not itself constitute a new indication, may be considered for inclusion in 
+section 5.1. 
+ 
+Mandatory conditions of product usage not covered more appropriately in 
+other parts of the SmPC may also be included when relevant, e.g., 
+concomitant dietary measures, lifestyle changes, or other therapy. 
+ 
+It should be stated in which age groups the product is indicated, specifying 
+the 
+age 
+limits, 
+e.g., 
+‘X 
+is 
+indicated 
+in 
+<adults><neonates><infants><children><adolescents><aged x to y<years, 
+months>>. 
+ 
+If the product’s indication depends on a particular genotype or the 
+expression of a gene or a particular phenotype, this should be stated in the 
+indication. 
+ 
+ 
+ 
+ 
+- 10 - 
+4.2 Posology and method of administration 
+In the case of restricted medical prescription, this section should be started 
+by specifying the conditions. 
+ 
+In case of specific safety needs, any recommended restriction to a particular 
+setting should also be stated (e.g., “restricted to hospital use only” or 
+“appropriate resuscitation equipment should be available”). 
+ 
+Posology 
+The dosage should be clearly specified for each method/route of 
+administration and for each indication, as appropriate. 
+ 
+Where appropriate, a reference to official recommendations should be made 
+(e.g., for primary vaccination and antibiotics as well as for booster dose). 
+Dose recommendations (e.g., mg, mg/kg, mg/m2) should be specified per 
+dose interval for each category where appropriate (specify age/weight/body 
+surface area of subsets of the population as appropriate). The frequency of 
+dosing should be expressed using time units (e.g., once or twice daily or 
+every 6 hours) and, to avoid confusion, abbreviations e.g., OD or BID should 
+not be used. 
+ 
+Where appropriate, the following points should be addressed: 
+ 
+The maximum recommended single, daily, and/or total dose, 
+ 
+The need for the dose titration, 
+ 
+The normal duration of use and any restrictions on duration and, if 
+relevant, the need for tapering off, or advice on discontinuation, 
+ 
+Advice on action to be taken if one or more dose(s) is (are) missed, or 
+e.g., in case of vomiting (the advice should be as specific as possible, 
+taking into consideration the recommended frequency of dosing and 
+relevant pharmacokinetic data) 
+ 
+Advice on preventive measures to avoid certain adverse drug reactions 
+(e.g., administration of antiemetic’s) with cross-reference to section 4.4, 
+ 
+ 
+- 11 - 
+ 
+The intake of the product in relation to drinking and food intake, 
+together with a cross-reference to section 4.5 in case of specific 
+interaction e.g., with alcohol, grapefruit, or milk, 
+ 
+Advice regarding repeat use, with any information on intervals to be 
+observed between courses of treatment, as appropriate, 
+ 
+Interactions requiring specific dose adjustments with cross-reference to 
+other appropriate sections of the SmPC (e.g., 4.4, 4.5, 4.8, 5.1, 5.2), 
+and 
+ 
+It may also be relevant to recommend not to prematurely discontinue 
+treatment in case of specific non-serious adverse reaction(s) that are 
+frequent but transient or manageable with dose titration. 
+ 
+Where relevant to the particular product, the following should appear ‘The 
+potency of this medicinal product is expressed in <proprietary name> units. 
+These units are not interchangeable with the units used to express the 
+potency of other <active substance name> preparations. 
+ 
+Special populations 
+Dosage adjustments or other posology-related information in specific patient 
+groups should be stated where necessary, in well-defined sub-sections 
+ordered by importance, e.g., regarding: 
+ 
+ 
+Elderly population; it should be made clear whether or not any dosage 
+adjustment is necessary for any subsets of the elderly population, with 
+cross-reference to other sections providing information on the elderly, 
+e.g., 4.4, 4.5, 4.8, or 5.2. 
+ 
+Renal impairment; the dose recommendation should relate as precisely 
+as possible to the cut-off values for biochemical markers of renal 
+impairment in clinical studies and the results of these studies; 
+ 
+Hepatic impairment, specified according to the patients included in 
+studies, for instance ‘alcohol-related cirrhosis’ and the definitions used 
+in the studies, for instance, Child-Pugh score/grade of the patients; 
+ 
+ 
+- 12 - 
+ 
+Patients with a particular genotype; with cross-reference to other 
+relevant sections for further detail as appropriate; 
+ 
+Other 
+relevant 
+special 
+populations 
+(e.g., 
+patients 
+with 
+other 
+concomitant diseases or overweight patients). 
+ 
+Advice relevant for dosage adjustment e.g., from monitoring of clinical 
+symptoms and signs, and/or laboratory investigations, including blood 
+concentrations of the medicinal product should be mentioned when 
+appropriate with cross-reference to other sections where appropriate. 
+ 
+Paediatric population 
+The specific sub-section ‘paediatric population’ should always be included 
+and the information given should cover all subsets of the paediatric 
+population, using a combination of the possible situations presented below 
+as appropriate. 
+ 
+If the product is indicated in the paediatric population, posology 
+recommendations should be given for each of the relevant subsets. The age 
+limits should reflect the benefit-risk assessment of the available 
+documentation for each subset. 
+ 
+If the posology is the same in adults and children, then a statement to this 
+effect is sufficient; the posology does not need to be repeated. 
+ 
+Dose recommendations (e.g., mg, mg/kg, mg/m2) should be specified per 
+dose interval for the paediatric subsets where the product is indicated. 
+Different subsets may require different dosing information. If necessary, 
+recommendations for preterm and new born should be presented taking into 
+account the more appropriate age e.g., gestational age or post-menstrual 
+age. 
+ 
+ 
+ 
+ 
+- 13 - 
+Depending on the subset, the clinical data, and available formulations, the 
+dose will be expressed according to weight or body surface area, e.g., 
+“children aged 2-4 years, 1 mg/kg bodyweight twice a day”. 
+ 
+When appropriate, information on the timing of intake of the product should 
+consider children’s daily life, e.g., school or sleep. 
+ 
+Where a product is indicated in children and no adequate paediatric 
+formulation can be developed, detailed instructions on how to obtain an 
+extemporaneous preparation shall be included in section 6.6 with a cross-
+reference in section 4.2. 
+ 
+Doses and methods of administration in the various subsets may be 
+presented in a tabulated format. 
+ 
+If there is no indication for the product in some or all subsets of the 
+paediatric population, no posology recommendation can be made, but 
+available information should be summarized using the following standard 
+statements (one or combination of several as appropriate): 
+ 
+ 
+The <safety><and><efficacy> of X in children aged x to y<months, 
+years><or any other relevant subsets e.g., weight, pubertal age, 
+gender><has><have> not <yet> been established. 
+One of the following statements should be added: 
+– <No data are available>. 
+or 
+– <Currently 
+available 
+data 
+are 
+described 
+in 
+section 
+<4.8><5.1><5.2>but no recommendation on a posology can be 
+made > 
+ 
+X should not be used in children aged x to y<years, months><or any 
+other relevant subsets e.g., weight, pubertal age, gender> because of 
+<safety><efficacy> concern(s) <concern(s) to be stated with cross-
+reference to sections detailing data (e.g., 4.8 or 5.1) >. 
+ 
+ 
+- 14 - 
+ 
+ 
+There is no relevant use of X in <the paediatric population><in children 
+aged x to y><years, months>><or any other relevant subsets e.g., 
+weight, pubertal age, gender> in the indication(s) 
+<Specify indication(s)>. 
+ 
+X is contraindicated in children aged x to y<years, months><or any 
+other relevant subsets e.g., weight, pubertal age, gender><in the 
+indication …> (cross-reference to section 4.3). 
+ 
+If there are more appropriate strength(s) and/or pharmaceutical form(s) for 
+administration in some or all subsets of the paediatric population (e.g., oral 
+solution for infants), these can be mentioned in section 4.2 of the SmPC of 
+the less appropriate one(s). 
+ 
+E.g.: Other pharmaceutical forms/strengths may be more appropriate for 
+administration to this population. 
+ 
+Method of administration 
+Any special precautions related to the manipulation or administration of the 
+product (e.g., cytotoxic products) by healthcare professionals (including 
+pregnant healthcare professionals), the patient, or carers should be 
+mentioned here under a specific sub-heading (<Precaution to be taken before 
+manipulating or administering the product>), with a cross-reference to section 
+6.6 (or 12). 
+ 
+The route of administration and concise relevant instruction for correct 
+administration and use should be given here. Information on instructions 
+for preparation or reconstitution should be placed in section6.6 ‘Special 
+precautions for the disposal of a used medicinal product and another 
+handling of the product’ (or in section 12 if appropriate) and cross-
+referenced here. 
+When supportive data are available, information on the alternative 
+method(s) to facilitate administration or acceptability should be given as 
+ 
+ 
+- 15 - 
+explicitly as possible (e.g., the possibility of crushing the tablet, cutting 
+tablet or transdermal patch, pulverizing tablet, opening capsules, mixing 
+with food, dissolution in drinks – specifying if a proportion of the dose can 
+be given) particularly for administration via feeding tubes. 
+ 
+Any specific recommendation for use related to the pharmaceutical form 
+should be explained, e.g.: 
+– 
+“the coated tablet should not be chewed because of <bad taste>, 
+– 
+“the enteric-coated tablet should not be crushed because coating 
+prevents <pH sensitive degradation><irritant effects> on the gut”, 
+– 
+“the coated tablet should not be broken because the coating is intended 
+to ensure a prolonged release (see 5.2)”. 
+ 
+For parenteral formulations, information on the rate or speed of injection or 
+infusion should be provided. 
+ 
+For parenteral formulations - in children, especially new-borns in whom 
+quite often fluids have to be restricted - it would be useful to have 
+information on the maximal concentration that can be safely administered 
+(e.g., "no more than X mg of Y/ml of the solution"). 
+ 
+4.3 Contraindications 
+Situations where the medicinal product must not be given for safety 
+reasons, i.e. contraindications, are the subject of this section. Such 
+circumstances could include a particular clinical diagnosis, concomitant 
+diseases, demographic factors (e.g. gender, age), or predispositions (e.g. 
+metabolic or immunological factors, a particular genotype, and prior adverse 
+reactions to the medicine or class of medicines). The situations should be 
+unambiguously, comprehensively, and clearly outlined. 
+ 
+Other medicines or classes of medicine, which must not be used 
+concomitantly or consecutively should be stated, based on either data or 
+ 
+ 
+- 16 - 
+strong theoretical reasons. If applicable a cross-reference to section 4.5 
+should be made. 
+ 
+In general, patient populations not studied in the clinical trial program 
+should be mentioned in section 4.4 and not in this section unless a safety 
+issue can be predicted (e.g. use of renally eliminated substances with a 
+narrow therapeutic margin in renal failure patients). If, however, patients 
+have been excluded from studies due to a contraindication on grounds of 
+safety, they should be mentioned in this section. If applicable a cross-
+reference to section 4.4 should be made. 
+ 
+Only if pregnancy or breastfeeding is contraindicated, should it be 
+mentioned here. In section 4.6, a cross-reference should be made and 
+further background information provided. 
+Hypersensitivity to the active substance or any of the excipients or residues 
+from the manufacturing process should be included, as well as any 
+contraindication arising from the presence of certain excipients.  
+ 
+For herbal medicinal products, hypersensitivity extended to other plants of 
+the same family or other parts of the same plant should be labeled as a 
+contraindication, where applicable. 
+ 
+Lack of data alone should not lead to contraindication. Where for safety 
+reasons, the product should be contraindicated in a specific population, e.g. 
+paediatric or a subset of the paediatric population, it should appear in this 
+section with a cross-reference to the section giving detailed information on 
+the safety issue. A contraindication in the paediatric population should be 
+listed without a subheading. 
+ 
+4.4 Special warnings and precautions for use 
+The order of warnings and precautions should in principle be determined by 
+the importance of the safety information provided. 
+ 
+ 
+ 
+- 17 - 
+The exact content of this section will be different for each product and the 
+therapeutic conditions it is intended to treat. It is however suggested that 
+the following items should be included where relevant to the specific 
+product. 
+ 
+Information on a specific risk should be given in section 4.4 only when the 
+risk leads to a precaution for use or when healthcare professionals have to 
+be warned of this risk. Patient groups in which the use of the medicinal 
+product is contraindicated should be mentioned in section 4.3 only and not 
+be repeated here. 
+ 
+The following should be described: 
+ 
+ 
+The conditions, in which the use of the medicinal product could be 
+acceptable, provided that special conditions for use are fulfilled. In 
+particular, specific risk minimization measures requested as part of a 
+Risk Management Plan to ensure safe and effective use should be 
+described in this section. (For example; “Liver function should be 
+monitored before initiation of treatment and monthly thereafter”, 
+“Patients should be advised to immediately report any symptoms of 
+depression and/or suicidal ideation”, and “Women of childbearing 
+potential should use contraception”) 
+ 
+Special patient groups that are at increased risk or are the only groups 
+at risk of experiencing product or product class-related adverse 
+reactions (usually serious or common), e.g., elderly, children, patients 
+with renal or hepatic impairment (including the degree of impairment, 
+e.g., mild, moderate or severe), patients having an anaesthetic or 
+patients with cardiac failure. Cross-reference to section 4.8 on the 
+differential effects in terms of frequency and severity of the specified 
+adverse reaction should be provided. 
+ 
+Serious adverse reactions to which healthcare professionals need to be 
+alerted, the situations in which these may occur, and the action that 
+may be required, e.g., emergency resuscitation. 
+ 
+ 
+- 18 - 
+ 
+ 
+If there are particular risks associated with starting the medicinal 
+product (e.g., first dose effects) or stopping it (e.g., rebound, withdrawal 
+effects), these should be mentioned in this section, together with the 
+action required for prevention. 
+ 
+Any measures which can be taken to identify patients at risk and 
+prevent the occurrence, or detect early the onset or worsening of 
+noxious conditions. If there is a need for awareness of symptoms or 
+signs representing early warning of a serious adverse reaction, a 
+statement should be included. 
+ 
+Any need for specific clinical or laboratory monitoring should be stated. 
+Recommendations for monitoring should address why, when, and how 
+the monitoring should be conducted in clinical practice. If dose 
+reduction or other posology is recommended in such circumstances or 
+conditions, this should be included in section 4.2 and cross-referenced 
+here. 
+ 
+Any warnings are necessary for excipients or residues from the 
+manufacturing process. 
+ 
+For herbal preparations containing alcohol, information about the 
+ethanol content in the medicinal product should be included in 
+accordance with the Guideline on excipients in the label and package 
+leaflet of medicinal products for human use. 
+ 
+Any warnings are necessary with respect to transmissible agents. 
+ 
+Subjects or patients with a specific genotype or phenotype might either 
+not respond to the treatment or be at risk of a pronounced 
+pharmacodynamics effect or adverse reaction. These may arise because 
+of non-functioning enzyme alleles, alternative metabolic pathways 
+(governed by specific alleles), or transporter deficiencies. Such 
+situations should be clearly described if known. 
+ 
+Any particular risk associated with an incorrect route of administration 
+(e.g., necrosis risk with extravasation of intravenous formulation, or 
+neurological consequences of intravenous use instead of intramuscular 
+use), should be presented, with advice on management if possible. 
+ 
+ 
+- 19 - 
+ 
+In exceptional cases, especially important safety information may be 
+included in bold type within a box. 
+ 
+Any adverse reactions described in this section or known to result from 
+conditions mentioned here should also be included in section 4.8. 
+ 
+Specific interference with laboratory tests should be mentioned when 
+appropriate, e.g., the Coombs test and Beta-lactams. They should be clearly 
+identified with a subheading, e.g., “Interference with serological testing”. 
+ 
+In general, descriptions of warnings and precautions regarding pregnancy 
+and breastfeeding, the ability to drive and use machines, and other aspects 
+of interactions should be dealt with in sections 4.6, 4.7 and4.5, respectively. 
+However, in specific cases of major clinical importance, it might be more 
+appropriate to describe specific precautionary measures in this section, e.g., 
+contraception measures, or when concomitant use of another medicine is 
+not recommended, and with cross-reference to sections 4.5, 4.6, or 4.7. 
+ 
+Paediatric population 
+When the product is indicated in one or more subsets of the paediatric 
+population and there are warnings and precautions for use that are specific 
+to the paediatric population or any subset of the paediatric population, they 
+should be identified under this subheading. Any necessary warning or 
+precaution in relation to long-term safety (e.g., on growth, neuro-
+behavioural development, or sexual maturation) or specific monitoring (e.g., 
+growth) in the paediatric population should be described.  
+ 
+When long-term safety data are necessary but not yet available, it should be 
+stated in this section. Warnings should be included in case of possible 
+significant or long-lasting impact on children’s daily activities, such as 
+learning ability or physical activities, or case of impact on appetite or sleep 
+pattern. 
+ 
+ 
+- 20 - 
+ 
+If measures are requested that are specific to the paediatric population for 
+which the product is indicated (e.g., as part of a Risk Management Plan), 
+these measures should be described in this section. 
+ 
+4.5 Interaction with other medicinal products and other forms of 
+interaction 
+This section should provide information on the potential for clinically 
+relevant interactions based on the pharmacodynamic properties and in vivo 
+pharmacokinetic studies of the medicinal product, with a particular 
+emphasis on the interactions, which result in a recommendation regarding 
+the use of this medicinal product. This includes in vivo interaction results, 
+which are important for extrapolating an effect on a marker (‘probe’) 
+substance to other medicinal products having the same pharmacokinetic 
+property as the marker. 
+ 
+Interactions affecting the use of this medicinal product should be given first, 
+followed by those interactions resulting in clinically relevant changes on the 
+use of others. 
+Interactions referred to in other sections of the SmPC should be described 
+here and cross-referenced from other sections. 
+ 
+The order of presentation should be contraindicated combinations, those 
+where concomitant use is not recommended, followed by others. 
+ 
+The following information should be given for each clinically relevant 
+interaction: 
+a) 
+Recommendations: these might be; 
+ 
+Contraindications of concomitant use (cross-refer to section 
+4.3), 
+ 
+Concomitant use is not recommended (cross-refer to section 
+4.4), and 
+ 
+ 
+- 21 - 
+ 
+Precautions include dose adjustment (cross-refer to sections 4.2 
+or 4.4, as appropriate), mentioning specific situations where 
+these may be required. 
+b) 
+Any clinical manifestations and effects on plasma levels and AUC of 
+parent compounds or active metabolites and/or on laboratory 
+parameters. 
+c) 
+A mechanism, if known. For example, interaction due to inhibition or 
+induction of cytochrome P450 should be presented as such in this 
+section, with a cross-reference to 5.2 were in vitro results on inhibition 
+or induction potential should be summarized. 
+ 
+Interactions not studied in vivo but predicted from in vitro studies or 
+deducible from other situations or studies should be described if they result 
+in a change in the use of the medicinal product, cross-referring to sections 
+4.2 or 4.4. 
+ 
+This section should mention the duration of interaction when a medicinal 
+product with clinically important interaction (e.g., enzyme inhibitor or 
+inducer) is discontinued. Adjustment of dosing may be required as a result. 
+The implication of the need for a washout period when using medicines 
+consecutively should also be mentioned. 
+ 
+Information on other relevant interactions such as with herbal medicinal 
+products, food, alcohol, smoking, or pharmacologically active substances 
+not used for medical purposes, should also be given. With regard to 
+pharmacodynamics effects where there is a possibility of a clinically relevant 
+potentiation or a harmful additive effect, this should be stated. 
+ 
+In vivo results demonstrating an absence of interaction should only be 
+mentioned here if this is of major importance to the prescriber (e.g., in 
+therapeutic areas where potentially problematic interactions have been 
+identified such as with anti-retroviral medicines). 
+ 
+ 
+ 
+- 22 - 
+If no interaction studies have been performed, this should be clearly stated. 
+ 
+Additional information on special populations 
+If there are patient groups in which the impact of interaction is more severe 
+or the magnitude of interaction is expected to be larger e.g., patients with 
+decreased renal function (in case the parallel pathway is renal excretion), 
+paediatric patients, elderly, etc., this information should be given here. 
+ 
+If interactions with other medicinal products depend on polymorphisms of 
+metabolizing enzymes or certain genotypes, this should be stated. 
+ 
+Paediatric population 
+Information specific to a subset of the paediatric population should be given 
+here if there is an indication for the particular age group. 
+The resulting exposure and clinical consequences of a pharmacokinetic 
+interaction can differ between adults and children, or between older and 
+younger children. Therefore; 
+ 
+ 
+Any identified treatment recommendations should be given in relation 
+to concomitant use in the paediatric subset(s) (e.g., dose adjustment, 
+extra-monitoring 
+of 
+clinical 
+effect 
+marker/adverse 
+reactions, 
+therapeutic drug monitoring), 
+ 
+If the interaction studies have been performed in adults, the statement 
+‘Interaction studies have only been performed in adults should be 
+included. 
+ 
+If the extent of an interaction is known to be similar in a paediatric age 
+group to that in adults, this should be stated. 
+ 
+If this is not known, this should also be stated. 
+The same applies to pharmacodynamics and drug interactions. 
+ 
+In cases of food interaction leading to a recommendation on co-
+administration with a meal or specific food, it should be specified whether 
+ 
+ 
+- 23 - 
+this is relevant for paediatric use (especially newborns and infants) whose 
+diet is different (100 % milk in newborns). 
+ 
+Overall, section 4.5 should be presented in the simplest possible way to 
+highlight the interactions resulting in a practical recommendation regarding 
+the use of the medicinal product. Presentation in a tabulated format may 
+help where interactions are numerous and various, such as with anti-viral 
+products. 
+ 
+4.6 Fertility, pregnancy, and lactation 
+General principles 
+Efforts should be made by the Marketing Authorization Applicant or Holder 
+to provide the reasons for the recommendations for use in pregnant or 
+lactating women and women of childbearing potential. 
+This information is important for the healthcare professionals informing the 
+patient. 
+ 
+In the overall assessment, all available knowledge should be taken into 
+account, including clinical studies and post-marketing surveillance, 
+pharmacological activity, results from non-clinical studies, and knowledge 
+about compounds within the same class. 
+ 
+Efforts should be made to update the recommendations for use during 
+pregnancy and lactation on the basis of increasing human experience in 
+exposed pregnancies, which eventually supersede the animal data. 
+ 
+In case of contraindication, this should be included in section 4.3. 
+ 
+The following should be mentioned: 
+ 
+Women of childbearing potential / Contraception in males and females 
+Recommendations on the use of the medicinal product in women of 
+childbearing potential should be given when appropriate including the need 
+ 
+ 
+- 24 - 
+for 
+a 
+pregnancy 
+test 
+or 
+contraceptive 
+measures. 
+Where 
+effective 
+contraception is required for patients or partners of patients during 
+treatment or for a defined period before starting or after ending treatment, 
+the rationale should be included in this section. If contraceptive measures 
+are recommended, there should also be a cross-reference to section 4.5 (and 
+possibly 4.4) in case of interaction with oral contraceptives. 
+ 
+Pregnancy 
+In general, clinical and non-clinical data should be followed by 
+recommendations. 
+ 
+With respect to non-clinical data, 
+ 
+Only conclusions of the reproductive toxicity studies should be 
+included in this section. Further details should be provided in section 
+5.3. 
+With respect to clinical data, 
+ 
+The section should include comprehensive information on relevant 
+adverse events reported in the embryo, the foetus, neonates, and 
+pregnant women, when appropriate. The frequency of such events (for 
+example the frequency of birth defects) should be specified when 
+available. 
+ 
+The section should specify the extent of the human experience if no 
+adverse events have been reported in pregnancy. 
+ 
+With respect to the recommendations: 
+ 
+Recommendations on the use of the medicinal product during the 
+different periods of gestation, including the reason(s) for these 
+recommendations, should be given. 
+ 
+Recommendations for the management of exposure during pregnancy 
+when appropriate (including relevant specific monitoring such as foetal 
+ultrasound, and specific biological or clinical surveillance of the foetus 
+or the neonate) should be given. 
+ 
+ 
+ 
+- 25 - 
+Cross-references can be included in sections 4.3, 4.4, and 4.8, as 
+appropriate. 
+ 
+Breastfeeding 
+If available, clinical data should be mentioned (exposed breastfed infants) as 
+the conclusions of kinetic studies (plasma concentrations in breastfed 
+infants, transfer of the active substance and/or its metabolite(s) into human 
+milk…). Information on adverse reactions in nursing neonates should be 
+included if available. 
+ 
+Conclusions from non-clinical studies on the transfer of the active 
+substance and/or its metabolite(s) into milk should be given only if no 
+human data are available. 
+ 
+Recommendations should be given to stop or continue breastfeeding and/or 
+to stop or continue the treatment in cases where treatment or breastfeeding 
+discontinuation is recommended, and the reason should be provided. 
+ 
+Fertility 
+The main information on the possible effects of the medicinal product on 
+male and female fertility should be included in section 4.6. 
+ 
+This section should include: 
+ 
+a) 
+Clinical data if available. 
+b) 
+Relevant conclusions from nonclinical toxicity studies, if available. 
+Further details should be included in section 5.3. 
+c) 
+Recommendations for the use of the medicinal product when pregnancy 
+is planned but fertility might be affected by treatment. 
+ 
+Cross-references could be included in section 4.3, if appropriate. 
+If there are no fertility data at all, then this should be clearly stated. 
+ 
+ 
+ 
+- 26 - 
+4.7 Effects on ability to drive and use machines 
+On the basis of the pharmacodynamics and pharmacokinetics profile, 
+reported adverse reactions and/or specific studies in a relevant target 
+population addressing the performance related to driving and road safety or 
+using machines, specify whether the medicinal product has a) no or 
+negligible influence b) minor influence, c) moderate influence or d) a major 
+influence on these abilities. Other important factors that affect the ability to 
+drive and use machines should be considered if known, e.g., duration of the 
+impairing effect and the development of tolerance or adverse reactions with 
+continued use. 
+ 
+For situations c and d, special warnings/precautions for use should be 
+mentioned here (and also in section 4.4 for situation d). 
+ 
+4.8 Undesirable effects 
+This section should include all adverse reactions from clinical trials, post-
+authorization safety studies, and spontaneous reporting for which, after a 
+thorough assessment, a causal relationship between the medicinal product 
+and the adverse event is at least a reasonable possibility, based for example, 
+on their comparative incidence in clinical trials, or on findings from 
+epidemiological studies and/or on an evaluation of causality from individual 
+case reports. Adverse events, without at least a suspected causal 
+relationship, should not be listed in the SmPC. 
+ 
+The content of this section should be justified in the Clinical Overview of the 
+marketing authorization application based upon a best-evidence assessment 
+of all observed adverse events and all facts relevant to the assessment of 
+causality, severity, and frequency. This section should be regularly reviewed 
+and, if necessary, updated with the aim to ensure appropriate information to 
+health care professionals on the safety profile of the product.  
+ 
+ 
+ 
+- 27 - 
+It is important that the whole section is worded in concise and specific 
+language and does not include information such as claims regarding the 
+absence of specific adverse reactions, comparative frequency statements 
+other than as described below, or statements of general good tolerability 
+such as “well tolerated”, “adverse reactions are normally rare”, etc. 
+Statements on lack of proof of causal association should not be included. 
+ 
+In order to provide clear and readily accessible information, section 4.8 
+should be structured according to the following recommendations: 
+a. 
+Summary of the safety profile 
+b. 
+Tabulated summary of adverse reactions 
+c. 
+Description of selected adverse reactions 
+d. 
+Paediatric population 
+e. 
+Other special population(s) 
+ 
+a. 
+Summary of the safety profile 
+The summary of the safety profile should provide information about the 
+most serious and/or most frequently occurring adverse reactions. 
+ 
+If known, it may be helpful to indicate the timing when adverse reactions 
+occur. For example, in order to prevent early discontinuation of treatment, it 
+may be important to inform about non-serious adverse reactions that are 
+frequent at the beginning of the treatment but may disappear with its 
+continuation. Another example would be to inform about adverse reactions 
+associated with long-term use. Frequencies of cited adverse reactions should 
+be stated as accurately as possible. This summary of the safety profile 
+should be consistent with the important identified risks mentioned in the 
+Safety Specification of the Risk Management Plan. The information should 
+be consistent with the Table of Adverse Reactions (see section b). The cross-
+reference should be made to section 4.4 if relevant risk minimization 
+measures have been proposed in that section. 
+ 
+An example of an acceptable statement is given below: 
+ 
+ 
+- 28 - 
+ 
+‘At the beginning of the treatment, epigastric pain, nausea, diarrhoea, 
+headache or vertigo may occur; these reactions usually disappear within a 
+few days even if treatment is continued. The most commonly reported adverse 
+reactions during treatment are dizziness and headache, both occurring in 
+approximately 6% of patients. Serious acute liver injury and agranulocytosis 
+may occur rarely (less than 1 case per 1,000 patients)’ 
+ 
+b. 
+Tabulated list of adverse reactions 
+A single table (or structured listing) should list all adverse reactions with 
+their respective frequency category. In some cases, for common or very 
+common reactions, and when it is necessary for the clarity of the 
+information, frequency figures may be presented in the table. 
+ 
+Separate tables are acceptable in exceptional cases where the adverse 
+reaction profiles markedly differ depending on the use of the product. For 
+example, it might be the case for a product used for different indications 
+(e.g., oncology and a non-oncology indication) or at different posologies. 
+ 
+The table should be introduced with a short paragraph stating the source of 
+the safety database (e.g., from clinical trials, post-authorization safety 
+studies, or spontaneous reporting). 
+ 
+The table should be presented according to the MedDRA system organ 
+classification. The system organ class (SOC) should be presented in the 
+order shown in the annex. Adverse reaction descriptions should be based on 
+the most suitable representation within the MedDRA terminology. This will 
+usually be at the Preferred Term (PT) Level, although there may be instances 
+where the use of the Lowest Term Level or exceptionally group terms, such 
+as High-Level Terms may be appropriate. As a general rule, any adverse 
+reactions should be assigned to the most relevant SOC related to the target 
+organ. For example, PT ‘Liver function test abnormal’ should be assigned to 
+the SOC ‘Hepatobiliary disorders’ rather than to the SOC ‘Investigations’.  
+ 
+ 
+- 29 - 
+ 
+Within each system organ class, the adverse reactions should be ranked 
+under headings of frequency, and most frequent reactions first. Within each 
+frequency grouping, adverse reactions should be presented in the order of 
+decreasing seriousness. The names used to describe each of the frequency 
+groupings should follow standard terms established in each official language 
+using the following convention: Very common (≥1/10); common (≥1/100 to 
+<1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); 
+very rare (<1/10,000). 
+ 
+In exceptional cases, if a frequency cannot be estimated from the available 
+data, an additional category frequency ‘not known’ may be used. In case the 
+expression “Frequency not known” is used, the following text should be 
+added to the list of terms explaining the frequency categories: “not known 
+(cannot 
+be 
+estimated 
+from 
+the 
+available 
+data)”. 
+The 
+expressions 
+isolated/single cases/reports should not be used. 
+ 
+Where additional details about an adverse reaction are described in section 
+c), the reaction concerned should be highlighted, for example with an 
+asterisk, and, “see section c)” should be included as a footnote. 
+ 
+Guidance on how to estimate the frequency of an adverse reaction is 
+provided at the end of this chapter of the guideline. 
+ 
+c. 
+Description of selected adverse reactions 
+This section should include information characterizing specific adverse 
+reactions, which may be useful to prevent, assess or manage the occurrence 
+of an adverse reaction in clinical practice. 
+ 
+This section should include information characterizing individuals' seriously 
+and/or frequently occurring adverse reactions, or those where there have 
+been reports of particularly severe cases. The information should provide 
+frequency and may describe for example reversibility, time of onset, severity, 
+ 
+ 
+- 30 - 
+duration, mechanism of the reaction (if of clinical relevance), dose 
+relationship, relationship with duration of exposure, or risk factors. 
+Measures to be taken to avoid specific adverse reactions or actions to be 
+taken if specific reactions occur should be mentioned under section 4.4 and 
+cross-referenced here. 
+ 
+Information on the occurrence of withdrawal reactions may be mentioned 
+here with cross-reference to section 4.2 in case of need for tapering off or 
+advice on discontinuation of the product. 
+ 
+Mention should be made here of any differences between different dosage 
+forms in respect of adverse reactions. 
+ 
+In the case of combination products, information should be included in this 
+sub-section pointing out which particular adverse reactions are usually 
+attributable to which active substance of the combination, where known. 
+ 
+Any adverse reactions resulting directly from an interaction should be 
+mentioned here and cross-referenced to section 4.5.  
+ 
+This section should also inform on adverse reactions with very low frequency 
+or with delayed onset of symptoms which may not have been observed in 
+relation to the product, but which are considered to be related to the same 
+therapeutic, chemical or pharmacological class. The fact that this is a class 
+attribution should be mentioned. 
+ 
+Any adverse reaction specific to excipients or residues from the 
+manufacturing process should be included. 
+ 
+d. 
+Paediatric population 
+A paediatric sub-section should always be included (unless irrelevant). 
+ 
+ 
+ 
+- 31 - 
+The extent and age characteristics of the safety database in children should 
+be described (e.g., from clinical trials or pharmacovigilance data). 
+Uncertainties due to limited experience should be stated. 
+ 
+If the observed safety profile is similar in children and adults this could be 
+stated: e.g., “Frequency, type, and severity of adverse reactions in children 
+are <expected> to be the same as in adults”. Similarly, it is appropriate to 
+state whether the safety profiles in the different paediatric subsets are 
+similar or not. 
+ 
+Any clinically relevant differences (i.e., in nature, frequency, seriousness, or 
+reversibility of adverse reactions) between the safety profiles in adult and 
+paediatric populations, or in any relevant age groups, should be described 
+and presented by age group. If there is a need for specific monitoring, this 
+should be highlighted by cross-referencing section 4.4. For clinically 
+relevant differences, a separate table listing such adverse reactions by 
+frequency can be added and presented by relevant age groups if appropriate. 
+If some paediatric adverse reactions are considered common (≥1/100 to 
+<1/10) or very common (≥1/10), the frequencies should be provided in 
+parentheses. 
+ 
+In case of major differences with the safety profile in adults, a summary of 
+the safety profile in children could be presented to facilitate the presentation 
+of the information. Available information, from any source, scientifically 
+validated, on long-term safety in children (e.g., on growth, mental 
+development, and sexual maturation) should also be summarized, whether 
+positive or negative, with cross-reference to section 5.1 if appropriate. Any 
+risk factors such as duration of treatment or period at risk should be 
+specified. 
+ 
+If relevant, symptoms of neonatal withdrawal should be listed in a separate 
+paragraph with cross-reference with 4.6 
+ 
+ 
+ 
+- 32 - 
+e. 
+Other special populations 
+This section may include information on any clinically relevant differences 
+(i.e., in nature, frequency, seriousness or reversibility of adverse reactions, 
+or need for monitoring) specifically observed in other special populations 
+such as the elderly, patients with renal impairment, patients with hepatic 
+impairment, patients with other diseases or a specific genotype. Cross-
+reference to other sections such as 4.3, 4.4, or 4.5 may be added as 
+appropriate. 
+ 
+Adverse reactions may also be related to genetically determined product 
+metabolism. Subjects or patients deficient in the specific enzyme may 
+experience a different rate or severity of adverse reactions. This should be 
+mentioned and where relevant correlated with data from clinical trials. 
+ 
+Further guidance on the estimation of the frequency of adverse 
+reactions 
+The estimation of the frequency of an adverse reaction depends on the data 
+source (i.e., clinical trial, post-authorization safety study, or spontaneous 
+reporting), the quality of data collection, and causality evaluation. If the 
+choice of the frequency category is based on different sources, the category 
+representing the highest frequency should be chosen unless a more specific 
+method has been applied and thus resulted in an estimate of clearly higher 
+validity, e.g., a pooled analysis across suitable studies. 
+ 
+Sources of data should use the population exposed to the doses and 
+treatment duration as recommended in the SmPC. 
+ 
+Reactions that are reported under different terms but represent the same 
+phenomenon (e.g., sedation, somnolence, drowsiness) should ordinarily be 
+grouped as a single adverse reaction to avoid diluting or obscuring the true 
+effect. Similarly, reactions that represent a syndrome complex should 
+ordinarily be grouped under an appropriate heading to avoid obscuring the 
+full range of respective symptoms. 
+ 
+ 
+- 33 - 
+ 
+Adverse reactions from clinical trials 
+Safety data from several studies should be pooled to increase the precision 
+of adverse reaction rates as appropriate without introducing bias (e.g. major 
+difference in population characteristics or exposure to the product). 
+ 
+The frequency of adverse reactions should be derived from pooled placebo-
+controlled studies if these data are available and the databases are 
+sufficiently large to be informative. If these data are unavailable or not 
+sufficiently informative, active-controlled data or possibly single-arm or add-
+on trials databases could be used to estimate frequencies. 
+ 
+Frequency should represent crude incidence rates (and not differences or 
+relative risks calculated against placebo or another comparator). 
+ 
+When a common, very common, or serious adverse reaction (e.g., suicide) 
+also occurs in the placebo group with a relevant frequency, both incidence 
+rates can be stated to put the risk into perspective (e.g., in subsection c). 
+ 
+Adverse reactions from safety studies 
+The choice of the frequency category to which any adverse reaction will be 
+assigned is based on the point estimate of the crude incidence rate derived 
+from a study designed in such a way that specific adverse events occurring 
+in patients within a defined observation period would have been detected 
+and reasonably attributed to the medicinal product. In this situation, it is 
+possible to calculate a point estimate of the crude incidence rate using 
+standard statistical methods. In cases where the original information is 
+expressed as an incidence density (denominator expressed as person-time), 
+an appropriate transformation into an incidence proportion should be 
+performed for choosing the frequency category. Normally, incidence 
+proportions for the most representative exposure period (e.g., 1 week, 3 
+months, 1 year) should be used to derive the frequency category. However, 
+this may not be appropriate if the hazard function increases over time; in 
+ 
+ 
+- 34 - 
+this case, the adverse reaction and its frequency pattern, when clinically 
+relevant, should be properly described in section c). 
+ 
+The frequency category to be chosen for each adverse reaction should not be 
+based on differences calculated against a comparator. However, when data 
+are derived from a study with a non-exposed group and the rate difference 
+attributed to the medicinal product is smaller than the baseline or 
+background incidence rate, and if the adverse reaction is considered 
+important, the background incidence may be provided (e.g., in section c). 
+ 
+Adverse reactions from spontaneous reporting 
+The number of spontaneous reports should not be stated because the 
+number can quickly become outdated. Frequencies based on reporting rates 
+from a spontaneous reporting system should not be used to assign 
+frequency categories. In case of an unexpected adverse reaction detected 
+from spontaneous reporting, each adequately designed study where this 
+adverse reaction could have been detected should be reviewed to choose a 
+frequency category. If the adverse reaction has never been observed in 
+clinical trials, then the upper limit of the 95% confidence interval is not 
+higher than 3/X, with X representing the total sample size summed up 
+across all relevant clinical trials and studies (e.g., those with a follow-up 
+long enough to detect the adverse reaction).  
+ 
+For example, if a particularly adverse reaction has not been observed among 
+3600 subjects exposed to the product in clinical trials and studies, then the 
+upper limit of the 95% confidence interval for the point estimate is 1/1200 
+or less and the frequency category should be "rare", based on the worst 
+value of the point estimate. The rationale for the frequency category for that 
+particular reaction could be explained in sub-section c). 
+ 
+ 
+ 
+ 
+ 
+ 
+- 35 - 
+4.9 Overdose 
+Describe acute symptoms and signs and potential sequelae of different dose 
+levels of the medicinal product based on all available information including 
+accidental intake, mistakes, and suicide attempts by patients. 
+ 
+Taking into account all relevant evidence, describe management of overdose 
+in man, e.g. in relation to monitoring or use of specific agonists/antagonists, 
+antidotes, or methods to increase elimination of the medicinal product such 
+as dialysis. However, there should not be any dosage recommendation for 
+other medicinal products (e.g. antidotes) as it could create conflict with the 
+SmPCs of those other products. If applicable, counteractive measures based 
+on genetic factors should be described. 
+ 
+Additional information on special populations 
+Information is specifically observed in special populations such as the 
+elderly, patients with renal impairment, patients with hepatic impairment, 
+other concomitant diseases, etc. 
+ 
+Paediatric population 
+If there are specific paediatric considerations, there should be a sub-section 
+entitled ‘paediatric population’. 
+ 
+Special mention should be made of those medicinal products/strength of 
+formulation for which ingestion of only one dose unit by children can cause 
+fatal poisoning. 
+ 
+5. 
+PHARMACOLOGICAL PROPERTIES 
+5.1 Pharmacodynamic properties 
+Sections 5.1 – 5.3 should normally mention information, which is relevant to 
+the prescriber and other healthcare professionals, taking into account the 
+approved therapeutic indication(s) and the potential adverse drug reactions. 
+Statements should be brief and precise. 
+ 
+ 
+- 36 - 
+ 
+The sections should be updated regularly when new information becomes 
+available, especially in relation to the paediatric population. 
+5.1 Pharmacodynamic properties 
+Describe: 
+ 
+• 
+Pharmacotherapeutic group and ATC code: 
+Inclusion of the therapeutic subgroup (2nd level of WHO classification) with 
+the 3rdlevel (pharmacological subgroup) and the 4th level (chemical 
+subgroup) is recommended. If an ATC code is not yet available, this should 
+be mentioned as ‘not yet assigned. 
+ 
+In the case of a medicinal product Authorized as a similar biological 
+medicinal product, the following statement will be included: 
+<<(Proprietary) Name> is a biosimilar medicinal product.  
+ 
+• 
+Mechanism of action (if known) 
+• 
+Pharmacodynamic effects. 
+• 
+Clinical efficacy and safety 
+ 
+It may be appropriate to provide limited information, relevant to the 
+prescriber, such as the main results (statistically compelling and clinically 
+relevant) regarding pre-specified endpoints or clinical outcomes in the major 
+trials, and giving the main characteristics of the patient population. Such 
+information on clinical trials should be concise, clear, relevant, and 
+balanced, and should summarise evidence from relevant studies supporting 
+the indication.  
+The magnitude of the effects should be described using absolute figures. 
+(Relative risks or odd ratios should not be presented without absolute 
+figures). 
+ 
+In exceptional cases when clinically relevant information from subgroup or 
+post-hoc analyses is presented, it should be identified as such in a balanced 
+ 
+ 
+- 37 - 
+manner reflecting the limited robustness of both positive and negative 
+secondary observations. 
+ 
+Any relevant pharmacogenetic information from clinical studies may be 
+mentioned here. This should include any data showing a difference in 
+benefit or risk depending on a particular genotype or phenotype. 
+ 
+Paediatric population 
+The results of all pharmacodynamic (clinically relevant) or efficacy studies 
+conducted on children should be presented under this subheading. 
+ 
+Information should be updated when new relevant information becomes 
+available. 
+ 
+Results should be presented by age or relevant subsets. 
+ 
+When there are data available, but there is no Authorized paediatric 
+indication, data should be presented and a cross-reference should always be 
+made to section 4.2and, as appropriate to 4.3. 
+ 
+In presenting the results of studies, particular attention should be given to 
+including the relevant safety data. For exploratory studies, the results of the 
+main endpoints should be given with the main characteristics of the 
+population studied and the doses used. When they are available, 
+information and results of confirmatory studies should usually supersede 
+and replace those of exploratory studies. For confirmatory studies, the 
+objectives, the study duration, the doses used (and the formulation used if 
+different from the marketed one), the main characteristics of the patient 
+population studied (including age and numbers of patients), and the main 
+results regarding pre-specified endpoints should be provided, whether 
+positive or negative. If data are considered inconclusive, this should be 
+stated. 
+ 
+ 
+ 
+- 38 - 
+The objective and the main results or the conclusion of any specific clinical 
+safety study should also be given. 
+ 
+5.2 Pharmacokinetic properties 
+Pharmacokinetic properties of the active substance(s) relevant for the 
+advised dose, strength, and the pharmaceutical formulation marketed 
+should be given in this section. If these are not available, results obtained 
+with other administration routes, other pharmaceutical forms, or doses can 
+be given as an alternative. 
+ 
+Basic primary pharmacokinetic parameters, for instance, bioavailability, 
+clearance, and half-life should be given as mean values with a measure of 
+variability. 
+ 
+Pharmacokinetics items, which could be included in this section when 
+relevant, are given below. 
+ 
+a. 
+General introduction, information about whether the medicinal product 
+is a pro-drug or whether there are active metabolites, chirality, 
+solubility, 
+information 
+on 
+the 
+population 
+in 
+which 
+general 
+pharmacokinetic data were obtained, etc. 
+b. 
+General characteristics of the active substance(s) after administration 
+of the medicinal product formulation to be marketed. 
+ 
+Absorption: complete or incomplete absorption; absolute and/or relative 
+bioavailability; first pass effect; Tmax; the influence of food; in case of locally 
+applied medicinal product the systemic bioavailability; involvement of 
+transport proteins. If available, information on the site of absorption in the 
+gastrointestinal tract should be stated (as it may be important for 
+administration by enteral feeding tubes). 
+ 
+ 
+ 
+- 39 - 
+Distribution: plasma protein binding; an apparent volume of distribution 
+per kilogram bodyweight (l/kg); tissue and/or plasma concentrations; 
+pronounced multi-compartment behavior; involvement of transport proteins. 
+ 
+Biotransformation: degree of metabolism; which metabolites; activity of 
+metabolites and contribution to effect and toxicity; enzymes involved in 
+metabolism; site of metabolism; results from in vitro interaction studies that 
+indicate whether the new compound can induce/inhibit metabolic enzymes. 
+ 
+Elimination: elimination half-lives, total clearance; inter and/or intra-
+subject variability in total clearance; excretion routes of the unchanged 
+substance and the metabolites including the relative portion of the hepatic 
+and renal eliminated fraction, involvement of transport proteins. 
+ 
+Linearity/non-linearity: linearity/non-linearity of the pharmacokinetics of 
+the 
+active 
+substance 
+with 
+respect 
+to 
+dose 
+and/or 
+time; 
+if 
+the 
+pharmacokinetics are nonlinear with respect to dose and/or time, the 
+underlying reason for the non-linearity should be presented. Additional 
+relevant information should be included here. 
+ 
+c. 
+Characteristics in specific groups of subjects or patients 
+ 
+Variations with respect to factors such as age, weight, gender, smoking 
+status, 
+polymorphic 
+metabolism, 
+and 
+concomitant 
+pathological 
+situations such as renal failure, and hepatic disease, including the 
+degree of impairment. If the influence on pharmacokinetics is 
+considered to be clinically relevant, it should be described here in 
+quantitative terms (cross-reference to section 4.2 when applicable). 
+ 
+d. 
+Pharmacokinetic/pharmacodynamics relationship(s) 
+ 
+Relationship between dose/concentration/pharmacokinetic parameter 
+and effect (either true endpoint, validated surrogate endpoint, or side 
+effect). 
+ 
+The population studied should be described. 
+ 
+ 
+- 40 - 
+ 
+Paediatric population 
+Results of pharmacokinetic studies in the different paediatric age groups 
+should be summarized, with a comparison to adults if available. If 
+appropriate, the dose producing similar product exposure as indults could 
+be given. The pharmaceutical form(s) used for pharmacokinetic studies in 
+children should be stated. Uncertainties due to limited experience should be 
+stated. 
+ 
+5.3 Preclinical safety data 
+Information should be given on any findings in the non-clinical testing 
+which could be of relevance for the prescriber, in recognizing the safety 
+profile of the medicinal product used for the authorized indication(s), and 
+which is not already included in other relevant sections of the SmPC. 
+ 
+If the results of the non-clinical studies do not add to the information 
+needed by the prescriber, then the results (either positive or negative) need 
+not be repeated in the SmPC. 
+ 
+The findings of the non-clinical testing should be described in brief with 
+qualitative statements as outlined in the following example: 
+ 
+ 
+Non-clinical data reveal no special hazard for humans based on 
+conventional studies of safety pharmacology, repeated dose toxicity, 
+genotoxicity, carcinogenic potential, and toxicity to reproduction and 
+development. 
+ 
+Effects in non-clinical studies were observed only at exposures 
+considered sufficiently more than the maximum human exposure 
+indicating little relevance to clinical use. 
+ 
+Adverse reactions not observed in clinical studies, but seen in animals 
+at exposure levels similar to clinical exposure levels and with possible 
+relevance to clinical use were as follows. 
+ 
+ 
+- 41 - 
+ 
+Findings of non-clinical studies relevant for use in the paediatric population, 
+including juvenile animals and peri-or post-natal studies, should be 
+presented with a discussion of their clinical relevance, under a sub-heading 
+if necessary. 
+ 
+<Environmental Risk Assessment (ERA)> 
+ 
+Where relevant, conclusions on the environmental risk assessment of the 
+product should be included, with reference to section 6.6. 
+ 
+6. 
+PHARMACEUTICAL PARTICULARS 
+6.1 List of excipients 
+A list should be given of the excipients, expressed qualitatively only. All 
+excipients, which are present in the product, should be included, even those 
+present in small amounts, such as printing inks. Further details on the 
+excipients to be declared may be found in the section on definitions and 
+examples in the Guidelines on format and content of labels for medicinal 
+products 
+ 
+For transdermal patches, all ingredients of the patch (including the 
+adhesive, release liner, and backing film) should be mentioned. 
+ 
+The active substance itself, residues of substances used during the 
+manufacture of the finished product (for example, solvents, head-space 
+gases, or antibiotics in vaccine manufacture), lubricants for prefilled 
+syringes and constituents of capsule shells for inhalation powders not 
+intended to be taken should not be included. 
+ 
+However, certain residues such as residues of antibiotics or other 
+antimicrobial agents used in production that are known allergens with the 
+potential for inducing undesirable effects should be mentioned in sections 
+4.3 or 4.4 as appropriate. 
+ 
+ 
+- 42 - 
+ 
+Excipients should be referred to by their recommended INN if existing, 
+accompanied by the salt or hydrate form if relevant, or by their recognized 
+pharmacopoeial name. If an excipient has neither an INN nor a 
+pharmacopeia name, it should be described by its usual common name. 
+References to the pharmacopoeial quality should not be included. E 
+numbers should be given along with the common name of the excipient 
+where they exist and when necessary for proper use, e.g. when the excipient 
+is listed in the Guideline on the excipients in the label and package leaflet of 
+medicinal products for human use (as having recognized action or effect). 
+ 
+The ingredients in excipient mixtures should be listed individually. In cases 
+where the full composition of a flavor or fragrance is not known to the 
+applicant or is too complex, it may be declared in general terms (e.g. ‘orange 
+flavor’, ‘citrus perfume’). However, any of the components, which are known 
+to have a recognized action or effect, should be included. 
+ 
+Ingredients that may or may not be added for the pH adjustment should be 
+followed by the parenthesis ‘(for pH-adjustment)’ 
+ 
+Proprietary names or general descriptive names such as ‘printing ink’ 
+should not be used in place of the common name of an ingredient or of a 
+mixture of ingredients but may be used in conjunction with the name(s) of 
+the ingredient(s), so long as it is clear which ingredients are described by the 
+name. Chemically modified excipients should be declared in such a way as 
+to avoid confusion with the unmodified excipients, e.g. ‘pregelatinized 
+starch’. 
+ 
+In the case of a product containing a covert marker for the purpose of 
+tracking, 
+tracing, 
+and 
+authentication, 
+a 
+general 
+term 
+such 
+as 
+“authentication factor” should be included in the list of excipients instead of 
+the name of the excipient, unless the excipient is one that is known to have 
+a recognized action or effect. 
+ 
+ 
+- 43 - 
+ 
+For clarity, it is recommended that each excipient be listed on a separate 
+line. It can be useful to list excipients according to the different parts of the 
+product, e.g. tablet core/coat, capsule contents/shells, etc. For products 
+that are presented in more than one container or in dual-chamber 
+containers, the excipients should be listed per container or per chamber. 
+ 
+Abbreviations for excipients should not be used. However, where justified for 
+space considerations, abbreviations for excipient names may appear on the 
+labeling, on the condition that these abbreviations 
+are designated in section 6.1. 
+ 
+6.2 Incompatibilities 
+Information on physical and chemical incompatibilities of the medicinal 
+product with other products with which it is likely to be mixed or co-
+administered should be stated. This is particularly important for medicinal 
+products 
+to 
+be 
+reconstituted 
+and/or 
+diluted 
+before 
+parenteral 
+administration. Significant interaction problems, e.g. sorption of products or 
+product components to syringes, large volume parenteral containers, tubing, 
+in-line filters, administration sets, etc. should be stated. 
+ 
+Statements concerning the compatibility of the product with other medicinal 
+products or devices should not be included in this section but in section 6.6. 
+Statements 
+concerning 
+pharmacological 
+and 
+chemical/physical 
+incompatibilities with food should be included in section 4.5. If appropriate, 
+the standard statement, ‘Not applicable, should be included. 
+ 
+For certain pharmaceutical forms, e.g. parenterals, either of the following 
+standard statements should be included as appropriate: 
+ 
+• 
+‘In the absence of compatibility studies, this medicinal product must not 
+be mixed with other medicinal products.’ 
+ 
+ 
+- 44 - 
+• 
+‘This medicinal product must not be mixed with other medicinal products 
+except those mentioned in section 6.6.’ 
+ 
+6.3 Shelf life 
+The shelf life should be given for the medicinal product as packaged for sale 
+and, if appropriate, after dilution or reconstitution or after the first opening. 
+A clear statement of the shelf life should be given, in an appropriate unit of 
+time. 
+ 
+In-use shelf life may need to be stated for other medicinal products if 
+development studies have found it to be necessary. 
+ 
+Additionally, if different concentrations need to be prepared, e.g. for use in 
+children, the physicochemical stability throughout the entire concentration 
+range should be stated; e.g. “The stability has been demonstrated between x 
+mg/ml and y mg/ml for t hours/days at 25 ºC and 2-8 ºC”. 
+ 
+In case of a paediatric indication, if no age-appropriate formulation is 
+available for children but an extemporaneous formulation could be prepared 
+from an existing formulation, relevant physicochemical data on storage and 
+stability should be included here with a cross-reference in 
+sections 6.4 and 6.6." 
+In case of specific temporary storage, conditions need to be provided to 
+healthcare professionals or patients, e.g. for the purpose of ambulatory use 
+(e.g. shelf-life of 24 months at 2-8°C of which 3 months could be below 
+25°C), specific additional guidance should be provided as appropriate. Such 
+information should always be based on stability data. In particular, the 
+recommended temperature range and maximum duration of temporary 
+storage should be specified. This guidance may also include the action to be 
+taken after the product has been stored under temporary storage conditions 
+(e.g. discard immediately). Statements such as “These data are not 
+recommendations for storage” should not be used. 
+ 
+ 
+ 
+- 45 - 
+No reference should be made to the container unless there are different shelf 
+lives for different containers. Storage conditions should not be included, 
+except for the storage conditions after opening (see the corresponding 
+guideline). Statements such as ‘Do not use after the expiry date should not 
+be included. 
+ 
+When a device is supplied together with a medicinal product, the in-use 
+shelf-life of the device should be given where applicable. 
+ 
+6.4 Special precautions for storage 
+Storage warnings should be stated. 
+For storage of sterile products that have been opened, diluted, or 
+reconstituted, a cross-reference should be made to section 6.3. 
+Note that if a specific storage warning is required, the warning should be 
+consistent between the SmPC, label, and PIL. 
+ 
+A warning to keep the product out of the reach and sight of children should 
+not be included in the 
+SmPC. 
+ 
+6.5 Nature and contents of the container 
+Reference should be made to the immediate container using recognized 
+pharmacopeial standard terms; the material of construction of the 
+immediate container should be stated (‘glass vials’, ‘PVC/Aluminium 
+blisters’, ‘HDPE bottles’); and any other component of the product should be 
+listed, e.g., needles, swabs, measuring spoons, syringes inhaler devices, 
+desiccant. The graduation of measuring devices should be explained. The 
+container of any solvent provided with the medicinal product should also be 
+described. Excessive detail, e.g., concerning the colour of the stopper, and 
+the nature of the heat-seal lacquer, should usually not be included. For 
+parenteral preparations, when enclosure colour is used to differentiate 
+between the presentations of a product, this should be stated here. 
+ 
+ 
+- 46 - 
+ 
+If appropriate, it should be indicated if the container closure is child-
+resistant. 
+Examples of the text in this section: 
+ 
+‘<Volume> ml suspension in a pre-filled syringe (glass) with a plunger stopper 
+(chlorobutyl rubber) with or without a needle in pack sizes of 5 or 10.’ 
+‘HDPE bottle with a child-resistant closure and a silica gel desiccant. Pack-
+sizes of 30, 60, or 90 film-coated tablets.’ 
+ 
+All pack sizes should be listed. Pack sizes mentioned should include the 
+number of units, a number of doses (e.g., multi-dose vaccines, inhalers, 
+etc.), the total weight or volume of the immediate container, as appropriate, 
+and the number of containers present in an outer carton. If appropriate, a 
+standard statement, ‘Not all pack sizes may be marketed, should be 
+included, in order to alert health professionals to the fact that not all listed 
+pack sizes may be available for prescribing or dispensing. 
+ 
+Multiple unit packs for distribution purposes only do not constitute new 
+pack sizes for marketing of the product and should therefore not be 
+included in this section. 
+ 
+6.6 Special precautions for disposal <and other handling> 
+Instructions for disposal should be included here, if appropriate for the 
+product. 
+ 
+Where special precautions for the handling and disposal of certain products 
+such as cytotoxics and some biological products or waste material derived 
+from it are advised, e.g. in the case of products containing live organisms, 
+these should be stated in this section, as should, where relevant, the 
+disposal of items which come into contact with the product, such as 
+nappies, or spoons used to administer oral vaccines. If relevant, a cross-
+ 
+ 
+- 47 - 
+reference to conclusions on the environmental risk assessment described in 
+section 5.3 can be included. 
+ 
+If applicable, e.g. for cytotoxics, the following standard statement should be 
+included, ‘Any unused product or waste material should be disposed of in 
+accordance with local requirements.’ 
+ 
+If there are no special use or handling instructions for the pharmacist or 
+other healthcare professionals, the standard statement, ‘No special 
+requirements.’ should be included. 
+ 
+Any directions necessary for the accurate preparation of certain products 
+such as cytotoxics and some biological products and/or necessary for the 
+protection of persons including parents or carers preparing or handling the 
+product should be stated. 
+ 
+In section 4.2, instructions on the handling of the product by the doctor, 
+other health personnel, or patient should be included, as well as general 
+information concerning the administration of the product (whether 
+administered by the patient or the health personnel). If instructions for 
+use/handling are needed where the medicinal product has to be prepared 
+before use, e.g. where it must be suspended or diluted, this information has 
+to be given here. 
+For clarity, a cross-reference in section 4.2 to the relevant information in 
+section 6.6 could be included, e.g. ‘For instructions on dilution of the 
+product before administration, see section 6.6.’  
+ 
+It is recommended that only information necessary for the pharmacist or 
+other health personnel to prepare the product for administration to the 
+patient should be included here. 
+ 
+Information on the preparation (e.g. the suspension of a powder for 
+injection, or preparing a dilution) of the medicinal should be included in 
+ 
+ 
+- 48 - 
+section 6.6, regardless of who prepares the product (e.g. pharmacist, doctor, 
+other health personnel, patient, parents, or carers). In the case of products 
+for reconstitution, the appearance of the product after reconstitution should 
+be stated. 
+ 
+Statements concerning the compatibility of the product with other medicinal 
+products or devices can be given here provide the data have been provided 
+in the dossier. 
+ 
+In the exceptional cases where a product is indicated in children and where 
+no adequate paediatric formulation can be developed (based on duly 
+justified scientific grounds), information on extemporaneous formulation 
+should appear under a sub-heading “Use in the paediatric population” and 
+should cross-refer to the section 4.2. Detailed instructions for the 
+preparation of the extemporaneous formulation from the appropriate “adult” 
+or other “older children” dosage form and additional information on 
+extemporaneous formulations for use in younger children shall be provided 
+and, where appropriate, the maximum storage time during which such 
+preparation will conform to its specifications. When necessary, the required 
+packaging material and storage conditions should be 
+stated here. 
+ 
+Any specific warnings for the handling of the product should be in section 
+4.4. 
+ 
+Information on risks due to occupational exposure should be included in 
+this section, with reference to section 4.4 or 4.8 if there is information in 
+that section. 
+ 
+7. 
+MARKETING AUTHORIZATION HOLDER AND MANUFACTURING 
+SITE ADDRESSES 
+Name and permanent address or registered place of business of the 
+Marketing Authorization Holder and manufacturing site(s) physical address. 
+ 
+ 
+- 49 - 
+ 
+Telephone, fax numbers, or e-mail addresses may be included (not websites 
+or emails linking to websites). 
+ 
+8. 
+MARKETING AUTHORIZATION NUMBER 
+Item to be completed by the Marketing Authorization Holder once the 
+Marketing Authorization has been granted by the PPB Partner State 
+ 
+9. 
+DATE 
+OF 
+FIRST 
+<REGISTRATION> 
+/ 
+RENEWAL 
+OF 
+THE 
+<REGISTRATION> 
+Item to be completed by the Marketing Authorization Holder once the 
+Marketing Authorization has been granted or renewed.  
+ 
+Both the date of first authorization and, if the authorization has been 
+renewed, the date of the (last) renewal should be stated in the format given 
+in the following example: 
+ 
+Date of first authorization: 3 April 1985 
+Date of latest renewal: 3 April 2000 
+ 
+10. DATE OF REVISION OF THE TEXT 
+Leave blank in case of a first Marketing Authorization. 
+ 
+11. DOSIMETRY (IF APPLICABLE) 
+Full details of internal radiation dosimetry should be included in this 
+section for radiopharmaceuticals. 
+For all other products, this section should be excluded. 
+ 
+12. INSTRUCTIONS FOR PREPARATION OF RADIOPHARMACEUTICALS 
+(IF APPLICABLE) 
+For 
+radiopharmaceuticals, 
+additional 
+detailed 
+instructions 
+for 
+extemporaneous preparation and quality control of such preparation and, 
+where appropriate, maximum storage time during which any intermediate 
+ 
+ 
+- 50 - 
+preparation such as an eluate or the ready-to-use pharmaceutical will 
+conform to its specifications. 
+ 
+Special instructions relating to the disposal of containers and unused 
+contents should also be included. 
+ 
+ 
+ 
+ 
+ 
+- 51 - 
+B. 
+FORMAT AND CONTENT OF LABELS FOR PHARMACEUTICAL 
+PRODUCTS 
+1. 
+GENERAL REQUIREMENTS 
+(a) 
+The label texts 
+Particulars in the label shall be easily legible, clearly comprehensible, 
+and indelible. 
+(b) 
+Conformity with the Summary of Product Characteristics 
+The label text should be in conformity with the summary of product 
+characteristics. 
+(c) 
+Language 
+The labelling must be presented at least in English and any other 
+language as may be required by the PPB where the product is placed on 
+the market. If more than one language is used, then all of the text must 
+be in each language and the overall readability should not be adversely 
+affected. The content of all language versions must be identical. It is 
+recommended to group different text elements for each language, where 
+appropriate. 
+ 
+(d) 
+Products with different strengths 
+Container labels may look similar across multiple strengths of the same 
+product or across multiple products within a company’s product line.  
+ 
+Product labels for medicinal products with multiple pharmaceutical 
+strengths, within a manufacturer’s product line, should be designed 
+such that the products are identifiable and can be significantly 
+differentiated from one another. Colour differentiation on product labels 
+should be an effective tool that can differentiate products within a 
+manufacturer’s product line. 
+ 
+When applying differentiating colour, the applicant should ensure that 
+the text highlighted by the differentiating colour has adequate colour 
+contrast against the background colour on the container label.  
+ 
+ 
+ 
+- 52 - 
+(e) 
+Label layout and artwork 
+Images, pictograms, and other graphics may be used to aid 
+comprehension of the information on the labels of non-prescription 
+medicines only and not on the container labels of prescription 
+medicines.  
+ 
+Images, pictograms, and other graphics should exclude any element of 
+a promotional nature and should only be used to aid navigation, clarify 
+or highlight certain aspects of the text and should not replace the 
+actual text.  
+ 
+The overall layout should not be misleading or have any inappropriate 
+connotations in a way that no doubt about the meaning of a particular 
+pictogram will be perceived. 
+ 
+2. 
+PARTICULARS TO BE INCLUDED ON THE LABEL 
+(a) 
+Outer packaging or, where there is no outer packaging, on the 
+immediate packaging 
+The label should include at least the following:  
+i. 
+Proprietary Name where applicable 
+ii. 
+International Non-Proprietary name(s) of the Active Pharmaceutical 
+Ingredient(s) 
+iii. 
+Amount of each Active Pharmaceutical Ingredient present in a dosage 
+unit 
+iv. 
+List of excipients known to be a safety concern for some patients, e.g., 
+lactose, gluten, metabisulfites, parabens, ethanol, or tartrazine. For 
+parenteral and topical preparations, all excipients should be listed. 
+v. 
+Pharmaceutical form and contents of the container, e.g., number of 
+dosage units, weight, or volume.  
+vi. 
+Method and route(s) of administration and the statement “Read the 
+patient information leaflet before use.”  
+ 
+ 
+- 53 - 
+vii. 
+Special warning that the medicinal product must be stored out of the 
+reach and sight of children (“Keep out of the reach and sight of 
+children”). 
+viii. 
+Other special warnings and handling precautions, if necessary (e.g., in 
+case of specific toxicity of the agents) 
+ix. 
+The word “sterile” if the product is sterile  
+x. 
+A batch number assigned by the manufacturer 
+xi. 
+The manufacturing date 
+xii. 
+The expiry date  
+xiii. 
+Special storage conditions, if applicable 
+xiv. 
+Special precautions for the disposal of unused medicinal products or 
+waste material derived from such medicinal products, if appropriate 
+xv. 
+The name and address of the Marketing Authorization Holder in the 
+PPB  
+xvi. 
+The physical address of the site responsible for the release of the 
+finished product 
+xvii. 
+Advice on general classification for distribution, e.g., Controlled 
+Medicines, Prescription Only Medicines, Pharmacy Only Medicines, 
+Over-the-Counter, and General Sales List 
+xviii. 
+Instruction on use 
+xix. 
+The proprietary name, strength, and expiry date in braille (Marburg 
+Medium) 
+xx. 
+A unique identifier (for example a product-specific barcode, unique 
+code, or registration number issued by PPB). 
+ 
+(b) 
+Guidance for small containers 
+For containers of less than or equal to 10 ml capacity that is marketed 
+in an outer pack such as a carton, and the outer pack bears all the 
+required information, the immediate container should contain at least 
+this minimum information (added): 
+i. 
+Brand Name of the FPP, INN name, strength, pharmaceutical form, 
+active substance(s), and route(s) of administration. 
+ii. 
+Method of administration 
+ 
+ 
+- 54 - 
+iii. 
+A batch number assigned by the manufacturer 
+iv. 
+Expiry date 
+v. 
+Manufacturing date if space is enough 
+vi. 
+Contents by weight, by volume, or by unit 
+vii. 
+The name and address of the manufacturing site— or a logo that 
+unambiguously identifies the company.  
+viii. 
+Directions for use, and any warnings or precautions that may be 
+necessary 
+ 
+(c) 
+Guidance for Blisters and strips 
+Blisters and strips should include, as a minimum, the following 
+information (printed directly): -  
+i. 
+Name, strength, and pharmaceutical form of the FPP. 
+ii. 
+Name and physical address of the manufacturing site (the site 
+responsible for the release of the finished product) 
+iii. 
+The batch number assigned by the manufacturer  
+iv. 
+The expiry date [Note that for co-blistered products, the expiry date is 
+that of the product which expires first.] 
+v. 
+The manufacturing date, if space is enough 
+vi. 
+The batch number assigned by the manufacturer 
+vii. 
+Directions for use, and any warnings or precautions that may be 
+necessary. 
+ 
+(d) 
+Additional labelling information is required by some Partner States 
+Partner State PPBs may require the use of certain forms of labelling 
+making it possible to indicate: 
+i. 
+Price of the medicinal product; 
+ii. 
+The reimbursement conditions of social security organisations; 
+iii. 
+Identification and authenticity; 
+iv. 
+A statement that the product is a property of the government 
+The information specific to a Partner State PPB should be 
+accommodated on the label in a box, to appear on one side of the pack. 
+ 
+ 
+- 55 - 
+Each box should only be presented in the official language or languages 
+of the Partner State concerned and should state the name of that 
+Partner State. 
+ 
+3. 
+CONTROL OF THE CONFORMITY OF THE LABELLING 
+The labelling of the medicinal product forms part of the authorization 
+and it must, therefore, be approved by PPB when the authorization is 
+granted. 
+ 
+4. 
+CHANGES TO THE LABELLING 
+Any changes to the labelling, which are not connected with the 
+Summary of Product Characteristics, shall be notified to the PPB where 
+authorization is granted. Therefore, if a Marketing Authorization Holder 
+wishes either to introduce any label text additional to that in the 
+decision or to change any aspect of the labelling he must first notify 
+this change to the relevant mentioned, who shall inform the Marketing 
+Authorization Holder whether the proposed change is accepted or not. 
+ 
+C. 
+FORMAT 
+AND 
+CONTENT 
+OF 
+PACKAGE 
+INSERTS 
+FOR 
+PHARMACEUTICAL PRODUCTS 
+1. 
+GENERAL REQUIREMENTS 
+1.1 The Package Insert 
+Particulars in the package insert shall be easily legible, clearly 
+comprehensible, and indelible. 
+a) 
+Type size and font 
+The following should be considered while selecting type size and font: 
+i. 
+The font should be easy to read; stylized fonts which are difficult to 
+read should not be used; 
+ii. 
+The font should be such that similar letters/numbers such as “I”, “l” 
+and “1” can be easily distinguished from each other; 
+ 
+ 
+- 56 - 
+iii. 
+A minimum type size of 9 points, as measured in font ‘Times New 
+Roman, not narrowed, with a space between lines of at least 3 mm, 
+should be used; 
+iv. 
+Widespread use of capitals is discouraged; however, capitals may be 
+used for emphasis. 
+ 
+b) 
+Paper 
+The quality of the insert paper should be taken into consideration in 
+order to ensure proper readability of the insert. The following should be 
+considered: 
+i. 
+The paperweight should be such that the paper is sufficiently thick to 
+reduce transparency, which makes reading difficult, particularly where 
+the text size is small. 
+ii. 
+Uncoated paper is preferred as glossy paper reflects light thus making 
+information difficult to read. 
+iii. 
+When the leaflet is folded the creases should not interfere with the 
+readability of the information or lead to the tearing of the insert. 
+  
+1.2 Conformity with the Summary of Product Characteristics 
+The package insert should be in conformity with the summary of 
+product characteristics. 
+ 
+1.3 Language 
+The labelling must be presented at least in English. An active style of 
+writing should be used instead of passive.  
+ 
+2. 
+PARTICULARS TO BE INCLUDED ON THE PACKAGE INSERT 
+2.1 Content and format of the prescribing information 
+For prescription-only medicines, the package insert should include 
+prescribing information. The content and format for the prescribing 
+information should follow that of Summary of Product Characteristics 
+(SmPC). Please refer to the PHARMACY AND POISONS BOARD 
+ 
+ 
+- 57 - 
+Guidelines on Format and Content of Summary of Product Characteristics 
+for Pharmaceutical Products. 
+2.2 Content and format of the patient information leaflet 
+The patient information leaflet shall include the particulars outlined in 
+the template in the following section. 
+The applicant should complete the template and delete the parts which 
+are not applicable. 
+2.2.1 Template for a patient information leaflet 
+{(Proprietary) name strength pharmaceutical form} 
+{Active substance(s)} 
+ 
+Read all of this leaflet carefully before you start <taking><using> this 
+medicine. 
+ 
+Keep this leaflet. You may need to read it again. 
+ 
+If you have any further questions, ask your <doctor, health care 
+provider><or><pharmacist>. 
+ 
+This medicine has been prescribed for you. Do not pass it on to others. 
+It may harm them, even if their symptoms are the same as yours. 
+ 
+If any of the side effects gets serious, or if you notice any side effects 
+not listed in this leaflet, please tell your <doctor, health care 
+provider><or><pharmacist>.> 
+ 
+In this leaflet:  
+a) 
+What {product name} is and what it is used for 
+b) 
+Before you <take><use> {product name} 
+c) 
+How to <take><use> {product name} 
+d) 
+Possible side effects 
+e) 
+How to store {product name} 
+f) 
+Further information 
+[Delete sections that are not applicable] 
+ 
+ 
+ 
+- 58 - 
+a) 
+WHAT {PRODUCT NAME} IS AND WHAT IT IS USED FOR 
+ 
+b) 
+BEFORE YOU <TAKE><USE> {PRODUCT NAME} 
+ 
+Do not <take><use> {product name} 
+– 
+<if you are allergic (hypersensitive) to {active substance(s)} or any of the 
+other ingredients of {product name}.> 
+– 
+<if  ...> 
+ 
+Take special care with {product name} 
+– 
+<if you ...> 
+– 
+<when ...> 
+– 
+<Before treatment with {product name},…> 
+ 
+<Taking><Using> other medicines 
+<Please tell your <doctor, health care provider><or><pharmacist> if you are 
+taking or have recently taken any other medicines, including medicines 
+obtained without a prescription.> 
+ 
+<Taking><Using> {product name} with food and drink 
+Pregnancy and breast-feeding 
+<Ask your <doctor, health care provider><or><pharmacist> for advice before 
+taking any medicine.> 
+ 
+Driving and using machines 
+<Do not drive <because...>.> 
+<Do not use any tools or machines.> 
+ 
+Important information about some of the ingredients of {product name} 
+ 
+c) 
+HOW TO <TAKE><USE> {PRODUCT NAME} 
+ 
+ 
+- 59 - 
+<Always <take><use> {product name} exactly as your doctor or health care 
+provider has told you. You should check with your <doctor, health care 
+provider><or><pharmacist> if you are not sure.><The usual dose is...> 
+ 
+<Use in children> 
+If you <take><use> more {product name} than you should 
+ 
+If you forget to <take><use> {product name} 
+<Do not take a double dose to make up for a forgotten <tablet><dose><…>.> 
+ 
+If you stop <taking><using> {product name} 
+<If you have any further questions on the use of this product, ask your 
+<doctor, health care provider><or><pharmacist>.> 
+ 
+d) 
+POSSIBLE SIDE EFFECTS 
+Like all medicines, {product name} can cause side effects, although not 
+everybody gets them. 
+ 
+If any of the side effects gets serious, or if you notice any side effects not 
+listed 
+in 
+this 
+leaflet, 
+ 
+please 
+tell 
+your 
+<doctor, 
+health 
+care 
+provider><or><pharmacist>. 
+ 
+e) 
+HOW TO STORE {PRODUCT NAME} 
+Keep out of the reach and sight of children. 
+<Do not store above ºC>, <Store in the original <container><carton>> 
+Do not use {product name} after the expiry date which is stated on the 
+<label><carton><bottle><...><after {abbreviation used for expiry date}.><The 
+expiry date refers to the last day of that month.> 
+<Do not use {product name} if you notice {description of the visible signs of 
+deterioration}. 
+ 
+ 
+ 
+- 60 - 
+<Medicines should not be disposed of via wastewater or household waste. 
+Ask your pharmacist how to dispose of medicines no longer required. These 
+measures will help to protect the environment.> 
+ 
+f) 
+ FURTHER INFORMATION 
+What {product name} contains 
+- 
+The active substance(s) is (are)… 
+- 
+The other ingredient(s) is (are)... 
+ 
+What {product name} looks like and what contents of the pack 
+Name and full physical address of Marketing Authorization Holder and 
+Manufacturing site:- 
+ 
+{Name and address} 
+<{tel}> 
+<{fax}> 
+<{e-mail}> 
+ 
+For any information about this medicinal product, please contact the <local 
+representative of the> supplier: 
+ 
+{Country} 
+{Name} 
+<{Address} 
+B-0000 {City}> 
+tel: + {telephone number} 
+<{e-mail}> 
+{Country} 
+{Name} 
+<{Address} 
+B-0000 {City}> 
+tel: + {telephone number} 
+<{e-mail}> 
+ 
+<as appropriate, add additional local representatives to the above table> 
+This leaflet was last approved in {MM/YYYY 
+ 
+ 
+ 
+ 
+ 
+- 61 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 - 00506 Lenana Road Opposite Russian Embassy Nairobi,  
+Tel: +254-02-12345/6789, Fax: +254-02-12345, 
+Website: www.Pharmacyboardkenya.org.ke,  
+Email: info@pharmacyboardkenya.org.ke 
+ 

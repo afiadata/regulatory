@@ -1,0 +1,1862 @@
+ 
+ 
+      
+                                                                             HPT/PER/GUD/014
+ 
+ 
+ 
+ 
+                                          Rev. No. 01 
+REPUBLIC OF KENYA 
+               
+ 
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+GUIDELINES ON SUBMISSION OF DOCUMENTATION FOR 
+REGISTRATION OF SIMILAR BIOTHERAPEUTIC PRODUCTS 
+ 
+ 
+JANUARY    2022   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on condition that the recommended citation below 
+is made. 
+ 
+ 
+©Pharmacy and Poisons Board, 2022 
+ 
+All rights reserved: 
+ 
+No part of this publication may be reproduced, stored in a retrieval 
+system, or transmitted in any form, or by any means, electronic, 
+mechanical, photocopying, recording, scanning, or otherwise, without the 
+prior permission in writing from the pharmacy and Poisons Board. 
+ 
+ 
+ 
+ 
+For clarifications, comments, or suggestions, please contact: 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS  
+ABBREVIATIONS AND ACRONYMS ....................................................................................... iv 
+ACKNOWLEGEMETS.................................................................................................................... v 
+CONTRIBUTORS ............................................................................................................................ v 
+GLOSSARY ..................................................................................................................................... vii 
+IMPLEMENTATION RESPONSIBILITY AND EXISTING LEGAL FRAMEWORK ........xii 
+SCOPE ..........................................................................................................................................xii 
+INTRODUCTION ............................................................................................................................. 1 
+1.1 THE CONCEPT OF SIMILAR BIOTHERAPEUTIC PRODUCTS ................................ 1 
+2: GENERAL INFORMATION...................................................................................................... 2 
+2.1 GENERAL REQUIREMENTS ........................................................................................... 2 
+2.2  
+Consideration for the Choice of RBP ..................................................................... 2 
+2.3. PRODUCT SPECIFIC REQUIREMENTS .................................................................... 3 
+2.4.  OTHER REQUIREMENTS ............................................................................................. 4 
+2.4.1 Manufacturer’s declaration ...................................................................................... 4 
+2.4.2.   Expert Report .......................................................................................................... 4 
+2.5. SCIENTIFIC GUIDELINES APPLICABLE TO ALL SIMILAR 
+BIOTHERAPEUTIC PRODUCT ............................................................................................... 5 
+MODULE 1: ADMINISTRATIVE AND PRODUCT INFORMATION .................................. 6 
+MODULE 2: OVERVIEW AND SUMMARIES ......................................................................... 6 
+MODULE 3: QUALITY................................................................................................................... 6 
+3.1 Qualitative and Quantitative Particulars ................................................................... 7 
+3.2 Manufacturing process..................................................................................................... 8 
+3.3 Analytical Comparability studies ................................................................................ 10 
+3.4 Analytical procedure/technique/Product characterization ............................... 10 
+ 
+ 
+3.5 Container closure system .............................................................................................. 11 
+3.6 Product stability ............................................................................................................... 12 
+MODULE 4: NON-CLINICAL STUDY ..................................................................................... 14 
+4.1 Special consideration ...................................................................................................... 14 
+4.2 Pharmacodynamics ......................................................................................................... 15 
+4.3 Toxicology ........................................................................................................................... 16 
+MODULE  5: CLINICAL STUDIES .......................................................................................... 18 
+5.1 Pharmacokinetic (PK) studies ...................................................................................... 18 
+5.2 Pharmacodynamics (PD) studies................................................................................. 19 
+5.3 Clinical efficacy trials ...................................................................................................... 20 
+5.4 Clinical safety and effectiveness.................................................................................. 20 
+5.5 Clinical Immunogenicity ................................................................................................ 21 
+5.6.  Pharmacovigilance......................................................................................................... 23 
+Annex I: APPLICATION FORM FOR REGISTRATION OF BIOTHERAPEUTIC AND 
+SIMILAR BIOTHERAPEUTIC PRODUCTS (SBPs) .............................................................. 24 
+Annex II: EXPERT DECLARATION FORM ........................................................................... 35 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+BMRs  
+- 
+Batch Manufacturing Records 
+CMC   
+- 
+Chemistry, Manufacturing and Controls  
+CA 
+ 
+- 
+Clinical Assessor 
+DNA   
+-  
+Deoxyribonucleic Acid 
+EAC   
+-  
+East African Community 
+EMA   
+-  
+European Medicines Agency  
+EU  
+ 
+-  
+European Union  
+GCP   
+-  
+Good Clinical Practice 
+GLP   
+- 
+Good Laboratory Practice 
+GMP   
+-  
+Good Manufacturing Practice  
+ICH   
+-  
+International Council for Harmonization  
+INN  
+ 
+-  
+International Non-proprietary Names  
+MOA  
+-  
+Mechanism of Action 
+NCE   
+-  
+New Chemical Entity  
+NMRA   
+-         National Medicines Regulatory Authority 
+Ph. Eur 
+-  
+European Pharmacopeia  
+PK/PD  
+-  
+Pharmacokinetic/Pharmacodynamic 
+PBRER  
+- 
+Periodic Benefit-Risk Evaluation Report 
+RBP   
+-   
+Reference Biotherapeutic Product  
+RMP   
+- 
+Risk Management Plan 
+SBP   
+-   
+Similar Biotherapeutic Product  
+WHO   
+-  
+World Health Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACKNOWLEGEMETS   
+CONTRIBUTORS 
+EAC  Expert working group on  Medicine Registration  2018   
+REVIEWERS 
+Dr. Jonathan Meriakol, Senior Principal Regulatory officer, PER, DHPT, PPB 
+Dr. Ronald Inyangala –      Deputy-Director, 
+Senior 
+Principal 
+Regulatory 
+Officer, Drug Product Evaluation and Registration (DPER) Department, HPT 
+Dr. Peter Mbwiiri Ikamati, Chief Principal Regulatory officer, PER, DHPT, PPB 
+Dr. Serah Chebet Chesaro, Principal Regulatory officer, PER, DHPT, PPB 
+Dr. Paulyne  Wairimu-  Principal Regulatory Officer, Medical Devices Department,
+ 
+ Department, Directorate of Health Products and Technologies 
+Dr. Eugene Odame, Senior Regulatory officer, Product Evaluation and 
+Registration (PER)  (MD&IVDs), DHPT, PPB  
+Dr. Ali Arale - Principal Regulatory Officer, Drug Product Evaluation and 
+Registration (DPER) Department, Directorate of Health Products and 
+Technologies) 
+Dr. James Owuor  - Assistant Principal Regulatory Officer, Drug Product 
+Evaluation and Registration (DPER) Department, Directorate of Health Products 
+and Technologies)  
+Dr. Edwin Burugu - 
+ Assistant Principal Regulatory Officer, Drug Product 
+Evaluation and Registration (DPER) Department Directorate of Health Products 
+and Technologies 
+Mr. Alex Mutai  
+- 
+Assistant Principal Regulatory Officer, Blood and 
+Blood Products Department, Directorate of Health Products and Technologie 
+ Ms. Jacqueline Yahuma  
+- Assistant Principal Regulatory Officer, 
+Cosmetics Department, Directorate of Health Products and Technologies 
+Mr. Henry Chweya - Assistant Principal Regulatory Officer, Border line 
+Products Department, Directorate of Health Products and Technologies 
+Mr. Peter Mugala  - Senior Information and Communication Technology 
+Officer; Drug Product Evaluation and Registration (DPER) Department, 
+Directorate of Health Products and Technologies 
+ 
+ 
+ 
+Mr. Anthony Kemboi 
+ -  Information and Communication Technology 
+Officer; Drug Product Evaluation and Registration (DPER) Department, 
+Directorate of Health Products and Technologies 
+ Mr. Victor Kipchumba -  Information and Communication Technology Officer 
+Medical Devices Department Directorate of Health Products and Technologies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GLOSSARY  
+In these Guidelines, unless the context otherwise states: 
+ 
+“Antibody” means a spectrum of proteins of the immunoglobulin family that is 
+produced, in the human (or animal) body, in response to an antigen (e.g., a virus or 
+bacterium, or a foreign protein unknown to the body’s immune system). Antibodies are 
+able to combine with and neutralize the antigen, as well as to stimulate the immune 
+system for defense reactions.  
+“Antigen” means a substance that causes the immune system to produce antibodies 
+against it.  
+“ Drug substance” means an antigenic substances (or compounds thereof) that can 
+induce specific responses in human against infectious agents, its antigens and toxins.. 
+“Applicant” means the product owner or license holder.  Representatives of license 
+holders may not hold themselves as applicants unless they own the product. 
+“Batch/Lot” means a  defined quantity of starting material, packaging material or 
+product processed in one process or series of processes so that it can be expected to be 
+homogenous. 
+“Bioequivalence” means that two proprietary preparations of a drug, when 
+administered in the same dose and by the same route, will have the same 
+bioavailability, duration of action and efficacy. 
+“Biotechnology” means a set of tools that employ living organism (or part of organism) 
+to make or modify products, to improve plants and animals, or to develop 
+microorganisms for specific uses Or a collection of technologies that use living cells 
+and/or biological molecules to solve problems or make useful products.  
+“Chemically synthesized polypeptide” means any alpha amino acid polymer that is 
+(a) made entirely by chemical synthesis, and (b) is less than 100 amino acids in size. 
+“CMC (Chemistry, Manufacturing and Controls)” means the section of a submission 
+dealing with the substance properties, manufacturing and quality control, intended for 
+evaluating the provided information in the context of the current standards in chemical 
+science and technology, and the current regulations. 
+ 
+ 
+ 
+“Comparability Exercise” means the activities including study design, conduct of 
+studies, and evaluation of data, that are designed to investigate whether the products 
+are comparable (head to head comparison). 
+“Conformance to specification” means that the drug substance and drug product, 
+when tested according to the listed analytical procedures, will meet the acceptance 
+criteria.  
+“biotherapeutic  product”. A biological medicinal product with the indications of 
+treating human diseases 
+“Equivalent” means equal or virtually identical in the parameter of interest. Small 
+non-relevant differences may exist. Equivalent efficacy of two medicinal products 
+means they have similar (no better or no worse) efficacy and any observed differences 
+are of no clinical relevance. 
+“Head-to-head comparison” means the direct comparison of the properties of the 
+similar biologic with the reference biologic in the same study. 
+“ICH” means International council for Harmonisation of Technical Requirements 
+for Registration of Pharmaceuticals for Human Use. ICH is a project that brings 
+together the regulatory authorities of Europe, Japan and the United States and experts 
+from the pharmaceutical industry in the three regions to discuss scientific and 
+technical aspects of product registration. The purpose is to make recommendations on 
+ways to achieve greater harmonization in the interpretation and application of technical 
+guidelines and requirements for product registration in order to reduce or obviate the 
+need to duplicate the testing carried out during the research and development of new 
+medicines. For more information, see http://www.ich.org/. 
+“Immunogenic” means any substance that is recognized as foreign by the immune 
+system in a (particular) higher organism and induces an immune response which may 
+include the formation of antibodies and developing immunity, hypersensitivity to the 
+antigen, and tolerance.  
+“Immunogenicity” means the ability of a substance to trigger an immune response or 
+reaction (e.g., development of specific antibodies, T cell response, allergic or 
+anaphylactic reaction). 
+“Impurity” means any component present in the drug substance or drug product that 
+is not the desired product, a product-related substance, or excipients including buffer 
+components. It may be either process- or product-related. 
+ 
+ 
+ 
+“Innovator Product” means a means a new chemical entity which has received a 
+patent on its chemical formulation or manufacturing process, obtains chemical 
+formulation or manufacturing process, obtains approval from a regulatory authority 
+after extensive testing and is sold under a brand name. 
+“In-process control or Process control” means checks performed during production 
+to monitor and, if appropriate, to adjust the process and/or to ensure that the 
+intermediate or API conforms to its specifications. 
+Interchangeability” is the medical practice of changing one medicine for another that 
+is expected to achieve the same clinical effect in a given clinical setting and in any 
+patient on the initiative, or with the agreement of the prescriber. For interchangeable 
+products, one or the other can be used (prescribed) but these products cannot be 
+substituted with one another during a treatment period. Hence, interchangeability does 
+not imply substitutability.  
+“International Non-proprietary Name (INN)” means the approved chemical name of 
+the product. 
+“Non-clinical (Pre-clinical)” means during pre- clinical drug development, a sponsor 
+evaluates the drug's toxic and pharmacologic effects through in vitro and in vivo 
+laboratory animal testing. Generally, genotoxicity screening is performed, as well as 
+investigations on drug absorption and metabolism, the toxicity of the drug's 
+metabolites, and the speed with which the drug and its metabolites are excreted from 
+the body.  
+“Pharmacopoeias” means a current edition of British Pharmacopoeia, (BP), European 
+Pharmacopoeia, (Ph. Eur), International Pharmacopoeia, (IP), United States 
+Pharmacopoeia, (USP), Japanese Pharmacopoeia (JP). 
+“Pharmacovigilance” means, the science and activities relating to the detection, 
+assessment, understanding and prevention of adverse effects or any other drug related 
+problems. The decision to approve a drug is based on a satisfactory balance of benefits 
+and risks within the conditions specified in the product labeling. This decision is based 
+on the information available at the time of approval. The knowledge related to the safety 
+profile of the product can change over time through expanded use in terms of patient 
+populations and the number of patients exposed. In particular, during the early post-
+marketing period the product might be used in settings different from clinical trials and 
+a much larger population might be exposed in a relatively short timeframe. Detailed 
+ 
+ 
+ 
+evaluation of the information generated through pharmacovigilance activities is 
+important for all products to ensure their safe use. 
+“Protein” means any alpha amino acid polymer with a specific defined sequence that 
+is greater than 40 amino acid in size.  
+“Reference Biotherapeutic Product”  
+A reference biotherapeutic product is used as the comparator for head-to-head 
+comparability studies with the similar biotherapeutic product in order to show 
+similarity in terms of quality, safety and efficacy. Only an originator product that was 
+licensed on the basis of a full registration dossier can serve as a RBP. It does not refer 
+to measurement standards such as international, pharmacopoeial, or national 
+standards or reference standards. 
+“Similar Biotherapeutic Product” means a new biotherapeutic product claimed to be 
+similar‟ to an already approved reference biotherapeutic product, which is marketed 
+by an independent applicant, subject to all applicable data protection periods and/or 
+intellectual property rights in the innovator product. The requirements for the 
+registration of similar biotherapeutic product are based on the demonstration of 
+similarity (i.e. no clinically meaningful difference between the similar biotherapeutic 
+product and the reference biotherapeutic product) in terms of quality, safety and 
+efficacy to an already registered, reference  biological product. 
+“Similar” means absence of a relevant difference in the parameter of interest. 
+“Similarity” means if a company chooses to develop a new biological product claimed 
+to be „similar‟ to a reference product, comparative studies are needed to generate 
+evidence substantiating the similar nature, in terms of quality, safety and efficacy, of 
+the new similar biological product and the chosen reference product.  
+“Specification” means a list of tests, references to analytical procedures, and 
+appropriate acceptance criteria which are numerical limits, ranges, or other criteria for 
+the tests described. It establishes the set of criteria to which a drug substance, drug 
+product or materials at other stages of its manufacture should conform to be 
+considered acceptable for its intended use. 
+“Substitution” Practice of dispensing one medicine instead of another equivalent and 
+interchangeable medicine at the pharmacy level without consulting the prescriber 
+Switching Decision by the treating physician to exchange one medicine for another 
+medicine with the same therapeutic intent in patients who are undergoing treatment 
+ 
+ 
+ 
+“Validation” The process of demonstrating that the system (or process) under 
+consideration meets in all respects the specification of that system or process. Also, the 
+process of evaluating a system or component during or at the end of the development 
+process to determine whether it satisfies specified requirements.  
+“Variation” means a change in the indication(s), dosage recommendation(s), drug 
+classification and/or patient group(s) for a previously registered drug being marketed 
+under the same name in Tanzania. A variation also includes, but is not limited to, a 
+change in the product name, site of manufacture and/or source of ingredients. 
+“Well-characterized biologic” A well-characterized biologic is a chemical entity whose 
+identity, purity, impurities, potency and quantity can be determined and controlled. 
+Most of these products are recombinant DNA-derived proteins or monoclonal 
+antibodies. For DNA-derived proteins, determining identity requires establishing the 
+primary and secondary structures, including amino acid sequence, disulfide linkages 
+(if possible), and post-translational modifications such as glycosylation (the attachment 
+of carbohydrate side chains to the protein). Monoclonal antibodies can be identified 
+with rigorous physicochemical and immunochemical assays. Purity and impurities 
+must be quantifiable, with impurities being identified if possible; the biological activity 
+and the quantity must be measurable. 
+Well-established biotherapeutic product: A biotherapeutic product that has been 
+marketed for a suitable period of time with a proven quality, efficacy and safety. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IMPLEMENTATION RESPONSIBILITY AND EXISTING LEGAL FRAMEWORK 
+The Pharmacy and Poisons Board will ensure that the Similar Biotherapeutic 
+product     dossiers submitted for market authorization are complying with 
+requirements as stipulated in the technical guidelines and in accordance with 
+the relevant policies, laws, legal frameworks, guidelines, manuals and 
+procedures existing   in Kenya.  
+ 
+SCOPE 
+This Guideline is made to provide guidance to applicants on the procedure for 
+registering a Similar Biotherapeutic Product in Kenya.  The guideline applies to 
+well-established and well-characterized biotherapeutic products such as 
+recombinant DNA-derived therapeutic proteins. Vaccines and plasma derived 
+products and their recombinant analogues are excluded from the scope of these 
+guidelines.  
+ 
+This document is intended to provide guidance on issues to consider when 
+demonstrating that a proposed biological product is similar to,  a reference 
+biotherapeutic product already registered, well established for purposes of 
+submitting a marketing application.For the purpose of this document, a Similar 
+Biotherapeutic Product (a short designation for highly similar biological 
+medicinal product) is considered as a new biological medicinal product 
+developed to be similar in terms of quality, safety and efficacy to an already 
+registered, well established, medicinal product. 
+ 
+This guideline should be read in conjunction with   the Guideline for the 
+Registration of Biotherapeutic products.  
+ 
+ 
+ 
+ 
+INTRODUCTION  
+ 
+Pharmacy and Poisons Board requires that all medicinal products intended to 
+be marketed in Kenya meet the acceptable standards of quality, safety and 
+efficacy and at the same time be assessed to have been produced in facilities 
+that comply with current Good Manufacturing Practices (GMP). This Guideline 
+is made to provide guidance to applicants on the procedure to register similar 
+biotherapeutic products in the Kenya.  
+ 
+1.1 THE CONCEPT OF SIMILAR BIOTHERAPEUTIC PRODUCTS 
+The concept of a Similar Biotherapeutic Product (SBP) applies to biological drug 
+submission in which the manufacture would be based on demonstrated similarity to a 
+Reference Biotherapeutic Product (RBP).  
+ 
+The rationale for creating the new regulatory framework to evaluate SBP is that 
+biotherapeutic products claimed to be highly similar to a reference product do not 
+usually meet all the conditions to be considered as a generic product. The term generic 
+medicine is used for chemically derived products which are identical and 
+therapeutically equivalent to the innovator product. For such generics, demonstration 
+of bioequivalence with the innovator product is usually appropriate to infer therapeutic 
+equivalence. However, this procedure cannot be used for SBP.The large and complex 
+molecular structure of biologics makes them difficult to adequately characterize in the 
+laboratory.  
+ 
+Based on the current analytical techniques, two biotherapeutic products produced by 
+different manufacturing processes cannot be shown to be identical, but similar at best. 
+For these reasons, the standard generic approach is scientifically not applicable to 
+development of SBP products and additional non-clinical and clinical data are usually 
+required. 
+ 
+Based on the comparability approach and when supported by state-of-the-art 
+analytical systems, the comparability exercise at the quality level may allow a reduction 
+of the non-clinical and clinical data requirements compared to a full dossier. This in 
+ 
+ 
+ 
+turn, depends on the clinical experience with the substance class and will be a case by 
+case approach. 
+ 
+The aim of the SBP approach is to demonstrate close similarity of the ‘similar 
+biotherapeutic product’ in terms of quality, safety and efficacy to one chosen reference  
+Biotherapeutic  product, subsequently referring to the respective dossier. 
+References: 
+WHO TRS 977, Annex 2, i.e. WHO biosimilar guidelines 
+ 
+2: GENERAL INFORMATION 
+ 
+2.1 GENERAL REQUIREMENTS 
+ 
+For general requirements of application for registration of SBPs reference should be 
+made to the Pharmacy and Poisons Board guidelines on documentation for registration 
+of biotherapeutic products. 
+ 
+There are some additional requirements, specific to SBP’s, which are described in 
+module 3,4 and 5. 
+ 
+2.2  Consideration for the Choice of RBP 
+ 
+The aim of the SBP approach is to demonstrate close similarity of the SBP product in 
+terms of quality, safety and efficacy to a RBP  
+ 
+The following should be considered in selecting RBP; 
+i. 
+The RBP should have been marketed for a suitable duration and have a 
+volume of marketed use such that the demonstration of similarity to it 
+brings into relevance a substantial body of acceptable data regarding the 
+safety and efficacy. 
+ii. 
+The manufacturer must demonstrate that the chosen RBP is suitable to 
+support the application for marketing authorization of SBP. 
+ 
+ 
+ 
+iii. 
+The RBP should have been licensed on the basis of full quality, safety, 
+and efficacy data. An SBP should therefore not be chosen as an RBP. 
+iv. 
+The same RBP should be used throughout the development of the SBP 
+(i.e. throughout the comparative quality, nonclinical, and clinical 
+studies). 
+v. 
+The active ingredient of the RBP and the SBP must be shown to be similar. 
+vi. 
+The dosage form and route of administration of the SBP should be the 
+same as that of the RBP. 
+vii. 
+The following factors should be considered in the choice of an RBP that is 
+marketed in another jurisdiction: 
+viii. 
+The RBP should be licensed and widely marketed in another jurisdiction 
+that has a well-established regulatory framework and principles, as well 
+as considerable experience of evaluation of biotherapeutic products and 
+post-marketing surveillance activities. 
+ix. 
+The acceptance of an RBP for evaluation of an SBP does not imply that 
+the pharmacy and Poisons Board has approved the RBP for use. 
+ 
+ 
+2.3. PRODUCT SPECIFIC REQUIREMENTS 
+ 
+It should be recognized that there may be subtle differences between SBPs from 
+different manufacturers or compared with reference products, which may not be fully 
+apparent until greater experience in their use have been established. Therefore, in order 
+to support pharmacovigilance monitoring, the specific SBPs given to patient should be 
+clearly labeled and identified ( by the brand name) by the prescriber.  
+ 
+Application submitted for the registration of SBPs should contain, among other things, 
+data demonstrating that the SBP is similar to a RBP which  should be derived from:- 
+ 
+a) Analytical assessment (physicochemical and functional studies) demonstrating the 
+biological product is highly similar to the reference product regardless of minor 
+differences in clinically inactive components.  
+ 
+ 
+ 
+ 
+b) Animal studies, including the assessment of toxicity.  
+ 
+c) A clinical study or studies, including the assessment of immunogenicity and 
+pharmacokinetics or pharmacodynamics, that are sufficient to demonstrate safety, 
+purity, and potency in one or more appropriate indications of use for which the 
+reference product is registered and intended to be used and for which registration 
+is sought for the biological product.  
+ 
+d) Risk management/pharmacovigilance plans 
+ 
+2.4.  OTHER REQUIREMENTS 
+ 
+ 2.4.1 Manufacturer’s declaration  
+A document should be presented certifying that the information provided corresponds 
+to all the studies performed, regardless of their results. This should include all the 
+pertinent information regarding all toxicological and/or clinical tests or trials of the 
+biological product that are incomplete or have been abandoned and/or completed tests 
+related to indications not covered by the application. 
+ 
+The  applicants intending to develop SBPs should meet with regulators in their country 
+of origin to present their product development plans and establish a schedule of 
+milestones that will serve as standards for future discussions with the respective 
+regulators. 
+2.4.2.  
+ Expert Report 
+Experts must provide detailed reports of the documents and particulars, which 
+constitute sections 3, 4 and 5. 
+ 
+The requirement for these signed Expert Reports may be met by providing 
+i. 
+The Quality Overall Summary, Non-clinical Overview/Summary and  
+ii. 
+Clinical Overview/Summary  
+iii. 
+A declaration signed by the experts( annex 2)  
+ 
+ 
+ 
+iv. 
+Brief information on the educational background, training and 
+occupational experience of the experts  
+ 
+Experts should additionally indicate in their declarations the extent, if any of their 
+professional or other involvement with the applicant/dossier owner and confirm that 
+the report has been prepared by them or if not, any assistance provided and by whom.  
+Reports should be based on an independent assessment of the dossier and references 
+must be provided for any additional claims not supported by the dossier.   
+ 
+2.5. SCIENTIFIC GUIDELINES APPLICABLE TO ALL SIMILAR 
+BIOTHERAPEUTIC PRODUCT 
+ 
+For product specific guidances, applicants are encouraged to refer to the product 
+specific guidelines available at the following websites: 
+References: 
+EMA: http://www.ema.europa.eu  
+ 
+International council of Harmonisation (ICH) Guidelines: http://www.ich.org 
+ 
+WHO TRS 977, Annex 2, i.e. WHO Similar biotherapeutic guideline  
+ 
+ 
+ 
+ 
+ 
+ 
+The submission must follow CTD format detailed in Pharmacy and Poisons 
+Board guideline for the Registration of Biotherapeutic products .  The   
+requirements specific to SBP dossiers are as detailed in the Modules below. 
+ 
+MODULE 1: ADMINISTRATIVE AND PRODUCT INFORMATION 
+ 
+Module 1 should contain all administrative information as stipulated in the   pharmacy 
+and Poisons Board Guideline  for the Registration of Biotherapeutic products .  The 
+application form  ( Annex 1) is the same that for  Biotherapeutic products, but should 
+be indicated by the applicant as SBP.   
+ 
+ Information on SmPC should be consistent with the  RBPs SmPC, any difference in 
+the proposed SmPC vis-à-vis the RBPs SmPC, should be appropriately discussed and 
+justified 
+ 
+Labelling of SBP should be individualized and should clearly indicate which clinical 
+safety and efficacy data have been obtained with the SBP. (Data itself should not be 
+included in the label, but studies need to be described). Furthermore, it should clearly 
+be stated that the product is a biosimilar. 
+ 
+ 
+MODULE 2: OVERVIEW AND SUMMARIES 
+The purpose of this module is to summarize the quality (chemical, pharmaceutical, and 
+biological), nonclinical and clinical information presented in modules 3, 4, and 5 in the 
+market authorization application. The submission for this section will be as stipulated 
+in the pharmacy and Poisons Board Guideline for the Registration of Biotherapeutic 
+products. 
+ 
+ 
+MODULE 3: QUALITY 
+ 
+ 
+ 
+ 
+The information requested under this section should be supplied  in format stipulated 
+in the  pharmacy and Poisons Board Guideline  for the Registration of Biotherapeutic 
+products 
+ 
+ 
+The quality part of a SBP, like all other biological products should comply with 
+established scientific and regulatory standards. SBP manufacturer should provide full 
+information on Chemistry, manufacturing and control. 
+ 
+IN ADDITION TO SUBMISSION OF THE QUALITY PART 
+ 
+  The applicant of the  SBP is required to submit extensive data focused on the 
+similarity, including comprehensive comparative( head – to- head) physicochemical, 
+molecular  and biological characterization (these may include bioassays, biological 
+assays, binding assays, and enzyme kinetics) of the SBP and the RBP.  
+ 
+Information on the development studies conducted to establish the dosage form, the 
+formulation, manufacturing process, stability study and container closure system 
+including integrity to prevent microbial contamination and usage instructions should 
+be documented.  
+ 
+A summary of the analytical results (these may be in a form of a report) on three 
+consecutive batches of finished product must be provided to support the application 
+for registration. These batches may be pilot or production batches. If they are pilot 
+batches, they must be representative of production batches 
+ 
+ 
+ 
+ 
+3.1 Qualitative and Quantitative Particulars 
+ 
+ 
+ 
+ 
+Qualitative and Quantitative Particulars of SBP shall be presented in a tabular form as 
+indicated in the pharmacy and Poisons Board Guideline  for the Registration of 
+Biotherapeutic products. 
+ 
+A list of all components of the SBP and diluents (if applicable) should be given.  
+ 
+The quantities per dose should be stated. A clear description of the active ingredient 
+including the name(s) of the active ingredientshould be provided. The reason(s) for 
+inclusion of each excipient and a justification for overages should also be stated. 
+ 
+Where applicable; special characteristics of excipients should be indicated. The type of 
+water (e.g purified, demineralised), where relevant, should be indicated. 
+ 
+3.2 Manufacturing process 
+ 
+The manufacturing process for SBP should be highly consistent and robust. The 
+process should be developed and optimized taking into account state-of-the-art 
+technology in relation to the manufacturing processes and consequences on product 
+characteristics.  
+ 
+For the establishment and characterization of the cell banks,  EAC Guideline  for the 
+Registration of Biotherapeutic products. 
+, ICH guidelines Q5A, Q5B and Q5D should be referred to.  
+Complete description of the manufacturing process from the development and 
+characterization of cell banks, stability of clone cell culture/fermentation, harvest, 
+excipients, formulation, purification, primary packaging interactions etc should be 
+submitted.  
+ 
+When demonstrating similarity between a SBP and a RBP, the following factors should 
+be critically considered:- 
+ 
+1 . Differences between the chosen expression system of the proposed SBP and that of 
+the RBP should be carefully considered and appropriately documented. 
+ 
+ 
+ 
+ 
+2 . Characterization of the expression construct, including its genetic stability, should 
+be demonstrated in accordance with principles recommended in ICH Q5B. 
+ 
+3. Characterization tests, process controls, and specifications that will emerge from 
+information gained during process development must be specific for the proposed SBP 
+and the manufacturing process. The use of Quality-by-Design approaches is 
+recommended to assure consistent manufacturing of high-quality product. 
+ 
+4. The full drug master file (DMF), manufacturing process validation protocol and 
+report should be submitted. 
+ 
+5.  Product employing clearly different approaches to manufacture from the reference 
+product will not be eligible for registration as a SBP.The applicant shall be required to 
+provide information to fulfill the requirements for registration of new biological 
+products as prescribed in the  EAC Guideline  for the Registration of Biotherapeutic 
+products  
+ 
+Reference  
+ 
+i. 
+ICH Q5A:  Viral Safety Evaluation of Biotechnology Products Derived From Cell 
+Lines of Human or Animal Origin 
+ 
+(http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guidelin
+e/2009/09/WC500002801.pdf) 
+ 
+ii. 
+ICH Q5B: 
+Quality Of Biotechnological Products: Analysis of the Expression 
+Construct in Cells Used for Production of r-DNA Derived Protein Products.  
+http://www.gmp-manual.com/showdoc/GMP-MANUAL/GMP-Regulations/E-
+ICH-Guidelines/E5B-ICH-Q5B-Quality-of-Biotechnological-Products-Analysis-of-
+the-Expression-Construct-in-Cells-Used-for-Production-of-R-DNA-Derived-Protein-
+Products 
+ 
+ 
+ 
+ 
+iii. 
+ICH Q5D: Derivation and Characterization of Cell Substrates used for Production 
+of 
+Biotechnological/Biological Products 
+http://www.gmp-manual.com/showdoc/GMP-MANUAL/GMP-Regulations/E-
+ICH-Guidelines/E5D-ICH-Q5D-Derivation-and-Characterisation-of-Cell-
+Substrates-used-for-Production-of-BiotechnologicalBiological-Products 
+ 
+ 
+3.3 Analytical Comparability studies 
+ 
+The SBP should be highly similar to the RBP and studies shall be done according to 
+the capability of available appropriate analytical assays to assess, for example, the 
+molecular weight of the protein, complexity of the protein (higher order structure and 
+post-translational modification), degree of heterogeneity, functional properties, 
+impurity profiles and degradation profile denoting stability. Design of the Comparability 
+approach should be supported by scientifically sound methodologies.  
+ 
+Note; the capabilities of the methods used in the analytical assessment as well as their 
+limitations shall be described.  
+ 
+3.4 Analytical procedure/technique/Product characterization 
+ 
+The applicant should submit assessment of the analytical similarity to the RBP in 
+additional to information on Chemistry Manufacturing and Controls (CMC).  The 
+purpose of the analytical similarity assessment should be clearly described with 
+consideration for the known quality attributes and performance characteristics of the 
+specific reference product.  
+ 
+Extensive analytical methods should be applied to increase the likelihood of detecting 
+subtle variations in the quality attributes of the product. Methods used in both the 
+characterization studies and comparability studies should be appropriately qualified 
+and validated [as in ICH Q2 (R1)]  
+ 
+ 
+ 
+ 
+Reference standards and international reference materials shall be used for method 
+qualification and validation. Specifications and Certificates of analysis for both 
+reference standards and raw materials from the manufacturer must be provided.  
+ 
+Characterizations of a biological product by appropriate techniques, as described in 
+ICH Q6B and WHO TRS 987 annex 4 should include the determination of 
+physicochemical properties, biological activity, immunochemical properties, purity, 
+impurities, contaminants, and quantity. Product-related impurities, product-related 
+substances, and process-related impurities should be identified, characterized as 
+appropriate, quantified and compared to those of the RBP to the extent feasible and 
+relevant, as part of an assessment of the potential impact on the safety, and potency of 
+the product. 
+ 
+For further guidance on key points to be considered in the characterization 
+exercise,ICH Q6B guidelines shall be referred to. 
+Reference; 
+ 
+ICH Q2 (R1): Validation of Analytical Procedure: Test and Methodology. 
+ 
+http://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Quality/Q
+2_R1/Step4/Q2_R1__Guideline.pdf 
+ 
+ICH Q6B: Note for guidance on specifications: Test Procedures and Acceptance Criteria 
+for Biotechnological/ Biological products.  
+ 
+http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/200
+9/09/WC500002824.pdf 
+ 
+3.5 Container closure system 
+ 
+A description of the container and closure system, and its compatibility with the SBP 
+shall be submitted.  Any differences   of the   RBP and SBP container closure should 
+be   justified. Detailed information concerning the supplier(s), address (es), and the 
+ 
+ 
+ 
+results of any relevant information on compatibility, toxicity and biological tests shall 
+be provided for containers of novel origin.  Evidence of container and closure integrity 
+shall be provided for the duration of the proposed shelf life. Drawings of the containers 
+and closures should be included. 
+ 
+Specification shall be provided for the components of the container closure system that 
+come into contact with the product. Specification for primary container shall include 
+among other tests, an identification test for material of construction of the container. 
+ 
+3.6 Product stability 
+ 
+The stability studies should comply with relevant pharmacy and poisons Board 
+Guidelines for application of Registration for Biotherapeutic products, ICH Q5C 
+andQ1A (R2). Studies should be carried out to show that the biodegradation profiles 
+are comparable between SBP and RBP.  Generally, stability studies results should be 
+summarized in a tabular format, and they should include the results from real time 
+and accelerated degradation studies and studies under various stress conditions 
+(temperature, light, humidity and mechanical agitation).  
+ 
+An appropriate physicochemical and functional comparison of the stability of the 
+proposed SBP with that of the RBP should be monitored to confirm storage conditions 
+selected. 
+ 
+Stability data should be provided for at least three representative consecutive batches 
+stored in the final container. The three consecutive production runs shall  (the largest 
+scale validated and proposed for registration for commercial use) The storage 
+temperature should be stated together with the results of tests on the batches. A plan 
+for on-going stability studies should be provided indicating the batch numbers of the 
+batches on test and the time points when testing is planned.  
+ 
+Note: Shelf life before opening the container and shelf-life after first opening the 
+container (if applicable) shall be demonstrated. 
+ 
+ 
+ 
+ 
+Reference; 
+ 
+ICH 
+Q5C 
+- 
+Quality 
+of 
+Biotechnological 
+Products: 
+Stability 
+Testing 
+of 
+Biotechnological/Biological Products 
+ 
+http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009
+/09/WC500002803.pdf 
+ 
+ 
+Q1A (R2)–Stability Testing of New Drug Substances and Products 
+ 
+http://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/gu
+idances/ucm073369.pdf 
+ 
+ 
+ 
+ 
+ 
+ 
+MODULE 4: NON-CLINICAL STUDY 
+ 
+The establishment of safety and efficacy of an SBP usually requires the generation of 
+some non-clinical data with the SBP. The spectrum of studies required to established 
+safety and efficacy of the SBP may vary considerably and should be defined on a case-
+by-case basis. 
+ 
+Non-clinical studies should be performed in a facility that is GLP accredited. Certificate 
+of GLP compliance issued by competent authority should be included in the dossier.  
+ 
+These studies should be comparative in nature and should be designed to detect 
+differences in the pharmaco-toxicological response between the SBP and the RBP.  
+ 
+The approach taken will need to be fully justified in the non-clinical overview. 
+Nonclinical studies should be a part of the overall comparability studies. Any deviation 
+from this approach should be appropriately justified. 
+ 
+4.1 Special consideration 
+ 
+The design of an appropriate nonclinical study should consider the product 
+characteristics. Results from the physicochemical and biological characterization 
+studies should be reviewed from the point of view of potential impact on efficacy and 
+safety. In the development of SBP, existing guidelines such as EAC Guideline for the 
+Registration of Biotherapeutic products and ICH S6, should also be taken into account. 
+ 
+Additional nonclinical data may be required to establish the safety and efficacy of SBP 
+depending on the product and on factors related to substance class as stipulated in 
+the Pharmacy and poisons Board Guideline for the Registration of Biotherapeutic 
+products  
+ 
+Factors that may elicit the need for additional nonclinical studies include, but are not 
+restricted to, the following: 
+ 
+ 
+ 
+ 
+a) Quality-related factors: 
+ 
+i. Significant differences in the cell expression system compared with the RBP; 
+ii. Significant differences in purification methods used; 
+iii. The presence of a complex mixture of less well-characterized product- and/or 
+process-related impurities e.g.a highly complex immunogenic substance that is 
+difficult to characterize by analytical techniques and that possesses a narrow 
+therapeutic index. 
+ 
+b) Factors related to pharmaco-toxicological properties of the drug substance: 
+i. Mechanism(s) of drug action are unknown or poorly understood; 
+ii. The drug substance is associated with significant toxicity and/or has a narrow 
+therapeutic index; 
+iii. Limited clinical experience with the RBP. 
+ 
+Depending on these factors, the spectrum of studies required to establish the safety 
+and efficacy of the SBP may vary considerably and should be defined on a case-by-case 
+basis.  
+ 
+4.2 Pharmacodynamics 
+ 
+a) 
+In vitro studies: 
+In order to assess any alterations in reactivity between the SBP and the RBP, data from 
+a number of comparative bioassays (e.g. receptor-binding studies, cell proliferation 
+assays), many of which may already be available from quality-related bioassays, should 
+be provided. 
+ 
+b) 
+In vivo studies: 
+Animal studies should be designed to maximize the information obtained. They should 
+be comparative in nature (see above), should be performed in a species known to be 
+relevant (i.e. a species in which the RBP has been shown to possess pharmacodynamic 
+and/or toxicological activity), and should employ state-of the-art technology. 
+ 
+ 
+ 
+ 
+Where the model allows, consideration should be given to monitoring a number of end-
+points such as: 
+a) Biological/pharmacodynamic activity relevant to the clinical application. These data 
+should usually be available from biological assays described in the quality part of 
+the dossier (Section 3) and reference to these studies can be made in the nonclinical 
+part of the dossier. 
+ 
+b) If feasible, biological activity may be evaluated as part of the nonclinical repeat-dose 
+toxicity study (described below). Invivo evaluation of biological/pharmacodynamic 
+activity may be unnecessary if in vitro assays are available that have been validated 
+as reliably reflecting the clinically relevant pharmacodynamic activity of the RBP.At 
+least one PD marker is accepted as surrogate marker but must be validated. 
+ 
+4.3 Toxicology 
+ 
+Data on at least repeated dose toxicity conducted in relevant specie should be 
+submitted. 
+Toxicokinetic measurements shall include the following;  
+4.3.1 Determination and characterization of antibody responses, including anti-
+product antibody titres 
+4.3.2 Cross-reactivity with homologous endogenous proteins, and 
+4.3.3 Product-neutralizing capacity. 
+ 
+The studies should be of sufficient duration to allow detection of potential differences 
+in toxicity and antibody responses between the SBP and the RBP. 
+ 
+A head-to-head repeat dose toxicity study should usually constitute a minimum 
+requirement for non-clinical evaluation of a SBP. Comparative repeat-dose toxicity 
+studies should be submitted to demonstrate that no “unexpected”toxicity will occur 
+during clinical use of the SBP. The repeat-dose toxicity study performed on the final 
+formulation should aim at detecting potential toxicity associated both with the drug 
+substance and with product- and process-related impurities. 
+ 
+ 
+ 
+ 
+ 
+Although the predictive value of animal models for immunogenicity in humans is 
+considered low, antibody measurements, if applicable, should be included in the 
+repeat-dose toxicity study to aid in the interpretation of the toxicokinetic data and in 
+assessing, as part of the overall comparability exercise, whether important differences 
+in structure or immunogenic impurities exist between the SBP and the RBP (the 
+immunological response may be sensitive to differences not detected by laboratory 
+analytical procedures). 
+ 
+Depending on the route of administration, local tolerance may need to be evaluated. If 
+feasible, this evaluation may be performed as part of the described repeat-dose toxicity 
+study. 
+On the basis of the demonstration of similarity between the SBP and RBP by the 
+additional comparability exercise performed as part of the quality evaluation, other 
+routine toxicological studies – such as safety pharmacology, reproductive toxicology, 
+genotoxicity and carcinogenicity studies – are not generally requirements for the 
+nonclinical testing of an SBP, however when the results of the repeat-dose toxicity or 
+the local tolerance study and/or by other known toxicological properties of the RBP 
+(e.g. known adverse effects of the RBP on reproductive function) study reveal the need, 
+it should be done. 
+ 
+• 
+Refer to   ICH S6: Preclinical safety evaluation of biotechnology-derived 
+pharmaceuticals 
+• 
+ WHO TRS 977 Annex 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MODULE  5: CLINICAL STUDIES 
+ 
+The requirements for documentation of the clinical data depend on the existing 
+knowledge about the reference product and claimed therapeutic indications. 
+ 
+The submission must include the information demonstrating that there are no 
+clinically meaningful differences between the SBPs and the RBPs in term of Safety, 
+Quality and Efficacy. 
+ 
+Clinical programmes for a SBPs application should be conducted in a facility which is 
+Good Clinical Practice (GCP) compliant and a certificate issued by regulatory Authority 
+from the country of origin and/or competent regulatory Authorityshould be present in 
+the submission.  
+ 
+The 
+clinical 
+comparability 
+exercise 
+should 
+include 
+pharmacokinetics 
+(PK), 
+Pharmacodynamics (PD) studies followed by Clinical Efficacy and Safety trials. 
+ 
+Further guidances on statistical considerations and extrapolations of indications can 
+be obtained in WHO guidelines on evaluation of Similar biotherapeutic product,2013. 
+ 
+5.1 Pharmacokinetic (PK) studies 
+ 
+Comparative pharmacokinetic studies should be conducted to demonstrate the 
+similarities in pharmacokinetic (PK) parameters between SBPsand theRBPs.  
+ 
+5.1.1 If appropriate from an ethical point of view, healthy volunteers will in most cases 
+represent a sufficiently sensitive and homologous model for such comparative 
+PK studies.  
+ 
+5.1.2 Choice of designs must be justified and should consider factors such as 
+clearance and terminal half-life, linearity of PK parameters, where applicable, 
+the endogenous level and diurnal variations of the product under study, 
+production of neutralizing antibodies, conditions and diseases to be treated.  
+ 
+ 
+ 
+ 
+5.1.3 The acceptance criteria to conclude clinical comparability should be defined 
+prior to the initiation of the study, taking into consideration known PK 
+parameters and their variations, assay methodologies, safety and efficacy of the 
+RBPs.  
+ 
+5.1.4 Other PK studies such as interaction studies or PK studies in special populations 
+(e.g. children, elderly, and patients with renal or hepatic insufficiency) shall be 
+submitted.  
+ 
+5.2 Pharmacodynamics (PD) studies 
+ 
+Pharmacodynamics (PD) markers should be selected on the basis of their relevance to 
+demonstrate therapeutic efficacy of the product. If direct PD markers are not practical 
+a surrogate marker which is clinically validated may be employed. 
+ 
+The Pharmacodynamic effects of the SBPs and the RBPs should be compared in a 
+population where the possible differences can be best observed. 
+ 
+Design and duration of the studies must be justified. The PD study may be combined 
+with a PK study and the PK/PD relationship should be characterized so as to provide 
+information on relationship between exposure and effects. 
+ 
+The selected dose should in the steep part of the dose-response curve. Studies at more 
+than one dose may be useful. 
+ 
+Reference; 
+ 
+ICH E 10: Choice of control group and related issues in clinical trials 
+ 
+http://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Effi
+cacy/E10/Step4/E10_Guideline.pdf 
+ 
+ 
+ 
+ 
+5.3 Clinical efficacy trials 
+ 
+Comparative clinical trials (head-to-head adequately powered, randomised, parallel 
+group clinical trials, so-called equivalence trials”) are required to demonstrate the 
+similarity in the efficacy and the safety profiles between the SBPs and the RBPs. Assay 
+sensitivity must be ensured (refer to ICH E10).  
+ 
+Equivalence margins should be pre-specified and adequately justified on clinical 
+grounds. Equivalent rather than non-inferior efficacy should be shown in order for the 
+SBPs to adopt the posology of the RBPs and to open the possibility of extrapolation to 
+other indications, which may include different dosages.  
+ 
+Clinical studies should be designed to demonstrate comparable safety and efficacy of 
+the SBP  to the reference product and therefore need to employ testing strategies that 
+are sensitive enough to detect relevant differences between the products, if present. 
+ 
+5.4 Clinical safety and effectiveness 
+Similar efficacy will usually have to be demonstrated in adequately powered, 
+randomized and controlled clinical trials(s). Clinical studies should preferably be 
+double-blind or at a minimum observed blind. Furthermore, a sensitive and preferably 
+well-established clinical model is required.  Equivalence trials are clearly preferred for 
+comparison of the SBP with the reference product. Non-inferiority designs may be 
+considered if appropriately justified. 
+ 
+Even if the efficacy is shown to be comparable, the similar biological medicinal product 
+may exhibit a difference in the safety profile (in terms of nature, seriousness, or 
+incidence of adverse reactions). Thus, data from a sufficient number of patients and 
+adequate study duration with sufficient statistical power to detect major safety and 
+effectiveness differences are needed.  
+ 
+Data from pre-approval studies are insufficient to identify all these differences in safety. 
+Therefore, applicant should submit a risk management plan/pharmacovigilance plan 
+ 
+ 
+ 
+for the SBPs. The plan must be with the intention to mitigate potential risks associated 
+to the SBPs.Also, the submission should address the strategy to execute the plan. 
+ 
+For products intended for use for more than 6 months, the size of the safety database 
+should typically conform to the recommendations of ICH E1.  
+ 
+Reference; 
+ 
+ICH E1: The extent of population exposure to assess clinical safety for drug intended for 
+long term treatment for non-life threatening conditions. 
+ 
+http://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Effi
+cacy/E1/Step4/E1_Guideline.pdf 
+ 
+5.5 Clinical Immunogenicity 
+ 
+Immunogenicity of SBPs should be investigated prior to Marketing Authorization. 
+Structural and functional studies as well as animal data are generally not adequate to 
+predict immunogenicity in humans. Therefore, at least one clinical study that includes 
+a comparison of the immunogenicity of the proposed SBPs to that of the RBPs in 
+humans has to be submitted. The data should be submitted so as to evaluate potential 
+differences between the proposed SBPs and the RBPs in the incidence and severity of 
+human immune responses. 
+ 
+A written rationale on the strategy for testing immunogenicity should be provided. 
+ 
+EAC recommends that immunogenicity assays be developed and validated with respect 
+to both the proposed SBPs and RBPs product early in development. Validated 
+assays/methods should be used for testing immunogenicity with appropriate specificity 
+and sensitivity. 
+ 
+ 
+ 
+ 
+Special attention should be given to the possibility that the immune response seriously 
+affects the endogenous protein and its unique biological function and thus leads to 
+adverse reactions.  
+ 
+The proposed SBPs and RBPs should be evaluated in the same clinical trial of sufficient 
+duration with the same patient sera whenever possible. The duration of the study 
+should be at least 12 months using appropriate route of administration by comparative 
+parallel designs .At the time of submission the study should have  covered at least 6 
+months.  
+ 
+Note: Data at the end of the 12 months should be presented as part of the post-
+marketing commitment  
+ 
+In situations where an applicant is seeking to extrapolate immunogenicity data for one 
+indication to other indications, the applicant should consider using the population and 
+regimen for the RBPs for which development of immune responses with adverse 
+outcomes is most likely to occur.  
+ 
+The selection of clinical immunogenicity endpoints or PD parameters linked to immune 
+responses (e.g., antibody formation and cytokine levels) should take into consideration 
+the immunogenicity issues that have emerged during the use of the RBPs. The clinical 
+immune response criteria should be defined, using established criteria where available, 
+for each type of potential immune responses.  
+ 
+Reference is to be made to the CHMP Guideline on Immunogenicity Assessment of 
+Biotechnology-Derived Therapeutic Proteins (CHMP/BMWP/14327/06) 
+ 
+A warning statement on the risks associated with switching of products during 
+treatment, and against product substitution, is to be included in the package insert of 
+the SBPs;This should be done by prescriber. 
+ 
+ 
+Reference: 
+EMA guidelines 
+ 
+ 
+ 
+• 
+Guidelines for non-clinical and clinical development of similar biological medicinal 
+products 
+containing 
+recombinant 
+erythropoietins 
+(EMA/CHMP/BMWP/3016636/2008). 
+ 
+• 
+Guidelines for non-clinical and clinical development of similar biological medicinal 
+products containing recombinant human insulin and insulin analogues  
+(EMA/134217/2012 
+ 
+• 
+Guidelines for non-clinical and clinical development of similar biological medicinal 
+products containing recombinant Granulocyte Colony Stimulating factor (rG-CSF_) 
+(EMEA/CHMP/BMWP/31329/2005). 
+ 
+• 
+Guidelines for non-clinical and clinical development of similar biological medicinal 
+products containing low-molecular-weight-heparins (EMEA/134870/2012). 
+ 
+• 
+Guidelines for non-clinical and clinical development of similar biological medicinal 
+products 
+containing 
+recombinant 
+alfa-containing 
+medicinal 
+products  
+(EMEA/CHMP/BMWP/102046/2006). 
+ 
+• 
+Guidelines for non-clinical and clinical development of similar biological medicinal 
+products containing recombinant beta-containing interferon beta-containing 
+medicinal products (EMEA/CHMP/BMWP/652000/2010). 
+ 
+• 
+Guidelines for non-clinical and clinical development of similar biological medicinal 
+products 
+containing 
+monoclonal 
+antibodies- 
+(EMEA/CHMP/BMWP/403543/2010). 
+ 
+• 
+WHO TRS 977 Annex 2 
+ 
+5.6.  Pharmacovigilance 
+ 
+As for most biological medicines, data from pre-authorization clinical studies are 
+usually too limited to identify all potential unwanted effects of an SBP.  In particular, 
+ 
+ 
+ 
+adverse events are unlikely to be encountered in the limited clinical trial populations 
+being tested with the SBP.  Further close monitoring of the clinical safety of an SBP in 
+all approved indications and a continued benefit-risk assessment are therefore 
+necessary in the post-marketing phase. 
+ 
+The manufacturer should submit a Periodic Benefit-Risk Evaluation Report (PBRER) 
+and pharmacovigilance plan/risk management plan at the time of submission of the 
+marketing authorization application.  The principles of pharmacovigilance planning 
+can be found inrelevant guidelines such as ICH E2E. 
+ 
+Reference:  
+ 
+ICH E2E (Pharmacovigilance Planning) 
+• 
+http://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Effi
+cacy/E2E/Step4/E2E_Guideline.pdf 
+ 
+ 
+ 
+ 
+Annex I: APPLICATION FORM FOR REGISTRATION OF BIOTHERAPEUTIC 
+AND SIMILAR BIOTHERAPEUTIC PRODUCTS (SBPs) 
+ 
+ 
+Form 1  
+ 
+APPLICATION FOR REGISTRATION OF 
+BIOTHERAPEUTIC  AND SIMILAR BIOTHERAPEUTIC 
+PRODUCTS   
+ 
+ 
+ 
+ To  
+THE REGISTRAR 
+PPB OFFICES, 
+LENANA ROAD, 
+DRUG REGISTRATION DEPARTMENT, 
+P.O. BOX 27663-00506, 
+NAIROBI. 
+Application Number 
+ 
+ 
+Date of submission 
+of the dossier  
+ 
+ 
+Name of the 
+1st   Assessor  
+ 
+Signature 
+Name of the 
+2nd Assessor 
+ 
+Signature 
+Date of 1st 
+Assessment 
+ 
+ 
+Date of 2nd 
+Assessment 
+ 
+ 
+CONCLUSION OF THE ASSESSMENT 
+RECOMMENDED (no outstanding issues) 
+QUERY RAISED (Indicate the sections 
+where query is raised) 
+REJECTED (indicate the module(s) that led 
+to the rejection) 
+(Please delete which does not apply) 
+ 
+TYPE OF APPLICATION – HUMAN PRODUCT 
+MODULE 1: ADMINISTRATIVE INFORMATION 
+SECTION 1: PARTICULARS OF THE PRODUCT  
+1.11 Name and address of Applicant 
+Company name:  
+ 
+ 
+ 
+Address:                
+Country:               
+Telephone: 
+E-Mail:  
+ 
+1.12   Type of Medicinal  Product Application ( Tick where appropriate) 
+ 
+New (Innovator)  BIOTHERAPEUTIC PRODUCT          
+OR      
+SIMILAR BIOTHERAPEUTIC PRODUCT.        
+ 
+ 
+For PPB use only 
+1.2 
+Trade/Proprietary name (prorietary Product name):  
+ 
+For PPB use only 
+1.3 
+Approved / INN / generic name of the   drug  substance 
+For PPB use only 
+1.4  
+Strength of drug substance(s) per unit dosage form of the product 
+and specifications of the drug substance(s), including the reference/ 
+monograph standard for each drug substance(s). 
+ 
+For PPB use only 
+1.5  
+Dosage form 
+1.5.1 
+Pharmaceutical Dosage form of the product: 
+1.5.2 
+Specifications of the Finished Pharmaceutical Product: 
+1.5.3 
+Route(s) of administration (use current list of standard terms - 
+European Pharmacopoeia):  
+For PPB use only 
+ 
+ 
+ 
+1.6  
+Packing/Pack size of the product:  
+1.6.1 
+Pack size: 
+1.6.2 
+Primary packing materials: 
+1.6.3 
+Secondary packing materials: 
+For PPB use only 
+ 
+1.7  
+Visual Description of the product (Add as many rows as necessary) 
+For PPB use only 
+ 
+1.8 
+1.8 Proposed Shelf life of the product (in months):  
+1.8.1 
+Proposed shelf life (after reconstitution or dilution) (if applicable): 
+1.8.2 
+Proposed shelf life (after first opening container):  
+1.8.3 
+Proposed storage conditions:  
+1.8.4 
+Proposed storage conditions after first opening:  
+For PPB use only 
+1.9  
+Pharmacotherapeutic group and ATC Code 
+1.9.1 
+Pharmacotherapeutic group:  
+1.9.2 
+ATC Code: 
+1.9.3 
+If no ATC code has been assigned, please indicate if an application 
+for ATC code has been made:  
+1.9.4 
+Proposed indication(s) for the product: 
+For PPB use only 
+1.10 
+Indicate Legal category 
+1.10.1  
+POM (Prescription only Medicine) unless otherwise, provide 
+justification) 
+For PPB use only 
+1.11  
+Country of origin or country of release:  
+For PPB use only 
+ 
+ 
+ 
+ 
+1.12  
+Product Marketing Authorisation in the country of origin. (Attach 
+certificate of pharmaceutical product from competent regulatory 
+authority)   If not registered, state reasons 
+ Authorised   
+Country:  
+Date of authorisation:  
+Proprietary name:  
+Authorisation number:  
+ 
+ Refused 
+Country: Not applicable 
+Date of refusal (dd-mm-yyyy):  
+Reason for Refusal:  
+ Withdrawn (by applicant after 
+authorisation) 
+Country:  
+Date of withdrawal (dd-mm-yyyy):  
+Proprietary name:  
+Reason for withdrawal:  
+ 
+ Suspended/revoked (by competent 
+authority) 
+Country: Not applicable 
+date of suspension/revocation (dd-mm-
+yyyy):  
+Reason for suspension/revocation:  
+ 
+For PPB use only 
+ 
+1.12.1 
+Registration status from countries with Stringent Regulatory 
+Authorities (SDRAs) where applicable 
+SDRAs - Documents to be attached: 
+For PPB use only 
+ 
+1.12.2 
+List of countries in which a similar application has been submitted 
+For PPB use only 
+ 
+1.12.3 
+Statement on whether an application for the Marketing 
+Authorisation has been previously rejected, withdrawn or 
+repeatedly deferred in the EAC Partner States 
+For PPB use only 
+ 
+ 
+ 
+ 
+1.12.4 
+Certificates of approval of Drug Substances(s)/ immunogenic s 
+substance(s) Master (DMF) by Stringent Regulatory Authority 
+For PPB use only 
+ 
+1.12.5 
+Manufacturing Licence and Product Licence 
+For PPB use only 
+ 
+1.13  
+Certificate of Analysis from a WHO Prequalified Laboratory in Kenya and the 
+lot release certificate issued by the regulatory authority of country of origin  
+for those samples submitted with the application 
+ 
+For PPB use only 
+ 
+1.14  
+Name(s) and complete address (es) of the manufacturer(s) 
+1.14.1 
+Name and complete address(es)of the manufacturer(s) of the FPP, 
+including the finished pharmaceutical product release if different from 
+the manufacturer.         
+ 
+Marketing Authorisation Holder: 
+Company name:  
+Address:  
+Country:          
+Telephone:   
+E-Mail:  
+ 
+Manufactured By: 
+Company) Name:   
+Address:                                 
+ 
+ 
+ 
+Country:. 
+Telephone:  
+Telefax :  
+ 
+If the manufacturer is different to 1.1 above, explain the relationship  
+ 
+1.14.2 
+Name(s) and complete address (es) of the manufacturer(s) of the  Drug 
+substance 
+ 
+ The active immunogenic substance:  (Add as many rows as necessary) 
+Company) Name:       
+Office Address  :                                 
+Country :   
+Telephone   :  
+Fax        :  
+Contact Person     :  
+E-mail                    :  
+ 
+ 
+For PPB use only 
+ 
+1.15  
+Compliance to Good Manufacturing Practice (GMP) and Good 
+Clinical Practice  
+1.15.1 
+Good Manufacturing Practice (GMP) from PPB 
+1.15.2 
+Good Clinical Practice (GCP) or Good Laboratory Practice (GLP)  
+For PPB use only 
+ 
+ 
+ 
+1.16 .1 
+Name and complete address of the Local Technical Representative 
+of Manufacture (for finished pharmcautical Product)  
+ 
+Company name:  
+Address:          
+Country:     
+Telephone:       
+E-Mail:          
+ 
+If the Local Technical Representative is different to 1.1 above, 
+explain and provide evidence for the relationship: 
+1.16 .2 
+Name and address (physical and postal) of the person or company 
+responsible for pharmacovigilance 
+ 
+Company name:  
+Address:          
+Country:     
+Telephone:       
+E-Mail:          
+ 
+For PPB use only 
+1.17 
+Product Information 
+1.17.1 
+Summary of Product Characteristics (SPC): 
+ 
+ 
+ 
+ 
+1.17.2 
+Prescribers/Patient information leaflet: 
+.1.17.3 
+Mock- Ups  and photos scan of the product  
+ 
+ 
+ 
+1.18 
+1.18 Batch number(s) and Batch Types of the final product used in                    
+Clinical studies: 
+Stability studies: 
+Validation/production scale batches Validation/production scale batches: 
+Comments:  
+Comments: Provide Reasons for comments , e.g batch numbers N/A  
+ 
+Qualitative and Quantitative composition of the drug substance(s) and excipient(s)  
+A note should be given as to which quantity the composition refers (e.g.   1 Vial ).  
+Name 
+of 
+drug 
+substance(s)* 
+Quantity / 
+dosage unit 
+Unit 
+of 
+measure  
+Reference/ 
+monograph standard 
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+e.t.c  
+ 
+ 
+ 
+Name of excipient(s) 
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+e.t.c 
+ 
+ 
+ 
+ 
+Note: * Only one name for each substance should be given in the following order of 
+INN**, Pharmacopoeia, common name, scientific name 
+** The drug substance should be declared by its recommended INN, accompanied by it
+hydrate form if relevant. 
+Details of averages should not be included in the formulation columns but should b
+below:  
+- Drug substance(s):       
+- Excipient(s): 
+           
+ 
+ 
+ 
+ 
+ 
+1.19 
+State the reference/monograph standard such as British 
+Pharmacopeia,  United States Pharmacopeia, Ph. Eur, Japanese
+Pharmacopeia, In-house monograph  
+e.t.c. used for Finished Medicinal Product.  
+ 
+1.20 
+ 
+Name and address (physical and postal) of the Contract Research 
+Organisation(s) where the clinical studies of the product were 
+conducted. (If applicable) 
+Name:                N/A 
+Company name:       
+ 
+Address:                   
+Country:                   
+Telephone:                
+Telefax:                     
+E-Mail:                      
+ 
+1.21 DECLARATION BY AN APPLICANT 
+I, the undersigned certify that all the information in this form and accompanying 
+documentation is correct, complete and true to the best of my knowledge. 
+I further confirm that the information referred to in my application dossier is 
+available for verification during GMP inspection. 
+I also agree that I shall carry out pharmacovigelance to monitor the safety of the 
+product in the market and provide safety update reports to the National Medicines
+Regulatory Authority.  
+I further agree that I am obliged to follow the requirements of Kenya, and 
+Legislations and Regulations which are applicable to medicinal products. 
+ 
+Name: 
+ 
+ 
+ 
+ 
+Position in the company:  
+ 
+Signature: 
+ 
+Date: 
+ 
+ 
+ 
+Official stamp:…………………………….. 
+ 
+* Note: If fees have been paid, attach proof of payment  
+ PPB use only 
+ 
+ 
+ OVERALL QUERIES AND RECOMMENDATIONS FOR THIS MODULE 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex II: EXPERT DECLARATION FORM 
+ 
+The following is an example of a suitable declaration form: 
+ 
+ 
+ 
+ 
+Quality /Non-clinical / Clinical (delete those not appropriate) 
+ 
+I, the undersigned, declare that I have: 
+i. 
+the suitable technical or professional qualifications to act in this capacity (for 
+more  
+     information, refer to the enclosed curriculum vitae). 
+ 
+ii. 
+fully examined the data provided by the applicant and have provided 
+references to the 
+literature to support statements made that are not supported by the applicant’s 
+original data. This report presents an objective assessment of the nature and 
+extent of the data. 
+ 
+iii. 
+provided a report based on my independent assessment of the data provided. 
+ 
+iv. 
+based my recommendations, regarding suitability for registration, on the 
+data provided 
+herewith. I have considered the attached data and have recommended as to 
+suitability 
+for registration of the intended dose forms and presentations according to the 
+proposed product information document. 
+ 
+I further declare that this expert report represents my own view. 
+Further, I declare the following to be the full extent of the professional relationship 
+between the applicant and myself: 
+...................................................................................................................................
+...................................................................................................................................
+........................ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Revision History  
+Revision 
+No 
+Date 
+Author 
+Section(s) 
+Revised 
+Description of the Change  
+1 
+11.01.2022 
+QAO 
+DOCUMENT 
+NUMBER 
+Changed to  
+PPB/HPT/PER/GUD/014  
+FROM 
+PPB/PER/MED/GUD/014 
+2 
+11.01.202 
+QAO 
+Authorization 
+section 
+Changed from Registrar to 
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 00506 Lenana Road Opposite Russian Embassy Nairobi,Tel: +254-
+02-12345/6789, Fax: +254-02-12345 
+Website:www.Pharmacyboardkenya.org.ke,Email:info@pharmacyboardkenya.org.ke 
+ 
+ 

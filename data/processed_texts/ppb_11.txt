@@ -1,0 +1,1314 @@
+1 
+ 
+HPT/PER/GUD/027 
+Rev No.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPUBLIC OF KENYA 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+GUIDELINES FOR REGISTRATION OF HERBAL PRODUCTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 2022 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be reproduced 
+or adopted on condition that the recommended citation below is made. 
+ 
+ 
+©Pharmacy and Poisons Board, 2022 
+ 
+All rights reserved: 
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or 
+transmitted in any form, or by any means, electronic, mechanical, photocopying, 
+recording, scanning, or otherwise, without the prior permission in writing from the 
+Pharmacy and Poisons Board. 
+ 
+P. O. Box 27663 00506 Lenana Road Opposite Russian Embassy Nairobi, 
+Tel: +254-02-12345/6789, Fax: +254-02-12345, 
+Website: www.Pharmacyboardkenya.org.ke, 
+Email:info@pharmacyboardkenya.org. 
+ 
+ 
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+Table of Contents 
+1. 
+ABBREVIATIONS..................................................................................................................................... 3 
+PRIMS- Pharmaceutical Regulatory Information Management System.............................................. 3 
+2. 
+GLOSSARY OF TERMS .......................................................................................................................... 3 
+3. 
+ACKNOWLEDGEMENTS ........................................................................................................................ 3 
+4. 
+INTRODUCTION ...................................................................................................................................... 4 
+5. 
+LANGUAGE ............................................................................................................................................... 7 
+6. 
+PAYMENT OF FEES ................................................................................................................................ 7 
+Application for Retention of Products registered in Kenya ................................................................................. 8 
+Verification of compliance to current Good Manufacturing Practices (cGMP) ................................................. 8 
+7. 
+TIMELINES ............................................................................................................................................... 9 
+8. 
+SPECIFIC TECHNICAL INFORMATION ............................................................................................. 9 
+8.1 
+PARTICULARS OF THE APPLICANT ............................................................................................................. 9 
+8.2 
+PARTICULARS OF THE PRODUCT.............................................................................................................. 10 
+8.3 
+PARTICULARS OF THE MANUFACTURER ............................................................................................... 11 
+8.4. COMPOSITION OF PRODUCT ............................................................................................................................ 12 
+8.5. QUALITY CONTROL OF RAW MATERIALS ................................................................................................... 13 
+8.6 
+QUALITY CONTROL OF THE FINISHED PRODUCT ............................................................................... 16 
+8.7 
+STABILITY STUDIES OF THE FINISHED PRODUCT.............................................................................. 19 
+8.8 
+PHARMACOLOGICAL AND TOXICOLOGICAL INFORMATION ............................................................ 20 
+DECLARATION BY AN APPLICANT .......................................................................................................................... 21 
+ 
+ 
+ 
+3 
+ 
+1. ABBREVIATIONS 
+PRIMS- Pharmaceutical Regulatory Information Management System 
+DPER- Directorate of Product Evaluation and Registration 
+PPB-Pharmacy and Poisons Board 
+cGMP- Current Good Manufacturing Practices. 
+ 
+2. GLOSSARY OF TERMS 
+The definition of a Herbal and Complimentary Medicine means any substance or 
+mixture of substances that: 
+a. 
+Originates from plants, fungi, algae, seaweeds, lichens, minerals, animals 
+or other substance as determined by the Board, and  
+b. 
+is used or purporting to be suitable for use or manufactured or sold for 
+use 
+c. 
+to diagnose, treat, mitigate, modify, alleviate or prevent disease or illness 
+or the symptoms or signs thereof or abnormal physical or mental state, 
+of a human being or animal. 
+ 
+3. ACKNOWLEDGEMENTS 
+The CEO, Pharmacy and Poisons Board would like to thank the following persons for 
+their comments and contributions to the development of this guideline. 
+ 
+CONTRIBUTORS: 
+Dr. Edwin Burugu, Assistant Principal Regulatory Officer, Drug Product Evaluation 
+and Registration (DPER) Department Directorate of Health Products and 
+Technologies 
+ 
+REVIEWERS 
+Dr. Ronald Inyangala, Deputy-Director, Senior Principal Regulatory Officer, Drug 
+Product Evaluation and Registration (DPER) Department, HPT 
+Dr. Peter Mbwiiri Ikamati Chief Principal Regulatory officer, Drug Product Evaluation 
+and Registration (DPER) Department, Directorate of Health Products and 
+Technologies 
+Dr. Jonathan Meriakol, Senior Principal Regulatory officer, Drug Product Evaluation 
+ 
+4 
+ 
+and Registration (DPER) Department, Directorate of Health Products and 
+Technologies 
+Dr. Ali Arale, Principal Regulatory Officer, Drug Product Evaluation and Registration 
+(DPER) Department, Directorate of Health Products and Technologies 
+Dr. James Owuor, Assistant Principal Regulatory Officer, Drug Product Evaluation 
+and Registration (DPER) Department, Directorate of Health Products and 
+Technologies 
+Dr. Paulyne Wairimu, Assistant Principal Regulatory Officer Product Evaluation and 
+Registration (PER)  (MD&IVDs) Department, Directorate of Health Products and 
+Technologies  
+Dr. Eugene Odame, Senior Regulatory officer, Product Evaluation and Registration 
+(PER)  (MD&IVDs), Department, Directorate of Health Products and Technologies  
+Dr. Sarah Chebet Chesaro, Principal Regulatory officer, Drug Product Evaluation and 
+Registration (DPER) Department, Directorate of Health Products and Technologies 
+Mr. Alex Mutai,  Assistant Principal Regulatory Officer, Blood and Blood Products 
+Department, Directorate of Health Products and Technologies 
+Ms. Jacqueline Yahuma , Assistant Principal Regulatory Officer, Cosmetics 
+Department, Directorate of Health Products and Technologies 
+Mr. Henry Chweya, Assistant Principal Regulatory Officer, Border line Products 
+Department, Directorate of Health Products and Technologies 
+Mr. Peter Mugala, Senior Information and Communication Technology Officer; Drug 
+Product Evaluation and Registration (DPER) Department, Directorate of Health 
+Products and Technologies 
+Mr. Anthony Kemboi, Information and Communication Technology Officer; Drug 
+Product Evaluation and Registration (DPER) Department, Directorate of Health 
+Products and Technologies 
+Mr. Victor Kipchumba, Information and Communication Technology Officer Medical 
+Devices Department Directorate of Health Products and Technologies 
+ 
+4. INTRODUCTION 
+i. 
+Background 
+This guideline presents a common format for presentation of a well-structured 
+application for registration of herbal/complementary medicines to be submitted 
+ 
+5 
+ 
+to  Pharmacy  and  Poisons  Board. This format of technical documentation will 
+significantly reduce the time and resources needed to compile applications for 
+registration of herbal and  complementary products and  will  in future ease  the 
+preparation of electronic submissions. This guideline  will  ensure that only good 
+quality, safe  and efficacious herbal and complementary products are  available  
+in Kenya; and to contribute towards their accessibility, cost effectiveness and 
+appropriate use with the current state of knowledge. 
+This guideline has been drawn to address the many issues on the quality  of  
+herbal  and  complementary medicines that have been used for a long period of 
+time in Kenya. These  issues include; 
+a) 
+Misconception amongst herbalists that documentation requested for by 
+PPB is  intended to  steal their indigenous  knowledge  and  thus,  there  
+has  been  hesitation  to  submit applications. 
+b) 
+Lack of documented evidence on quality, safety & efficacy of Herbal and 
+complementary products 
+c) 
+Unethical practices that include: 
+▪ Adulteration of herbal and complementary products with conventional 
+medicines 
+▪ Advertising of Herbal and complementary products in print media, 
+electronic and bill boards 
+▪ Peddling of products with no therapeutic benefits 
+▪ Unsubstantiated medicinal claims by herbal practitioners. 
+▪ Dealing with herbal products whose toxicological profile is not known 
+d) 
+Poor standards of preparation/manufacture and sale of herbal and 
+complementary products 
+ 
+This guideline will focus on the manufacture and registration of herbal  and  
+complementary medicines. This guideline applies only to herbal and 
+complementary products. In the case of other medicinal products such as 
+conventional and borderline products, separate guidelines are available and 
+these 
+can 
+be 
+obtained 
+from 
+PPB 
+offices. 
+This 
+guideline 
+provides 
+recommendations for applicants preparing application for herbal and 
+complementary products for submission to the Pharmacy and Poisons Board 
+ 
+6 
+ 
+(PPB).This guideline prescribes the minimum information required for 
+submission of dossiers, evaluation of products, variation of products and 
+retention of registered products.  
+This guideline indicates an appropriate format and organization of the data. 
+Applicants are requested to carefully read this guideline, fill in application form, 
+prepare dossiers and submit them online through the Pharmaceutical Regulatory 
+Information Management System (PRIMS)   
+ 
+ 
+ii. 
+The Legal Framework/Responsibility for Implementation 
+The Board is statutorily empowered to undertake various duties in execution of its 
+mandate regarding regulation of health products and health technologies. 
+The regulation for the evaluation of health product and technologies is governed 
+under the provisions of the Pharmacy and Poisons Act, Cap 244 Laws of Kenya. 
+ 
+iii. 
+Scope 
+This guideline primarily addresses the organization of the information to be 
+presented in registration of herbal products. It is intended to provide an 
+appropriate format for submission of data for registration. Applicants should not 
+modify the overall organization of the document as outlined in the guideline.  
+ 
+ 
+ 
+7 
+ 
+ 
+5. LANGUAGE 
+All applications and supporting documents shall be in English and legible. 
+Where material is not originally in English, a copy in the original language and 
+a full translation should be submitted, the accuracy of which is the 
+responsibility of the applicant. Authentication of the translation has to be done 
+at the nearest Kenyan Embassy or by the national drug regulatory authority of 
+the country from where the document originates. Reports submitted only in a 
+language other than English will not be accepted 
+For purposes of submission to PPB, an application for registration of herbal 
+and complementary product shall include: 
+i. 
+Application through the electronic format available on PRIMS  
+(including their supporting documents - see Annex I (Application 
+online) 
+ii. 
+Three (3) samples of  the smallest commercial pack(s) from  one batch 
+with batch certificates  of analysis. 
+iii. 
+A site master file in case the product is manufactured at a plant(s) not 
+inspected and approved by PPB. 
+iv. 
+Non-refundable application fee for registration of medicines in Kenya 
+and GMP inspection fees for facilities not yet inspected by PPB 
+ 
+6. 
+PAYMENT OF FEES 
+Every application shall be accompanied by appropriate fees at the time  of  
+application.  Any application that will not be accompanied by appropriate fees 
+will not be accepted. Mode of Payment: Payments by crossed or bankers’ 
+cheque shall be made payable to Pharmacy And Poisons Board.  
+ 
+Application for registration of herbal and complementary products: 
+Products imported into Kenya 
+US$ 1000 
+Locally manufactured in Kenya 
+US$ 200  
+ 
+ 
+ 
+8 
+ 
+GMP inspection fee: 
+Foreign Companies  
+US$ 4000  
+Local Companies  
+Nil 
+Application for Variation of products:  
+Products imported into Kenya 
+  
+ 
+US$ 200  
+Locally manufactured in Kenya 
+  
+ 
+US$ 100  
+Application for Retention of Products registered in Kenya 
+Products Imported into Kenya. 
+  
+ 
+US$ 300 
+Products manufactured in Kenya. 
+  
+ 
+US$ 100 
+ 
+If an application for renewal is made after the expiration of the period of validity of 
+the certificate of registration the application shall be considered as a fresh 
+application - see annex I (Retention) 
+ 
+Appeal fee: With respect to an appeal to an original application, a fee of US$ 300 
+must be paid at the time of appeal. Any appeal that will not be accompanied by 
+appropriate fees will not be accepted. 
+ 
+Other Charges: The Pharmacy and Poisons Board may, at its own discretion,  
+charge  an applicant  such costs as it may incur for carrying out any laboratory 
+investigations prior to the registration of a product. 
+ 
+Verification of compliance to current Good Manufacturing Practices (cGMP) 
+If the new application is from a new manufacturing site,  PPB will conduct 
+inspection of the site or   use other means to verify whether the facility complies 
+with current Good Manufacturing Practices Regulations before a product is 
+registered. No product shall be registered unless the plant complies  with cGMP. 
+ 
+ 
+ 
+ 
+9 
+ 
+Inspection of a facility for the purposes of considering applications for renewal of 
+registration shall be done and if the facility is found not to comply with cGMP, 
+registration of all products manufactured by the facility shall be withdrawn. 
+ 
+7. TIMELINES 
+The Board will implement the following timelines in processing applications for 
+marketing authorization of herbal and complementary products. 
+Complete applications will be processed within (180 working days of receiving 
+the application including evaluation of documentation and consideration by a 
+committee on drug registration. 
+ 
+WITHDRAWAL OF AN APPLICATION 
+When the applicant fails to submit written responses to queries within  6 months  
+from the  date  of their issuance, it will be deemed that the applicant has 
+withdrawn the application or if the queries have been reissued for a second time 
+and the applicant provides unsatisfactory responses, the product will be 
+disqualified and the application will be rejected. The applicant will  be  required 
+to apply  afresh. 
+ 
+VALIDITY OF REGISTRATION 
+The registration of herbal and complementary products shall be valid for One 
+Year from the Date of registration unless earlier suspended or revoked by PPB or 
+withdrawn by applicant. The Board will give reasons in writing when it suspends 
+or revokes, or amends conditions of registration. Likewise the applicant shall also 
+give reasons for terminating registration of a product. 
+ 
+8. 
+SPECIFIC TECHNICAL INFORMATION 
+8.1 PARTICULARS OF THE APPLICANT 
+a. 
+The Applicant:  
+ 
+The application for the registration of herbal and complementary 
+products shall be made only by: 
+• The License/patent holder 
+• The manufacturer 
+ 
+10 
+ 
+• An authorized Local Technical Representative (LTR) of the manufacturer 
+or License/patent holder 
+• The name, physical address, telephone number, fax number, and e-mail 
+address of the applicant shall be provided 
+b. 
+Name of the Local Technical Representative (for imported products only) 
+Every applicant who is not resident in Kenya shall appoint ONE local 
+technical representative who must be a company incorporated in Kenya and 
+authorized by PPB to deal in herbal and complementary products and must 
+hold a wholesale dealers License. 
+Evidence shall be made by submitting a power of attorney that complies 
+with Kenyan laws. The local technical representative shall be responsible 
+for facilitating communication with the applicant and when the product 
+is registered, he shall assume all legal responsibilities regarding the 
+product on the Kenyan market. 
+ 
+8.2 PARTICULARS OF THE PRODUCT 
+a. 
+Product Name shall mean the (trade or brand) name which is unique to a 
+particular drug and by which it is generally identified (and by which it is 
+registered in the country of manufacture). The applicant may provide 
+evidence from Kenya Industrial Property Institute, KIPI, in regard to the 
+requirements for registration of Trademarks. 
+b. 
+Dosage form of the product shall mean the form in which the drug is 
+presented – a macerate, infusions, ashes, decoctions, tablet, capsule, 
+solution, suspension, emulsion, ointment, suppository etc. Strength of 
+the product shall be given per unit dosage form or per specified quantity: 
+e.g.  mg per tablet, mg per capsule, mg/ml, mg per 5ml spoonful, mg per 
+g, etc. 
+c. 
+Therapeutic use(s) shall mean the intended use should be only the major 
+indication(s) 
+the 
+product 
+may 
+be 
+multi-component 
+with 
+other 
+pharmacological properties but the application should be restricted to the 
+intended use. 
+d. 
+Visual 
+description 
+of 
+the 
+product 
+shall 
+mean 
+a 
+full 
+description/appearance of the herbal or complementary product 
+ 
+11 
+ 
+including color, size, shape and other relevant features, e.g. green 
+powder, brown liquid, pink film-coated tablets etc. 
+e. 
+Type of container: The applicant should state the type of the primary 
+package in which the herbal or complementary product is presented e.g. 
+in HDPE bottles, Aluminum Sachets etc. 
+f. 
+Pack size(s) shall mean the presentation of the product to be registered 
+i.e. list all pack sizes intended for marketing. 
+g. 
+Proposed Shelf life (in months) shall mean the specified length of time 
+prior to use for which a herbal or complementary product is deemed to 
+remain fit for use under prescribed conditions supported by stability 
+studies given in section 7 
+h. 
+Storage conditions: The proposed storage conditions should be indicated 
+on the label and supported by stability studies given in section 7. 
+i. 
+Country of origin shall mean the country of manufacture or production, 
+of the herbal or complementary product to be registered or country of 
+product release. 
+j. 
+Status of registration of the product in the country of origin, 
+authorization/registration number requires the applicant to provide the 
+regulatory situation of the herbal or complementary product to be 
+registered in the country of origin and other countries. List the countries 
+in which this product: 
+k. 
+Has been granted a marketing authorization. (Attach certificate of 
+pharmaceutical product from the registering Authority) 
+l. 
+Has been withdrawn from any market; 
+m. 
+Where an application for marketing in any country has  been  rejected,  
+suspended, deferred or withdrawn. 
+ 
+8.3 PARTICULARS OF THE MANUFACTURER 
+a. 
+Name of the Manufacturer shall mean the name, physical address, 
+telephone number, fax number, and e-mail address of the site of 
+manufacture shall be provided. Where different activities of manufacture 
+of a given product are carried out at different manufacturing sites, the 
+above particulars shall be provided for each site and the activity carried 
+ 
+12 
+ 
+out at the particular site shall be stated as shown in the table below. 
+ 
+Name of the 
+Manufacturer 
+Full Physical address of 
+the 
+Manufacturing Site 
+Activity at the site 
+ 
+ 
+ 
+ 
+b. 
+GMP status of the manufacturing site 
+If the new application is from a new manufacturing site, PPB will conduct 
+inspection of the site or use other means to verify whether the facility 
+complies with current Good Manufacturing Practices (cGMP) Regulations 
+and/or guidelines. 
+ 
+8.4. COMPOSITION OF PRODUCT  
+List all active ingredient(s) and all non-active ingredient(s) used 
+(i) 
+Scientific or Botanical Name of the plant(s): Name in Latin (genus and 
+species) of the plant species and family e.g. Catharanthus roseus 
+(Apocynaceae), Azandiracta indica (Meliaceae) 
+(ii) 
+The common name or synonym is the English name. Where not known 
+the local vernacular name may be used e.g. Madagascar periwinkle 
+(Catharanthus roseus), Neem Tree (“Muarubaini” - Azandiracta indica) 
+(iii) 
+Part of Plant used: The part used should be specified e.g. leaf, root, bark, 
+etc. 
+(iv) 
+Specification (USP, BP, or In house): The minimum range of specifications 
+for the active ingredient(s) should be as given in recognized 
+pharmacopoeias. Where the material is part of an established monograph 
+then the material must comply with  requirements of  the monograph. 
+Where the plant material is not subject to any established monograph the 
+applicant must indicate in detail of all tests used to characterize the 
+material with limits as relevant. 
+(v) 
+Quantity per dosage unit: The strength of the product shall be given per 
+unit dosage form or per specified quantity: e.g. mg per tablet, mg per 
+capsule, mg/ml, mg per 5ml spoonful, mg    per g, etc. 
+ 
+13 
+ 
+(vi) 
+Chemical Constituent(s): For each of the active constituent(s) listed (e.g. 
+Catharanthus roseus), indicate the major chemical compounds where 
+known e.g. vincristine, or where not known major group of compounds 
+e.g. indole alkaloids. 
+(vii) 
+Reason for inclusion: Where a material is included and is not the active 
+ingredient indicate the purpose of its inclusion such as sugar as sweeter, 
+honey as preservative. 
+The information should be presented as shown in the tables below; 
+i. 
+List all active ingredient(s) used 
+ 
+Scientific/
+Botanical 
+Name 
+Common 
+Name or 
+Synonym 
+Part of 
+Plant 
+used 
+Specification 
+ 
+Quantity per 
+dosage 
+unit 
+Chemical 
+Constituent(s) 
+ 
+ii. 
+List all non-active ingredient(s) used 
+ 
+Scientific
+/Botanic
+al Name 
+Common 
+Name or 
+Synonym 
+Part 
+of 
+Plant 
+used  
+Specification Quantity per 
+dosage unit 
+Reason for 
+inclusion 
+ 
+8.5. QUALITY CONTROL OF RAW MATERIALS 
+ 
+a. 
+Botanical identification of the Plant used 
+b. 
+Botanical name shall mean the name in Latin (genus and species) of the 
+plant species and family e.g. Catharanthus roseus (Apocynaceae), 
+Azandiracta indica (Meliaceae). The local name of the plant should be 
+supplied in addition to a herbarium specimen (Voucher number) verified 
+by the National museums of Kenya Herbarium, University of Nairobi 
+herbarium, or any other recognized herbarium should be provided. For 
+imported herbal or complementary products, a certificate of identification 
+should be supplied from recognized herbarium. 
+c. 
+Brief description of the living plant 
+ 
+14 
+ 
+ 
+A brief description of the living plant, this may include photographs 
+and/or drawings, general appearance and organoleptic properties 
+d. 
+Macroscopic identification 
+ 
+This is based on shape, size color, surface characteristics, texture,  
+fracture  characteristics,  appearance of cut surface e.g. for a leaf: 
+Oblong, green coloured leaf, hairy, brittle etc. 
+e. 
+Microscopic identification 
+ 
+This shall mean the structural features of the part of the plant to 
+identify the diagnostic features e.g. Leaf – type of stomata, cell 
+inclusions etc. 
+f. 
+Geographical source of the plant used 
+       It the country of origin and the region where the plant is collected, 
+cultivated or wild natural distribution 
+g. 
+Harvesting and collection of the plant 
+       The method of collection of plant materials from cultivated or wild 
+sources should be described including stage of plant development, time 
+and season. The measures used to control adulteration of the plant 
+material also should be described. 
+ 
+ 
+h. 
+Method of drying 
+ 
+ 
+The method used for drying the plant material should be described and 
+justified. 
+i. 
+Storage and preservation of plant material 
+ 
+ 
+The method used for storage and preservation of the plant material should 
+be described and justified. 
+j. 
+Evaluation of plant materials 
+k. 
+Purity tests 
+           The following purity tests must be done: 
+• 
+Microbiological tests should be described to demonstrate the absence of 
+pathogenic micro- organisms (e.g. E. coli, P. aeroginosa, S aureus and 
+Salmonella spp etc.) 
+• 
+Microbial load test (Pharmacopoeial limits) 
+ 
+15 
+ 
+• 
+Swelling index (where applicable) 
+• 
+Pesticide residues (where applicable) 
+• 
+Heavy metals (Mercury, Arsenic and Lead) 
+• 
+Loss on drying (where applicable) 
+• 
+Determination of ash value (where applicable) 
+• 
+Other purity tests (where applicable) 
+Qualitative and quantitative tests of the plant materials 
+These should be expressed in the following ways: 
+Medicinal plant material: 
+i. 
+The quantity of plant material must be stated; or 
+ii. 
+The quantity of plant material may be given as a range, corresponding 
+to a defined quantity of constituents of known therapeutic activity. 
+Example: Name of active ingredient Quantity 
+Sennae folium (a) 900 mg or (b) 830–1000 mg, corresponding to 25 mg of 
+hydroxyanthracene glycosides, calculated as sennoside B 
+Plant preparation: 
+ 
+ 
+ 
+16 
+ 
+ 
+i. 
+The equivalent quantity or the ratio of plant material to plant 
+preparation must be stated (this does not apply to fatty or essential 
+oils); or 
+ii. 
+The quantity of the plant preparation may be given as a range, 
+corresponding to a defined quantity of constituents with known 
+therapeutic activity (see example). 
+ 
+The composition of any solvent or solvent mixture used and the physical state of 
+the extract must be indicated. If any other substance is added during the 
+manufacture of the plant preparation to adjust the level of constituents of known 
+therapeutic activity, or for any other purpose, the  added  substance(s) must be 
+described as “other ingredients” and the genuine extract as the  “active 
+ingredient”. 
+Example: Name of active ingredient Quantity 
+Sennae folium (a) 125 mg ethanolic  extract (8:1) or 125 mg ethanolic extract, 
+equivalent to 1000 mg  of Sennae folium or (b) 100–130 mg ethanolic extract 
+(8:1), corresponding to 25 mg of hydroxyanthracene glycosides, calculated as 
+sennoside B 
+Other ingredient 
+Dextrose 20–50 mg 
+The determination of the presence of active components and quantity should be 
+described in detail 
+▪ 
+Determination of extractable value (where applicable) 
+▪ 
+For example Datura stramonium: the test of presence of alkaloids and the 
+amount of atropine 
+ 
+8.6 
+QUALITY CONTROL OF THE FINISHED PRODUCT 
+8.6.1. Specification of the Finished Product:  
+The minimum range of specifications for the finished products 
+should be as given in recognized pharmacopoeias. 
+a. 
+Microbiological contamination and tests for other toxins 
+b. 
+Uniformity of weight (for tablets, single-dose powders, suppositories,  
+ 
+17 
+ 
+herbal tea  in sachets  and capsules, etc.), disintegration time (for 
+tablets,  capsules,  suppositories  and  pills), hardness and friability 
+(for example, uncoated tablets), viscosity (for internal and external 
+fluids), consistency (semisolid preparations), and dissolution (tablets 
+or  capsules),  if applicable. 
+c. 
+Physical appearance such as color, odor, form, shape, size and texture 
+d. 
+Loss on drying or water content 
+e. 
+Identity tests, qualitative determination of relevant substances of the 
+plants (e.g. fingerprint chromatograms) 
+f. 
+Quantification of relevant active ingredients if they are identified and 
+the adequate analytical methods are available 
+g. 
+Limit tests for residual solvents 
+ 
+8.6.2. Brief Description of the Manufacturing Procedure and In Process Quality 
+Controls 
+ 
+This section will include a description of the manufacturing process  
+and packaging.  A summary of the method of manufacture and 
+packaging should include: 
+a. 
+Equipment used in the manufacture of the product 
+b. 
+The outline of the manufacturing process, in form of a chart, 
+indicating the critical points for in-process controls. 
+c. 
+For products that require special environmental conditions, this 
+information must be provided. 
+d. 
+Provide batch manufacturing records and batch packaging records 
+for the samples submitted with the application form. 
+e. 
+The description of the analytical control procedures and the 
+frequency with which they are performed during the manufacturing 
+process should be made. This refers to parameter at critical stage 
+points during manufacturing to confirm that the processes are 
+conforming with expected values. 
+ 
+8.6.3 
+Analysis of the Finished Product 
+Details of the test methods described here should be those applied 
+ 
+18 
+ 
+to confirm compliance with specifications listed under section 6.1 
+attaching the certificate of analysis from an independent recognized 
+quality control laboratory 
+The control tests for the finished product must be such as to allow 
+the qualitative and quantitative determination of the active 
+ingredients. If the therapeutic activity of constituents is known, this 
+must  be specified and determined quantitatively. When this is not 
+feasible, specifications must be based on the determination of 
+markers. If either the final product or the preparation contains 
+several plant materials and a quantitative determination of each 
+active ingredient is not feasible, the combined content of several 
+active ingredients may be determined. The need for such a procedure 
+must be justified. 
+ 
+8.6.4  Packaging and Labeling of the Finished Product (include package 
+insert) 
+The print size and color should be legible and in English or Kiswahili.  
+The product label should have the following: 
+a) 
+Name of the product 
+b) 
+Composition: The quantitative list of main active ingredients 
+including the common English name of the relevant plants. If the 
+product is imported, plant name should be mentioned along with 
+botanical name 
+c) 
+Dosage form 
+d) 
+Pack size 
+e) 
+Name of manufacturer and physical address of the manufacturing site 
+f) 
+Lot/Batch number 
+g) 
+Manufacture date and expiry date 
+h) 
+Storage conditions 
+ 
+8.6.5  Packaging and Labelling Requirements 
+This should contain the following information in English: 
+a) 
+Name and description of the product 
+ 
+19 
+ 
+b) 
+Composition: 
+c) 
+Pharmacological properties, where information is available 
+d) 
+Therapeutic indications 
+e) 
+Dosage: the minimum and maximum as well as average dosage 
+levels, must be stated (if appropriate, specified for children and the 
+elderly). 
+f) 
+Contraindications/precautions, Interactions and Cautions/warnings 
+g) 
+Withdrawals periods for veterinary herbal and complementary products 
+h) 
+Name and address of the manufacturer 
+i) 
+Overdose and treatment 
+j) 
+Adverse reactions 
+k) 
+Special considerations e.g. vaginal, rectal, and urethral preparations 
+l) 
+Storage conditions. 
+m) 
+Main vehicle/base 
+ 
+8.7 
+STABILITY STUDIES OF THE FINISHED PRODUCT 
+The physical and chemical stability of the product in the marketing 
+container should be determined under defined storage conditions to support 
+the shelf-life. This section should include a summary of the studies 
+undertaken (environmental conditions, batches, analytical procedures) and 
+a brief discussion of the results and conclusions, the proposed storage 
+conditions or shelf-life. Long term stability studies should follow ICH 
+guidelines. 
+ 
+ 
+ 
+20 
+ 
+8.8 PHARMACOLOGICAL AND TOXICOLOGICAL INFORMATION  
+The applicant should provide information on: 
+• 
+Safety of The Product 
+• 
+Ethno-medical information (Literature search) 
+• 
+Pharmacological properties including the desirable and undesirable 
+effects associated with the use of  the herbal or complementary product 
+including 
+Adverse/Side 
+Effects, 
+Contraindications, 
+Warning 
+and 
+precautions 
+• 
+Efficacy studies of the product 
+• 
+Dosage regimen: Therapeutic prescribed amount of the medicine to be 
+administered to  the patient. The measures and age group should be 
+included. 
+• 
+The onset and duration of  effect to support the proposed route of 
+administration and frequency  of dosage of the medicinal product should 
+be provided 
+• 
+Pharmacotoxicological Studies: The applicant should provide a report on 
+pharmacotoxicological data which should include pharmacological 
+activity, acute, sub-acute, chronic and sub-chronic tests. 
+• 
+The pharmacotoxicological test reports should be submitted from but not 
+limited to any of the under listed institutions: 
+(i) 
+Kenya Medical Research Institute 
+(ii) 
+University of Nairobi, School of Pharmacy and Faculty of Veterinary 
+Medicine
+ 
+21 
+ 
+DECLARATION BY AN APPLICANT 
+The declaration must be signed, dated and authenticated by an Official stamp.  
+No Applications will  be evaluated without authenticated declaration. 
+ 
+ KEY REFERENCE DOCUMENTS 
+ 
+a) 
+World Health Organization (WHO) Guidance on variations to a prequalified 
+product dossier. 
+b) 
+Pharmacy and Poisons Board (PPB) Guidance on Retention of Product 
+ 
+Addendum 1 
+GUIDANCE FOR APPLICATION OF VARIATIONS TO A PRODUCT: 
+The following is a matrix table on the expected timelines to be followed when applying 
+for Retention of Registered Herbal Products through the PRIMS system online 
+ 
+Current process 
+Timeline 
+Output 
+Receive 
+manual 
+applications  
+Upto Dec 2021 
+Receiving of variation applications using 
+the table 
+Projected 
+Automated 
+process 
+development 
+for 
+Application 
+of 
+Variation 
+Upto Dec 2022 
+Evaluation of variation using PPB PRIMS 
+system 
+ 
+Addendum 2 
+GUIDANCE FOR APPLICATION OF RETENTION FOR REGISTERED PRODUCTS: 
+The following is a matrix table on the expected timelines to be followed when applying 
+for Retention of Registered Herbal Products through the PRIMS system online 
+ 
+ 
+ 
+ 
+Current process 
+Timeline 
+Output 
+Receive 
+manual 
+applications  
+Upto Dec 2021 
+Receiving 
+of 
+variation 
+applications 
+using the table 
+ 
+22 
+ 
+Projected 
+Automated 
+process development for 
+Application of Variation 
+Upto Dec 2022 
+Evaluation of variation using PPB 
+PRIMS system 
+ 
+23 
+ 
+ANNEX I 
+SCHEDULE 
+(r.4) 
+Form 1 
+APPLICATION FORM FOR REGISTRATION OF HERBAL AND 
+COMPLEMENTARY MEDICINE (Complentary and Alternative Medicine) 
+(to be submitted in one hard copy and one electronic copy on a CD-ROM) 
+ 
+CONFIDENTIAL 
+The CEO, 
+Pharmacy and Poisons 
+Board, P. O. Box 
+27663-00506, 
+Lenana road, 
+NAIROBI. 
+ 
+Application Number 
+Date of submission of the 
+dossier 
+1ST Evaluator 
+Name 
+Signature 
+2ND Evaluator 
+Name 
+Signature 
+Date of 1st evaluation 
+Date of 2nd Evaluation 
+Number of volumes of files 
+received 
+1. PARTICULARS OF THE APPLICANT 
+1.1 
+Name of the Applicant, Physical Address, 
+Telephone, Fax and Email 
+1.2 
+Name of the Local Technical Representative (for 
+imported products only), Physical Address, 
+Telephone, Fax and Email 
+2. PARTICULARS OF THE PRODUCT 
+2.1 
+Product Name of the product 
+2.2 
+Dosage form and strength of the product 
+2.3 
+Therapeutic use(s) of the product 
+2.4 
+Visual description of the product 
+2.5 
+Type of container of the product 
+2.6 
+Pack size(s) of the product 
+2.7 
+Proposed Shelf life (in months) of the product 
+2.8 
+Storage conditions of the product 
+2.9 
+Country of origin of the product 
+ 
+24 
+ 
+2.10 Status of registration of the product in the country of 
+origin, authorization/registration number (attach 
+Certificate of Pharmaceutical product) 
+3. PARTICULARS OF THE MANUFACTURER 
+3.1 
+Name of the Manufacturer, Physical Address of the 
+manufacturing site, Telephone, Fax and Email 
+ 
+25 
+ 
+3.2 GMP status of the manufacturing site 
+4. COMPOSITION OF THE PRODUCT 
+4.3 List all active ingredient(s) used 
+4.4 List all non-active ingredient(s) used 
+5. QUALITY CONTROL OF RAW MATERIALS 
+5.1 Botanical identification of the Plant used 
+5.1.1 Botanical name 
+5.1.2 Brief description of the living plant 
+5.1.3 Macroscopic identification 
+5.1.4 Microscopic identification 
+5.2 Geographical source of the plant used 
+5.3 Harvesting of the plant 
+5.3.1 Stage of plant during harvesting 
+5.3.2 Time of harvesting 
+5.3.3 Season of harvesting 
+5.4 Method of drying 
+5.5 Storage of plant materials 
+5.6 Evaluation of plant materials 
+5.6.1 Purity Tests to include likely adulterants e.g. 
+soil, pesticides, 
+radioactive contamination, microbiological 
+limits, animal droppings, other plant parts, 
+heavy metals etc. 
+5.6.2 Qualitative and quantitative tests of the plant 
+materials 
+6. QUALITY CONTROL OF THE FINISHED PRODUCT 
+6.1 Specification of the Finished Product 
+6.2 Brief Description of the manufacturing 
+procedure and in process quality 
+controls (attach batch manufacturing records) 
+ 
+Scientific or 
+Botanical 
+Name 
+Common 
+Name or 
+Synonym 
+Part of Plant 
+used 
+Specification 
+(USP, BP, or In 
+house) 
+Quantity 
+per dosage 
+unit 
+Chemical 
+Constituent(s) 
+Scientific or 
+Botanical 
+Name 
+Common Name 
+or Synonym 
+Part of Plant 
+used (where 
+applicable) 
+Specification 
+Quantity 
+per dosage 
+unit 
+Reason for 
+inclusion 
+ 
+26 
+ 
+6.3 Analysis of the Finished Product 
+6.4 Certificate Of Analysis from an Independent 
+Recognized Quality 
+Control Laboratory 
+6.5 Packaging and Labeling of the Finished Product 
+( include Package 
+Insert) 
+7. STABILITY STUDIES OF THE FINISHED PRODUCT 
+8. PHARMACOLOGICAL AND TOXICOLOGICAL INFORMATION 
+8.1 Safety of the Product 
+8.1.1 Ethno-medical information (Literature search) 
+8.1.2 Toxicity Studies 
+8.2 Pharmacological Information of the Product 
+8.2.1 Efficacy studies of the product 
+8.2.2 Dosage regimen 
+8.2.3 Adverse/Side Effects 
+8.2.4 Contraindications, Warning and precautions 
+Declaration by an applicant 
+1. I, the undersigned certify that all the information in this form and 
+accompanying documentation is correct, complete and true to the 
+best of my knowledge. 
+2. I further confirm that the information referred to in my application 
+file is available for verification during GMP inspection. 
+3. I also agree that I am obliged to follow the requirements of the 
+Pharmacy and Poisons Board which are related to herbal and 
+complementary medicines. 
+4. I also agree that the undersigned has not marketed or advertised 
+this product in Kenya and will follow the PPB requirements for 
+advertisements of medicines 
+5. I also agree that the undersigned will implement a 
+Pharmacovigilance plan for this product in accordance with 
+PPB requirements 
+6. I also consent to the evaluation of information provided to the 
+Pharmacy and Poisons Board. 
+Name: 
+………………………………………………………… 
+Position in the company:
+ 
+………………………………………………………… 
+Signature and Date: ………………………………………………………… 
+Official stamp: 
+………………………………………………………… 
+ 
+27 
+ 
+OVERALL COMMENTS AND QUERIES 
+Conclusion of the 
+assessment 
+RECOMMENDED (no 
+outstanding issues) QUERY 
+RAISED 
+REJECTED 
+(Please delete which does not apply) 
+ 
+ 
+Revision History 
+ 
+Revision 
+Number  
+Date 
+Author/Reviewer Sections 
+Amended 
+Reason for change 
+1.0 
+August 
+2021 
+Burugu 
+Title 
+Change in title of 
+the document 
+ 
+ 
+ 
+Addendum 2 
+introduced 
+Addition for 
+variation to a 
+product 
+ 
+ 
+ 
+Addendum 3 
+Application for 
+Variation 
+ 
+ 
+ 
+List of 
+Contributors  
+List of contributors 
+added 
+2.0 
+January 
+2022 
+Burugu 
+Document 
+Number 
+revised 
+Number designated 
+as 
+HPT/PER/GUD/027 
+ 
+ 
+ 
+Citation  
+Addition of opening 
+and closing citations 
+ 
+ 
+ 
+Format  
+Glossary and 
+Abbreviations 
+addded 
+ 
+ 
+No part of this publication may be reproduced, stored in a retrieval system, 
+or  transmitted in any form, or by any means, electronic, mechanical, 
+photocopying, recording, scanning, or otherwise, without the prior permission 
+in writing from the  Pharmacy and Poisons Board. 
+ 
+ 
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 00506 Lenana Road Opposite Russian Embassy Nairobi, 
+Tel: +254-02-12345/6789, Fax: +254-02-12345, 
+Website: www.Pharmacyboardkenya.org.ke, 
+Email:info@pharmacyboardkenya.org. 
+ 

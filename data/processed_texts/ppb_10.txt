@@ -1,0 +1,1513 @@
+HPT/PER/GUD/044 
+   Revision No: 03 
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+ 
+ 
+ 
+GUIDELINES FOR DONATION OF HEALTH PRODUCTS 
+AND TECHNOLOGIES 
+ 
+ 
+ 
+ 
+ 
+ 
+AUGUST, 2025 
+ 
+ 
+ 
+ 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on the condition that the recommended citation below 
+is made. 
+ 
+Recommended citation: Republic of Kenya, Ministry of Health, Pharmacy 
+and Poisons Board, Guidelines for Donation of Health Products and 
+Technologies, Version 3, 2025 
+ 
+ 
+©Pharmacy and Poisons Board, 2025 
+ 
+All rights reserved: 
+ 
+No part of this publication may be reproduced, stored in a retrieval system, 
+or transmitted in any form, or by any means, electronic, mechanical, 
+photocopying, recording, scanning, or otherwise, without the prior 
+permission in writing from the Pharmacy and Poisons Board. 
+ 
+For clarifications, comments, or suggestions, please contact: 
+The 
+Chief 
+Executive 
+Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org  
+Website:  
+http://www.pharmacyboardkenya.org/
+HPT/PER/GUD/044 
+Guidelines for Donation of Health Products 
+and technologies 
+Revision No. 03 
+Effective Date: 
+06/08/2025 
+Review Date: 
+06/08/2030 
+ 
+ 
+ 
+ 
+ 
+ii
+Table of Contents 
+ABBREVIATIONS AND ACRONYMS ............................................................. iv 
+DEFINITION OF TERMS ................................................................................ v 
+ACKNOWLEDGEMENTS .............................................................................. vi 
+1.0 
+INTRODUCTION ................................................................................... 1 
+1.1 
+Background....................................................................................... 1 
+1.2 
+Legal Framework/Responsibility for Implementation ........................ 2 
+1.3 
+Scope ................................................................................................ 3 
+1.4 
+Objectives .......................................................................................... 3 
+1.5 
+Quality Assurance and Shelf Life ...................................................... 4 
+2.0 
+PRINCIPLES AND GENERAL REQUIREMENTS .................................... 1 
+2.1 
+General principles for a good donation; ............................................. 1 
+3.0 
+APPLICATION REQUIREMENTS FOR AUTHORIZATION FOR 
+DONATED HPTS ........................................................................................... 6 
+3.1 
+Submission of applications ............................................................... 6 
+3.2 
+Requirements for donation applications ............................................ 6 
+3.3 
+Specific requirements for donation of Medical Devices, IVDs and 
+reagents. .................................................................................................... 9 
+3.4 
+Specific requirements for donation of Cosmetics ............................. 11 
+3.5 
+Specific requirements for Dietary and Nutritional supplements ...... 13 
+3.6 
+Specific requirements for Cells and Tissues (Including donation of 
+blood and blood components). ................................................................. 15 
+4.0 
+TRANSPORT AND LOGISTICS ............................................................ 17 
+5.0 
+PHARMACOVIGILANCE AND POST-MARKET SURVEILLANCE 
+REPORTING ................................................................................................ 18 
+6.0 
+DISPOSAL OR WITHDRAWAL OF DONATED HPT(S) ......................... 19 
+7.0 
+MIXED DONATION APPLICATIONS. ................................................... 19 
+ 
+ 
+ 
+iii
+8.0 
+DONATION PROCESS FLOW CHART ................................................. 21 
+9.0 
+REFERENCES .................................................................................... 22 
+10.0 
+REVISION HISTORY ........................................................................ 23 
+11.0 
+LIST OF CONTRIBUTORS ............................................................... 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv
+ABBREVIATIONS AND ACRONYMS 
+GMP: 
+Good Manufacturing Practice  
+HPTs: 
+Health Products and Technologies  
+IVD: 
+In-Vitro Diagnostic Medical devices 
+ISO: 
+International Standards Organization  
+INN: 
+International Non-Proprietary Name 
+MD: 
+Medical device 
+WHO: 
+World Health Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+v
+DEFINITION OF TERMS 
+Health products: include human medicines, Health Products and 
+Technologies, medicinal substances, vaccines, diagnostics, medical devices, 
+blood products, traditional and alternative medicine, therapeutic feeds and 
+nutritional formulations, cosmetics and related products. 
+Health technologies: mean the application of organized knowledge and skills 
+in the form of devices, medicines, vaccines, procedures and systems 
+developed to solve a health problem and improve the quality of life. 
+Essential medicine: means medicine that satisfies the priority health care 
+needs of the population and is selected with due regard to disease prevalence 
+and public health relevance, evidence of clinical efficacy and safety, and 
+comparative costs and cost-effectiveness. 
+Health establishment: means the whole or part of a public or private 
+institution, facility, building, or place, whether for profit or not, that is 
+operated or designed to provide inpatient or outpatient treatment, diagnostic 
+or therapeutic interventions, nursing, rehabilitative, palliative, convalescent, 
+preventative or other health services. 
+In vitro diagnostic (IVD): means an IVD as defined in the Health Act 2017. 
+Medicine: means medicine as defined in the Health Act 2017. 
+Medical Device: means a medical device as defined in the Health Act 2017.  
+Recognized NRA: means a reference regulatory authority with which the 
+pharmacy and poisons board shares a recognition agreement.    
+ 
+ 
+ 
+ 
+ 
+vi
+ACKNOWLEDGEMENTS 
+The Pharmacy and Poisons Board expresses its gratitude to all 
+stakeholders who contributed to the development of these Guidelines for 
+the Donation of Health Products and Technologies.  
+ 
+ 
+ 
+ 
+1
+1.0 
+INTRODUCTION 
+1.1 
+Background 
+The Donation Guideline for applicants, established by the Pharmacy 
+and Poisons Board (PPB), provides a structured framework for 
+receiving, evaluating, and approving donations of Health Products 
+and Technologies. Recognizing the importance of donated Health 
+Products and Technologies in supporting public health initiatives, 
+especially in resource-limited settings, the PPB aims to ensure that 
+all donations meet the necessary safety, quality, and efficacy 
+standards. 
+Globally, the practice of donating Health Products and Technologies 
+plays a critical role in improving access to essential medicines and 
+Technologies in supporting healthcare systems during emergencies 
+or routine operations. However, the donation of substandard or 
+inappropriate products can burden healthcare systems, introduce 
+safety risks, and lead to inefficiencies. To mitigate these challenges, 
+the World Health Organization (WHO) and other health organizations 
+advocate for strict guidelines to govern donations, ensuring they are 
+beneficial, ethical, and aligned with recipient needs. 
+This Donation Guideline aligns with the WHO’s Guidelines for Drug 
+Donations and emphasizes the following key principles: 
+1. Quality Assurance: All donated products must meet national 
+and international quality standards to protect patient safety. 
+2. Relevance and Suitability: Donations should meet the 
+specific needs of the population and be aligned with the 
+national essential medicines list. 
+3. Transparent Process: The guideline outlines a transparent, 
+efficient process for submission, review, and approval of 
+donations, promoting equity and accountability. 
+4. Sustainability: Donations should be integrated into the 
+healthcare 
+system 
+without 
+creating 
+dependency 
+or 
+ 
+ 
+ 
+2
+operational strain. 
+The guideline serves as a reference document for applicants—such 
+as pharmaceutical companies, non-governmental organizations 
+(NGOs), and international agencies—seeking to donate Health 
+Products and Technologies within the country. It provides clear steps 
+for submission, documentation, quality checks, and final approval. 
+Additionally, it ensures that all donations are received ethically, 
+responsibly, and with a focus on maximizing public health benefit. 
+Expedited customs clearance is required for all donated medicines. 
+Customs and PPB officials managing medicine donations have the 
+responsibility to facilitate entry of approved donations. The criteria 
+for acceptance of donations is as advised by this guideline.  
+1.2 
+Legal Framework/Responsibility for Implementation 
+The Pharmacy and Poisons Board (PPB) is the Drug Regulatory 
+Authority established under the Pharmacy and Poisons Act, Chapter 
+244 of the Laws of Kenya. The Board is responsible for granting or 
+withdrawing marketing authorization for Health Products and 
+Technologies, subject to appropriate conditions, and reviewing such 
+conditions as necessary. 
+The Board in its mandate under section 3(b), ensures that all 
+medicinal products and technologies manufactured in, imported into 
+or exported from the country conform to prescribed standards of 
+quality, safety and efficacy. Therefore, this guideline serves to offer 
+quality assurance principles on HPTs donated by well-wishers into 
+Kenyan territory. 
+Furthermore, Rule 16(12) of the Pharmacy and Poisons Rules 2022, 
+has a provision for the donation of unregistered health products and 
+technologies.  
+In specific circumstances, there are compelling reasons to import 
+donations of Health Products and Technologies (HPTs). Therefore, 
+this guide provides detailed instructions for applying for such 
+ 
+ 
+ 
+3
+donations in Kenya. 
+1.3 
+Scope 
+The Donation Guidelines apply to all entities seeking to donate 
+Health Products and Technologies and technologies to healthcare 
+facilities and programs. This includes, but is not limited to, the 
+following: 
+Pharmaceutical 
+companies, 
+non-governmental 
+organizations (NGOs), International aid organizations, Private and 
+public sector entities and Individual donors. 
+The types of Health Products and Technologies covered include and 
+are not limited to, prescription only medicines (POM) and over-the-
+counter medicines (OTC), medical devices and diagnostic equipment, 
+Vaccines and biologicals, Consumables and medical supplies, and 
+indeed any other health-related products intended for use in 
+healthcare settings. 
+This guideline is intended to ensure that all medical product 
+donations are of good quality, safe, efficacious/effective, and aligned 
+with the healthcare needs and standards of the receiving facilities 
+and communities. It provides a transparent and standardized 
+process, helping both donors and recipients maximize the benefit of 
+medical product donations to support public health outcomes. 
+Further this guideline does not cover donations of returned health 
+products and technologies (unused medicines returned to a 
+pharmacy for safe disposal and/or free samples given to health 
+professionals) owing to quality and safety concerns. 
+ Finally, 
+the 
+guidelines 
+details 
+requirements 
+for 
+donation 
+applications, approval process and, accountability and compliance. 
+ 
+1.4 
+Objectives 
+The objectives of these guidelines are:  
+ 
+ 
+ 
+4
+a) To protect the public health from unsafe, poor quality and 
+ineffective Health Products and Technologies by ensuring 
+Good Donation Practices.  
+b) To facilitate the regulatory process and help ensure that 
+Health Products and Technologies are distributed and reach 
+to those in need.  
+c) To ensure that the Health Products and Technologies donated 
+are safe, of good quality and effective/efficacious. 
+d) To make sure that donated Health Products and Technologies 
+are in compliance with the needs of the country. These 
+guidelines must be read and used in conjunction with other 
+relevant regulations in place issued by the Board. 
+e) To provide clear, practical guidance to applicants such as 
+pharmaceutical 
+companies, 
+NGOs 
+and 
+other 
+donor 
+organizations on the standards, processes and requirement 
+for submitting eligible Health Products and Technologies for 
+donation. 
+1.5 
+Quality Assurance and Shelf Life 
+1.5.1 In alignment with international best practices and to 
+streamline the donation approval process, the PPB may 
+rely on/or recognize regulatory decisions made by 
+established 
+and 
+trusted 
+National 
+Regulatory 
+Authorities (NRAs) when reviewing medical product 
+donations.  
+1.5.2 If a donated product is already registered or approved 
+by a recognized NRA, such as the FDA, EMA, or other 
+stringent regulatory authorities, the PPB may accept 
+these regulatory approvals as evidence of the product’s 
+quality, efficacy, and safety.  
+1.5.3 For products that are not registered with a recognized 
+NRA, 
+the 
+Board 
+may 
+request 
+for 
+additional 
+documentation to confirm their quality, safety, and 
+ 
+ 
+ 
+5
+suitability for donation. These documentations may 
+include, but is not limited to, certificates of analysis, 
+manufacturing quality assessments, stability data, 
+and evidence of adherence to Good Manufacturing 
+Practices (GMP). The PPB may also request clinical 
+data or other pertinent documents to verify the efficacy 
+and safety profile of the product.  
+ 
+ 
+ 
+1
+2.0 
+PRINCIPLES AND GENERAL REQUIREMENTS  
+2.1 
+General principles for a good donation; 
+2.1.1 
+All donations for HPTs into the Country must be 
+authorized by the Board. 
+2.1.2 
+HPTs being donated into the country need not to be 
+registered locally but their quality attributes in respect 
+to 
+quality, 
+safety, 
+efficacy/effectiveness 
+and 
+performance must be demonstratable, verifiable and 
+traceable. It shall be the responsibility of the recipient 
+health establishment in Kenya to ensure that this is 
+provided when called upon by the Board. 
+2.1.3 
+The Board shall leverage on reliance and recognition 
+mechanisms that have already been established in the 
+management of donations. 
+2.1.4 
+The donated HPTs must comply with quality standards 
+of the donor country. 
+2.1.5 
+The donation of HPTs shall benefit the recipient of the 
+donation and the clients/patients shall be served to the 
+maximum extent possible. 
+2.1.6 
+For HPT(s) registered in Kenya, the applicant shall 
+attach a Letter of No Objection from the Marketing 
+Authorization Holder or Local Technical Representative 
+allowing for the importation of the donation(s). 
+2.1.7 
+A donation shall be given with full respect of the needs 
+of the recipient organization and without violation of 
+provisions of the Pharmacy and Poisons Act on quality, 
+safety, efficacy and performance of HPT’s. For example, 
+if the quality, safety, efficacy or performance of an item 
+is unacceptable in the country from which it originates, 
+it shall be deemed unacceptable as a donation into 
+Kenya. 
+ 
+ 
+ 
+2
+2.1.8 
+A Cover Letter from the recipient specifying their needs 
+and relevance to the disease pattern in the country 
+(This may be waived in acute emergencies);  
+2.1.9 
+It is the responsibility of the recipient institution or 
+health facility to specify its needs to prevent unsolicited 
+donations and those which may arrive unannounced 
+and unwanted. 
+2.1.10 Donations may include products which have market 
+authorization in Kenya or those without market 
+authorization in Kenya; 
+2.1.11 Donations must not be sent into Kenya unannounced. 
+At all times, there shall be sufficient communication 
+that is understood by all parties involved in the 
+donation process. Where needed, the Ministry of 
+Health, its agencies, programs, Counties as well as the 
+Pharmacy and Poisons Board may be consulted to offer 
+any technical guidance; 
+2.1.12 The donation application process is considered a pre-
+shipment activity; HPT(s) should not be imported 
+before approval by the Board. 
+2.1.13 Medicines that have been issued to patients and 
+thereafter returned to a pharmacy or other health 
+establishment, as well as decommissioned medical 
+equipment shall not be accepted as donated HPTs; 
+2.1.14 In certain circumstances and in accordance with 
+applicable legislation and guidelines, the re-use of 
+medical devices may be considered. 
+2.1.15 Health product and technology labeling must be in an 
+appropriate language, English or Kiswahili and should 
+adhere to the specific labeling requirements by the 
+prescribed guideline (PPB/HPT/PER/GUD/079); 
+2.1.16 The remaining shelf life should be at least 75% of the 
+ 
+ 
+ 
+3
+approved shelf life; 
+2.1.17 No expired product shall be shipped to Kenya. 
+2.1.18 HPTs with less than 75% remaining shelf-life to 
+expiration can be donated with Pharmacy and Poisons 
+Board’s approval, provided the Recipient is aware of 
+the product or medical device expiry prior to the 
+donation, and there is an agreement between the 
+Donor and Recipient that the product or medical device 
+can be utilized within the remaining shelf-life. 
+Country-specific expiry guidelines shall always be 
+followed, unless approval per the above has been 
+obtained; 
+2.1.19 The product’s generic name, and brand name should 
+appear on all packaging and shipping documents, 
+along with other relevant information e.g. expiration 
+date, 
+lot 
+and 
+control 
+numbers, 
+and 
+storage/temperature requirements; 
+2.1.20 The source of the HPTs must be declared; 
+2.1.21 The presentation, formulation and strength of the 
+donated HPTs (Where applicable) should align to the 
+Kenyan registration requirements and standards. 
+2.1.22 The HPTs donations must be packed in accordance 
+with all international shipping requirements. Each 
+shipment should be accompanied by a detailed 
+packing list; 
+2.1.23 HPTs requiring special storage conditions or handling 
+shall 
+be 
+clearly 
+labeled 
+as 
+appropriate 
+with 
+temperature requirements or “Fragile,” as needed. 
+Temperature controlled products should be considered 
+for separate shipping from other products. 
+2.1.24 Maintenance of temperature monitoring shall be 
+confirmed and documented. If data loggers are 
+ 
+ 
+ 
+4
+included in the packaging, there should be prior 
+agreement 
+between 
+the 
+Company, 
+donor 
+and 
+Distributing Partners regarding how and when they are 
+to be read and analyzed, and the actions taken if there 
+is an excursion. Clear instructions regarding those 
+expectations should be included with the control 
+thermometers; 
+2.1.25 The expiry date should be clearly labeled on all primary 
+and secondary packaging. 
+2.1.26 Medical Equipment that does not have commitments 
+for supply of spare parts, accessories, technical 
+assistance including and not limited to training of 
+personnel, or those that are to be discontinued for 
+manufacture over the next two years will not be 
+accepted for donations. Used equipment should be 
+decontaminated and sterilized before packaging and 
+shipment.  
+2.1.27 Data on donated HPT(s) entering into Kenya, the donor 
+details and recipient, will be registered from the start 
+of any donation effort including emergency situations. 
+A register of all donations approved will be maintained 
+at the Board.  
+2.1.28 The Board may, by notice in writing withdraw the 
+donation authorization issued in line with this 
+guideline where the donated HPT(s) do not conform to 
+the quality, safety and efficacy/effectiveness standards 
+as upheld by the Board that include and are not limited 
+to cases where: 
+2.1.28.1 The donated 
+HPT(s) are 
+found to 
+be 
+substandard, counterfeited or falsified. 
+2.1.28.2 The donor fails to provide complete, accurate 
+documentation of products. 
+ 
+ 
+ 
+5
+2.1.28.3 The donated HPT(s) fails to comply with good 
+distribution and transportation practices.  
+2.1.28.4 The donated HPT(s) has been withdrawn, 
+recalled, 
+or 
+discontinued 
+in 
+other 
+jurisdictions due to quality considerations.  
+2.1.28.5 The donor does not comply with delivery 
+requirements.  
+ 
+ 
+ 
+6
+3.0 
+APPLICATION REQUIREMENTS FOR AUTHORIZATION FOR 
+DONATED HPTS 
+3.1 
+Submission of applications  
+3.1.1 To access the donations applications portal, the applicant 
+MUST have an online account with PPB which can be 
+accessed by logging into PPB PRIMS Portal [Pharmacy and 
+Poisons Board Regulatory Information Management 
+System] (https://prims.pharmacyboardkenya.org).  
+3.1.2 The application shall be submitted through PPB PRIMS 
+online portal. (https://prims.pharmacyboardkenya.org). 
+3.1.3 A reference number is automatically assigned to the 
+application and it will be used in all subsequent 
+correspondences relating to the application throughout 
+the application process.  
+3.1.4 Upon submission, the application shall be marked 
+submitted and the applicant shall be able to monitor 
+evaluation out-come online. 
+3.2 
+Requirements for donation applications 
+3.2.1 The donation application consists of three main sections: 
+a) Section 1: Donor, Applicant, and Recipient 
+Details. Provide comprehensive information about 
+the donor, applicant, and recipient. 
+b) Section 2: Donated Item Details. Input details 
+related to the donated items, including the product 
+name (Brand name and Generic name), origin, 
+manufacturer details (address included), batch 
+number/lot number, manufacturing dates (where 
+applicable), and expiry dates. Ensure the data in 
+this 
+section 
+aligns 
+with 
+the 
+supporting 
+documentation in Section 3. 
+c) Section 3: Supporting Documentation. Submit 
+ 
+ 
+ 
+7
+the documentation to support the donation 
+application for applicable product classes.  
+ 
+3.2.2 Specific Requirements for donation of Medicines 
+including Biologicals  
+A donation application shall be accompanied by the 
+following documentation: 
+a) 
+Cover Letter provided by the recipient organization, 
+specifying their needs and in relevance to the 
+disease pattern in the country (This may be waived 
+in acute emergencies), and whether the donated 
+health products and technologies align with their 
+stated needs; 
+In exceptional cases where a cover letter may not be 
+feasible, the Board may consider signed contracts or 
+memorandums of understanding between the 
+recipient and sponsor/donor, authorized (signed 
+and dated). 
+b) 
+Quality statement/declaration signed and dated by 
+an authorized person from the donor confirming the 
+donated health products are of good quality, safe, 
+and efficacious. 
+c) 
+Certificate 
+of 
+Analysis 
+by 
+the 
+manufacturer 
+confirming the quality of the health products. 
+d) 
+Where vaccines are being donated, lot release 
+certificates from the competent authority in the 
+country of origin. 
+e) 
+Proforma 
+Invoice 
+and 
+Packing 
+List 
+as 
+per 
+international 
+shipping 
+regulations 
+specifying 
+contents by International Nonproprietary Name, 
+dosage form, quantity, batch number, expiry date, 
+volume/weight, and any special storage conditions. 
+ 
+ 
+ 
+8
+Include temperature monitoring documentation for 
+cold chain items (where applicable). Submit these 
+documents as a single attachment under the 
+"Proforma Invoice" section on the portal. 
+f) 
+Authorized and dated donation Certificate/letter by 
+the donor’s/sponsor’s authorized person. 
+g) 
+If the product(s) is registered in Kenya, the applicant 
+shall attach a Letter of No Objection from the 
+Marketing Authorization Holder or Local Technical 
+Representative allowing import of the donation. 
+h) 
+Details of registration or pending registration of the 
+HPT with any other regulatory authority, if available 
+3.2.3 
+For the approval of donations that include the 
+importation of Narcotics and Psychotropic drugs, 
+applications shall be in line with the functions of the 
+PPB under CAP 244 Section 3B (2) (h) and guideline 
+CEO/LCU/GUD/089. (Guideline for the management 
+of narcotics, psychotropics and precursor chemical 
+substances in Kenya.) 
+3.2.4 
+Based 
+on 
+benefit-risk 
+considerations, 
+for 
+pharmaceutical products and biologicals that have 
+not been registered in Kenya, the Board may request 
+for additional documentation to be provided including 
+but not limited to valid GMP Certificate Summary of 
+Product Characteristics, Patient Information Leaflet, 
+Certificate of Pharmaceutical Product, and primary 
+and secondary packaging information authorized by 
+the National Medicines Regulatory Agency from the 
+country of origin of the product where possible and 
+prospective distribution plan.  
+3.2.5 Safety Monitoring: Applicants are required to provide 
+the following post-approval commitments (for new 
+ 
+ 
+ 
+9
+molecules being donated in the country) during 
+application.  
+a) 
+Pharmacovigilance and Post Marketing Plan – The 
+plan shall include: 
+b) 
+Reporting channels for Individual Case Safety 
+Reports (ICSRs) and all suspected poor-quality 
+HPTs. 
+c) 
+Documented procedures for safety and quality 
+reporting and follow-up. 
+d) 
+Clearly defined roles and responsibilities of the 
+Donor, Distributor (if applicable), and Recipient in 
+relation to safety and quality surveillance. 
+e) 
+Training and sensitization plan on safety reporting 
+for healthcare providers. 
+f) 
+Demonstrated adherence to applicable local laws 
+and regulations on the Safety and Vigilance of 
+Health Products and Technologies. 
+g) 
+Most Recent Risk Management Plans (RMPs). 
+h) 
+Details 
+of 
+Ongoing 
+Studies 
+or 
+Surveillance– 
+Information on any active Phase I–IV clinical studies 
+or ongoing safety surveillance at the time of 
+application (if any). 
+ 
+3.3 
+Specific requirements for donation of Medical Devices, IVDs and 
+reagents.  
+3.3.1 A donation for medical devices and IVDs application shall be 
+accompanied by the following documentation: 
+i) 
+Cover Letter provided by the recipient organization, 
+specifying their needs and in relevance to the 
+disease pattern in the country (This may be waived 
+in acute emergencies), and whether the donated 
+ 
+ 
+ 
+10
+health products and technologies align with their 
+stated needs; 
+In exceptional cases where a cover letter may not be 
+feasible, the Board may consider signed contracts or 
+memorandums of understanding between the 
+recipient and sponsor/donor, authorized (signed 
+and dated). 
+a) 
+Quality statement/declaration signed and dated by 
+an authorized person from the donor confirming the 
+donated health products are of good quality, safe, 
+and efficacious. 
+b) 
+Certificate of conformity by the manufacturer 
+confirming the quality of the health products where 
+applicable. 
+In 
+exceptional 
+cases 
+including 
+refurbished MDs and class I MDs, this requirement 
+may not apply. 
+c) 
+Proforma 
+Invoice 
+and 
+Packing 
+List 
+as 
+per 
+international shipping regulations specifying the 
+following where applicable: brand name, contents by 
+quantity, batch/lot number, expiry date/equipment 
+lifecycle, volume/weight, and any special storage 
+conditions. 
+Include 
+temperature 
+monitoring 
+documentation 
+for 
+cold 
+chain 
+items 
+(where 
+applicable).  
+As much as practicable, submit the proforma invoice 
+and packing list as a single attachment under the 
+"Proforma Invoice" section on the portal. 
+d) 
+Authorized and dated donation Certificate/letter by 
+the donor’s/sponsor’s authorized person. 
+e) 
+If the product(s) is registered in Kenya, the applicant 
+shall attach a Letter of No Objection from the 
+ 
+ 
+ 
+11
+Marketing Authorization Holder or Local Technical 
+Representative allowing import of the donation. 
+f) 
+Evidence of 
+ISO 
+13485:2016 certification  or 
+other certifications of the 
+original manufacturer 
+for each medical device and/or IVD; 
+3.3.2 
+For the approval of donations that include the 
+importation of Narcotics and precursors, applications 
+shall be in line with the functions of the PPB under 
+CAP 
+244 
+Section 
+3B 
+(2) 
+(h) 
+and 
+guideline 
+CEO/LCU/GUD/089. (Guideline for the management 
+of narcotics, psychotropics and precursor chemical 
+substances in Kenya.) 
+3.3.3 
+Based on benefit-risk considerations, for medical 
+devices and IVD(s) that have not been registered in 
+Kenya, the Board may request for additional 
+documentation to be provided including but not 
+limited to valid ISO13485 Certificate, validation and 
+verification 
+information, 
+Instructions 
+for 
+Use, 
+Certificate of Free-sale, artworks and labelling 
+information authorized by the Competent Authority 
+from the country of origin of the product where 
+possible and prospective distribution plan. 
+3.4 
+Specific requirements for donation of Cosmetics 
+3.4.1 A donation for cosmetics application shall be accompanied 
+by the following documentation: 
+a) 
+Cover Letter provided by the recipient organization, 
+specifying their needs and in relevance to the 
+disease pattern in the country (This may be waived 
+in acute emergencies), and whether the donated 
+health products and technologies align with their 
+stated needs 
+ 
+ 
+ 
+12
+In exceptional cases where a cover letter may not be 
+feasible, the Board may consider signed contracts or 
+memorandums of understanding between the 
+recipient and sponsor/donor, authorized (signed 
+and dated). 
+b) 
+Quality statement/declaration signed and dated by 
+an authorized person from the donor confirming the 
+donated health products are of good quality, safe, 
+and efficacious. 
+c) 
+Certificate of conformity by the manufacturer 
+confirming the quality of the health products where 
+applicable.  
+d) 
+Proforma 
+Invoice 
+and 
+Packing 
+List 
+as 
+per 
+international shipping regulations specifying the 
+following where applicable: brand name, contents by 
+quantity, 
+batch/lot 
+number, 
+expiry 
+date, 
+volume/weight, and any special storage conditions.  
+As much as practicable, submit the proforma invoice 
+and packing list as a single attachment under the 
+"Proforma Invoice" section on the portal. 
+e) 
+Authorized and dated donation certificate/letter by 
+the donor’s/sponsor’s authorized person. 
+f) 
+If the product(s) is registered in Kenya, the applicant 
+shall attach a Letter of No Objection from the 
+Marketing Authorization Holder or Local Technical 
+Representative allowing import of the donation. 
+g) 
+Evidence of conformity to standards (including ISO 
+22716) certification or other certifications of the 
+original manufacturer for each product; 
+h) 
+Certificate of Free Sale confirming evidence that the 
+product is legally sold or distributed in the open 
+market, freely without restriction, and approved by 
+ 
+ 
+ 
+13
+the National competent authority in the Country of 
+Origin;  
+i) 
+For sunscreen products, Sunscreen Protection 
+Factor analysis shall be required. 
+j) 
+Based on benefit-risk considerations, for cosmetics 
+that have not been registered in the country of 
+origin, the Board may request for additional 
+documentation to be provided including but not 
+limited to valid ISO certificate, Certificate of free-
+sale, labelling information primary and secondary 
+packaging information authorized by the Competent 
+Authority from the country of origin of the product 
+where possible and prospective distribution plan.  
+3.5 
+Specific requirements for Dietary and Nutritional supplements 
+3.5.1 An application for donation for Dietary and Nutritional 
+supplements shall be accompanied by the following 
+documentation: 
+a) 
+Cover Letter provided by the recipient organization, 
+specifying their needs and in relevance to the 
+disease pattern in the country (This may be waived 
+in acute emergencies), and whether the donated 
+health products and technologies align with their 
+stated needs.  
+In exceptional cases where a cover letter may not be 
+feasible, the Board may consider signed contracts or 
+memorandums of understanding between the 
+recipient and sponsor/donor, authorized (signed 
+and dated). 
+b) 
+Quality statement/declaration signed and dated by 
+an authorized person from the donor confirming the 
+donated health products are of good quality, safe, 
+and efficacious. 
+ 
+ 
+ 
+14
+c) 
+Certificate 
+of 
+analysis 
+by 
+the 
+manufacturer 
+confirming the quality of the health products where 
+applicable.  
+d) 
+Proforma 
+Invoice 
+and 
+Packing 
+List 
+as 
+per 
+international shipping regulations specifying the 
+following where applicable: brand name, contents by 
+quantity, 
+batch/lot 
+number, 
+expiry 
+date, 
+volume/weight, and any special storage conditions.  
+As much as practicable, submit the proforma invoice 
+and packing list as a single attachment under the 
+"Proforma Invoice" section on the portal. 
+e) 
+Authorized and dated donation certificate/letter by 
+the donor’s/sponsor’s authorized person. 
+f) 
+If the product(s) is registered in Kenya, the applicant 
+shall attach a Letter of No Objection from the 
+Marketing Authorization Holder or Local Technical 
+Representative allowing import of the donation. 
+g) 
+Evidence of conformity to standards (including ISO 
+22000) certification or other certifications of the 
+original manufacturer for each product; 
+h) 
+Certificate of Free Sale where applicable confirming 
+evidence that the product is legally sold or 
+distributed in the open market, freely without 
+restriction, and approved by the National competent 
+authority in the Country of Origin;  
+i) 
+Based on benefit-risk considerations, for dietary and 
+nutritional supplements that have not been 
+registered in the country of origin, the Board may 
+request for additional documentation to be provided 
+including but not limited to valid ISO certificate, 
+directions of use and labelling information, and 
+primary and secondary packaging information 
+ 
+ 
+ 
+15
+authorized by the Competent Authority from the 
+country of origin of the product where possible and 
+prospective distribution plan. 
+3.6 
+Specific requirements for Cells and Tissues (Including donation 
+of blood and blood components). 
+3.6.1 An application for donation for Cells and Tissues shall be 
+accompanied by the following documentation: 
+a) 
+Cover Letter provided by the recipient organization, 
+specifying their needs and in relevance to the 
+disease pattern in the country (This may be waived 
+in acute emergencies), and whether the donated 
+health products and technologies align with their 
+stated needs 
+In exceptional cases where a cover letter may not be 
+feasible, the Board may consider signed contracts or 
+memorandums of understanding between the 
+recipient and sponsor/donor, authorized (signed 
+and dated). 
+b) 
+Quality statement/declaration signed and dated by 
+an authorized person from the donor confirming the 
+donated health products are of good quality, safe, 
+and efficacious. 
+c) 
+Tissue 
+detail 
+form 
+from 
+the 
+harvesting/retrieval/collecting 
+facilities 
+should 
+include the following details: 
+i. Collection date and time. 
+ii. Harvesting date and time 
+iii. Expiry date. 
+iv. Serological and other infectious diseases 
+testing results. 
+v. Genetic testing 
+ 
+ 
+ 
+16
+vi. Unique codes/numbers/identifiers 
+d) 
+Proforma 
+Invoice/Customs 
+invoice 
+as 
+per 
+international shipping regulations specifying the 
+following where applicable: contents by quantity, 
+batch/lot number, expiry date, volume/weight, and 
+any special storage conditions. Include temperature 
+monitoring documentation for cold chain items 
+(where applicable). Submit these documents as a 
+single attachment under the "Proforma Invoice" 
+section on the portal  
+As much as practicable, submit the proforma invoice 
+and packing list as a single attachment under the 
+"Proforma Invoice" section on the portal. 
+e) 
+Authorized and dated donation certificate/letter by 
+the donor’s/sponsor’s authorized person.  
+f) 
+Evidence of conformity to quality standards where 
+applicable certification or other certifications for the 
+harvesting/retrieval/collecting facilities; 
+g) 
+Individual Patient Prescription.  
+h) 
+Registration and/or accreditation documentation as 
+evidence that the harvesting institution is licensed 
+to carry out organ/cell transplant in the country of 
+origin.  
+i) 
+Local institutional health practice licensure as 
+evidence that the institution is licensed to carry out 
+organ/cell transplant in Kenya. 
+ 
+ 
+ 
+ 
+ 
+17
+4.0 
+TRANSPORT AND LOGISTICS 
+All donated HPTs shall be packed and transported in 
+accordance with guidelines of good distribution practice. 
+ 
+ 
+ 
+ 
+ 
+18
+5.0 
+PHARMACOVIGILANCE AND POST-MARKET SURVEILLANCE 
+REPORTING 
+5.1 
+Existing 
+pharmacovigilance 
+and 
+post-marketing 
+surveillance 
+mechanisms at the National Pharmacovigilance Centre shall apply to 
+the collection and dissemination of data related to quality, safety, and 
+efficacy information.  
+5.2 
+All adverse events shall be documented and reported as detailed in 
+the Guidelines on Safety and Vigilance of Health Products and 
+Technologies, January 2024 (HPT/PDS/VMS/GUD/030). 
+5.3 
+Any such reports should include concomitant medication(s) used. 
+5.4 
+In addition, information on patients treated with any of the medicines 
+during pregnancy shall be reported with follow-up on the outcome of 
+the pregnancy. 
+5.5 
+For donations where a Local Technical Representative (LTR) or 
+Marketing Authorization Holder (MAH) is present, the Qualified 
+Person Responsible for Pharmacovigilance (QPPV) shall ensure safety 
+monitoring and maintain a robust pharmacovigilance system. 
+5.6 
+For donations channeled through the Ministry of Health or other 
+governmental organizations, a designated pharmacovigilance focal 
+person shall be appointed to oversee all pharmacovigilance activities 
+related to the donated products and technologies in the facilities 
+where the HPTs shall be used. 
+5.7 
+For any other donations received through other channels other than 
+those stated above (Churches, Medical camps etc), a focal/contact 
+person shall be appointed to oversee all the pharmacovigilance 
+activities 
+5.8 
+The consignee of donated products shall have in place a system to 
+monitor and respond to any quality, safety and efficacy concerns of 
+the donated HPTs.  
+5.9 
+The recipient (consignee in Kenya) of donations and unregistered 
+medicinal substances shall be responsible for implementing 
+regulatory actions, such as quarantine, recalls or withdrawals of the 
+ 
+ 
+ 
+19
+donated HPTs as required by Guidelines for Recall and Withdrawal 
+of Health Products and Technologies (HPT/PDS/VMS/GUD/030) 
+6.0 
+DISPOSAL OR WITHDRAWAL OF DONATED HPT(S) 
+6.1 
+Management of expired products and where applicable reverse 
+logistics of expired products must be agreed in advance. In principle 
+the recipient should accept responsibility for the disposal or 
+withdrawal of donated medicines when necessary.  
+6.2 
+Recipients should ensure that a system is in place for collecting and 
+processing complaints about donated products. 
+6.3 
+The Sustainable Waste Management Act CAP 387C and Pharmacy 
+and Poisons Rules (Waste Management) 2022 should be followed  
+6.4 
+Where national laws or guidance are insufficient, WHO’s Guidelines 
+for safe disposal of unwanted pharmaceuticals in and after 
+emergencies should be followed. 
+6.5 
+The PPB guidelines for recall and withdrawal of Health Products and 
+Technologies and health technologies (HPT/PDS/VMS/GUD/030) 
+should be followed in the event a poor-quality product needs to be 
+recalled.  
+7.0 
+MIXED DONATION APPLICATIONS. 
+7.1 
+Donation consignments consisting of a combination of medicines 
+and medical devices and/or other HPT(s) as outlined in this 
+guideline shall be properly accounted for, shall be safe for use, and 
+shall be aligned with public health objectives. The respective 
+documentation detailed in the class specific requirements for each 
+product category as highlighted under section 3 of this guideline 
+should be adhered to. 
+7.2 
+Separate packaging is recommended for medicines and medical 
+devices within a single consignment including the use of distinct 
+outer boxes or crates labeled accordingly (e.g., "Medicines" and 
+"Medical Devices") to facilitate easy identification and minimize the 
+risk of cross-contamination or damage during transit.  
+ 
+ 
+ 
+20
+7.3 
+As far as practicable, each packaging type should include its 
+own Packing List to maintain clear documentation for both the 
+customs and PPB to ensure that all items can be quickly and 
+accurately identified and processed by the recipient organization. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21
+8.0 
+DONATION PROCESS FLOW CHART  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Donation Application Received Via the Prims Portal 
+ 
+https://prims.pharmacyboardkenya.org 
+ 
+Allocation of a reference number and Acknowledgement 
+receipt issued to the Applicant  
+Evaluation of Donation Application Commences. Following 
+evaluation, the applicant may be requested to submit 
+additional information  
+Response to Queries  
+Final decision and issuance of donation certificate by MA  
+As per the 
+Service 
+charter  
+As per the 
+Service 
+charter  
+ 
+As per the 
+Service 
+charter  
+ 
+Donation certificate issued by MA dept attached to PPB 
+Trade for Customs Clearance   
+ 
+ 
+ 
+22
+9.0 
+REFERENCES 
+1. The World Health Organization: Guidelines on donated Medicines 
+2. The World Health Organization: Medicine device donations: 
+considerations for solicitation and provision 
+3. The World Health Organization: Global Model Regulatory 
+Framework for Medical Devices including in vitro diagnostic 
+medical devices, 2017 
+4. Ministry of Health Kenya: National Guidelines on Donations of 
+Drugs and Medical Supplies 2011 
+5. PQMD’s Guidelines for Quality Medical Donations
+ 
+ 
+ 
+23
+10.0 
+REVISION HISTORY 
+Revision 
+No: 
+Date 
+Author 
+Section(s) 
+revised 
+Description of change 
+1.  
+14/07/2022 
+QAO 
+5.0 (g) 
+Included sub section (g) on the 
+letter of no objection 
+6.1 
+Requirement 
+for 
+donation 
+application of medicines. 
+6.2 
+Donation of Medical Devices and 
+IVDs: 
+7.0 
+Application attachments 
+9.0 
+Presentation of packaging and 
+labeling 
+10 
+PQMD’s Guidelines for Quality 
+Medical Donations 
+2.  
+10/01/2024 
+QAO 
+5.0 
+Disposal or withdrawal of donated 
+HPTs 
+6.0 
+Mixed Donation Applications 
+7.0 
+Donation process flow chart 
+3.  
+16/07/2025 
+QAO 
+1.2 
+Addition of provisions of Rule 16(12), 
+in 
+relation 
+to 
+donation 
+of 
+unregistered health products 
+3.2.5 
+Safety monitoring of new molecules 
+being donated.  
+3.6 
+Addition of conditions  
+(g) Individual Patient Prescription.  
+(h) Registration and/or accreditation 
+documentation as evidence that the 
+harvesting institution is licensed to 
+carry out organ/cell transplant in the 
+country of origin.  (This was added. 
+For update purposes to the revision 
+ 
+ 
+ 
+24
+history 
+5.0 
+Pharmacovigilance and post-market 
+surveillance reporting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25
+11.0 
+LIST OF CONTRIBUTORS 
+1. 
+Dr. Gachoki Kariuki, Deputy-Director, Drug Product 
+Evaluation 
+and 
+Registration 
+(DPER) 
+Department, 
+Directorate of Health Products and Technologies 
+2. 
+Dr. Ali Arale, Chief Principal Regulatory Officer, Drug 
+Product Evaluation and Registration (DPER) Department, 
+Directorate of Health Products and Technologies 
+3. 
+Dr. Cheworei Csichey, Chief Principal Regulatory Officer, 
+Regulatory Inspections. 
+4. 
+Dr. Paulyne Wairimu, Senior Principal Regulatory Officer 
+Product Evaluation and Registration (PER)(MD&IVDs) 
+Department, 
+Directorate 
+of 
+Health 
+Products 
+and 
+Technologies 
+5. 
+Dr. Solomon Koech, Senior Regulatory officer, Product 
+Evaluation and Registration (PER)(MD&IVDs), Department, 
+Directorate of Health Products and Technologies 
+6. 
+Mr. Alex Mutai, Assistant Principal Regulatory Officer, 
+Blood and Blood Products Department, Directorate of 
+Health Products and Technologies 
+7. 
+Mr Erick Kitangala, Assistant Principal Regulatory Officer, 
+Blood and Blood Products Department, Directorate of 
+Health Products and Technologies 
+8. 
+Dr. Anushree Patel, Regulatory officer, Drug Product 
+Evaluation 
+and 
+Registration 
+(DPER) 
+Department, 
+Directorate of Health Products and Technologies 
+9. 
+Dr. 
+Anne 
+Tibin, 
+Regulatory 
+officer, 
+Drug 
+Product 
+Evaluation 
+and 
+Registration 
+(DPER) 
+Department, 
+Directorate of Health Products and Technologies 
+10. Dr. Brayhan Kariuki, Regulatory officer, Drug Product 
+Evaluation 
+and 
+Registration 
+(DPER) 
+Department, 
+Directorate of Health Products and Technologies 
+ 
+ 
+ 
+26
+11. Mr. Anthony Kemboi, Quality Management Systems  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 - 00506 Lenana Road Opposite Russian Embassy Nairobi, 
+Tel: +254-02-12345/6789, Fax: +254-02-12345, 
+Website: www.pharmacyboardkenya.org.ke 
+Email: info@pharmacyboardkenya.org.ke 
+ 

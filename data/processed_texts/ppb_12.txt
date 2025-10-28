@@ -1,0 +1,5100 @@
+ 
+ 
+i 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+ 
+I. ABBREVIATIONS 
+GMP 
+Good Manufacturing Practices 
+CSDT 
+Common Submission Dossier Template 
+EUNB 
+European Union Notified Bodies 
+EWG 
+Experts Working Group 
+GMDN 
+Global Medical Devices Nomenclature 
+HIV 
+Human Immunodeficiency Virus 
+IMDRF 
+International Medical Devices Regulators Forum 
+IVD-MD 
+In-Vitro Diagnostics Medical Device 
+LAR 
+Local Authorized Representative 
+LM 
+Legal Manufacturer 
+PMA 
+Pre-Market Approval 
+STED 
+ Summary 
+Technical 
+Documentation 
+for 
+Demonstrating 
+Conformity to the Essential Principles of Safety and 
+Performance of Medical Devices 
+UDI 
+Unique Devise Identification 
+UMDNS 
+Universal Medical Device Nomenclature System 
+US FDA 
+US Food and Drug Administration 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+.      
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+v 
+ 
+II. 
+ACKNOWLEDGEMENTS 
+The Board acknowledges all the authors and contributors who contributed 
+to the preparation of this document. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vi 
+ 
+III. 
+GLOSSARY OF TERMS 
+The definitions given below apply to the terms as used in this document. They 
+may have different meanings in other contexts. 
+ 
+Applicant: is the person applying for a medical device registration. 
+Intended Use: means the objective intended use or purpose, as reflected in 
+the specifications, instructions and information provided by the medical 
+device owner of the medical device. 
+Label: in relation to a health product, means any written, printed or graphic 
+representation that appears on or is attached to the health product or active 
+ingredient or any part of its packaging, and includes any informational sheet 
+or leaflet that accompanies the health product or active ingredient when it is 
+being supplied. 
+Medical device: any instrument, apparatus, implement, machine, appliance, 
+implant, reagent for in vitro use, software, material or other similar or related 
+article, intended by the manufacturer to be used, alone or in combination, for 
+human beings, for one or more of the specific medical purpose(s) of: 
+a. diagnosis, prevention, monitoring, treatment or alleviation of disease, 
+b. diagnosis, monitoring, treatment, alleviation of or compensation for an 
+injury, 
+c. investigation, replacement, modification, or support of the anatomy or 
+of a physiological process, 
+d. supporting or sustaining life, 
+e. control of conception, 
+f. disinfection of medical devices, 
+g. providing information by means of in vitro examination of specimens 
+derived from the human body;  
+h. disinfection substances, 
+i. aids for persons with disabilities, 
+j. devices incorporating animal and/or human tissues, 
+k. Devices for in-vitro fertilization or assisted reproduction technologies. 
+and does not achieve its primary intended action by pharmacological, 
+immunological or metabolic means, in or on the human body, but which may 
+be assisted in its intended function by such means.   
+In-Vitro Diagnostics Medical Device (IVD-MD): a medical device, whether 
+used alone or in combination, intended by the manufacturer for the in vitro 
+examination of specimens derived from the human body solely or principally 
+to provide information for diagnostic, monitoring or compatibility purposes. 
+ 
+ 
+vii 
+ 
+Manufacturer; 
+a. Natural or legal person with responsibility for the design, manufacture, 
+packaging and labelling of a device before it is placed on the market 
+under his own name, regardless of whether these operations are carried 
+out by that person her/himself or on her/his behalf by a third party. 
+b. The obligations of this guideline to be met by manufacturers also apply 
+to the natural or legal person who assembles, packages, processes, fully 
+refurbishes and/or labels one or more ready-made products and/or 
+assigns to them their intended purpose as a device with a view to their 
+being placed on the market under his own name. 
+Product Owner (Legal Manufacturer (LM): a person who sells a medical 
+device under his own name, or under a trade-mark, design, trade name or 
+other name or mark owned or controlled by the person, and who is responsible 
+for one or more of the following activities:-designing, manufacturing, 
+assembling, processing, labelling, packaging, refurbishing or modifying the 
+device, or for assigning to it a purpose, whether those tasks are performed by 
+that person or on his behalf. 
+Serious Deterioration in the state of Health: in relation to a person, means; 
+• 
+a life-threatening illness or injury suffered by that person; 
+• 
+a permanent impairment of a bodily function of that person; 
+• 
+any permanent damage to any part of that person’s body; or 
+• 
+a condition requiring medical or surgical intervention to prevent any 
+such permanent impairment or damage. 
+Accessory: An article which whilst not being a device is intended specifically 
+by its Manufacturer to be used together with a device to enable it to be used 
+in accordance with the use of the device intended by the manufacturer of the 
+device. 
+Risk: Probability of occurrence of harm and the severity of that harm. 
+Universal Medical Device Nomenclature System (UMDNS)- A system used    
+to facilitate identifying, processing, filing, storing, retrieval, transferring, and 
+communicating data about Medical Devices. UMDNS Includes all Medical 
+Devices and Supplies, clinical laboratory Equipment and IVD’s, Generic Tests, 
+Medical Software related to Devices, Selected Hospital Furniture, Systems and 
+Test Equipment, as well as personal and assistive devices. 
+Unique Devise Identification (UDI)- A series of Numeric or alphanumeric 
+characters that is created through a coding system. It allows the unambiguous 
+identification of a specific product on the Market and represents the ‘access 
+Key’ to Device related information stored in the UDI data. The UDI comprises 
+the Device Identifier and Production Identifier. 
+Global Medical Devices Nomenclature (GMDN) – A Poly-Hierarchical system 
+of identifying Medical Devices into collective Terms which give a Device 
+attribute and high-Level terms allowing analysis of the Device by Product 
+attribute or Feature. 
+ 
+ 
+viii 
+ 
+Non-Invasive Medical Devices- A device which in whole or in part does not 
+penetrate the body, either through a body orifice or through the surface of the 
+body. 
+Invasive Medical Devices: A device, which, in whole or in part, penetrates 
+inside the body, either through a body orifice or through the surface of the 
+body.  
+Body orifice:  Any natural opening in the body, as well as the external surface 
+of the eyeball, or any permanent artificial opening, such as a stoma or 
+permanent tracheotomy. 
+Surgically invasive device: An invasive device which penetrates inside the 
+body through the surface of the body, with the aid or in the context of a 
+surgical operation. 
+Active Medical Devices: any medical device relying for its functioning on a 
+source of electrical energy or any source of power other than that directly 
+generated by the human body or gravity and which acts by converting this 
+energy. 
+Accessory: An article which, is intended specifically by its manufacturer to: 
+• 
+be used together with a parent device to enable that device achieve its 
+intended use as an IVD Medical Device. 
+• 
+or to augment or extend the capabilities of the parent device in 
+fulfilment of its intended use as an IVD Medical Device. 
+ 
+IVD Medical Device for Self-testing: Any device intended by the 
+manufacturer for use by lay persons. 
+Examination: Set of operations having the object of determining the value of 
+a property.  
+Note: In the IVD Medical Device industry and in many laboratories that use 
+IVD Medical Devices, examination of an analyte in a biological sample is 
+commonly referred to as a test, assay or analysis.  
+Harm: Physical injury or damage to the health of people or damage to property 
+or the environment.   
+Hazard:  Potential source of harm.  
+Intended use / purpose: The objective intent of the manufacturer regarding 
+the use of a product, process or service as reflected in the specifications, 
+instructions and information provided by the manufacturer.  
+Instrument: equipment or apparatus intended by the manufacturer to be 
+used as IVD Medical Device. 
+IVD Medical Device: A device, whether used alone or in combination, 
+intended by the manufacturer for the in-vitro examination of specimens 
+derived from the human body solely or principally to provide information 
+for diagnostic, monitoring or compatibility purposes. This includes 
+reagents, calibrators, control materials, specimen receptacles, software, 
+and related instruments or apparatus or other articles.  
+Reagent: chemical, biological or immunological components, solutions or 
+preparations intended by the manufacturer to be used as IVD Medical 
+Devices.  
+Lay person: individual that does not have formal training in a specific field or 
+discipline  
+ 
+ 
+ix 
+ 
+Near patient (testing): Testing performed outside a laboratory environment 
+by a professional other than a laboratory professional, generally near to, 
+or at the side of, the patient. 
+Risk:  Combination of the probability of occurrence of harm and the severity 
+of that harm. 
+Self-testing: Testing [examination to align with labelling standard] performed 
+by lay persons. 
+Specimen receptacle: a device, whether vacuum-type or not, specifically 
+intended by their manufacturers for the primary containment of 
+specimens derived from the human body.  
+Transmissible agent: An agent capable of being transmitted to a person, as 
+a communicable, infectious or contagious disease. 
+Transmission: The conveyance of disease to a person.  
+Local Authorized Representative – Any manufacturer based outside the 
+Kenya must designate a local authorized representative (LAR). The appointed 
+LAR must provide written evidence that they are acting with the consent of 
+a manufacturer located outside the Kenya. The responsibility of the LAR is, 
+to assure regulatory compliance and serve as the central communication 
+pathway with the PPB 
+ 
+ 
+1.0 
+PART ONE 
+1.1 INTRODUCTION 
+The Pharmacy and Poisons Board (PPB) is the National Regulatory Authority 
+established under the Pharmacy and Poisons Act, Cap 244 of the Laws of 
+Kenya, to regulate the profession of pharmacy and ensure the safety, quality 
+and efficacy/effectiveness of health products and health technologies 
+including medical devices and in vitro diagnostics. 
+Medical devices including In vitro diagnostics constitute a vital component of 
+health products and health technologies that contribute to the attainment of 
+the highest attainable standards of health for all citizens as envisioned in 
+Article 43 of the Constitution of Kenya, 2010.  
+In 2007, the World Health Organization advised member states on the 
+mechanism for the regulation of Medical Devices including In-Vitro 
+Diagnostics (IVD’s) through Resolutions 67.29 and Resolutions 60.27 
+‘regulatory system strengthening for medical products and the WHO global 
+model regulatory framework for Medical Devices including In vitro diagnostics 
+(IVDs).’  This recommendation was adopted by the PPB in 2012 resulting in 
+ 
+ 
+10 
+ 
+evaluation of applications for marketing authorization of medical devices 
+including IVDs.  
+This Guideline provides a framework for Evaluation and Registration of 
+Medical Devices Including In-Vitro Diagnostics including the evaluation 
+pathways to be followed for different applications. It provides for the risk 
+classification of medical devices according to the different classes and specifies 
+the requirements applicable for each class.  
+This document should be read alongside other PPB Guidelines and applicable 
+legislation such as the Nuclear Regulatory Act (Cap 243) which provides for 
+the production and use of radiation sources and management of radioactive 
+waste. Applicants are therefore reminded that, notwithstanding the 
+registration of a medical device under the Pharmacy and Poisons Act, the 
+supply and use of any medical device including IVDs in Kenya should also 
+comply with the requirements under other applicable legislations and the 
+requirements to monitor market performance of the registered medical devices 
+including IVDs. 
+This Guideline should be implemented while taking into consideration Good 
+Regulatory Practices (GRP) that guide all personnel at the PPB in making 
+regulatory decisions that are legal, clear, transparent, consistent, impartial, 
+proportionate, prompt, and scientifically sound. 
+If there are any contradictions between the guidance documents and any 
+written law, the latter shall take precedence. 
+1.2 LEGAL FRAMEWORK 
+The PPB is empowered under Section 3A(a) of the Pharmacy and Poisons Act 
+(“the Act”) to formulate guidelines for regulating the manufacture, import and 
+export, distribution, sale and use of medical products including medical 
+devices and IVDs.  
+Further, the PPB is empowered under Section 3A of the Act grant or withdraw 
+marketing authorization for medical devices and IVDs subject to appropriate 
+ 
+ 
+11 
+ 
+conditions and revise such conditions for marketing authorization as 
+necessary. 
+This guideline is intended to implement the requirements of the Act stipulated 
+under Section 3B(2)(b) to ensure that all medicinal products manufactured in, 
+imported into or exported from the country conform to prescribed standards 
+of quality, safety and efficacy. In doing so, Section 3B(2)(i) of the Act requires 
+the PPB to consider applications for approval and alterations of dossiers 
+intended for use in marketing authorization of medicinal substances. 
+In performing its regulatory functions, the PPB is empowered under Section 
+3B92) (r) of the Act to collaborate with other national, regional and 
+international institutions on medical substances regulation. This enables the 
+PPB to recognize and rely on registrations and certifications from notified 
+bodies and listed reference regulatory authorities. The remains independent, 
+responsible and accountable for the decisions taken, even when it relies on 
+the decisions, assessments and information of others. 
+1.3 SCOPE: 
+This Guideline describes the processes and general requirements for the 
+submission of an application for registration of medical devices and In-Vitro 
+diagnostics.  
+a) These guidelines shall apply to medical devices and their accessories.  
+b) Where a device is intended to administer a medicinal product, that 
+device shall be governed by this guideline, without prejudice to the 
+corresponding regulations for registration of medicinal products for 
+human and veterinary use set by the PPB.  
+c) Where a device incorporates, as an integral part, a substance which, if 
+used separately, may be considered to be a medicinal product and 
+which is liable to act upon the body with action ancillary to that of the 
+device, that device must be assessed and authorized in accordance with 
+this guideline. 
+ 
+ 
+12 
+ 
+2.0 
+PART TWO 
+2.1 RISK BASED CLASSIFICATION FOR MEDICAL DEVICES 
+The inherent risk of a medical device depends substantially on its intended 
+purpose and the effectiveness of the risk management techniques applied 
+during design, manufacture and use. 
+Other considerations in risk classification include its intended user(s), its 
+mode of operation and the technology used. Examples of factors influencing 
+risk classification include the duration of medical device contact with the 
+body, the degree of invasiveness, whether the medical device delivers 
+medicinal products or energy to the patient, whether they are intended to have 
+a biological effect on the patient and local versus systemic effects, etc. Annex: 
+5; Risk Based Classification of Medical Devices and Examples (In-Exhaustive 
+List) 
+Table 1: Risk Based Classification of Medical Devices with Examples  
+CLASS RISK LEVEL 
+EXAMPLES 
+A 
+Low Risk 
+➢ Cotton wool, bandages, urine collection 
+bottles; compression hosiery; non-
+invasive electrodes, hospital beds. 
+B 
+Low-moderate 
+➢ Urinary catheters, tracheal tubes. 
+➢ Orthodontic materials, removable 
+dental prosthesis 
+C 
+Moderate-high 
+➢ urethral stent; contact lenses for long-
+term continuous use 
+➢ catheter containing sealed 
+radioisotopes 
+D 
+High Risk 
+➢ Pacemakers; Implantable defibrillators. 
+➢ prosthetic heart valves; cardiovascular 
+stents; pacemaker leads and electrodes; 
+deep brain stimulation electrodes; 
+cerebrospinal catheter. 
+ 
+ 
+13 
+ 
+ 
+Medical devices vary greatly in complexity and application. Examples range 
+from simple devices such as tongue depressors, medical thermometers, 
+and disposable gloves to advanced devices such as computers which assist in 
+the 
+conduct 
+of medical 
+testing, implants 
+including 
+those 
+used 
+for 
+contraception and prostheses. The design of medical devices constitutes a 
+major segment of the field of biomedical engineering. 
+For the purpose of this guidance document, the rules applied for the risk-
+based classification of Medical devices are as below; 
+a. Non-Invasive Medical Devices - A device which in whole or in part does 
+not penetrate the body, either through a body orifice or through the 
+surface of the body. 
+b. Invasive Medical Devices- A device, which, in whole or in part, 
+penetrates inside the body, either through a body orifice or through the 
+surface of the body.  
+i. 
+Body orifice:  Any natural opening in the body, as well as the 
+external surface of the eyeball, or any permanent artificial 
+opening, such as a stoma or permanent tracheotomy. 
+ii. 
+Surgically invasive device:  An invasive device which penetrates 
+inside the body through the surface of the body, with the aid or 
+in the context of a surgical operation. 
+c. Active Medical Devices - any medical device relying for its 
+functioning on a source of electrical energy or any source of power 
+other than that directly generated by the human body or gravity and 
+which acts by converting this energy 
+d. Exceptional Classes  
+i. 
+Medical Devices which Incorporate Medicinal Substances 
+i. 
+Devices manufactured from or incorporate non-viable animal 
+tissues or their derivatives 
+ii. 
+Medical Devices- used for sterilizing or Disinfecting Medical 
+Devices 
+iii. Medical 
+Devices 
+Incorporating 
+Animal 
+or 
+Human 
+Cells/Tissues/Derivatives 
+ 
+ 
+14 
+ 
+iv. Medical Devices for Ophthalmic Solutions Use 
+v. 
+Medical Devices for Contraception or the prevention of Sexually 
+Transmitted Diseases’ (STD’s) 
+vi. Implantable Medical Devices for Long-term Use 
+e. More than one class 
+a. 
+Where a medical device has features that place it into more than 
+one class, classification and conformity assessment should be 
+based on the highest class indicated. 
+b. 
+The actual classification of a Medical Device is determined by the 
+Manufacturer and on its intended use. 
+2.1.1 Determination of Device Classification using this Rules-based 
+System 
+The manufacturer should: 
+a. Decide if the product concerned is a medical device, using the 
+appropriate definition. 
+b. Document the intended use of the medical device. 
+c. Take into consideration all the rules that follow in order to establish the 
+proper classification for the device, noting that where a medical device 
+has features that place it into more than one class, classification and 
+conformity assessment should be based on the highest class indicated. 
+d. Determine if the device is subject to special national rules that apply 
+within a particular jurisdiction. 
+ 
+Explanatory notes: 
+ 
+Once a rules-based system has been adopted, modifications may occasionally 
+be required. For example, where through post-market experience, a level of 
+risk for a type of medical device, classified using the criteria found in this 
+guidance document is no longer appropriate, consideration should be given to 
+re-classification of the device type by a change to the rules. 
+Similarly, the historical knowledge of a device may necessitate a different class 
+than the one assigned by the initial classification. Unlike the principle of 
+reclassification after post-market experience with a device, this principle of 
+ 
+ 
+15 
+ 
+historical knowledge should be applied immediately when the initial 
+classification yields an inappropriate result. 
+Where special national rules are applied, resulting in a device class other than 
+that suggested by the present rules, then a different conformity assessment 
+procedure may be indicated. This may have an effect on the acceptability of 
+such devices for free movement in countries where these present rules have 
+been adopted unless other, or additional, conformity assessment procedures 
+are carried out. 
+2.1.2 Level of Regulatory Requirements 
+The level of regulatory requirements increases as the level of the device risk 
+class increases.  These regulatory controls may include, for example:  
+i. 
+Operation of a quality system (recommended for all devices); 
+ii. 
+Submission of technical data; 
+iii. Product testing using in-house or independent resources; 
+iv. Documentation of clinical evidence to support the manufacturer’s 
+claims; 
+v. 
+The need for and frequency of independent external audit of the 
+manufacturer’s quality system; and 
+vi. Independent external review of the manufacturer’s technical data 
+2.2 REGISTRATION REQUIREMENTS OF MEDICAL DEVICES 
+This document aims to provide guidance on the preparation of a product 
+registration application for general medical devices using the Common 
+Submission Dossier Template (CSDT). In particular, this document serves to 
+clarify the information to be submitted in each section of the CSDT and the 
+format that this information is to be submitted in. 
+ 
+The CSDT document contains elements of the International Medical Devices 
+Regulators Forum (IMDRF) guidance document titled “Summary Technical 
+Documentation for Demonstrating Conformity to the Essential Principles of 
+Safety and Performance of Medical Devices (STED)”. 
+ 
+ 
+ 
+16 
+ 
+Product registration applications for medical devices submitted to PPB must 
+be prepared in the format set out in the CSDT document 
+ 
+All medical devices including in vitro diagnostic medical devices must be 
+registered with PPB prior to placing them on the Kenya market unless 
+exempted by the Regulations. 
+2.2.1 The Common Submission Technical Dossier (CSTD) format of 
+submitting an application for Medical Devices 
+The Common Submission Dossier Template (CSDT) will have the following 
+components to be provided by the applicant depending on the class of the 
+Medical device applied for, along with the list of configurations of medical 
+devices to be registered; 
+I. 
+Administrative information 
+Administrative information includes details of the Applicant, the details of the 
+Local Representative Person, Physical Address for the Local Representative 
+Person and Details of the Registered Business of the Local Representative 
+Person and contact details domiciled in Kenya.  
+II. 
+ Manufacturer name and address 
+The application should identify the name and location of the legal 
+manufacturer (Legal Manufacturer) who is placing the devices on the 
+market. This should be consistent across the device labels and Declarations 
+of Conformity. 
+Whereas a company is contracted to Manufacturer a Medical Device for 
+another; Details of the Contracting company must also be provided. 
+a. Manufacturer Site Name 
+b. Site Address 
+c. Physical Address 
+d. Town 
+e. Postal Code 
+f. Street 
+ 
+ 
+17 
+ 
+g. Country 
+h. Contact Person 
+i. Contact Person Cell No. 
+j. Email address of the contact Person 
+k. Local Responsible Persons address 
+ 
+Table 2: Types of marketing clearances or approvals from each 
+country/region 
+No. Country/Region 
+Approval Type 
+1.  
+Australia  
+Australia Therapeutic Goods Administration (TGA) 
+license 
+2.  
+Canada 
+Health Canada License 
+3.  
+European Union 
+(EU) 
+For General Medical Devices  
+-Annex II Section 3 or Annex V of MDD (for Class IIA)   
+-Annex II Section 3 or Annex III coupled with Annex V 
+of MDD (for Class IIB)  
+ -Annex II Section 3 and 4 of MDD (for Class C)  
+ -Annex II Section 3 and 4 of AIMDD (for active 
+implantable medical devices) 
+4.  
+Japan 
+Ministry of Health, Labour and Welfare (MHLW) 
+License 
+5.  
+United States of 
+America (USA) 
+US FDA 510(K) clearance letter [510(K) exempted 
+products do not qualify for abridged evaluation route.]; 
+or • US FDA PMA approval letter 
+6.  
+Ireland 
+Irish Health Products Regulatory Authority  
+7.  
+Saudi Arabia 
+Saudi Arabia Food and Drugs Authority 
+8.  
+Switzerland 
+Swiss Medic 
+ 
+ 
+ 
+ 
+ 
+ 
+III. 
+Local Authorized Representative and Subcontractors 
+The name and location of the Representative in Kenya should be identified. 
+Details of the local Authorized Representatives, its registered Business 
+including location should be provided.  
+ 
+ 
+18 
+ 
+The Pharmacy and Poisons Board will register all the Local Authorized 
+Representative for Medical Devices in Kenya. 
+Only one Local Authorized Representative should be identified, and this 
+should be consistent across the device labels, and Declarations of 
+Conformity. 
+This requirement is mandatory before registration approvals are granted. 
+    III.a The roles of a Local Authorized Representative include; 
+a. Acting as primary contact point with the competent authority; 
+b. Keeping technical file documentation ready and available for the 
+Competent Authority; 
+c. Protecting documentation confidentiality because they are authorized 
+to show them to the Competent Authorities only; 
+d. Notification of Adverse Event and Incident Reporting to the Competent 
+Authorities (Sign a declaration to provide regular vigilant reports to 
+PPB); 
+e. Assurance of supply chain regulatory compliance and accountability of 
+medical devices; 
+f. Product Safety Vigilance reporting; 
+g. Field 
+Safety 
+Corrective 
+Action 
+implementation, 
+management, 
+coordination and reporting; 
+h. Assistance with technical file documentation; 
+i. Annual review of your technical file; 
+j. Notification of changes and amendments to the Medical Device 
+regulations that affect the device(s). 
+          III.b Responsibilities of the Local Authorized Representative  
+a. Any manufacturer based outside of Kenya must designate a local 
+authorized Representative (LAR). The appointed LAR must provide 
+written evidence that they are acting with the consent of a manufacturer 
+located outside Kenya (Annex 1: Letter of Authorization Template) 
+b. The responsibility of the LAR is, to assure regulatory compliance and 
+serve as the central communication pathway with the PPB. 
+c. The Local Authorized Representative Must obtain a letter from the 
+Manufacturer appointing them as the Exclusive LAR, With the 
+exclusive rights for distribution, sale, importation and registration of 
+the medical device.  
+ 
+ 
+19 
+ 
+d. A Manufacturer / MAH/Innovator cannot appoint more than One LAR 
+for the {Same product line or product portfolio} to be sold in Kenya.  
+e. An applicant may have more than One LAR for all their product 
+portfolios’  
+f. Whereas there exists more than One LAR, The LAR shall control a 
+product portfolio or product line in the Kenyan jurisdiction and 
+Kenyan Market. 
+g. Local Technical Representatives will be required to apply for a license to 
+trade in the business of Medical Devices including IVDs. 
+ 
+a) 
+Device identification 
+A complete list of product codes should be provided. GMDN Code and Device 
+subcategory/ Generic Device Group should be identified. 
+b) 
+Device classification 
+Please indicate the device classification and rationale. The rationale should 
+address each point of the selected classification rule. 
+If the device contains multiple components that on their own might be classed 
+differently, please note: 
+i. 
+If several rules apply to the same device, based on the performance 
+specified for the device by the manufacturer, the strictest rules 
+resulting in the higher classification shall apply. 
+ii. 
+If multiple classification rules apply, all should be identified. 
+GMDN/Unique Identification Number (UIN) 
+c) Related previous submissions 
+Details of any other submissions relevant to the application, such previous 
+submissions and all outcomes from such reviews. 
+d) Accessories 
+The following information should be provided for any accessories (including 
+Class A) associated with the device: 
+i. 
+Brief description of the accessory/ accessories and how they are 
+used with the device(s) 
+ii. 
+Classification of the accessories and rationale for classification 
+iii. Technical Documentation references  
+ 
+ 
+20 
+ 
+iv. Please 
+note 
+the 
+Technical 
+Documentation 
+of 
+the 
+main 
+machine/equipment should demonstrate compatibility of the 
+devices with any applicable accessories. 
+e)  Device description 
+The device description should enable understanding of the design, packaging, 
+sterilization, or other characteristics of the device. 
+Sufficient information should be provided to distinguish different variants of 
+the device, and the intended purpose of different design features. For example, 
+if one variant of a device has a coating and another does not, what is the 
+intended purpose of that coating, and why are both variants considered to 
+meet the requirements for safety and performance? 
+Pictures and schematics should be provided wherever possible to enable an 
+understanding of the device design features and intended purpose. 
+f) Intended use 
+The intended use should provide sufficient detail to explain the disease 
+conditions the device is intended to treat or monitor, the basic principles of 
+operation (ie intended users and environment), the intended patient 
+population and the indications and contraindications of the device. 
+• indications and contraindications should be supported by objective 
+evidence (eg, evidence provided in the risk assessment and clinical 
+evaluation reports). 
+• The intended use must include use of the device as a “medical device” 
+as defined by Article 1 of the respective Directives unless this is 
+otherwise justified. 
+• Please ensure the intended use been described consistently throughout 
+the file (eg. in the IFU, risk management documentation, clinical 
+evaluation report, and design requirements). 
+• If the application includes a change to the intended use, all sections of 
+the file should be reviewed for potential impact. 
+• For clarity it is suggested that this should be separate from the device 
+description. 
+g) Market history 
+ 
+ 
+21 
+ 
+All submissions should be accompanied by a market history to enable an 
+understanding of the context of device development. 
+• If the device is new and has never been marketed by the manufacturer 
+anywhere in the world, please state this explicitly. 
+• For existing devices: 
+i. 
+Ensure that a market history is provided indicating the nature 
+and timing of any changes and that any associated documents 
+(i.e. 
+risk 
+analyses, 
+labelling, 
+clinical 
+evaluation 
+reports, 
+verification/ validation data, etc.) account for these changes. 
+h) Sales, complaints and vigilance 
+Please provide sales, complaints and vigilance data for the last 5 years 
+for your device, if available. 
+• Sales and complaints data should include sales outside the country of 
+Origin/ Manufacturer. A breakdown should be provided to enable 
+evaluation of sales and complaints by region. 
+• Complaints data should be evaluated rather than just listed. For 
+example, why is the complaints rate considered acceptable? Have any 
+trends been noted, or corrective actions taken? What is the status of 
+these actions? 
+• Full details of vigilance issues should be provided, including the 
+status of any Field Safety Corrective Actions or Notices.  
+i) Draft Declaration of Conformity 
+Ideally, the Declaration of Conformity should include: 
+• Manufacturer’s name and address. 
+• EU Representative’s name and address (if applicable). 
+• Compliance Statement with relevant Directive, indicating that the 
+manufacturer is exclusively responsible for the Declaration of 
+Conformity route (ISO 13485 certification) 
+• Product name(s), or other unambiguous reference of declaration 
+scope (may be supplemented with an appendix with product codes 
+and descriptions if appropriate). 
+• Signature line indicating appropriate responsible person and date.  
+ 
+ 
+22 
+ 
+ 
+j) Manufacturing process and subcontractors 
+• A detailed overview of the manufacturing processes should be 
+provided. This should clearly identify any special or proprietary 
+processes, and any subcontracted processes. 
+• The name and location of key manufacturing subcontractors should 
+be provided. 
+• If new key subcontractors are used, provide copies of their ISO 13485 
+certificates. 
+• Validation documents for processes that can affect final product 
+quality should be provided. 
+ 
+k) General labeling provisions 
+Name and Place of Business  
+• The label of a device shall contain the name and place of business 
+of manufacturer, packer, or distributor including the Plot No, street 
+address, city and county.  
+• If the firm's street address is in the local telephone directory, the 
+street address can be omitted.  
+• If the firm listed on the label is not the manufacturer, the firm 
+information must be qualified by an appropriate statement such as, 
+"Manufactured for..." or  
+"Distributed by" Intended Use 
+• If a packer, distributor, or seller intends a device for uses other than 
+those intended by the person from whom he received the device, 
+these parties must furnish adequate labeling in accordance with the 
+new intended use.  
+• If a manufacturer knows or has information indicating that his 
+device is to be used for conditions or purposes other than which it 
+was intended, he is required to provide adequate labeling in 
+accordance with such other uses. (An example of this might be a 
+manufacturer of dental X-ray equipment who is routinely selling his 
+product to podiatrists.)  
+ 
+ 
+23 
+ 
+ 
+•  Medical devices and invitro diagnostics labeling Label 
+requirements for the immediate container   
+The label information must appear on the outside container or wrapper, 
+or be easily legible through the outside container or wrapper.  
+If the presence of any label information will interfere with the test, the 
+information may appear on the outside wrapper or container instead of 
+the label.  
+If the immediate containers are too small, or otherwise unable to bear 
+labels with sufficient space, then the required labeling as listed below 
+annotated with an asterisk (*) may appear on the outer container 
+labeling only.  
+The label for IVD's must state the following information, except in cases 
+where it is not applicable:  
+• 
+Information identifying the device, or the kind of device; 
+• 
+Information explaining how to use the device safely; and 
+• 
+The established and proprietary names of the product;  
+• 
+The intended use or uses, e.g., diabetes screening, etc.;  
+• 
+A statement of warnings or precautions for users (hazardous 
+substances) and any other warnings appropriate to user hazards, 
+and a statement "For In Vitro Diagnostic Use;"  
+• 
+Name and place of business of the manufacturer, packer, or 
+distributor/Authorized representative;  
+• 
+Lot or control number traceable to the production history  
+-  Multiple unit products must have traceability of the individual 
+units;  
+-  Instrument lot numbers must allow for traceability of 
+subassemblies; and  
+- A multiple unit product that requires use of its components as 
+a system should have the same lot number, or other suitable 
+form, identification, on all units.  
+• 
+Other information about the device that the manufacturer 
+considers would be useful for patients. 
+ 
+ 
+24 
+ 
+For Reagents 
+• 
+Established (common or usual) name;  
+• 
+Quantity, proportion, or concentration of all active ingredients: 
+e.g mg., weight per unit volume, mg./dl etc., and for reagents 
+derived from biological materials the source and measure of its 
+activity, e.g., bovine, I.U., etc.;  
+• 
+Storage 
+instructions, 
+i.e., 
+temperature, 
+humidity, 
+etc.; 
+Instructions for manipulation of products requiring mixing or 
+reconstitution;  
+• 
+Means to assure that the product meets appropriate standards of 
+purity, quality, etc., at the time of use, including one or more of 
+the following:  
+a) expiration date (date beyond which the product is not to be 
+used);  
+b) statement of any visual indication of alteration;  
+c) instructions for a simple check to assure product 
+usefulness;  
+l) User information 
+• Documents may include labels, instructions for use (IFU), patient 
+implant cards, surgical manuals, brochures, marketing literature, 
+etc. 
+• Legible versions of all levels of labels should be provided (e.g. 
+secondary pack, primary pack) and should be representative of the 
+finished form, showing all included symbols. 
+• It is sufficient to show information concerning labelling in English 
+only, but items to be translated and the plan for translation should 
+be indicated. 
+• If possible, provide drawings with the packaging configuration 
+(showing placement of all labels) and label specifications. 
+• The position of labels on the finished product should be clear. If any 
+of the packaging is printed with information for the user (including 
+pictures/ schematics of the device) this should also be provided. It 
+should be clear how the labelling documents are controlled. 
+ 
+ 
+25 
+ 
+• Supporting evidence should be provided for any claims made in the 
+labelling or marketing literature. 
+• Please ensure that any specific requirements of relevant harmonized 
+standards are addressed in the labels and information for use. 
+ 
+m) Design verification and validation 
+Product design specifications should be adequately documented, outlining the 
+key functional characteristics and technical performance specifications for 
+each device, along with verification/ validation tests to substantiate that they 
+have been achieved. 
+Overall, manufacturers should demonstrate that design requirements have 
+been identified in accordance with the intended use, safety and performance 
+requirements, risk assessments, and relevant harmonized and other key 
+standards. 
+To this end, the source of design requirements should be indicated. Although 
+compliance to harmonized and other key standards is expected, please be 
+aware that testing beyond that required by the standards may be necessary 
+to demonstrate compliance of your device to the relevant Essential 
+Requirements. Design requirements should be mapped to the intended use, 
+performance and risks identified for the device. 
+A design verification/ validation strategy document and/ or summary of the 
+outcomes should be provided. Verification/ validation results should be 
+provided for each design requirement. If compliance has been demonstrated 
+without testing, an appropriate rationale should be provided. 
+Test reports should document objectives, acceptance criteria, materials & 
+methods, results, protocol deviations, and conclusions. 
+a. If test results are considered representative for a group of devices (i.e. 
+worst-case devices or comparative devices), then a justification for 
+leveraging protocol(s) and report(s) should be provided. 
+b. Similarly, if testing has been undertaken on prototypes or devices that 
+otherwise do not represent the finished goods, a justification for the 
+adequacy of this testing should be provided. 
+ 
+ 
+26 
+ 
+c. If multiple design verification / validation studies were conducted please 
+provide a flow chart or table that shows how the studies were conducted 
+and highlight which study ultimately demonstrates that the design 
+meets the product performance specifications. 
+d. For line extensions or devices based on “existing” devices, it may be 
+possible to leverage data from testing undertaken on the existing 
+devices. In this case, a rationale for the use of existing data must be 
+provided, including: 
+e. Evidence of equivalence to the comparative devices – a table showing 
+the similarities and differences greatly speeds the review process. Key 
+things to consider include (but may not be limited to): 
+i. 
+materials of construction 
+ii. 
+indications for use 
+iii. methods of manufacturing 
+iv. key design features 
+An evaluation of the impact of any differences on clinical safety, performance, 
+and testing undertaken. The evaluation should support the conclusion that 
+the new devices do not represent a worst case in terms of testing as compared 
+to the devices tested. 
+n) Risk management 
+A thorough design, clinical and process Risk Management assessment should 
+be conducted for the entire life-cycle of the device (from initial design concept 
+up to and including device disposal). This should be updated (as appropriate) 
+with data from PMS. 
+a. The risk management documentation should provide a template for 
+preparedness, indicating whether controls (i.e. process validations, 
+biocompatibility, 
+sterilization, 
+clinical, 
+shelf-life 
+or 
+other 
+key 
+verification / validation tests) have reduced all risks as low as possible 
+(vs. as low as reasonably practicable) to acceptable levels in light of 
+state-of-the-art for the product(s) under review. 
+ 
+ 
+27 
+ 
+b. The assessment must demonstrate that the benefits outweigh all the 
+residual risks when the device is used as intended. 
+c. The analysis must demonstrate that appropriate controls (design out 
+then protective measures) have been applied to all risks. 
+d. Information for use may reduce occurrence of some risks, but it cannot 
+reduce the occurrence of residual risks. Please ensure appropriate use 
+and quantification of risk control measures in the risk assessment. 
+e. A copy of Risk Management Procedure(s) that include the definition of 
+any rating systems used for risk analysis and risk acceptability should 
+be provided. 
+For line extensions and devices based upon existing devices, the manufacturer 
+may conclude that pre-existing risk management documentation is 
+applicable. However, there are always risks associated with even small 
+changes, and a summary to demonstrate that these risks have been 
+considered (and have been adequately mitigated) should be provided. 
+ 
+o) Clinical evaluation 
+Clinical evaluations are required for all medical devices.  
+a. It is useful to provide a copy of the procedure for conducting Clinical 
+Evaluation. 
+b. If a pre-market clinical investigation has been conducted, please 
+ensure: 
+i. 
+appropriate documentation (CIP, letter of “no objection” from the 
+Competent Authority, evidence of Ethics approval, final report, 
+etc.) is provided; 
+ii. 
+the final clinical trial protocol agrees with that submitted to the 
+Competent Authority, and evidence that any deviations have 
+been agreed with the CA has been provided; 
+iii. the final report demonstrates that requirements for all safety 
+and performance endpoints have been met; 
+iv. there are no open clinical investigations relevant to your devices 
+with endpoints related to safety or performance claims. 
+ 
+ 
+28 
+ 
+c. Representative clinical data must be provided for all indications and 
+variants. Justifications for why one group of data is representative of 
+another must be clearly substantiated. 
+d. If no clinical investigation data is available for the subject device and 
+the Clinical Evaluation relies on a justification of equivalence of 
+comparative devices, the justification must identify and discuss the 
+potential clinical impact of all differences between the subject and 
+comparable devices relative to intended use, technical, or biological 
+factors. 
+e. A justification should be provided (with appropriate evidence) to 
+substantiate the qualifications of individual(s) conducting/ approving 
+the clinical evaluation. 
+f. Some indications or specific clinical benefit claims may require the 
+Notified Body to consult with an external expert (a surgeon or similar). 
+Contracting a confidential source that is mutually agreed with the 
+Manufacturer may be time consuming. 
+p) PMS and PMCF 
+A Post-Marketing Surveillance Plan (PMS Plan)/risk management plan 
+commensurate with the product risk, lifetime, and available clinical data 
+should be provided for each device/ device family. 
+a. Ensure that the PMS plan/Risk Management Plan adequately 
+justifies the monitoring of the safety and intended performance of the 
+device. 
+b. If Post-Market Clinical Follow-up (PMCF) is not part of the PMS Plan, 
+please ensure that adequate justification is provided, based on the 
+risk and clinical data available for the device. 
+c. A copy of the Post Market Surveillance procedure should also be 
+provided. Please note that the procedure is not the same as the Plan 
+– the former refers to the manufacturer’s quality system 
+a.  requirements and is generic to all devices marketed by a 
+manufacturer, whereas the latter is specific to the subject device, and 
+can only be generated in light of data from the clinical evaluation and 
+risk evaluation for that device. 
+ 
+ 
+29 
+ 
+q) Biological safety 
+Biological safety assessments should be undertaken in accordance with ISO 
+10993-1. See Clause 7 of this standard for guidance with respect to 
+appropriate 
+report 
+content. 
+Link 
+to 
+ISO 
+10993-1 
+https://www.iso.org/standard/44908.html 
+Biocompatibility assessments should include evidence of compliance for the 
+finished device (including consideration of all materials and all manufacturing 
+steps). It is not sufficient to simply state that devices have been manufactured. 
+r) Sterilization validation 
+Sterilization validation is reviewed separately by laboratories pre-qualified by 
+PPB; 
+i. Appropriate rationales are required if sterilization validation 
+is by adoption into an existing family or sterilization validation. 
+ii. Devices for End-User-Sterilization also require review of 
+cleaning and sterilization validation/ adoption with respect to 
+parameters recommended in the IFU. 
+iii. Documents should describe: 
+• use of “State of the art” process validation methods; 
+• the bio-burden controls and monitoring; 
+• the product qualification (Dose verification, BI suitability 
+testing, SAL calculations); 
+• the process qualification (Performance qualification, Dose 
+Map, BI Inactivation’s). 
+Additional guidance relating to specific document types is provided below: 
+s) Shelf-Life Validation should include: 
+a. Protocol (with acceptance criteria for each test performed) and 
+appropriate test references; 
+b. A clear statement of the intended shelf life; 
+c. A clear statement defining the sterilization status of the test 
+samples (1X, 2X sterilized); 
+d. A summary of the accelerated aging parameters (temperature and 
+humidity) and how the aging times were calculated; 
+ 
+ 
+30 
+ 
+e. A statement covering Real Time Aging plans; 
+f. A clear delineation of statistically significant sample quantities; 
+g. Actual physical/microbiological test data reports supporting the 
+expiration date, or post aging, claim (peel testing, burst testing, dye 
+testing, etc.); 
+h. A summary of the ship testing/ transit simulation testing conducted 
+and applicable test reports. 
+t) Sterilization Validation – Radiation should include: 
+a. Protocol; 
+b. Dosimetry mapping data (typically from the sterilization contractor); 
+c. Validation of bio-burden testing method & test report; 
+d. Bio-burden determination & test reports; 
+e. Calculation or determination of verification dose and full dose; 
+f. Validation of product sterility testing method & test report; 
+g. Sterility testing of verification dose samples & test report. 
+ 
+u) Software 
+Appropriate documentation is required if the medical devices are either stand-
+alone software or rely upon software. 
+If medical device is stand-alone software, guidance for the qualification and 
+classification of the software should be provided with a report of the same. 
+There should be a rationale for why the software is a medical device and for 
+its classification. If applicable, the software should be broken down into 
+modules, some that have a medical purpose and some that do not. The 
+modules with a medical purpose must comply with the requirements of the 
+Medical Device requirements and must carry own jurisdiction marking. The 
+non-medical device modules are not subject to the requirements for medical 
+devices. 
+Ensure all relevant harmonized and non-harmonised software standards have 
+been considered. Ensure the software systems/ modules/ items have been 
+assigned safety classifications based on standards. 
+Include documentation on the medical device software life-cycle processes 
+implemented (e.g., software design/ development, maintenance/ change 
+ 
+ 
+31 
+ 
+management, risk management, configuration management, problem 
+resolution, verification, and validation processes). 
+Include software development process documentation (e.g., software 
+development plan, software requirements specification, software architecture, 
+software detailed design, software unit testing procedures/ reports, software 
+integration testing procedures/reports, and software system testing) and 
+maintenance process documentation (e.g. software maintenance plan). Note: 
+Some documentation may or may not be required per the standards based on 
+software system/ module/ item risk classification. 
+Include software risk assessment documentation (e.g. software hazard 
+analysis, software failure mode and effects analysis, fault tree analysis, 
+traceability). Note: Some documentation may or may not be required per the 
+standards based on software system/ module/ item risk classification. 
+Instructions for use that detail the validated sterilization and cleaning 
+parameters. Please be aware that reference to “standard hospital practice” is 
+insufficient; 
+v) Packaging 
+Packaging testing should address requirements for both transit endurance 
+and shelf-life stability, and be undertaken in accordance with relevant 
+standards. 
+A complete packaging Bill of Material (BoM) and diagrams should be provided 
+to illustrate how each device is packaged. 
+If all packaging/device combinations have not been tested, a rationale based 
+on worst case (ie heaviest and lightest devices, sharp or pointy edges, etc) 
+should be provided. 
+Any change to packaging is considered a significant change. For Class C 
+devices, these must be reported to the PPB for review and certificate re-issue. 
+w) Shelf life and stability testing 
+Shelf life is normally considered to be the time the device can be kept in the 
+packaging prior to use. This is not the same as “Lifetime”. 
+ 
+ 
+32 
+ 
+Shelf-life testing is not restricted to the packaging. The device itself should be 
+subject to shelf-life testing, or a rationale provided to demonstrate why its 
+characteristics are not expected to degrade over the claimed shelf life. 
+If shelf-life testing is based on accelerated age testing, this should be 
+accompanied by a plan for real time testing. Real time testing should be 
+underway by the time documentation is submitted for review. 
+x) Product lifetime 
+The lifetime of the device should be defined, and considered relative to other 
+parts of the dossier (e.g. risk management, clinical evaluation, PMS). Product 
+lifetime is normally considered as the time from manufacture until the device 
+ceases to fulfill its intended use. This is not the same as “Shelf Life”. 
+Medicinal 
+substances/Human 
+blood 
+derivative 
+& 
+recombinant 
+protein/peptides. The submission should clearly indicate whether or not the 
+device contains any medicinal substances and /or human blood derivatives 
+and/ or recombinant peptides/proteins. Full justification on the primary 
+mode of action of the device and evidence that the above components are 
+ancillary should be provided. 
+Devices which incorporate, as an integral part, an ancillary medicinal 
+substance or an ancillary human blood derivative or ancillary recombinant 
+protein/ peptide are subject to requirements of additional Regulations. 
+y) Animal derived substances 
+The submission should clearly indicate whether or not the device utilizes, or 
+is used in conjunction with, any materials of animal origin. 
+Manufacturing subcontractors should be consulted if appropriate to establish 
+if any such substances are used during manufacture, even if they do not 
+feature in the final device (e.g. lubricants or mould release agents which may 
+use animal derived substances). If in doubt, speak with your Scheme Manager 
+before submitting a dossier. 
+Evidence demonstrating compliance with the relevant clauses of EN ISO 
+22442 (parts 1-3) should be provided. 
+Link: https://www.iso.org/standard/68553.html 
+Devices which incorporate materials from TSE-susceptible species will be 
+subject to conformity assessment. 
+ 
+ 
+33 
+ 
+z) Grouping Requirements for Product Registration 
+Each submitted application shall contain only one of the following: 
+➢ 
+a SINGLE medical device; 
+➢ 
+one medical device FAMILY; 
+➢ 
+one medical device SYSTEM; 
+➢ 
+one medical device GROUP; 
+➢ 
+one dental grouping term (DGT). 
+Table 3: Summary of Application Process To Be Followed For All Medical 
+Devices 
+Step 1 
+Step 2 
+Step 3 
+Step 4 
+Submission 
+Of 
+Application 
+To 
+The 
+Online 
+Portal  
+Verification 
+Of 
+Submitted 
+Application  
+Reviewing of the 
+application  
+Regulatory outcome 
+and or issuance of 
+registration 
+certificate 
+2.3 REGISTRATION OF CLASS A MEDICAL DEVICES 
+2.3.1 Submission Requirements 
+Upon submission via the Online Portal of the Pharmacy and Poisons Board, 
+prims.pharmacyboardkenya.org the product application fee will be charged 
+immediately. Review of the application by PPB is based on the data set 
+submitted by the applicant. An input request will be issued to the applicant if 
+clarification or additional information is required. A regulatory decision is 
+made based on the outcome of PPB’s review of the submitted application. Only 
+applications which satisfy the registration requirements will be registered and 
+listed. 
+The stop-clock starts whenever PPB issues an input request and ends when 
+PPB receives a complete and satisfactory response from the applicant. 
+Table 4: Summary of Submission Requirements for listing of Class A 
+No.  
+Document Required 
+1. 
+Letter of Authorization 
+2. 
+Proposed Device Labelling (Actual Artworks, Packaging material in 
+contact with the product and or the Secondary packaging to be provided) 
+3. 
+Pre-Verification certificate for a Notified Body in liaison with KEBS. 
+Certificate of Conformity also acceptable in place of PVOC  
+ 
+ 
+34 
+ 
+4. 
+IFU, patient information leaflet and promotional material (including 
+brochures and catalogues) 
+5. 
+Certificate of analysis (COA) for of all materials of animal, human, 
+microbial and/or recombinant origin used and manufacturing process 
+(Where applicable) 
+6. 
+For Personal protective equipment, i.e Face Masks, Surgical face masks, 
+Gloves; a certificate of analysis for conformity through a PPB recognized 
+Laboratory must be obtained. 
+7. 
+Information on sterilization method(s) and validation standard(s) used 
+(where applicable) 
+8. 
+Regulatory approval from the country of origin of the product. 
+9. 
+Proof of Quality Management 
+System (QMS) – E.g. ISO 13485 certificate, conformity to US FDA Quality 
+System Regulations (Certificate of free sale), Japan MHLW Ordinance 
+169 or attestation stating adequate QMS, CE Certificate from the EU/UK 
+IRELAND 
+2.4 REGISTRATION OF CLASS B MEDICAL DEVICES 
+2.4.1 Evaluation Routes 
+There are four evaluation routes for Class B medical devices: 
+a) Full Evaluation Route 
+b) Abridged Evaluation Route 
+c) Expedited Class B Registration (EBR) Evaluation Route 
+d) Immediate Class B Registration (IBR) Evaluation Route 
+Abridged, expedited and immediate evaluation routes are set out 
+according to a confidence-based approach, leveraging on the approvals by 
+listed medical device reference regulatory agencies (8) and/or prior safe 
+marketing history of the Class B devices. The types of approvals that qualify 
+for the abridged, expedited and immediate evaluation routes are: 
+i. 
+Australia Therapeutic Goods Administration (TGA) Device Registration 
+License 
+ii. 
+Health Canada (HC) Device Registration License 
+iii. Japan Ministry of Health, Labor and Welfare (MHLW) 
+• Pre-Market Certification from a Japanese Registered Certification 
+Body 
+• -Pre-Market Approval from MHLW 
+iv. US Food and Drug Administration (US FDA) 
+ 
+ 
+35 
+ 
+a. 510K clearance 
+b. Premarket Approval (PMA) 
+v. 
+European Union Notified Bodies (EU NB) via EC certificates issued 
+according to 
+a) Directive 93/42/EEC Annex II section 3 or Annex V for Class IIA 
+devices 
+b) Directive 98/79/EC Annex IV or Annex V with Annex VII for List 
+B and self-testing IVDs 
+vi. Irish Health Products Regulatory Authority  
+vii. Swiss Medic 
+viii. Saudi Arabia Food and Drugs Authority 
+2.4.1.1 Full Evaluation Route 
+a) Eligibility Criteria 
+A medical device that has not obtained any prior approval from any 
+Reference Regulatory Agencies at the point of application will be subject 
+to the full evaluation route. 
+b) Submission Requirements 
+• Letter of Authorization  
+•  List of configurations of medical devices to be registered 
+• Common Submission Dossier Template (CSDT) 
+• Executive Summary 
+• Essential Principles Checklist and Declaration of Conformity  
+• Device Description 
+• Detailed 
+Information 
+of 
+Design 
+Verification 
+and 
+Validation 
+Documents 
+• Full reports of Preclinical Studies including the detailed sterilization 
+validation, if applicable 
+ 
+ 
+36 
+ 
+• Clinical Evidence, including publications and full reports of the 
+studies referenced in the clinical evaluation report Proposed Device 
+Labelling 
+• Risk Analysis 
+• Manufacturer Information 
+• Name and address of the manufacturing site(s) 
+• Proof of Quality Management System – e.g. ISO13485 Certificate, 
+Conformity to US FDA Quality System Regulations or Japan MHLW 
+Ordinance 169 
+• Manufacturing Process – Flow Chart 
+For medical device with labelled use beyond the inherent performance of 
+the device, additional clinical data may be requested to substantiate the 
+proposed label use. 
+Table 5: Summary of Submission Requirements (Class B/C/D) 
+No
+.  
+Document Required 
+1. 
+ 
+Letter of Authorization 
+2. 
+ 
+List of configurations of medical devices to be registered to 
+be provided 
+3. 
+ 
+Executive Summary 
+4. 
+ 
+Essential 
+Principles 
+Checklist 
+and 
+Declaration 
+of 
+Conformity 
+5. 
+ 
+Device Description 
+6. 
+ 
+Detailed Information of Design Verification and Validation 
+Documents 
+7. 
+ 
+Full reports of Preclinical Studies including the detailed 
+sterilization validation, if applicable 
+8. 
+ 
+Risk Analysis 
+9. 
+ 
+Manufacturer 
+Information 
+(Including 
+details 
+of 
+Manufacturing Site(s)) 
+ 
+ 
+37 
+ 
+10.  
+Manufacturing Flow Process 
+11.  
+Clinical Evidence, including publications and full reports of 
+the studies referenced in the clinical evaluation report 
+Proposed Device Labelling 
+12.  
+Proof of Quality Management 
+System (QMS) – E.g. ISO 13485 certificate, conformity to 
+US FDA Quality System Regulations (Certificate of free 
+sale), Japan MHLW Ordinance 169 or attestation stating 
+adequate QMS, CE Certificate from the EU/UK IRELAND 
+ 
+2.4.1.2 Abridged Evaluation Route 
+a) Eligibility Criteria 
+A medical device that has obtained at least two reference regulatory 
+agency approval for a labelled use identical to that intended for 
+marketing in Kenya at the time of submission will qualify for the 
+abridged evaluation route. 
+2.4.1.3 Expedited Class B Registration (EBR) Evaluation Route 
+a) Eligibility Criteria 
+A Class B medical device may qualify for registration via the EBR route 
+if it complies with the following conditions; 
+• obtained approval from at least Two of PPB’s independent 
+reference regulatory agencies for a labelled use identical to that 
+intended for marketing in Kenya; 
+• marketed for at least three years in the above independent 
+reference regulatory agency’s jurisdiction; 
+• no safety issues globally associated with the use of the medical 
+device(s) when used as intended by the Product Owner, in the last 
+three years, defined as 
+a) no reported deaths; 
+b) no reported serious deterioration in the state of health3 of 
+any person; and 
+c) no open field safety corrective actions (including recalls) at 
+the point of submission.  
+OR 
+Obtained approvals from at least Three of PPB’s independent reference 
+regulatory agencies for a labelled use identical to that intended for 
+marketing in Kenya. 
+b) Submission Requirements 
+ 
+ 
+38 
+ 
+a. Letter of Authorization  
+b. List of configurations of medical devices to be registered 
+c. Proof of approval from independent reference regulatory agencies – 
+d. Proof of marketing history in the same independent reference 
+regulatory agency’s jurisdictions i.e. Invoice with date, proof of sale 
+or a declaration on marketing history 
+e. Declaration of no safety issues globally  
+f. Common Submission Dossier Template (CSDT) dossier approvals 
+from the independent reference regulatory agencies 
+2.4.1.4 Immediate Class B Registration (IBR) Evaluation Route 
+a) Eligibility Criteria 
+A Class B medical device may qualify for registration via the IBR route 
+if it complies with the following conditions: 
+(i) approvals by at least three of PPB’s independent reference 
+regulatory agencies for intended use identical to that submitting 
+for registration in Kenya; 
+(ii) marketed for at least four years in two of the independent 
+reference regulatory agencies’ jurisdictions; no safety issues 
+globally associated with the use of the medical device(s) when 
+used as intended by the Product Owner, in the last three years, 
+defined as 
+• no reported deaths; 
+• no reported serious deterioration in the state of health3 of 
+any person; and 
+• no open field safety corrective actions (including recalls) at 
+the point of submission; and 
+• no rejection/withdrawal of the medical device by/from any 
+reference regulatory agency/that foreign jurisdiction(s) or 
+Kenya due to quality, performance/efficacy or safety issues. 
+(iii) For medical device with labelled use beyond the inherent 
+performance of the device, additional clinical data may be 
+requested post-registration to substantiate the proposed label 
+use. 
+PPB’s independent reference regulatory agencies are HC, MHLW, USFDA, 
+TGA, EU-NB, SWISSMEDIC, HPRA. 
+ 
+ 
+39 
+ 
+b)  Submission Requirements 
+Upon submission via PPB online Portal (portal.pharmacyboardkenya.org, the 
+medical device will be registered immediately and will be listed on the PPB 
+Online registry within an hour. An email notification regarding the successful 
+registration of the device will be sent within 48 hours of submission in PPB 
+online Portal. The total fees will also be charged immediately upon successful 
+submission for this route. As devices are registered immediately upon 
+successful submission, applicants are reminded to ensure the application 
+fulfills ALL the eligibility criteria and that all the required information is 
+entered correctly and accurately. 
+PPB will verify the documents submitted in PPB online Portal after successful 
+submission. Based on the intended use of the device by the Product Owner, 
+additional registration conditions may be imposed post-registration. 
+The IBR evaluation route facilitates immediate market access for the medical 
+devices. Any IBR application which fails to fulfill the ALL the registration 
+criteria specified under Section 5.1.4.1 for the IBR evaluation route or a non-
+Class B medical device submitted via the IBR evaluation route would result in 
+cancellation of the registration and the registration fee will NOT be refunded. 
+2.5 REGISTRATION OF CLASS C AND D MEDICAL DEVICES MODULE -  
+2.5.1 Evaluation Routes 
+There are three evaluation routes for Class C and D and IVD medical devices: 
+(i) Full Evaluation Route 
+(ii) Abridged Evaluation Route 
+(iii) Expedited Evaluation Route 
+a. Expedited Class C Registration (ECR) 
+b. Expedited Class D Registration (EDR) 
+Approvals from EU and TGA will qualify as independent reference regulatory 
+agency’s approval only if the devices have been reviewed and approved by the 
+respective agencies and the devices are not registered based on the Mutual 
+Recognition Agreement (MRA). 
+ 
+ 
+40 
+ 
+The abridged and expedited evaluation routes are set out according to a 
+confidence-based approach, leveraging on the approvals by PPB’s medical 
+device reference regulatory agencies and/or prior safe marketing history. The 
+types of approvals that qualify for abridged and expedited Class C and D 
+evaluation routes are listed below;  
+1. Full Evaluation Routes 
+a) Eligibility Criteria 
+A medical device that has not obtained any prior approval from any of PPB’s 
+reference regulatory agencies at the point of application will be subject to the 
+full evaluation route. 
+2. Abridged Evaluation Route 
+a) Eligibility Criteria 
+A medical device that has obtained at least three reference regulatory agency 
+approval for a labelled use identical to that intended for marketing in Kenya 
+at the time of submission will qualify for the abridged evaluation route. 
+3. Expedited Class C Registration (ECR) Evaluation Route 
+a) Eligibility Criteria 
+A Class C medical device may qualify for registration via the following routes 
+if it complies with the following conditions: 
+I. 
+ECR: 
+a) obtained approval from at least three of PPB’s independent reference 
+regulatory agencies for a labelled use identical to that intend for 
+marketing in Kenya; [PPB’s medical device independent reference 
+regulatory. 
+b) marketed for at least five years in the above independent reference 
+regulatory agency’s jurisdiction; and 
+c) no safety issues globally associated with the use of the medical device(s) 
+when used as intended by the Product Owner, in the last three years, 
+defined as 
+• no reported deaths; 
+ 
+ 
+41 
+ 
+• no reported serious deterioration in the state of health3 of any 
+person; and 
+• no open field safety corrective actions (including recalls) at the point 
+of submission OR 
+II. 
+ECR: 
+a) Obtained approvals from at least five of PPB’s independent 
+reference regulatory agencies for a labelled use identical to that 
+intended for marketing in Kenya. 
+Approvals from EU and TGA will qualify as independent reference regulatory 
+agency approvals only if the devices have been reviewed and approved by the 
+respective agencies and not registered based on the Mutual Recognition 
+Agreement (MRA). 
+Or the medical device has been marketed in the jurisdiction of the reference 
+regulatory agency for at least 5 years as stated in the proof of marketing 
+history. For devices that are part of a test kit or a system, an invoice or 
+declaration containing the kit name or system will be sufficient. 
+The following Class C devices are excluded from submission via the ECR 
+evaluation route: 
+(i) 
+Hip, knee and shoulder joint replacement non-bio-active implants (e.g. 
+non-bioactive metal/polymer implants). 
+These devices will have to be registered via Full or Abridged routes only 
+Procedure for handling of applications 
+Upon submission via PPB Online Portal, an application fee will be charged 
+immediately. The application will be verified for eligibility for ECR and the 
+dossier will be verified for completeness. Once confirmed, the application will 
+be accepted for evaluation. The evaluation fees will be charged at this point. 
+In the event that the application does not qualify for ECR, the application will 
+be required to be re-routed to the abridged or full evaluation route and the 
+respective evaluation fees shall apply. 
+Evaluation of the technical data/application by PPB is based on the data set 
+submitted by the applicant. An input request will be issued to the applicant if 
+ 
+ 
+42 
+ 
+clarification or additional information is required. A regulatory decision is 
+made based on the outcome of PPB’s evaluation of the submitted dossier. Only 
+applications which satisfy the registration requirements will be registered and 
+listed on the PPB Online Registry. 
+The stop-clock starts whenever PPB issues an input request and ends when 
+PPB receives a complete and satisfactory response from the applicant. 
+4. Expedited Class D Registration (EDR) Evaluation Route 
+a) Eligibility Criteria 
+A Class D medical device may qualify for registration via the EDR route 
+if it complies with the following condition: 
+(i) obtained approvals from at least two of PPB’s independent reference 
+regulatory agencies for a labelled use identical to that intended for 
+marketing in Kenya. 
+The following Class D devices are excluded from being registered via EDR 
+route: 
+(i) 
+Active implantable devices (e.g., pacemakers, neuro stimulators) 
+(ii) 
+Implantable devices in direct contact with the central circulatory 
+system or central nervous system 
+(iii) 
+Hip, knee and shoulder joint replacement (e.g., bioactive 
+implants) 
+(iv) 
+Devices incorporating a registrable drug in an ancillary role 
+ 
+These devices will have to be registered via Full or Abridged evaluation routes 
+only. 
+2.6. MEDICAL DEVICES INCORPORATING MEDICINAL PRODUCT 
+By the design and intent of the product owner, a medical device may be 
+incorporated with a medicinal product in an ancillary role (chemical drug or 
+biologic), to achieve its intended purpose. The regulatory controls applicable 
+(i.e., medical device or medicinal product) to such products including both 
+medical device and medicinal product components is determined based on 
+their primary mode of action (PMOA). 
+ 
+ 
+43 
+ 
+“Primary mode of action (PMOA)” means the mode of action that makes the 
+greatest contribution to the overall intended therapeutic purpose of the 
+combined product. 
+A product that does not achieves its PMOA in or on the human body by 
+pharmacological, immunological or metabolic means will be regulated as a 
+medical device under the Act. 
+Examples of medical devices incorporating a medicinal product that are 
+regulated as medical device include: 
+• 
+Drug eluting stents 
+• 
+Dermal filler incorporating analgesic 
+• 
+Antimicrobial silver dressings. 
+Medical devices incorporating registrable medicinal products are classified as 
+Class D medical devices. The product registration applications for such 
+devices will be jointly evaluated by the Medical Device Unit together with the 
+Unit of Biologicals and the medical products Human Medicines Unit of the 
+Pharmacy and Poisons Board. Such devices would qualify for the abridged 
+evaluation route if the product is approved as a medical device in at least one 
+of PPB’s medical device reference regulatory agencies and the chemical or 
+biological component has been evaluated and approved by at least one 
+competent drug regulatory agency, as defined by the World Health 
+Organisation (WHO). The product registration applications for such product 
+should be submitted via the full evaluation route if they do not qualify for the 
+abridged route. 
+Where such medical devices incorporate medicinal products exempted from 
+medicinal product registration, the risk classification would follow the medical 
+device risk class. 
+The applicant can enquire with PPB about the product classification for such 
+products to determine the applicable regulatory controls. 
+2.7 TURN-AROUND-TIME (TAT) FOR PRODUCT REGISTRATION 
+PPB shall Endeavour to meet the target processing timelines for all submitted 
+applications. Applicants should ensure that the dossiers are complete before 
+submission. Incomplete submissions and untimely responses to queries will 
+ 
+ 
+44 
+ 
+result in unnecessary delays to the registration process and thus, will have a 
+negative impact on the target processing timelines. 
+The target turn-around-time (TAT) for product registration applications 
+commences from the date of receipt of the application and does not include 
+‘stop-clock time’ due to input requests for clarifications and additional 
+information. 
+In the event that the medical device is a subject of a Field Safety Corrective 
+Action (FSCA), the application will be placed on stop-clock until resolution of 
+the FSCA. 
+N.B It remain the prerogative of the regulatory authority on time line for 
+regulatory approval to be granted. The above is a guide to inform stakeholders. 
+FAST TRACKINNG 
+Classes B, C/D applications qualify for fast tracking processes. Reference is 
+made to the Guideline for Fast Track Review of Application for Health 
+Products (HPT/PER/GUD/041) 
+2.8 PRODUCT REGISTRATION FEES 
+The fees herewith listed are per product by an applicant seeking registration 
+with the Pharmacy and Poisons Board. 
+The application fee is payable at the time of submission in PPB Online Portal.  
+Evaluation fees are payable upon acceptance of the application for 
+evaluation. 
+The application fees are non-refundable once the application has been 
+successfully submitted via PPB Online Portal. The applicant should ensure 
+that the product registration application is compiled according to the 
+prevailing required format. 
+The evaluation fees are non-refundable once the application is accepted for 
+evaluation, regardless of the final decision by HSA. Withdrawal of the 
+application after the application is accepted will result in forfeiture of the 
+evaluation fees. Rejection of the application by PPB will also result in the 
+forfeiture of the evaluation fees. 
+The registration fees are payable per class per manufacturer per product as 
+illustrated below. 
+Table 6: Registration, retention and variations fees for Medical Devices 
+ 
+ 
+45 
+ 
+FEE STRUCTURE 
+IMPORTED 
+PRODUCTS 
+LOCAL 
+MANUFACTURED 
+REGISTRATION 
+OF 
+MEDICAL DEVICES 
+CLASS A USD 100 
+USD 50 
+CLASS B USD 200 
+USD 50 
+CLASS C & D USD 1000 CLASS C & D USD 100 
+VARIATION 
+OF 
+REGISTERED 
+MEDICAL DEVICE 
+USD 200 
+USD 50 
+ANNUAL 
+RETENTION 
+OF MEDICAL DEVICES 
+CLASS A & B: USD 50 
+USD 50 
+CLASS C & D: USD 300 USD 50 
+ 
+2.9 Guidance on Change Notification of Medical Devices including IVDs   
+Medical devices undergo changes as part of their product life cycle. This 
+guidance document is intended to aid Applicants in determining whether a 
+Change Notification has to be submitted for a registered medical device. 
+Applicants are required to notify changes concerning registered medical 
+devices to the Authority.  
+This guidance document is also applicable to situations when a registered 
+device undergoes any changes or proposed changes, including 
+labelling changes, as a result of a reportable Adverse Event (AE) or an on-
+going Field Safety Corrective Action (FSCA).  
+When several simultaneous changes are being implemented on a 
+registered   device or its accessories, this guidance document should be used 
+to assess each change separately. If a Change Notification is required, the 
+Registrant shall describe how the modified device differs from the previously 
+registered device (or device type). 
+Some changes that will NOT qualify for Change Notification and require 
+the submission of a NEW Common Submission Technical Dossier (CSTD) 
+Format of Submitting an application for Medical Devices include:  
+● Change to the intended purpose of a registered medical device; 
+ 
+ 
+46 
+ 
+● Change to the risk classification of a registered medical device; 
+● Guidance on Grouping of Medical Devices for Product Registration;  
+● Change to the medicinal substance in a device that incorporates a 
+medicinal product in an ancillary role; 
+● An addition of medical devices with different device proprietary names 
+into a single-family listing even when they satisfy the FAMILY grouping 
+requirements  
+The applicant is requested to complete “Changes notification to a 
+Registered Medical Devices including IVDs’ reference annex 4 for the 
+types of changes and required documents to be provided for a 
+Change/variations Notification submission. 
+● Copy of Pharmacy and Poisons Board Initial registration certificate of 
+the device  
+● Copy of Pharmacy and Poisons   Retention certificate of the device 
+● Letter of no objection from the existing LTR 
+a) Categories of changes  
+Changes to registered medical devices that require the submission of a 
+Change Notification are classified into four categories as summarized in 
+Table 1: Table 1 - Categories of Change Notification for Class A, B, C and D 
+Medical Devices namely; 
+i. 
+ Technical Changes for Class C and D medical devices affect the 
+safety, quality or efficacy of these medical devices. These require PPB’s 
+approval prior to implementation of the change(s) in Kenya.  
+ii. 
+Review Changes for Class A and B medical devices affect the 
+safety, quality or efficacy of these medical devices. These require PPB 
+approval prior to implementation of the change(s) in Kenya and are as 
+follows:  
+ 
+ 
+47 
+ 
+• Change(s) to indications for use of the registered medical device 
+(except reduction of indications for use not arising due to device 
+safety, quality or efficacy concerns); 
+• Addition of new model(s) (except Class A accessories) to a registered 
+medical device listing;  
+• Removal and/or revision of warnings, precautions and 
+contraindications;  
+• Modification of approved method of use, including change from 
+“Professional use only” to “Home use”.  
+a) Administrative Changes include changes to the administrative documents 
+and information submitted at the point of registration of the medical 
+device. These require PPB’s approval prior to implementation of the 
+change(s) in Kenya.  
+b) Notification Changes may be implemented immediately upon receipt of 
+the acknowledgement email from PPB after submission via online portal, 
+unless the change is in the context of, or is a consequence of a reportable 
+Adverse Events (AEs) or Field Safety Corrective Actions (FSCAs).  
+NOTE: ‘Notification’ changes which are incorrectly classified will be rejected 
+upon review and further supply of the affected device will be prohibited. 
+Subsequent supply will be subject to approval of the change in the correct 
+change notification category. 
+Table 7 - Categories of Change Notification for Class A, B, C and D 
+Medical Devices  
+Risk 
+Classification  
+Technical 
+Changes  
+Review 
+Changes  
+Administrative 
+Changes  
+Notificat
+ions  
+Class A  
+ 
+√*  
+√  
+√  
+Class B  
+ 
+√*  
+√  
+√  
+Class C  
+√  
+ 
+√  
+√  
+Class D  
+√  
+ 
+√  
+√  
+ 
+ 
+ 
+48 
+ 
+2.10. AMENDMENT OF DEVICE LISTING/REGISTRATION 
+In cases of any typographical errors incurred in the device listing information 
+on the PPB Online Portal, the Registrant may submit a written request to PPB 
+for the necessary amendments 
+2.11. ANNUAL RETENTION  
+It is a requirement for all medical devices and IVDs to annually be retained in 
+the PPB Database to maintain the market authorization status in Kenya. This 
+procedure should be done three months before the end of the year. 
+An annual retention fee is payable in order to retain the registration of the 
+medical device on the PPB Online Registry. 
+The payment of the retention fee should be submitted via PPB Online Portal. 
+Submission via the system will be available 60 days before the due date of the 
+annual retention fee. It is the responsibility of the registrant to keep track of 
+the annual retention due date. Failure to make the necessary payment may 
+lead to suspension and cancellation of the registration of the medical device. 
+The retention of a product is per calendar year and the annual registration 
+retention fees are non-refundable. 
+ 
+2.12 Certificate of registration 
+a. Issuance 
+i. Certificate of registration is issued upon providing 
+satisfactory documentation in accordance to the 
+dossier and satisfying regulatory process 
+b. The certificate of registration is valid for 5 years. 
+ii. In an emergency situation or in the public interest, 
+PPB can at its discretion issue certificate of 
+registration valid for 2 years. 
+iii. A certificate of registration can be suspended, 
+withdrawn, withheld or revoked is the conditions 
+ 
+ 
+49 
+ 
+stipulated 
+in 
+the 
+guideline 
+for 
+suspension, 
+withdrawal, 
+withholding 
+and 
+revocation 
+(HPT/PER/GUD/042) 
+ 
+2.13. SUSPENSION AND CANCELLATION OF REGISTRATION 
+Pursuant to section the Cap 244 Laws of Kenya, when a regulatory decision 
+has been made on reasonable grounds to suspend or cancel a registered 
+product, the Registrant will be given written notice. The Registrant will also be 
+given an opportunity to be heard prior to the suspension or cancellation. 
+Once the registration is suspended or cancelled, the Registrant and all dealers 
+are required to immediately cease all activities related to the importation and 
+supply of the affected medical devices including IVD Medical Devices. 
+ 
+2.14. EXEMPTION FROM REGISTRATION OF MEDICAL DEVICES 
+The requirements for registration of medical devices including IVDs may be 
+exempted in the following circumstances; 
+I. 
+The purpose of demonstration for marketing 
+II. 
+The purpose of education 
+III. 
+The purpose of clinical research or performance evaluation of 
+medical device 
+IV. 
+A Custom-Made Medical Device; or 
+V. 
+Exemption of Medical Device & IVDs from registration 
+requirements 
+An applicant who imports or manufactures the above medical device also 
+exempted from the requirement of an establishment license. However, prior to 
+importation and supplying a device potentially eligible for exemption, 
+manufacturer or importer of the device must submit a notification to 
+Pharmacy and Poisons Board, together with supporting documents 
+  
+Exemption 
+Type 
+Examples of exemptions 
+ 
+ 
+50 
+ 
+Demonstratio
+ns  
+1.      Medical Device for Demonstration for Marketing 
+2.    Disposed of or Destroyed; or Exported out of Kenya’ of 
+Unregistered Medical Device 
+Education 
+Medical Device for the Purpose of Education 
+Clinical 
+Iinvestigation
+s 
+1.    Import 
+and/or 
+Supply 
+Medical 
+Devices 
+for 
+Clinical 
+Investigational Use 
+2.     Import Medical Devices for Clinical Research Use 
+3.     Serious Adverse Device Events (SADE) 
+4.     Export /Disposal of Devices Upon Completion /Termination of 
+Clinical Investigation /Drug Study 
+5.     Investigational Device (IDE) Progress Report 
+6.    Change on Clinical Trial for Medical Devices Use 
+Custom made Unregistered Medical Device for Custom Made                                   
+Special 
+Access 
+Unregistered Medical Device for Special Access                        
+ 
+2.14.1 Payment and Review of the notification 
+Upon receipt of notification, the authority will issue a payment advice to the 
+applicant as per the PPB import and export control requirements. 
+ 
+2.15 GUIDANCE ON THE PRINCIPLE OF RISK BASED CLASSIFICATION 
+OF IN-VITRO DIAGNOSTIC (IVD) MEDICAL DEVICES 
+2.15.1 Risk based classification of IVD medical devices  
+The Classification of an IVD Medical Device is based on the following criteria: 
+1. The intended use and indications for use as specified by the 
+manufacturer (specific disorder, condition or risk factor for which the 
+test is intended) 
+2. The technical/scientific/medical expertise of the intended user (lay 
+person or professional) 
+ 
+ 
+51 
+ 
+3. The importance of the information to the diagnosis (sole determinant or 
+one of several), taking into consideration the natural history of the 
+disease or disorder including presenting signs and symptoms which 
+may guide a physician the impact of the result (true or false) to the 
+individual and/or to public health 
+ 
+Table 8: Risk classification of IVD’s and Examples. 
+CLASS RISK LEVEL 
+DEVICE EXAMPLES 
+A 
+Low Individual Risk and Low Public 
+Health Risk 
+Clinical Chemistry Analyser, prepared 
+selective culture media 
+B 
+Moderate Individual Risk and/or 
+Low Public Health Risk 
+Vitamin B12, Pregnancy self-testing, 
+Anti-Nuclear Antibody, Urine test strips 
+C 
+High 
+Individual 
+Risk 
+and/or 
+Moderate Public Health Risk 
+Blood glucose self-testing, HLA typing, 
+PSA screening, Rubella 
+D 
+High Individual Risk and High Public 
+Health Risk 
+HIV Blood donor screening, HIV Blood 
+diagnostic 
+ 
+2.15.2 In-country assessment for performance and evaluation for In-
+vitro diagnostic and condoms 
+a. It is a requirement for in-country assessment of In-vitro Diagnostics for 
+medical Devices. This procedure will include submission of samples 
+with defined samples sizes to the Quality control Laboratory department 
+for Performance and Validation Testing.  
+b. The Report from the Laboratory, forms part of the Assessment 
+documents for consideration before issuance of a registration certificate 
+or Emergency Use Authorization. 
+c. An IVD that fails to meet the set criteria for the performance testing will 
+not be approved for registration. 
+d. Additionally, other medical devices which includes Male Latex Condoms 
+must also under laboratory testing. 
+2.15.3 Classification Rules 
+Rule 1: IVD Medical Devices intended for the following purposes are classified 
+as Class D: 
+ 
+ 
+52 
+ 
+1. Devices intended to be used to detect the presence of, or exposure to, a 
+transmissible agent in blood, blood components, blood derivatives, cells, 
+tissues or organs in order to assess their suitability for transfusion or 
+transplantation, or 
+2. Devices intended to be used to detect the presence of, or exposure to, a 
+transmissible agent that causes a life-threatening often incurable 
+disease with a high risk of propagation.  
+ 
+Rationale: Devices in this Class are intended to be used to ensure the safety 
+of blood and blood components for transfusion and/or cells, tissues 
+and organs for transplantation.  In most cases, the result of the test 
+is the major determinant as to whether the donation/product will be 
+used.  Serious diseases are those that result in death or long-term 
+disability, that are often incurable or require major therapeutic 
+interventions and where an accurate diagnosis is vital to mitigate 
+the public health impact of the condition. 
+Examples: Tests to detect infection by HIV, HCV, HBV, HTLV.  Pyrogenicity 
+tests (Endotoxin Activity Assay) marketed for detection of bacterial 
+contamination of blood components.  This Rule applies to all types 
+of assays, such as first-line assays, confirmatory assays and 
+supplemental assays.  
+Rule 2: IVD Medical Devices intended to be used for blood grouping, or tissue 
+typing to ensure the immunological compatibility of blood, blood 
+components, cells, tissue or organs that are intended for transfusion 
+or transplantation, are classified as Class C, except for ABO, rhesus 
+(C,c,D,E, e) and anti-Kell determination which are classified as Class 
+D.  
+Rationale: A high individual risk, where an erroneous result would put the 
+patient in an imminent life-threatening situation. The rule divides 
+blood grouping into two subsets depending on the nature of the 
+blood group antigen the IVD Medical Device is designed to detect, 
+and its importance in a transfusion setting. 
+Examples: HLA, Anti-Duffy, Anti-Kidd  
+ 
+ 
+53 
+ 
+Rule 3: 
+IVD Medical Devices are classified as Class C if they are intended 
+for use: 
+1. In detecting the presence of, or exposure to, a serious sexually 
+transmitted agent.  Examples:  Sexually transmitted diseases, such as 
+Chlamydia trachomatis, Neisseria gonorrhoeae.  
+2. In detecting the presence in cerebrospinal fluid or blood of an infectious 
+agent with a risk of limited propagation. Examples:  Neisseria 
+meningitidis or Cryptococcus neoformans. 
+3. In detecting the presence of an infectious agent where there is a 
+significant risk that an erroneous result would cause death or severe 
+disability to the individual or fetus being tested.  Examples:  CMV, 
+Chlamydia pneumoniae.  
+4. In screening pre-natal women in order to determine their immune 
+status towards transmissible agents. Examples:  Rubella or Toxoplasma 
+gondii. 
+5. In determining infective disease status or immune status, and where 
+there is a risk that an erroneous result will lead to a patient 
+management decision resulting in an imminent life-threatening 
+situation for the patient.  Example:  Legionella pneumophila. 
+6. in screening for selection of patients for selective therapy, or in the 
+diagnosis of, cancer,  
+NOTE: those IVD Medical Devices where the therapy decision would 
+usually be made only after further investigation and those used for 
+monitoring and cancer staging would fall into class B under rule 6. 
+7. in predictive genetic screening, when the outcome of the test would 
+ordinarily result in a substantial impact on the life of the individual.  
+Examples:  Guthrie test for phenylketonuria, Huntington’s Disease, 
+Cystic Fibrosis.  
+8. to monitor levels of medicines, substances or biological components, 
+when there is a risk that an erroneous result will lead to a patient 
+management decision resulting in an immediate life-threatening 
+situation for the patient.  Example:  Cardiac markers, Cyclosporin, 
+Prothrombin time testing. 
+ 
+ 
+54 
+ 
+9. In the management of patients suffering from a life-threatening 
+infectious disease. Example: HIV Viral Load 
+Rationale: Devices in this Class present a moderate public health risk, or a 
+high individual risk, where an erroneous result would put the 
+patient in an imminent life-threatening situation, or would have a 
+major negative impact on outcome.  The devices provide the critical, 
+or sole, determinant for the correct diagnosis.  They may also 
+present a high individual risk because of the stress and anxiety 
+resulting from the information and the nature of the possible follow-
+up measures.  
+Rule 4: IVD Medical Devices intended for near-patient testing and self-testing 
+are classified as Class C, except those devices from which the result is 
+not determining a medically critical status, or is preliminary and 
+requires follow-up with the appropriate laboratory test in which case 
+they are Class B. 
+Rationale: In general, these devices are used by individuals with no technical 
+expertise and thus the labelling and instructions for use are critical 
+to the proper outcome of the test.   
+Examples for class C: Blood glucose monitoring, near-patient test for 
+Streptococcus B, occult blood test, near-patient devices for blood gases.  
+Examples for class B: Pregnancy self-test, Fertility testing, Urine test-strips. 
+Rule 5: The following IVD Medical Devices are classified as Class A: 
+1. Reagents which possess specific characteristics, intended by the 
+manufacturer to make them suitable for in vitro diagnostic procedures 
+related to a specific examination. 
+2. Instruments intended by the manufacturer specifically to be used for in 
+vitro diagnostic procedures  
+3. Specimen receptacles 
+Note: Any product for general laboratory use not manufactured, sold or 
+represented for use in specified in vitro diagnostic applications are not deemed 
+to be IVD Medical Devices. However, in certain jurisdictions products for 
+general laboratory use are considered to be IVD Medical Devices. 
+ 
+ 
+55 
+ 
+Rationale: These devices present a low individual risk and no or minimal 
+public health risk.  
+Examples: Selective/differential microbiological media, identification kits for 
+cultured microorganisms, wash solutions, instruments and plain 
+urine cup. 
+Note 1: In certain jurisdictions there might be differences to whether a device 
+classified in this rule is considered an IVD Medical Device. 
+Note 2:  Performance of software or instrument that is specifically required 
+to perform a particular test will be assessed at the same time as the 
+test kit.   
+Note 3:  The interdependence of the instrument and test methodology 
+prevents the instrument from being assessed separately, even though 
+the instrument itself is still classified as Class A. 
+Rule 6: IVD Medical Devices not covered in Rules 1 through 5 are classified 
+as Class B. 
+Rationale: These devices present a moderate individual risk as they are not 
+likely to lead to an erroneous result that would cause death or severe 
+disability, have a major negative impact on the outcome or put the 
+individual in immediate danger. The devices are usually one of 
+several determinants. If it is the sole determinant however other 
+information is available, such as presenting signs and symptoms or 
+other clinical information which may guide a physician, the risk 
+classification may be justified.  Other appropriate controls may also 
+be in place to validate the results. This Class also includes those 
+devices that present a low public health risk because they detect 
+infectious agents that are not easily propagated in a population.   
+Examples:Blood gases, H. pylori and physiological markers such as hormones, 
+vitamins, enzymes, metabolic markers. 
+ 
+Table 9: Description of Common Test Purposes for IVD Medical Devices  
+Test Purpose  
+Description  
+Examples  
+Diagnosis  
+Diagnostic tests are used to 
+determine, verify or confirm a 
+patient’s clinical condition as a 
+·  genetic test for the diagnosis of 
+Tay-Sachs  
+ 
+ 
+56 
+ 
+sole determinant. This type of 
+testing 
+also 
+includes 
+sole 
+confirmatory assays (to verify 
+results of previous testing) and 
+sole exclusion assays (to rule 
+out a particular condition).  
+These tests are designed to 
+evaluate a patient’s current 
+state.  
+ 
+·  HBs antigen confirmatory assay 
+to verify positive screening results  
+·  D-dimer assay for exclusion of 
+deep vein thrombosis  
+· 
+ karyotype 
+testing 
+for 
+the 
+diagnosis of Trisomy 18 (Edward’s 
+syndrome)  
+Aid 
+to 
+Diagnosis  
+Aid to Diagnosis tests are used 
+to 
+provide 
+additional 
+information to assist in the 
+determination or verification of 
+a patient’s clinical status. The 
+test 
+is 
+not 
+the 
+sole 
+determinant.  
+These tests are designed to 
+evaluate a patient’s current 
+state.  
+·  troponin test as an aid in 
+myocardial infarction diagnosis  
+·  genetic testing to aid in the 
+diagnosis 
+of 
+familial 
+hypercholesterolaemia (FH)  
+· 
+ thyroid-stimulating 
+hormone 
+test to evaluate thyroid function  
+·  toxoplasma IgG avidity assay to 
+determine likelihood 
+of 
+active 
+infection  
+· 
+ ANA 
+test 
+for 
+autoimmune 
+disease determination  
+·  test for genotyping of the Factor 
+V Leiden mutation as an aid to 
+diagnosis of thrombophilia  
+Screening  
+Screening tests are used to 
+determine the status of a 
+disease, 
+disorder 
+or 
+other 
+·  test to detect hepatitis B surface 
+antigen in donated blood  
+ 
+ 
+57 
+ 
+physiological 
+state 
+in 
+an 
+asymptomatic individual.  
+These types of tests include 
+genetic screening assays, tests 
+for physiological typing, and 
+tests used to reduce the risk of 
+infectious 
+disease 
+transmission, such as assays 
+for prenatal screening and 
+donor screening (transfusion 
+or transplantation).  
+Depending on the nature of the 
+condition and the targeted 
+patient population, screening 
+tests may be used routinely or 
+may be restricted to ‘at risk’ 
+patients.  
+These tests are designed to 
+evaluate 
+an 
+individual’s 
+current state.  
+·  prenatal rubella IgG  
+screening in pregnant women  
+·Prenatal 
+genetic 
+testing 
+for 
+trisomy 21 (Down syndrome)  
+·Newborn 
+genetic 
+testing 
+for 
+phenylketonuria  
+· tests for the determination of 
+HLA, blood groups and blood 
+group factors for donor matching.  
+Monitoring  
+Monitoring tests are used for 
+the measurement of analyte 
+levels 
+for 
+the 
+purpose 
+of 
+adjusting 
+treatments/interventions 
+as 
+required. 
+Monitoring 
+tests 
+include the following:  
+Assays which are used to 
+ensure that an analyte remains 
+within physiological levels or 
+· intraoperative iPTH monitoring 
+during parathyroidectomy surgery 
+to confirm removal of abnormal 
+tissue  
+· self-test glucose monitoring to 
+allow for quick responses to 
+hyperglycemia or hypoglycemia  
+ 
+ 
+58 
+ 
+within 
+an 
+established 
+therapeutic drug range. These 
+types of monitoring tests are 
+designed 
+to 
+evaluate 
+an 
+individual’s current state.  
+Assays which are used for 
+serial measurement, whereby 
+multiple determinations are 
+taken over time. These types 
+of monitoring tests are typically 
+used 
+for 
+the 
+detection/assessment 
+of 
+disease 
+progression/ 
+regression, disease recurrence, 
+minimum 
+residual 
+disease, 
+response/resistance 
+to 
+therapy, and/or adverse effects 
+due to therapy. These types of 
+monitoring tests are designed 
+to evaluate changes in an 
+individual’s state  
+· therapeutic drug monitoring of 
+immunosuppressants to prevent 
+rejection of transplanted organs  
+· viral load testing of patients 
+known to be infected with HIV to 
+determine treatment response and 
+adjust therapy if necessary 
+· monitoring of CA 15-3 levels in 
+breast 
+cancer 
+patients 
+in 
+remission to detect recurrence  
+· test for the detection of BCR-ABL 
+transcripts 
+to 
+monitor 
+response/resistance in patients 
+undergoing treatment for acute 
+lymphoblastic leukemia (ALL) or 
+chronic myeloid leukemia (CML)  
+·Test for immunoglobulin and T-
+cell receptor gene rearrangements 
+for 
+the 
+detection 
+of 
+minimal 
+residual 
+disease 
+in 
+cancer 
+patients.   
+Predisposition  
+Predisposition assays are used 
+to determine the likelihood of 
+disease onset (i.e., assessing 
+the risk of developing the 
+disease 
+in 
+future) 
+in 
+PR 
+symptomatic patients.  
+For patients at sufficient risk 
+(as determined by test results), 
+· Genetic test for apolipoprotein E 
+to assess the risk of developing 
+Alzheimer’s disease  
+· BRCA1/BRCA2 mutation status 
+testing to assess the risk of 
+developing breast cancer (patient 
+may choose to have prophylactic 
+ 
+ 
+59 
+ 
+preventive interventions may 
+be taken.  
+These tests are designed to 
+evaluate a patient’s future 
+state.  
+mastectomy 
+if 
+they 
+are 
+at 
+sufficient risk)  
+Prognosis  
+Prognostic tests are used to 
+measure 
+factors 
+linked 
+to 
+clinical outcome irrespective of 
+treatment. Such tests may be 
+used to estimate the natural 
+progression of a disease (i.e., 
+outcome in the absence of 
+treatment), or to determine the 
+likelihood of a clinical outcome 
+irrespective 
+of 
+therapeutic 
+intervention.  
+These tests are designed to 
+evaluate a patient’s future 
+state. 
+·Highly 
+sensitive 
+C- 
+reactive 
+protein measurement for the risk 
+stratification 
+of 
+patients 
+with 
+acute 
+coronary 
+syndromes 
+to 
+determine the likelihood of future 
+cardiac events  
+·Measurement of baseline HIV-1 
+RNA 
+level 
+to 
+assess 
+patient 
+prognosis  
+Cancer Gene Expression profile 
+testing for metastasis risk to tailor 
+treatment aggressiveness. 
+ 
+Prediction 
+(of 
+Treatment 
+Response 
+or 
+Reaction)  
+Predictive tests are used to 
+measure factors that determine 
+the 
+likelihood 
+of 
+patient 
+responses or adverse reactions 
+to a specific therapy.  
+Predictive 
+tests 
+designed 
+specifically for use with a 
+targeted 
+therapy 
+are 
+sometimes termed ‘companion 
+diagnostics’ or ‘personalized 
+medicine’.  
+·HER-2/neu 
+testing 
+in 
+breast 
+cancer 
+patients 
+to 
+assess 
+likelihood of response to hormone 
+therapy  
+·Identification of variations in 
+cytochrome 
+P450 
+genes 
+(i.e., 
+metabolizer status) to determine 
+potential 
+therapeutic 
+benefits 
+and/or 
+adverse 
+reactions 
+to 
+antiplatelet treatment  
+ 
+ 
+60 
+ 
+These tests are designed to 
+evaluate a patient’s future 
+state.  
+Determination 
+of 
+Physiological 
+Status  
+Physiological 
+status 
+determination tests are used to 
+evaluate the physiological state 
+of an individual for the purpose 
+of 
+identifying 
+a 
+human 
+condition or characteristic.  
+These tests are designed to 
+evaluate a patient’s current 
+state.  
+·hCG test for the determination of 
+pregnancy  
+  
+3.0 References Regulatory Authorities 
+1. Australia Therapeutic Goods Administration (TGA) Device Registration 
+License 
+2. Health Canada (HC) Device Registration License 
+3. Japan Ministry of Health, Labour and Welfare (MHLW) 
+i. Pre-Market Certification from a Japanese Registered Certification 
+Body 
+ii. Pre-Market Approval from MHLW 
+4. US Food and Drug Administration (US FDA) 
+i. 510K clearance 
+ii. Premarket Approval (PMA) 
+ 
+5. European Union Notified Bodies (EU NB) via EC certificates issued 
+according to 
+i. 
+Directive 93/42/EEC Annex II section 3 or Annex V for Class IIA 
+devices 
+ii. 
+Directive 98/79/EC Annex IV or Annex V with Annex VII for List 
+B and self-testing IVDs 
+6 Irish Health Products Regulatory Authority 
+7 Swiss Medic 
+ 
+ 
+61 
+ 
+4.0 Revision History 
+ 
+Section  
+Section(S) Modified 
+Description Of Change 
+Header 
+- 
+PPB/PER/MDV/GDL/003    
+Revision 000   2017 
+August 2017 
+- PPB/PER/MDV/GDL/005               
+REVISION 001   2021 
+August 2021 
+Main Title  
+GUIDELINES ON 
+SUBMISSION OF 
+DOCUMENTATION FOR 
+REGISTRATION OF 
+MEDICAL DEVICES 
+ 
+GUIDELINES ON SUBMISSION OF 
+DOCUMENTATION FOR 
+REGISTRATION OF MEDICAL 
+DEVICES INCLUDING IN-VITRO 
+DIAGNOSTICS  
+ 
+Introduction  Section Referring To 
+Gazette Notice No 35 2014 
+Suggested Update To GAZETTE 
+NOTICE No. 1879; Gazette Notice 
+No 37 2014 
+ 
+Pre-
+Introduction  
+Nil  
+To Include The Adoption Page 
+Signed And Dated By The Author 
+And QAO 
+LTR 
+Local Authorized 
+Representative 
+a. Any 
+Manufacturer 
+Based 
+Outside  
+Kenya 
+Must 
+Designate 
+A 
+Local 
+Authorized 
+Representative (LAR). 
+The Appointed LAR 
+Must Provide Written 
+Evidence That They 
+Are Acting With The 
+Consent 
+Of 
+A 
+Manufacturer 
+Located Outside The 
+Kenya 
+(Annex 
+1: 
+Letter 
+Of 
+Local Authorized Representative 
+a. Any 
+Manufacturer/ 
+MAH/Innovator 
+Based 
+Outside 
+Kenya 
+Must 
+Designate A Local Authorized 
+Representative 
+(LAR). 
+The 
+Appointed LAR Must Provide 
+Written Evidence That They 
+Are Acting With The Consent 
+Of A Manufacturer Located 
+Outside The Kenya (Annex 1: 
+Letter 
+Of 
+Authorization 
+Template) 
+The Local Authorized 
+Representative Must Obtain A 
+Letter From The 
+Manufacturer Appointing 
+ 
+ 
+62 
+ 
+Authorization 
+Template) 
+ 
+ 
+Them As The Exclusive LAR, 
+With The Exclusive Rights For 
+Distribution, Sale, 
+Importation And Registration 
+Of The Medical Device.  
+A Manufacturer / 
+MAH/Innovator Cannot 
+Appoint Two LAR For The 
+Same Products To Be Sold In 
+Kenya.  
+Propose To Give A License To 
+LAR Indicating Their Practice 
+In Medical Device  
+1.5.3 
+Local Authorized 
+Representative And 
+Subcontractors 
+Only One Local 
+Representative Person 
+Should Be Identified, And 
+This Should Be 
+Consistent Across The 
+Device Labels, And 
+Declarations Of 
+Conformity. 
+ 
+Local Authorized Representative 
+And Subcontractors 
+Only One Local Representative 
+Person Should Be Identified, And 
+This Should Be Consistent Across 
+The Device Labels, And 
+Declarations Of Conformity. 
+This Requirement Is Mandatory 
+Before Registration Approvals Are 
+Granted. 
+MODULE 1 
+- LISTING OF CLASS A 
+MEDICAL DEVICES 
+Certificate Of Analysis 
+(COA) For Of All Materials 
+Of Animal, Human, 
+Microbial And/Or 
+Recombinant Origin Used 
+And Manufacturing 
+Process (Where Applicable) 
+Registration OF CLASS A MEDICAL 
+DEVICES 
+Certificate Of Analysis (COA) For Of 
+All Materials Of Animal, Human, 
+Microbial And/Or Recombinant 
+Origin Used And Manufacturing 
+Process (Where Applicable) 
+For Personal Protective Equipments, 
+I.E Face Masks, Surgical Face 
+Masks, Gloves; A Certificate Of 
+Analysis For Conformity Through 
+The PPBQC Laboratory 
+ 
+ 
+63 
+ 
+ 
+Section 1.3 
+Table 6: Summary Of 
+Submission Requirements 
+(Class B/C/D) 
+1.3.Abridged 
+Evaluation Route 
+Propose To Remove This From 
+Guideline As Its Not Being Used. 
+1.4 
+1.4.Expedited Class B 
+Registration 
+(EBR) 
+Evaluation Route 
+Propose To Remove This From 
+Guideline As Its Not Being Used. 
+Section 1.5 
+1.5.Immediate Class B 
+Registration 
+(IBR) 
+Evaluation Route 
+1.5.1.Eligibility 
+Criteria 
+Propose To Remove This From 
+Guideline As Its Not Being Used. 
+Section 8 
+TURN-AROUND-TIME 
+(TAT) 
+FOR 
+PRODUCT 
+REGISTRATION 
+ 
+Remove The Immediate, Expedited 
+And Abridged Regulatory Pathways 
+Revision On Time Times For The 
+Turnaround Time 
+Consider Removing This Table. 
+Include A Footnote On The 
+Regulatory Flexibility 
+Section 11 
+Guidance On Change 
+Notification Of Medical 
+Devices Including Ivds   
+For This To Be Implemented By The 
+IT Team. 
+Proposed Training To The Staff On 
+Change Notifications  
+Section 17 
+Addendum 1: Guidance 
+On The Principle Of Risk 
+Based Classification Of 
+In-Vitro Diagnostic (IVD) 
+Medical Devices 
+Inclusion For The Requirements For 
+In-Country Assessment By A Ppb 
+Recognized Laboratory For 
+Performance And Validation As A 
+Mandatory Requirement Pre-
+Registration. 
+Annex 1 
+Annex 1: Letter Of 
+Authorization Template 
+We, [Name Of Product Owner], As 
+The Product Owner, Hereby 
+Authorise [Name Of Registrant 
+(Company Name)], As The Registrant 
+ 
+ 
+64 
+ 
+We, [Name Of Product 
+Owner], As The Product 
+Owner, Hereby Authorise 
+[Name Of Registrant 
+(Company Name)], As The 
+Registrant To Prepare And 
+Submit Applications For 
+The Evaluation And 
+Registration Of Medical 
+Devices To The Pharmacy 
+And Poisons Board On Our 
+Behalf. 
+To Prepare And Submit Applications 
+For The Evaluation And 
+Registration Of Medical Devices To 
+The Pharmacy And Poisons Board 
+On Our Behalf. 
+We Give Exclusive Rights To The 
+LAR For Importation, Registration 
+And Distribution Of Our Product In 
+Kenya. 
+Prepared By 
+Paulyne Wairimu  
+Head Medical Devices& 
+Ivds 
+ 
+ 
+ 
+5.0 Contributors and Reviewers 
+1. Dr. Ahmed Mohammed Hussein, Director, Health Products and 
+Technologies 
+2. Dr. Ronald Inyangala, Deputy-Director, Senior Principal Regulatory 
+Officer, Drug Product Evaluation and Registration (DPER) Department,  
+3. Dr. Peter Mbwiiri Ikamati Chief Principal Regulatory officer, Drug 
+Product Evaluation and Registration (DPER) Department,  
+4. Dr. Paulyne Wairimu, Senior Principal Regulatory Officer Health 
+Product and Technologies, Medical Devices and In-Vitro Diagnostics 
+Department, Directorate of Health Products and Technologies 
+5. Dr. Jonathan Meriakol, Senior Principal Regulatory officer, Drug 
+Product Evaluation and Registration (DPER) Department, Directorate of 
+Health Products and Technologies 
+6. Dr. Ali Arale, Principal Regulatory Officer, Drug Product Evaluation and 
+Registration (DPER) Department, Directorate of Health Products and 
+Technologies 
+7. Dr. James Owuor, Assistant Principal Regulatory Officer, Drug Product 
+Evaluation and Registration (DPER) Department, Directorate of Health 
+Products and Technologies 
+ 
+ 
+65 
+ 
+8. Dr. Edwin Burugu, Assistant Principal Regulatory Officer, Drug Product 
+Evaluation and Registration (DPER) Department Directorate of Health 
+Products and Technologies 
+9. Dr. Eugene Odame, Senior Regulatory officer, Product Evaluation and 
+Registration (PER)  (MD&IVDs), Department, Directorate of Health 
+Products and Technologies  
+10. 
+Dr. Serah Chebet Chesaro, Principal Regulatory officer, Drug 
+Product Evaluation and Registration (DPER) Department, Directorate of 
+Health Products and Technologies 
+11. 
+Mr. Alex Mutai,  Assistant Principal Regulatory Officer, Blood and 
+Blood Products Department, Directorate of Health Products and 
+Technologies 
+12. 
+Ms. Jacqueline Yahuma , Assistant Principal Regulatory Officer, 
+Cosmetics 
+Department, 
+Directorate 
+of 
+Health 
+Products 
+and 
+Technologies 
+13. 
+Mr. Henry Chweya, Assistant Principal Regulatory Officer, Border 
+line Products Department, Directorate of Health Products and 
+Technologies 
+14. 
+Mr. Peter Mugala, Senior Information and Communication 
+Technology Officer; Drug Product Evaluation and Registration (DPER) 
+Department, Directorate of Health Products and Technologies 
+15. 
+Mr. 
+Anthony 
+Kemboi, 
+Information 
+and 
+Communication 
+Technology Officer; Drug Product Evaluation and Registration (DPER) 
+Department, Directorate of Health Products and Technologies 
+16. 
+Mr. 
+Victor 
+Kipchumba, 
+Information 
+and 
+Communication 
+Technology Officer Medical Devices Department Directorate of Health 
+Products and Technologies 
+ 
+ 
+6.0 ANNEXURES: 
+Annex 1: Letter of Authorization Template 
+ 
+[To be printed on Company Letterhead of Product Owner] 
+Medical Device Department  
+Pharmacy and Poisons Board 
+Lenana Road Offices 
+P.o Box 27663-00508 
+Nairobi,Kenya. 
+ [Date] 
+Dear Sir/Madam, 
+Subject: Letter of Authorization for [name of Registrant (Company Name)] 
+We, [name of Product Owner], as the Product Owner, hereby authorise [name 
+of Registrant (Company Name)], as the Registrant to prepare and submit 
+applications for the evaluation and registration of medical devices to the 
+Pharmacy and Poisons Board on our behalf. 
+This authorisation shall apply to the following medical devices: 
+[List containing product names of medical devices] 
+We also authorise [name of Registrant (Company Name)] to make declarations 
+and to submit documents on our behalf, regarding the above medical devices, 
+in support of this application. These declarations and submissions are made 
+pursuant to the requirements of the Health Act 2017, which includes the 
+Health Products and Technologies and any other applicable laws that may 
+also be in force. 
+This authorisation shall remain in effect until our notification to the Pharmacy 
+and Poisons Board in writing (either by postal mail or facsimile transmission) 
+that the authorisation is revoked.  
+We undertake to provide post-market support and assistance to the Registrant 
+as may be required in relation to any matter involving the above medical 
+devices. 
+We acknowledge that any non-compliance with any registration condition 
+issued by the Pharmacy and Poisons Board in relation to medical devices 
+registered in Kenya may result in the suspension or cancellation of the medical 
+device registration.   
+We give exclusive rights to the LAR for importation, registration and 
+distribution of our product in Kenya we give exclusive rights for the 
+importation, registration and distribution has been given to the LAR 
+ 
+We agree to assist the Pharmacy and Poisons Board with any request for 
+information on the above medical devices. 
+Yours Sincerely, 
+[Signature] 
+[Full Name and Title of Senior Company Official] 
+[Company stamp] 
+ 
+ 
+ 
+ 
+Annex 2: Marketing History Declaration Template 
+ 
+[To be printed on Company Letterhead of Applicant] 
+Medical Device Department  
+Pharmacy and Poisons Board 
+Lenana Road Offices 
+P.o Box 27663-00508 
+Nairobi,Kenya. 
+ [Date] 
+Dear Sir/Madam, 
+I, [name of Company], the Applicant for registration of the medical device(s) 
+stated below, hereby declare that the medical devices have been marketed in 
+the reference regulatory agency’s jurisdiction for at least three years. The first 
+date of market introduction in [jurisdiction/country] was [mm/yyyy] (for ECR 
+1). 
+OR reference stringent authority for at least three years. [mm/yyyy] (for ECR 
+1.)This declaration is made with respect to the following medical device(s): 
+ [List containing product names of medical devices] 
+I, the Applicant, am aware that making a declaration which I know to be 
+false is an offence under the Health  Act 2017 (Cap. 244 Laws of Kenya) and 
+may result in the cancellation of registration of the above medical devices. 
+Yours Sincerely, 
+[Signature] 
+ [Full Name and Title of Senior Company Official] 
+ [Company stamp] 
+ 
+ 
+ 
+ 
+ 
+Annex 3: Safety Declaration Template 
+ [To be printed on Company Letterhead of Applicant] 
+Medical Device Department  
+Pharmacy and Poisons Board 
+Lenana Road Offices 
+P.o Box 27663-00506, Nairobi, Kenya. 
+ [Date] 
+Dear Sir/Madam, 
+I, [name of Company], the Applicant for registration of the medical device(s) 
+stated below, hereby declare that there are no safety issues globally associated 
+with  the use of the medical device(s) when used as intended by the Product 
+Owner, in the last three years  from  [dd/mm/yyyy] to [dd/mm/yyyy]: 
+ No reported deaths; 
+ No reported serious deterioration in the state of health1 of any person; and 
+ No open field safety corrective actions (including recalls) at the point of 
+submission of this application. 
+This declaration is made with respect to the following medical device(s): 
+ [List containing product names of medical devices] 
+I, the Applicant, am aware that making a declaration which I know to be false 
+is an offence under the Health  Act 2017 (Cap. 244 Laws of Kenya) and may 
+result in the cancellation of registration of the above medical devices. 
+Yours Sincerely, 
+ [Signature] 
+ [Full Name and Title of Senior Company Official] 
+ [Company Stamp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 4 Change Notification  
+ 
+ 
+(Medical Device is not a subject of an on-going FSCA and conforms to 
+Essential Principles for Safety and Performance) 
+[To be printed on Company Letterhead of Registrant] 
+ Medical Device Branch 
+Pre-Marketing Division 
+Health Products Regulation Group 
+Health Sciences Authority 
+[Date] 
+Dear Sir/Madam, 
+I, [name of Company], the Registrant of the medical device(s) stated below, 
+hereby declare that the medical device(s) in this Change Notification 
+application, 
+☐ Is/are not a subject of an open reportable adverse event and/or an on-going 
+field safety corrective action 
+☐ Conform(s) to the Essential Principles for Safety and Performance as laid 
+out in the guidance for submission of medical devices  
+This declaration shall apply to the following medical device(s): 
+[List containing product names of medical devices] 
+I, the Registrant, am aware that a false declaration is an offence under the 
+Health Products Act (Cap. 122D) and may result in the cancellation of 
+registration of the above medical devices under Section 37(1) of the Act. 
+Yours Sincerely, 
+[Signature] 
+[Full Name and Title of Senior Company Official] 
+[Company stamp] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 5: MEDICAL DEVICES PROCESS FLOW & INTERACTIONS 
+ 
+The Department of Product Evaluation and Registration under the Directorate of Medical Products and Health 
+Technologies  oversees the function of Marketing Authorization and Registration of all Medical products and health 
+technologies. 
+ 
+The Division of Medical Products Evaluation and Registration is tasked with the Marketing Authorization function on 
+Medicines, Biologics, Vaccines, Cosmetics, Food Supplements and Borderline products.  
+ 
+The following is the regulatory process flow with the other regulatory functions: - 
+1. Quality control (QC) 
+The Product Evaluation and Registration Department provides QC access to Product Specifications and Analytical 
+procedures, registration and retention databases. The Product Evaluation and Registration utilizes Certificates of 
+analysis for registration of products. The QC is involved in screening and testing of Post marketing Surveillance 
+Samples and Samples resulting from Inspections and enforcement activities. Some of these tests are outsourced 
+to external laboratories such as the National Quality Control Laboratory(NQCL),  Mission for Essential drugs 
+(MEDS), Kenya Medical Research Institute (KEMRI) These results are shared with the Marketing control and 
+Surveillance, Inspectorate, Surveillance and Enforcement and Product Evaluation and Registration (Division of 
+Health Products Evaluation and Registration and division of Health Technologies Evaluation and Registration) 
+2. Marketing Control & Surveillance 
+The Function carries out Post marketing Surveillance, it is engaged investigation of product related market 
+complaints and poor-quality reports of HPTs, decisions on regulatory actions which include decisions on 
+quarantine, recalls , withdrawals, which are enforced by inspectorate department and product evaluation and 
+registration department. Conduct post-marketing quality surveys which include sampling and testing, MC 
+coordinates protocol development and actual implementation of protocol for sampling and testing in collaboration 
+with quality control laboratory 
+3.  Inspectorate, Surveillance and Enforcement 
+ 
+ 
+The Inspectorate, Surveillance and Enforcement function is engaged in Regulatory inspections i.e. the GDP, GMP 
+and GCP. Further, the Department is involved in investigations of complaints, investigation of pharma crimes, 
+supervision of disposal of pharmaceutical waste, audit of court cases, management and storage of exhibits  
+4. National Pharmacovigilance Centre 
+Pharmacovigilance unit monitors safety of health products and technologies in the market. This is through both 
+active and passive surveillance. There is a system for receiving reports on safety and incidences following use of 
+medical devices. There is also a procedure for receiving, investigation and review of field safety action reports. 
+Regulatory actions undertaken after review of this reports includes issuing of safety alerts and recommendations 
+on use of health products and technologies. 
+5. Trade Affairs 
+Control of import and export of HPTs as well as health technologies assessment (HTAs) for HPTs include taxation 
+regimes and facilitation of access of HPTs, work with product evaluation and registration department, inspectorate 
+(port of entries), product safety department and quality control department and licensing department 
+6. Licensing 
+Licensing of establishments that handle medical products and health technologies. These include wholesale 
+dealers, distributors, retail/community pharmacies, hospitals, importers and exporters, manufacturers etc. 
+Product registration, inspectorate, trade affairs closely interact with licensing function in executing their functions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 6: Risk Based Classification of Medical Devices with Examples 
+ 
+Category 
+Classification 
+Examples 
+1 
+Non-Invasive 
+Medical Devices 
+ 
+All Non-Invasive 
+devices which come 
+into contact with 
+injured skin  
+-if they are intended 
+for channeling or 
+storing  
+liquids, or gases  
+ for the purpose of 
+eventual infusion, 
+administration or 
+introduction into the 
+body (Such devices 
+are ‘indirectly 
+invasive’ in that they 
+channel or store 
+liquids that will 
+eventually be 
+delivered into the 
+body) 
+Class A- if they are intended to be used as a 
+mechanical barrier, for Compression or for 
+absorption of exudates only (they heal by 
+primary intent) where the devices either do not 
+touch the patient or contact intact skin only. 
+Cotton wool, bandages 
+Administration sets for gravity infusion; 
+syringes without needles. 
+Urine collection bottles; compression 
+hosiery; non-invasive electrodes, hospital 
+beds. 
+ 
+ 
+ 
+ 
+Class B- if they are intended to be used 
+principally with wounds which have breached 
+the dermis  
+• Including devices principally intended to 
+manage the micro-environment of a 
+wound. 
+•  If they may be connected to an active 
+medical device in Class B or a higher 
+class .N.B  “Connection” to an active 
+device covers those circumstances where 
+the safety and performance of the active 
+device is influenced by the non-active 
+device and vice versa. 
+•  if they are intended to be used for  -
+channeling blood, or  
+storing or channeling other body liquids, or  
+storing organs, parts of organs or body tissues,  
+for the purpose of eventual infusion, 
+administration or introduction into the body 
+• where the Medical device is used for the 
+treatment consists of filtration, 
+centrifuging or exchanges of gas or of 
+heat. 
+• Non-medicated impregnated gauze 
+dressing 
+• syringes and administration sets for 
+infusion pumps; anaesthesia 
+breathing circuits 
+ 
+• Tubes used for blood transfusion, 
+organ storage containers 
+ 
+devices to remove carbon dioxide; 
+particulate filters in an extracorporial 
+circulation system 
+ 
+ 
+ 
+ 
+Class C- if they are intended to be used 
+principally with wounds which have breached 
+the dermis and can only heal by secondary 
+intent 
+• If they are Blood Bags that do not 
+incorporate an anti-coagulant 
+• All non-invasive devices intended for 
+modifying the biological or chemical 
+composition of  
+blood, other body liquids, or other liquids, 
+intended for infusion into the body(N.B Such 
+devices are ‘indirectly invasive’ in that they 
+treat or modify substances that will eventually 
+be delivered into the body.  They are normally 
+used in conjunction with an active device 
+within the scope of either Rule 9 or 11) 
+• Dressings for chronic ulcerated 
+wounds; dressings for severe burns 
+ 
+• Blood Bags that do not incorporate 
+an anti-coagulant 
+ 
+• haemodializers; devices to remove 
+white blood cells from whole blood. 
+ 
+ 
+ 
+Invasive Medical 
+Devices 
+1. Class A- All invasive devices with respect 
+to body orifices (other than those which 
+are surgically invasive) and which: 
+➢ -Are not intended for connection to an 
+active medical device, or  
+➢ Are intended for connection to a Class A 
+medical device only. 
+➢ If they are intended for transient use 
+N.B Such devices are invasive in body orifices 
+and are not surgically invasive .Devices tend to 
+be diagnostic and therapeutic instruments 
+used in ENT, ophthalmology, dentistry, 
+proctology, urology and gynecology.  
+Classification depends on the duration of use 
+and the sensitivity (or vulnerability) of the 
+orifice to such invasion. 
+2. if they are intended for short-term use in the 
+oral cavity as far as the pharynx, in an ear 
+canal up to the ear drum or in a nasal cavity,  
+3. All surgically invasive devices that are 
+reusable surgical instruments 
+• Examination gloves; enema 
+devices 
+• dressings for nose bleeds 
+ 
+ 
+ 
+• Manually operated surgical 
+drill bits and saws. 
+ 
+ 
+ 
+ 
+Class B- if they are intended for short-term use. 
+they are intended for long-term use in the oral 
+cavity as far as the pharynx, in an ear canal up 
+to the ear-drum or in a nasal cavity and are not 
+liable to be absorbed by the mucous membrane 
+All invasive devices with respect to body orifices 
+(other than those which are surgically invasive) 
+that are intended to be connected to an active 
+medical device in Class B or a higher class. 
+2. All surgically invasive devices intended 
+for transient use 
+All implantable devices, and long-term 
+surgically invasive devices that are intended to 
+be placed into the teeth or on prepared tooth 
+structure. 
+● urinary catheters, tracheal tubes. 
+● Orthodontic materials, removable 
+dental prosthesis 
+● Example-tracheal tubes connected to 
+a ventilator; suction catheters for 
+stomach drainage; dental aspirator 
+tips.  
+● A majority of such devices fall into 
+several major groups: those that create 
+a conduit through the skin (e.g. syringe 
+needles; lancets), surgical instruments 
+(e.g. single-use scalpels; surgical 
+staplers; single-use aortic punch); 
+surgical gloves; and various types of 
+catheter/sucker  
+● materials for inlays, crowns, and 
+bridges; dental filling materials. 
+ 
+ 
+ 
+ 
+• Class C- if they are intended for long-
+term use; 
+• if they are reusable surgical instruments 
+intended to supply energy in the form of 
+ionizing radiation 
+• intended to have a biological effect or be 
+wholly or mainly absorbed( NOTES:  (a) 
+The ‘biological effect’ referred to is an 
+intended one rather than unintentional.  
+The term ‘absorption’ refers to the 
+degradation of a material within the body 
+and the metabolic elimination of the 
+resulting degradation products from the 
+body.  
+(b) This part of the rule does not apply to those 
+substances that are excreted without 
+modification from the body). 
+➢ intended to administer medicinal 
+products by means of a delivery system, 
+if this is done in a manner that is 
+potentially hazardous taking account of 
+the mode of application. ( :  The term 
+‘administration of medicines’ implies 
+storage and/or influencing the 
+rate/volume of medicine delivered not 
+just channeling. The term ‘potentially 
+hazardous manner’ refers to the 
+characteristics of the device and not the 
+competence of the user) 
+➢ urethral stent; contact lenses for 
+long-term continuous use  
+➢ catheter containing sealed 
+radioisotopes 
+ 
+➢ Example-Insufflation gases for the 
+abdominal cavity. 
+ 
+➢ insulin pen for self-administration 
+➢ infusion cannulae; temporary filling 
+materials; non-absorbable skin 
+closure devices; tissue stabilizers 
+used in cardiac surgery. 
+ 
+➢ surgical adhesive 
+ 
+➢ brachytherapy device 
+ 
+➢  Maxilla-facial implants; bone plates 
+and screws; bone cement; non-
+absorbable internal sutures; posts to 
+secure teeth to the mandibular 
+bone(without a bioactive coating) 
+ 
+ 
+➢ All surgically invasive devices intended 
+for short-term use(Includes devices 
+that are used during cardiac surgery 
+but do not monitor or correct a defect) 
+➢ They are intended to undergo chemical 
+change in the body 
+➢ C-they are intended to supply energy in 
+the form of ionizing radiation 
+➢ All implantable devices, and long-term 
+surgically invasive  
+➢  implants used in the orthopaedic, 
+dental, ophthalmic, and cardiovascular 
+fields. 
+ 
+ 
+• Class D- they are intended specifically for 
+use in direct contact with the central 
+nervous system 
+• If they are -intended specifically to 
+diagnose, monitor or correct a defect of 
+the heart or of the central circulatory 
+system through direct contact with these 
+parts of the body 
+• they are intended to have a biological 
+effect or to be wholly or mainly absorbed. 
+• spinal needle 
+• angioplasty balloon catheters and 
+related guide wires; dedicated 
+disposable cardiovascular surgical 
+instruments 
+ 
+• absorbable suture; biological 
+adhesive 
+ 
+• Neurological catheter. 
+ 
+ 
+ 
+• they are intended specifically for use in 
+direct contact with the central nervous 
+system 
+• they are intended specifically to diagnose, 
+monitor or correct a defect of the heart or 
+of the central circulatory system through 
+direct contact with these parts of the 
+body 
+• They are intended to be used in direct 
+contact with the heart, the central 
+circulatory system or the central nervous 
+system. 
+• D- if they are intended to be life 
+supporting or life sustaining 
+• they are intended to have a biological 
+effect or to be wholly or mainly absorbed 
+• if they are intended to administer 
+medicinal products 
+ 
+• if they are intended to undergo chemical 
+change in the body (except if the devices 
+are placed in the teeth) 
+• if they are Breast Implants 
+• cardiovascular catheters; temporary 
+pacemaker leads; carotid artery 
+shunts 
+• Prosthetic heart valves; 
+cardiovascular stents; pacemaker 
+leads and electrodes; deep brain 
+stimulation electrodes; cerebrospinal 
+catheter. 
+• -pacemakers; implantable 
+defibrillators. 
+• Examples- implants claimed to be 
+bioactive(Hydroxy-apatite-Hydroxy-
+apatite is considered as having 
+biological effect only if so claimed 
+and demonstrated by the 
+manufacturer). 
+-subcutaneous infusion ports for long-term 
+use.  
+• Breast Implants 
+ 
+ 
+ 
+Active Medical 
+Devices 
+• Class A- If they are devices used solely to 
+illuminate the patient's body, with light 
+in the visible or near infra-red spectrum. 
+Examination lamps; surgical microscopes; 
+powered hospital beds & wheelchairs; 
+powered equipment for the recording, 
+processing, viewing of diagnostic images; 
+dental curing lights. 
+ 
+ 
+Class B- All active therapeutic devices intended 
+to administer or exchange energy (Such devices 
+are mostly electrically powered equipment used 
+in surgery; devices for specialized treatment 
+and some stimulators.) 
+➢ If they are active devices intended for 
+diagnosis  
+➢ If they are active devices intended to 
+supply energy which will be absorbed by 
+the human body  
+➢ if they are intended to image in vivo 
+distribution of radiopharmaceuticals 
+➢ If they are active devices that are 
+intended to allow direct diagnosis or 
+monitoring of vital physiological 
+processes 
+➢ All active devices intended to administer 
+and/or remove medicinal products, body 
+liquids or other substances to or from the 
+body  
+• Muscle stimulators; powered dental 
+hand pieces; hearing aids; neonatal 
+phototherapy equipment; ultrasound 
+equipment for physiotherapy. 
+• Equipment for ultrasonic 
+diagnosis/imaging, capture of 
+physiological signals. 
+• magnetic resonance equipment; 
+diagnostic ultrasound in non-critical 
+applications; evoked response 
+stimulators 
+• gamma/nuclear cameras. 
+➢ Examples-electronic thermometers, 
+stethoscopes and blood pressure 
+monitors; electrocardiographs 
+• Examples-suction equipment; 
+feeding pumps; jet injectors for 
+vaccination; nebuliser to be used on 
+conscious and spontaneously 
+breathing patients where failure to 
+deliver the appropriate dosage 
+ 
+ 
+characteristics is not potentially 
+hazardous. 
+ 
+ 
+Class C- their characteristics are such that they 
+may administer or exchange energy to or from 
+the human body in a potentially hazardous 
+way, including ionizing radiation, taking 
+account of the nature, the density and site of 
+application of the energy 
+-All active devices intended to control or 
+monitor the performance of active therapeutic 
+devices in Class C, or intended directly to 
+influence the performance of such devices 
+-if they are intended 
+they are specifically intended for: 
+a) monitoring of vital physiological 
+parameters, where the nature of 
+variations is such that it could result in 
+immediate danger to the patient, for 
+instance variations in cardiac 
+performance, respiration, activity of 
+central nervous system. 
+ 
+b)diagnosing in clinical situations where the 
+patient is in immediate danger, 
+ 
+- Active devices intended to emit ionizing 
+radiation and intended for diagnostic and/or 
+interventional radiology, including devices 
+➢ lung ventilators; baby incubators; 
+electrosurgical generators; external 
+pacemakers and defibrillators; 
+surgical lasers; lithotriptors; 
+therapeutic X-ray and other sources 
+of ionizing radiation 
+• external feedback systems for active 
+therapeutic devices. 
+• monitors/alarms for intensive care; 
+biological sensors; oxygen saturation 
+monitors; apnoea monitors. 
+• ultrasound equipment for use in 
+interventional cardiac procedures 
+• devices for the control, monitoring or 
+influencing of the emission of 
+ionizing radiation. 
+• Infusion pumps; anaesthesia 
+equipment; dialysis equipment; 
+hyperbaric chambers; nebulizer 
+where the failure to deliver the 
+appropriate dosage characteristics 
+could be hazardous. 
+ 
+ 
+which control or monitor such devices, or those 
+which directly influence their performance. 
+-if-this is done in a manner that is potentially 
+hazardous, taking account of the nature of the 
+substances involved, of the part of the body 
+concerned and of the mode and route of 
+administration 
+ 
+Exceptional Classes  
+ 
+Medical Devices 
+which Incorporate 
+Medicinal 
+Substances 
+• Class D- All devices incorporating, as an 
+integral part, a substance which, if used 
+separately, can be considered to be a 
+medicinal product, and which is liable to 
+act on the human body with action 
+ancillary to that of the devices 
+• This medical devices incorporate 
+Medicinal substances in an ancillary role 
+Examples antibiotic bone cements; 
+heparin-coated catheters; wound dressings 
+incorporating antimicrobial agents to 
+provide ancillary action on the wound; 
+blood bags incorporating an anti-coagulant 
+ 
+Devices  
+manufactured from 
+or incorporate non-
+viable animal tissues 
+or their derivatives 
+• Class A- A-such devices are 
+manufactured from or incorporate non-
+viable animal tissues or their derivatives 
+that come in contact with intact skin only  
+leather components of orthopedic 
+appliances 
+ 
+Medical Devices- 
+used for sterilizing or 
+Class A- they are intended to clean medical 
+devices by means of physical action only 
+ 
+ 
+ 
+ 
+Disinfecting Medical 
+Devices 
+Class B: All devices intended specifically to be 
+used for sterilizing or disinfecting medical 
+devices 
+Desk-top sterilizers for use with dental 
+instruments. 
+ 
+ 
+• Class C- they are disinfectant solutions 
+or washer-disinfectors intended 
+specifically for invasive medical devices, 
+as the end point of processing,  
+washer-disinfector equipment specifically for 
+disinfecting an endoscope or another invasive 
+device 
+solutions intended to be used for the 
+disinfection of medical devices without 
+further processing (for example in a 
+steriliser) including those where the 
+infective agent is a prion; 
+ 
+Medical Devices 
+Incorporating Animal 
+or Human 
+Cells/Tissues/Deriva
+tives 
+Class D: All devices manufactured from or 
+incorporating animal or human 
+cells/tissues/derivatives thereof, whether viable 
+or non-viable 
+porcine heart valves 
+ 
+Medical Devices for 
+Ophthalmic 
+Solutions Use 
+Are in Class C-All devices that are intended 
+specifically to be used for disinfecting, cleaning, 
+rinsing or, when appropriate, hydrating contact 
+lenses 
+Contact cleaning solutions 
+ 
+Medical Devices for 
+Contraception or the 
+prevention of STD’s 
+Class C- All devices used for contraception or 
+the prevention of the transmission of sexually 
+transmitted diseases 
+Condoms; Contraceptive diaphragms 
+ 
+ 
+ 
+Implantable Medical 
+Devices for Long-
+term Use 
+Class D- they are implantable or long-term 
+invasive devices 
+intrauterine contraceptive device 
+ 
+Annex 6: Example of an Essential Principles Conformity Checklist 
+A Sample of the Completed Essential Principles Conformity Checklist is herewith attached for illustrative purposes to 
+the applicant. 
+For a medical device to be listed, the Local Responsible Person, with support from the manufacturer, is responsible for 
+demonstrating that the device conforms to the Essential Principles of Safety and Performance of Medical Devices, as well 
+as the Medical Device Labelling Requirements. 
+ 
+EP Checklist control number: 
+Product Owner Name: 
+Product Name: 
+No. 
+Essential Principles – General requirements 
+Applicabl
+e to the 
+device? 
+Method of 
+Conformity 
+Identity of 
+Specific 
+Documents 
+ 
+ 
+2 
+Medical devices should be designed and manufactured in such a way 
+that, when used under the conditions and for the purposes intended 
+and, where applicable, by virtue of the technical knowledge, 
+experience, education or training of intended users, they will not 
+compromise the clinical condition or the safety of patients, or the 
+safety and health of users or, where applicable, other persons, 
+provided that any risks which may be associated with their use 
+constitute acceptable risks when weighed against the benefits to the 
+patient and are compatible with a high level of protection of health 
+and safety. 
+Yes  
+1.The devices are 
+designed and 
+manufactured under 
+a full quality 
+management system 
+in accordance with 
+ISO 13485 and 
+presently certified  
+2.The implantable 
+cardiac pacemaker is 
+tested to comply with 
+ISO 5841-1 standard  
+3. Risk analysis has 
+been performed in 
+accordance with ISO 
+14971. Together with 
+the proactive 
+surveillance studies, 
+it shows that any 
+risks which may be 
+associated with the 
+devices are 
+acceptable when 
+weighed against the 
+benefits to the 
+patient and are 
+compatible with a 
+high level of 
+1. ISO 13485 
+Certificate No. 
+012345  
+2. Type Test 
+Certificate No. 
+123456 compliant 
+with ISO 5841-1 
+standard.  
+ 
+3. Proactive 
+Surveillance Report 
+PSR-001  
+4. Risk Analysis 
+Report RAR-001  
+ 
+ 
+protection of health 
+and safety  
+ 
+ 
+3 
+The solutions adopted by the product owner for the design and 
+manufacture of the devices should conform to safety principles, 
+taking account of the generally acknowledged state of the art. When 
+risk reduction is required, the product owner should control the 
+risk(s) so that the residual risk(s) associated with each hazard is 
+judged acceptable. The product owner should apply the following 
+principles in the priority order listed: 
+● 
+identify known or foreseeable hazards and estimate the 
+associated risks arising from the intended use and foreseeable 
+misuse, 
+● 
+eliminate risks as far as reasonably practicable through 
+inherently safe design and manufacture, 
+● 
+reduce as far as is reasonably practicable the remaining risks 
+by taking adequate protection measures, including alarms, 
+● 
+inform users of any residual risks. 
+Yes  
+-DITTA- 
+-DITTA- 
+4 
+Devices should achieve the performance intended by the product 
+owner and be designed, manufactured and packaged in such a way 
+YES 
+-DITTA- 
+-DITTA- 
+ 
+ 
+that they are suitable for one or more of the functions within the 
+scope of the definition of a medical device.  
+5 
+The characteristics and performances referred to in Clauses 1, 2 and 
+3 should not be adversely affected to such a degree that the health 
+or safety of the patient or the user and, where applicable, of other 
+persons are compromised during the lifetime of the device, as 
+indicated by the product owner, when the device is subjected to the 
+stresses which can occur during normal conditions of use and has 
+been properly maintained in accordance with the product owner’s 
+instructions. 
+ 
+-DITTA- 
+-DITTA- 
+6 
+The devices should be designed, manufactured and packed in such 
+a way that their characteristics and performances during their 
+intended use will not be adversely affected under transport and 
+storage conditions (for example, fluctuations of temperature and 
+humidity) taking account of the instructions and information 
+provided by the product owner. 
+ 
+-DITTA- 
+-DITTA- 
+ 
+ 
+7 
+The benefits must be determined to outweigh any undesirable side 
+effects for the performances intended. 
+ 
+-DITTA- 
+-DITTA- 
+8 
+Every medical device requires clinical evidence, appropriate for the 
+use and classification of the device, demonstrating that the device 
+complies with the applicable provisions of the essential principles. A 
+clinical evaluation should be conducted. 
+ 
+-DITTA- 
+-DITTA- 
+Essential Principles – Design and Manufacturing Requirements 
+8.1 
+The devices should be designed and manufactured in such a way as 
+to ensure the characteristics and performance referred to in Clauses 
+1 to 6 of the 'General Requirements'. Particular attention should be 
+paid to: 
+● 
+the choice of materials used, particularly as regards toxicity 
+and, where appropriate, flammability, 
+● 
+the compatibility between the materials used and biological 
+tissues, cells, body fluids, and specimens, taking account of 
+the intended purpose of the device, 
+YES 
+The materials used 
+to manufacture the 
+device have been 
+subject to biological 
+evaluation in 
+accordance with ISO 
+10993 standards.  
+Biological 
+Evaluation 
+Test 
+Report 
+No. 012345 
+ 
+ 
+● 
+the choice of materials used should reflect, where appropriate, 
+matters such as hardness, wear and fatigue strength. 
+8.2 
+The devices should be designed, manufactured and packed in such 
+a way as to minimise the risk posed by contaminants and residues 
+to the persons involved in the transport, storage and use of the 
+devices and to patients, taking account of the intended purpose of 
+the product. Particular attention should be paid to tissues exposed 
+and to the duration and frequency of exposure. 
+Yes 
+1.The devices are 
+packaged in 
+accordance with a 
+system in compliance 
+with ISO 11607.  
+2.The materials used 
+to manufacture the 
+device have been 
+subject to biological 
+evaluation in 
+accordance with ISO 
+10993 standards.  
+Biological 
+Evaluation Test 
+Report No. 012345  
+ 
+ 
+8.3 
+The devices should be designed and manufactured in such a way 
+that they can be used safely with the materials, substances and 
+gases with which they enter into contact during their normal use or 
+during routine procedures; if the devices are intended to administer 
+medicinal products they should be designed and manufactured in 
+such a way as to be compatible with the medicinal products 
+concerned according to the provisions and restrictions governing 
+these products and that their performance is maintained in 
+accordance with the intended use. 
+YES 
+1.Risk 
+analysis 
+has 
+been 
+performed 
+accordance 
+with 
+ISO 
+14971 
+2.The 
+materials 
+used 
+to 
+manufacture 
+the device have 
+been subject to 
+biological 
+evaluation 
+in 
+accordance 
+with 
+ISO 
+10993 
+standards  
+1.Biological 
+evaluation 
+Test Report No. 
+012345  
+ 
+2. Risk Analysis 
+Report RAR-001  
+ 
+ 
+8.4 
+Where a device incorporates, as an integral part, a substance which, 
+if used separately, may be considered to be a medicinal 
+product/drug as defined in the relevant legislation that applies and 
+which is liable to act upon the body with action ancillary to that of 
+the device, the safety, quality and usefulness of the substance 
+should be verified, taking account of the intended purpose of the 
+device. 
+no  
+not applicable  
+not applicable 
+8.5 
+The devices should be designed and manufactured in such a way as 
+to reduce as far as reasonably practicable and appropriate the risks 
+posed by substances that may leach or leak from the device. 
+Yes  
+1.The materials used 
+to manufacture the 
+device have been 
+subject to biological 
+evaluation in 
+accordance with ISO 
+10993 standards.  
+2.Risk analysis has 
+been performed in 
+accordance with ISO 
+14971.  
+1.Biological 
+evaluation 
+Test Report No. 
+012345  
+2. Risk Analysis 
+Report RAR-001  
+8.6 
+Devices should be designed and manufactured in such a way as to 
+reduce as far as reasonably practicable and appropriate risks posed 
+by the unintentional ingress or egress of substances into or from the 
+Yes 
+Risk analysis has 
+been performed in 
+accordance with ISO 
+14971.  
+Risk Analysis 
+Report RAR-001  
+ 
+ 
+device taking into account the device and the nature of the 
+environment in which it is intended to be used. 
+9
+Infection and microbial contamination 
+ 
+ 
+ 
+9.1 
+The devices and manufacturing processes should be designed in 
+such a way as to eliminate or to reduce as far as reasonably 
+practicable and appropriate the risk of infection to patients, users 
+and, where applicable, other persons. The design should: 
+● allow easy handling, 
+ 
+and, where necessary: 
+● reduce as far as reasonably practicable and appropriate any 
+microbial leakage from the device and/or microbial exposure 
+during use, 
+● prevent microbial contamination of the device, or specimen where 
+applicable, by the patient, user or other person. 
+yes 
+The devices are 
+produced under 
+strictly controlled 
+conditions to 
+minimize 
+contamination. The 
+devices are sterilized 
+using EtO. The 
+methods of 
+sterilization and 
+process control of 
+sterilization are in 
+conformance with 
+ISO 11135 
+2.Risk analysis has 
+been performed in 
+accordance with ISO 
+14971.  
+3. The devices are 
+packaged in 
+Risk 
+Analysis 
+Report 
+RAR-
+001  
+ 
+ 
+accordance with a 
+system in compliance 
+with ISO 11607.  
+9.2 
+Where a device incorporates substances of biological origin, the risk 
+of infection must be reduced as far as reasonably practicable and 
+appropriate 
+by 
+selecting 
+appropriate 
+sources, 
+donors 
+and 
+substances and by using, as appropriate, validated inactivation, 
+conservation, test and control procedures. 
+NO 
+Not applicable  
+not applicable 
+ 
+ 
+9.3 
+Products incorporating non-viable tissues, cells and substances of 
+animal origin falling within the definition of a medical device, should 
+originate from animals that have been subjected to veterinary 
+controls and surveillance adapted to the intended use of the tissues. 
+The product owner is required to retain information on the 
+geographical origin of the animals. Processing, preservation, testing 
+and handling of tissues, cells and substances of animal origin 
+should be carried out so as to provide optimal safety. In particular, 
+safety with regard to viruses and other transmissible agents should 
+be addressed by implementation of validated methods of elimination 
+or inactivation in the course of the manufacturing process. 
+YES 
+Not applicable  
+Not applicable  
+9.4 
+For products incorporating cells, tissues and derivatives of microbial 
+or recombinant origin falling within the definition of a medical 
+device, 
+the 
+selection 
+of 
+sources/donors, 
+the 
+processing, 
+preservation, testing and handling of cells, tissues and derivatives of 
+such origin should be carried out so as to provide optimal safety. In 
+particular, safety with regard to viruses and other transmissible 
+agents should be addressed by implementation of validated methods 
+YES 
+Not applicable  
+Not applicable  
+ 
+ 
+of elimination or inactivation in the course of the manufacturing 
+process. 
+9.5 
+For products incorporating non-viable human tissues, cells and 
+substances falling within the definition of a medical device, the 
+selection of sources, donors and/or substances of human origin, the 
+processing, preservation, testing and handling of tissues, cells and 
+substances of such origin should be carried out so as to provide 
+optimal safety. In particular, safety with regard to viruses and other 
+transmissible agents should be addressed by implementation of 
+validated methods of elimination or inactivation in the course of the 
+manufacturing process. 
+YES 
+Not applicable  
+Not applicable  
+ 
+ 
+9.6 
+Devices labelled as having a special microbiological state should be 
+designed, manufactured and packed to ensure they remain so when 
+placed on the market and remain so under the transport and storage 
+conditions specified by the product owner. 
+yes  
+-DITTA- 
+Risk 
+Analysis 
+Report RAR-001  
+9.7 
+Devices 
+delivered 
+in a 
+sterile 
+state 
+should 
+be 
+designed, 
+manufactured and packed in a non-reusable pack, and/or according 
+to appropriate procedures, to ensure that they are sterile when 
+placed on the market and remain sterile, under the transport and 
+storage conditions indicated by the product owner, until the 
+protective packaging is damaged or opened. 
+yes 
+The devices are 
+sterilized using EtO. 
+The methods of 
+sterilization and 
+process control of 
+sterilization are in 
+conformance with 
+ISO 11135.  
+Risk 
+Analysis 
+Report RAR-001  
+9.8 
+Devices labelled either as sterile or as having a special 
+microbiological state should have been processed, manufactured 
+and, if applicable, sterilized by appropriate, validated methods. 
+yes  
+The devices are 
+sterilized in 
+conditions tightly 
+controlled under the 
+Quality Management 
+System that governs 
+the entire 
+manufacturing 
+process. The 
+environments are in 
+compliance with ISO 
+14644 standard  
+Clean Room 
+Certificate No. 
+012345  
+ 
+ 
+9.9 
+Devices intended to be sterilized should be manufactured in 
+appropriately controlled (e.g. environmental) conditions. 
+NO 
+Not applicable  
+N?A 
+9.10 Packaging systems for non-sterile devices should keep the product 
+without deterioration at the level of cleanliness stipulated and, if the 
+devices are to be sterilized prior to use, minimize the risk of microbial 
+contamination; the packaging system should be suitable taking 
+account of the method of sterilization indicated by the product 
+owner. 
+NO 
+Not applicable  
+N/A 
+9.11 The packaging and/or label of the device should distinguish between 
+identical or similar products placed on the market in both sterile 
+and non-sterile condition. 
+NO 
+Not applicable  
+Not applicable  
+10.1 If the device is intended for use in combination with other devices or 
+equipment, the whole combination, including the connection system 
+should be safe and should not impair the specified performance of 
+the devices. Any restrictions on use applying to such combinations 
+should be indicated on the label and/or in the instructions for use. 
+NO 
+Not applicable  
+Not applicable  
+ 
+ 
+10.2 Devices should be designed and manufactured in such a way as to 
+remove or reduce as far as reasonably practicable and appropriate: 
+● the risk of injury, in connection with their physical features, 
+including the volume/pressure ratio, dimensional and where 
+appropriate ergonomic features; 
+● risks connected with reasonably foreseeable external influences 
+or environmental conditions, such as magnetic fields, external 
+electrical and electromagnetic effects, electrostatic discharge, 
+pressure, humidity, temperature or variations in pressure and 
+acceleration; 
+● the risks connected to their use in conjunction with materials, 
+substances and gases with which they may come into contact 
+during normal conditions of use; 
+● the risks of accidental penetration of substances into the device; 
+● the risk of incorrect identification of specimens; 
+● the risks of reciprocal interference with other devices normally 
+used in the investigations or for the treatment given; 
+YES  
+1.The device is tested 
+to comply with ISO 
+5841-1.  
+2.Risk analysis has 
+been performed in 
+accordance with ISO 
+14971.  
+1.Type Test 
+Certificate No. 
+123456 compliant 
+with ISO 5841-1.  
+2.Risk Analysis 
+Report RAR-001  
+ 
+ 
+● risks arising where maintenance or calibration are not possible 
+(as with implants), from ageing of materials used or loss of 
+accuracy of any measuring or control mechanism. 
+ 
+ 
+10.3 Devices should be designed and manufactured in such a way as to 
+minimise the risks of fire or explosion during normal use and in 
+single fault condition. Particular attention should be paid to devices 
+whose intended use includes exposure to or use in association with 
+flammable 
+substances 
+or 
+substances 
+which 
+could 
+cause 
+combustion. 
+YES 
+DITTA 
+DITTA 
+10.4 Devices must be designed and manufactured in such a way as to 
+facilitate the safe disposal of any waste substances. 
+NO 
+Not applicable  
+N/A  
+11.1 Devices with a measuring function, where inaccuracy could have a 
+significant adverse effect on the patient, should be designed and 
+manufactured in such a way as to provide sufficient accuracy, 
+precision and stability for their intended purpose of the device. The 
+limits of accuracy should be indicated by the product owner. 
+no 
+Not applicable 
+Not applicable  
+ 
+ 
+11.2 Diagnostic devices should be designed and manufactured in such a 
+way as to provide sufficient accuracy, precision and stability for their 
+intended use, based on appropriate scientific and technical 
+methods. In particular the design should address sensitivity, 
+specificity, trueness, repeatability, reproducibility, control of known 
+relevant interference and limits of detection, as appropriate. 
+ 
+Not applicable 
+N/A 
+11.3 Where the performance of devices depends on the use of calibrators 
+and/or control materials, the traceability of values assigned to such 
+calibrators and/or control materials should be assured through a 
+quality management system. 
+ 
+Not applicable 
+N/A 
+11.4 Any measurement, monitoring or display scale should be designed 
+in line with ergonomic principles, taking account of the intended 
+purpose of the device. 
+ 
+Not applicable 
+N/A 
+11.5 Wherever possible values expressed numerically should be in 
+commonly accepted, standardized units, and understood by the 
+users of the device. 
+ 
+Not applicable 
+N/A 
+ 
+ 
+12.1
+.1 
+General 
+Devices should be designed and manufactured and packaged in 
+such a way that exposure of patients, users and other persons to 
+any emitted radiation should be reduced as far as practicable and 
+appropriate, compatible with the intended purpose, whilst not 
+restricting the application of appropriate specified levels for 
+therapeutic and diagnostic purposes. 
+ 
+Not applicable 
+N/A 
+12.2
+.1 
+Intended radiation 
+Where devices are designed to emit hazardous, or potentially 
+hazardous, levels of visible and/or invisible radiation necessary for 
+a specific medical purpose the benefit of which is considered to 
+outweigh the risks inherent in the emission, it should be possible for 
+the user to control the emissions. Such devices should be designed 
+and manufactured to ensure reproducibility of relevant variable 
+parameters within an acceptable tolerance. 
+ 
+Not applicable 
+Not applicable 
+ 
+ 
+12.2
+.2 
+Where devices are intended to emit potentially hazardous, visible 
+and/or invisible radiation, they should be fitted, where practicable, 
+with visual displays and/or audible warnings of such emissions. 
+ 
+Not applicable 
+Not applicable 
+12.3
+.1 
+Unintended radiation 
+Devices should be designed and manufactured in such a way that 
+exposure of patients, users and other persons to the emission of 
+unintended, stray or scattered radiation is reduced as far as 
+practicable and appropriate. 
+ 
+Not applicable 
+N/A 
+12.4
+.1 
+Instructions for use 
+The operating instructions for devices emitting radiation should give 
+detailed information as to the nature of the emitted radiation, means 
+of protecting the patient and the user and on ways of avoiding 
+misuse and of eliminating the risks inherent in installation. 
+ 
+Not applicable 
+Not applicable 
+ 
+ 
+12.5
+.1 
+Ionizing radiation 
+Devices intended to emit ionising radiation should be designed and 
+manufactured in such a way as to ensure that, where practicable, 
+the quantity, geometry and energy distribution (or quality) of 
+radiation emitted can be varied and controlled taking into account 
+the intended use. 
+ 
+Not applicable 
+N/A 
+12.5
+.2 
+Ionizing Radiation 
+Devices emitting ionizing radiation intended for diagnostic radiology 
+should be designed and manufactured in such a way as to achieve 
+appropriate image and/or output quality for the intended medical 
+purpose whilst minimizing radiation exposure of the patient and 
+user. 
+ 
+Not applicable 
+N/A 
+12.5
+.3 
+Ionizing radiation 
+Devices emitting ionizing radiation, intended for therapeutic 
+radiology should be designed and manufactured in such a way as to 
+enable reliable monitoring and control of the delivered dose, the 
+ 
+Not applicable 
+N/A 
+ 
+ 
+beam type and energy and where appropriate the energy distribution 
+of the radiation beam. 
+13 
+Requirements for medical devices connected to or equipped with an 
+energy source  
+ 
+ 
+ 
+13.1  
+Devices incorporating electronic programmable systems, including 
+software, should be designed to ensure the repeatability, reliability 
+and performance of these systems according to the intended use. In 
+the event of a single fault condition in the system, appropriate means 
+should be adopted to eliminate or reduce as far as practicable and 
+appropriate consequent risks. 
+ 
+The device is tested 
+to comply with ISO 
+5841-1 standard.  
+2. Type Test 
+Certificate No. 
+123456 compliant 
+with ISO 5841-1 
+standard.  
+3. Risk analysis has 
+been performed 
+accordance with ISO 
+14971.  
+1.3485 Certificate 
+No. 012345  
+2. The device is 
+tested to comply 
+with ISO 5841-1 
+standard.  
+3.. Type Test 
+Certificate No. 
+123456 compliant 
+with ISO 5841-1 
+standard.  
+ 
+ 
+13.2 Devices where the safety of the patients depends on an internal 
+power supply should be equipped with a means of determining the 
+state of the power supply. 
+ 
+1.The devices are 
+designed and 
+manufactured under 
+a full quality 
+management system 
+in accordance with 
+ISO 13485 and 
+presently certified  
+Type Test Certificate 
+No. 123456 
+compliant with ISO 
+5841-1 standard.  
+13.3 Devices where the safety of the patients depends on an external 
+power supply should include an alarm system to signal any power 
+failure. 
+ 
+Not applicable 
+Not applicable 
+13.4 Devices intended to monitor one or more clinical parameters of a 
+patient should be equipped with appropriate alarm systems to alert 
+the user of situations which could lead to death or severe 
+deterioration of the patient's state of health. 
+ 
+Not applicable 
+Not applicable 
+13.5 Devices should be designed and manufactured in such a way as to 
+reduce as far as practicable and appropriate the risks of creating 
+electromagnetic interference which could impair the operation of 
+this or other devices or equipment in the usual environment. 
+ 
+N/A 
+N/A 
+ 
+ 
+13.6 Devices should be designed and manufactured in such a way as to 
+provide an adequate level of intrinsic immunity to electromagnetic 
+disturbance to enable them to operate as intended. 
+ 
+Not applicable 
+N/A 
+13.7
+.1 
+Protection against electrical risks 
+Devices should be designed and manufactured in such a way as to 
+avoid, as far as possible, the risk of accidental electric shocks during 
+normal use and in single fault condition, provided the devices are 
+installed and maintained as indicated by the product owner. 
+ 
+Not applicable 
+Not applicable 
+14.1 Protection against mechanical risks 
+Devices should be designed and manufactured in such a way as to 
+protect the patient and user against mechanical risks connected 
+with, for example, resistance to movement, instability and moving 
+parts. 
+ 
+Not applicable 
+Not applicable 
+ 
+ 
+14.2 Devices should be designed and manufactured in such a way as to 
+reduce to the lowest practicable level the risks arising from vibration 
+generated by the devices, taking account of technical progress and 
+of the means available for limiting vibrations, particularly at source, 
+unless the vibrations are part of the specified performance. 
+ 
+Not applicable 
+Not applicable 
+14.3 Devices should be designed and manufactured in such a way as to 
+reduce to the lowest practicable level the risks arising from the noise 
+emitted, taking account of technical progress and of the means 
+available to reduce noise, particularly at source, unless the noise 
+emitted is part of the specified performance. 
+ 
+Not applicable 
+Not applicable 
+14.4 Terminals and connectors to the electricity, gas or hydraulic and 
+pneumatic energy supplies which the user has to handle should be 
+designed and constructed in such a way as to minimize all possible 
+risks. 
+ 
+Not applicable 
+Not applicable 
+14.5 Accessible parts of the devices (excluding the parts or areas intended 
+to supply heat or reach given temperatures) and their surroundings 
+ 
+Not applicable 
+Not applicable 
+ 
+ 
+should not attain potentially dangerous temperatures under normal 
+use. 
+15.1 protection against the risks posed to the patient by supplied energy 
+or substances 
+Devices for supplying the patient with energy or substances should 
+be designed and constructed in such a way that the delivered 
+amount can be set and maintained accurately enough to guarantee 
+the safety of the patient and of the user. 
+ 
+Not applicable 
+Not applicable 
+15.2 Devices should be fitted with the means of preventing and/or 
+indicating any inadequacies in the delivered amount which could 
+pose a danger. Devices should incorporate suitable means to 
+prevent, as far as possible, the accidental release of dangerous levels 
+of energy from an energy and/or substance source. 
+ 
+Not applicable 
+Not applicable 
+ 
+ 
+15.3 The function of the controls and indicators should be clearly 
+specified on the devices. Where a device bears instructions required 
+for its operation or indicates operating or adjustment parameters by 
+means 
+of 
+a 
+visual 
+system, 
+such 
+information 
+should 
+be 
+understandable to the user and, as appropriate, the patient. 
+ 
+Not applicable 
+Not applicable 
+16.1 Such devices should be designed and manufactured in such a way 
+that they perform appropriately for their intended purpose taking 
+into account the skills and the means available to users and the 
+influence resulting from variation that can reasonably be anticipated 
+in user’s technique and environment. The information and 
+instructions provided by the product owner should be easy for the 
+user to understand and apply.  
+ 
+Not applicable 
+Not applicable 
+16.2 Such devices should be designed and manufactured in such a way 
+as to reduce as far as practicable the risk of use error in the handling 
+of the device and, if applicable, the specimen, and also in the 
+interpretation of results. 
+ 
+Not applicable 
+Not applicable 
+ 
+ 
+16.3 Such devices should, where reasonably possible, include a 
+procedure by which the user can verify that, at the time of use, that 
+the product will perform as intended by the product owner. 
+ 
+Not applicable 
+Not applicable 
+17 
+Information supplied by the manufacturer 
+ 
+ 
+ 
+17.1 Users should be provided with the information needed to identify the 
+product owner, to use the device safely and to ensure the intended 
+performance, taking account of their training and knowledge. This 
+information should be easily understood. 
+yes 
+The information 
+supplied with the 
+device Labels and 
+instructions complies 
+with the labelling 
+requirements for use 
+enclosed under 
+specified under 
+guidance document 
+oo1. 
+labels 
+and 
+instructions 
+for 
+use 
+enclosed 
+under section 2 
+of 
+the 
+submission 
+folder. 
+17.2 Clinical investigations on human subjects should be carried out in 
+accordance with the spirit of the Helsinki Declaration. This includes 
+every step in the clinical investigation from first consideration of the 
+need and justification of the study to publication of the results. 
+no 
+Not applicable  
+not applicable  
+ 
+ 
+ 
+ 
+ 
+Annex 7: Summary Technical Documentation for Demonstrating Conformity to the Essential Principles of Safety and 
+Performance of IVD Medical Devices (STED) 
+ 
+ 
+Essential Principles Checklist 
+ 
+Identity of IVD medical device:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Essential Principle 
+Identify of IVD Medical Device 
+Applicable 
+to the 
+device? 
+Method Used 
+to 
+Demonstrate 
+Conformity  
+Method 
+Reference 
+Reference to 
+Supporting Controlled 
+Documents 
+ 
+General Requirements 
+ 
+ 
+ 
+ 
+ 5.1 
+Medical devices should be designed and 
+manufactured in such a way that, when used under 
+the conditions and for the purposes intended and, 
+where applicable, by virtue of the technical knowledge, 
+experience, education or training of intended users, 
+they will not compromise the clinical condition or the 
+safety of patients, or the safety and health of users or, 
+where applicable, other persons, provided that any 
+risks which may be associated with their use 
+constitute acceptable risks when weighed against the 
+benefits to the patient and are compatible with a high 
+level of protection of health and safety. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.2 
+The solutions adopted by the manufacturer for 
+the design and manufacture of the devices should 
+conform to safety principles, taking account of the 
+generally acknowledged state of the art.  When risk 
+reduction is required, the manufacturer should control 
+the risk(s) so that the residual risk(s) associated with 
+each hazard is judged acceptable.  The manufacturer 
+should apply the following principles in the priority 
+order listed:  
+▪ 
+identify known or foreseeable hazards and 
+estimate the associated risks arising from the 
+intended use and foreseeable misuse,  
+▪ 
+eliminate risks as far as reasonably practicable 
+through inherently safe design and manufacture,  
+▪ 
+reduce as far as is reasonably practicable the 
+remaining risks by taking adequate protection 
+measures, including alarms, 
+▪ 
+inform users of any residual risks. 
+ 
+ 
+ 
+ 
+ 5.3 
+Devices should achieve the performance 
+intended by the manufacturer and be designed, 
+manufactured and packaged in such a way that they 
+are suitable for one or more of the functions within the 
+scope of the definition of a medical device applicable in 
+each jurisdiction. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.4 
+The characteristics and performances referred to 
+in Clauses 5.1, 5.2 and 5.3 should not be adversely 
+affected to such a degree that the health or safety of 
+the patient or the user and, where applicable, of other 
+persons are compromised during the lifetime of the 
+device, as indicated by the manufacturer, when the 
+device is subjected to the stresses which can occur 
+during normal conditions of use and has been properly 
+maintained in accordance with the manufacturer’s 
+instructions. 
+ 
+ 
+ 
+ 
+ 5.5 
+The devices should be designed, manufactured 
+and packed in such a way that their characteristics 
+and performances during their intended use will not be 
+adversely affected under transport and storage 
+conditions (for example, fluctuations of temperature 
+and humidity) taking account of the instructions and 
+information provided by the manufacturer. 
+ 
+ 
+ 
+ 
+ 5.6 
+The benefits must be determined to outweigh 
+any undesirable side effects for the performances 
+intended. 
+ 
+ 
+ 
+ 
+ 
+Design and Manufacturing Requirements 
+ 
+ 
+ 
+ 
+ 5.7 
+Chemical, physical and biological properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.7.1 The devices should be designed and 
+manufactured in such a way as to ensure the 
+characteristics and performance referred to in Clauses 
+5.1 to 5.6 of the 'General Requirements'. Particular 
+attention should be paid to:  
+▪ 
+the choice of materials used, particularly as regards 
+toxicity and, where appropriate, flammability,  
+▪ 
+the compatibility between the materials used and 
+biological tissues, cells, body fluids, and specimens, 
+taking account of the intended purpose of the 
+device,  
+▪ 
+the choice of materials used should reflect, where 
+appropriate, matters such as hardness, wear and 
+fatigue strength. 
+ 5.7.2 The devices should be designed, manufactured 
+and packed in such a way as to minimize the risk 
+posed by contaminants and residues to the persons 
+involved in the transport, storage and use of the 
+devices and to patients, taking account of the intended 
+purpose of the product.  Particular attention should be 
+paid to tissues exposed and to the duration and 
+frequency of exposure. 
+ 5.7.3 ------------------------------- etc. -----------------------
+--------------------- 
+ 5.7.4 ------------------------------- etc. -----------------------
+--------------------- 
+ 
+ 
+ 5.7.5  
+ 5.7.6  
+ 
+ 
+ 
+ 
+ 
+ 
+Declaration  
+ 
+I confirm that I have neither amended the wording in this form, nor otherwise 
+altered the form in any material manner, apart from filling in the blanks. I 
+declare that the information provided in this form is accurate and correct and 
+the device conforms to all the applicable requirements stipulated above. 
+Name: 
+Position: 
+The Applicant (Local Authorized Representative):  
+Signature: 
+…………………………………………………………………………………………………
+…..Date:……………………….. 
+ 
+References 
+1. Global Harmonization Task Force (GHTF)-/SG1/N12:2000 Role of 
+Standards in the Assessment of Medical Devices. 
+2. GHTF/SG1/N29:2005 Information Document Concerning the Definition 
+of the Term ‘Medical Device’. 
+3. GHTF/SG1/N40:2006 Principles of Conformity Assessment for Medical 
+Devices. 
+4. GHTF/SG1/N41:2005 Essential Principles of Safety and Performance of 
+Medical Device. 
+5. The Global Harmonization Task Force (GHTF)which is now The 
+International Medical Devices Regulatory Forum (IMDRF) 
+6. The Asian Harmonization Working Party (AHWP) 
+7. British Standard Institute 
+8. Singapore Health Safety Authority (HSA) 
+9. Global Medical Devices Agency 
+10. 
+Medical Devices -ISO 13485 Standards-Quality Management 
+Systems-Requirements for Regulatory purposes 2016 
+1. WHO global model regulatory framework for medical devices including 
+in vitro diagnostic medical devices (WHO Medical device technical series 
+2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXES 
+Addendum 1-Guidance on the principle of Risk Based Classification of 
+In-Vitro Diagnostic (IVD) Medical Devices 
+Annexes 
+Annex 1: Letter of Authorization Template  
+Annex 2: Marketing History Declaration Template (Class B) 
+Annex 3: Safety Declaration Template 
+Annex 4. Guidance on Change Notification of Medical Devices including IVDs   
+Annex 5: MEDICAL DEVICES PROCESS FLOW & INTERACTIONS 
+Annex 6: Risk-Based Classification of Medical Devices with Examples 
+Annex 7: Summary Technical Documentation for Demonstrating Conformity 
+to the Essential Principles of Safety and Performance of Medical Devices 
+(STED) 
+Annex 8: Summary Technical Documentation for Demonstrating Conformity 
+to the Essential Principles of Safety and Performance of IVD Medical Devices 
+(STED) 
+Tables 
+Table 1: Risk Based Classification of Medical Devices and Examples  
+Table 2: Types of marketing clearances or approvals from each country/region 
+Table 3: Summary of Application Process to be followed for All Medical 
+Devices. 
+Table 4: Summary of Submission Requirements for listing of Class A 
+Table 5: Summary of Submission Requirements for Class B 
+Table 6: Summary of Submission Requirements for Class C and D  
+Table 7: Turn-around-time (TAT) for medical devices registration  
+Table 8: Registration, retention and variations fees for Medical Devices  
+Table 9: Categories of Change Notification for Class A, B, C and D Medical 
+Devices  
+Table 10: Risk classification of In-Vitro Diagnostics and Examples. 
+Table 11: Description of Common Test Purposes for IVD Medical Devices 
+ 
+ 
+ 
+Revision History  
+ 
+Revision 
+No 
+Date 
+Author/Rev
+iewer 
+Sections 
+amended  
+Reason for change 
+000 
+Augu
+st 
+2021 
+Paulyne  
+Header 
+PPB/PER/MDV/GDL/0
+03                                   
+revision 000   2017 
+August 2017 
+ 
+ 
+ 
+Main title  
+GUIDELINES ON 
+SUBMISSION OF 
+DOCUMENTATION FOR 
+ 
+ 
+REGISTRATION OF 
+MEDICAL DEVICES 
+ 
+ 
+ 
+ 
+Introduction  Section referring to 
+gazette notice no 35 
+2014 
+ 
+ 
+ 
+LTR 
+Local Authorized 
+Representative 
+h. Any 
+manufacturer 
+based 
+outside  
+Kenya 
+must 
+designate a local 
+authorized 
+Representative 
+(LAR). 
+The 
+appointed 
+LAR 
+must 
+provide 
+written 
+evidence 
+that 
+they 
+are 
+acting with the 
+consent 
+of 
+a 
+manufacturer 
+located 
+outside 
+the Kenya (Annex 
+1: 
+Letter 
+of 
+Authorization 
+Template) 
+ 
+ 
+ 
+1.5.3 
+Local Authorized 
+Representative and 
+Subcontractors 
+Only one Local 
+Representative Person 
+should be identified, 
+and this should be 
+consistent across the 
+device labels, and 
+Declarations of 
+Conformity. 
+ 
+2.0 
+Janu
+ary 
+2022 
+Paulyne  
+Citation 
+Page 
+Addition of opening and 
+closing citations 
+ 
+ 
+ 
+format 
+Glossary and 
+Abbreviations added 
+ 
+ 
+ 
+Back page  
+Aligment with control of 
+document SOP. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 00506 Lenana Road Opposite Russian Embassy Nairobi, 
+Tel:  +254-02-12345/6789, Fax: +254-02-12345, Website:  
+www.Pharmacyboardkenya.org.ke, Email: 
+info@pharmacyboardkenya.org.ke 

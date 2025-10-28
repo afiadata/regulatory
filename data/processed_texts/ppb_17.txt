@@ -1,0 +1,2749 @@
+ 
+ 
+ 
+ 
+                                                                            HPT/PER/GUD/013
+ 
+ 
+ 
+                                                  Rev. No. 1 
+ 
+      REPUBLIC OF KENYA 
+ 
+               
+ 
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+GUIDELINES ON SUBMISSION OF DOCUMENTATION FOR 
+REGISTRATION OF BIOTHERAPEUTIC PRODUCTS 
+ 
+JANUARY 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The author of this document is the Pharmacy and Poisons Board, a 
+State Corporation under the Ministry of Health, Republic of Kenya. It may 
+be reproduced or adopted on condition that the recommended citation 
+below is made. 
+©Pharmacy and Poisons Board, 2022 
+ 
+All rights reserved: 
+No part of this publication may be reproduced, stored in a retrieval 
+system, or transmitted in any form, or by any means, electronic, 
+mechanical, photocopying, recording, scanning, or otherwise, without the 
+prior permission in writing from the pharmacy and Poisons Board. 
+ 
+For clarifications, comments, or suggestions, please contact: 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv
+ 
+Table OF CONTENTS 
+ABBREVIATIONS AND ACRONYMS ...................................................................................... vi 
+ACKNOWLEGEMETS ................................................................................................................ vii 
+CONTRIBUTORS ......................................................................................................................... vii 
+GLOSSARY..................................................................................................................................... ix 
+GLOSSARY................................................................................................................................... xiii 
+IMPLEMENTATION RESPONSIBILITY AND EXISTING LEGAL FRAMEWORK .... xvii 
+SCOPE ......................................................................................................................................... xviii 
+INTRODUCTION ........................................................................................................................... 1 
+MODULE 1: ADMINISTRATIVE AND PRODUCT INFORMATION ................................ 1 
+1.1 
+Cover Letter ................................................................................................................... 2 
+1.2 
+Comprehensive table of Content for all modules .............................................. 2 
+1.3  
+Application form .......................................................................................................... 2 
+1.4  
+Product Information ................................................................................................... 2 
+1.4.1 Summary of product characteristics (SmPC).................................................. 2 
+1.4.2  
+Container labeling ............................................................................................. 3 
+1.4.3  
+Package insert .................................................................................................... 3 
+1.4.4  
+Mock-up and specimens ................................................................................. 3 
+1.5   Information regarding experts. ............................................................................... 4 
+1.6 
+Certificate of Good Manufacturing Practices (GMP) ........................................ 4 
+1.7 
+Good Clinical Practice (GCP) and/or Good Laboratory Practice (GLP) ...... 4 
+1.8 
+Regulatory Status ........................................................................................................ 4 
+1.8.1 Registration status from countries with Stringent Drug Regulatory 
+Authorities (SDRAs) ............................................................................................................ 4 
+1.8.2  Registration status in EAC Partner States ..................................................... 5 
+1.8.3 List of countries in which a similar application has been submitted..... 5 
+1.8.4 
+Statement on whether an application for the product has been 
+previously rejected, withdrawn or repeatedly deferred in the EAC Partner 
+States 
+5 
+1.9  
+Manufacturing and Marketing authorization .................................................... 5 
+1.10  Product samples .......................................................................................................... 5 
+1.11  Authorization of the local technical representative.......................................... 5 
+ 
+v
+1.12  Environmental risk assessment: ............................................................................ 6 
+MODULE 2: OVERVIEWS AND SUMMARIES .................................................................... 7 
+2.1 
+General table of contents.......................................................................................... 7 
+2.2 
+Introduction. ................................................................................................................. 7 
+2.3 
+Overall quality summary. ......................................................................................... 7 
+2.4 
+Overview and summary of the nonclinical studies .......................................... 7 
+2.5 
+Overview and summary of the clinical studies .................................................. 8 
+2.6 
+Non-clinical written and tabulated Summaries ................................................ 8 
+2.7 
+Clinical Summary ........................................................................................................ 8 
+MODULE 3: QUALITY (CHEMISTRY, MANUFACTURING AND CONTROLS) .......... 1 
+3.1 
+Table of contents of module three ......................................................................... 1 
+3.2.S.   
+Drug substance ............................................................................................. 1 
+3.2  
+DRUG PRODUCT ............................................................................................................ 8 
+Reference: ..................................................................................................................................... 17 
+3.2. A   APPENDICES ................................................................................................................. 1 
+3.2.R:   
+Executed Batch Manufacturing Record ..................................................... 3 
+Provide executed batch manufacturing record  of at least one batch of the drug 
+product............................................................................................................................................ 3 
+3.3  
+ LITERATURE REFERENCES ..................................................................................... 3 
+MODULE IV: NON CLINICAL STUDIES ............................................................................... 4 
+4.1  
+Table of contents of module4 .................................................................................. 4 
+4.2  
+Reports on studies ...................................................................................................... 4 
+4.2.1 
+ Pharmacology .................................................................................................... 4 
+4.2.1.1 
+Pharmacodynamic studies ............................................................................. 4 
+4.2.2  
+ Pharmacokinetics (when applicable) ......................................................... 4 
+4.2.3  
+Toxicology ............................................................................................................ 4 
+MODULE V: CLINICAL STUDIES ........................................................................................... 5 
+REPORTS ON CLINICAL STUDIES ........................................................................................ 6 
+6.  
+POST MARKET SURVEILLANCE FOR  BIOTHERAPEUTIC PRODUCT ........ 7 
+Annex 1:  
+APPLICATION FORM FOR REGISTRATION OF BIOTHERAPEUTICS 
+AND SIMILAR BIOTHERAPEUTIC PRODUCTS ................................................................. 7 
+Annex II: EXPERT DECLARATION FORM ......................................................................... 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+BMRs  
+- 
+Batch Manufacturing Records 
+CMC   
+- 
+Chemistry, Manufacturing and Controls  
+CA 
+ 
+- 
+Clinical Assessor 
+DNA   
+-  
+Deoxyribonucleic Acid 
+DP 
+ 
+- 
+Drug Product 
+DS 
+ 
+- 
+Drug Substance 
+EAC   
+-  
+East African Community 
+EMA   
+-  
+European Medicines Agency  
+EU  
+ 
+-  
+European Union  
+GCP   
+-  
+Good Clinical Practice 
+ 
+vii
+GLP   
+- 
+Good Laboratory Practice 
+GMP   
+-  
+Good Manufacturing Practice  
+ICH   
+-  
+International Council for Harmonization  
+INN   
+-  
+International Non-proprietary Names  
+MOA  
+-  
+Mechanism of Action 
+NCE   
+-  
+New Chemical Entity  
+NMRA 
+ 
+-  
+National Medicines Regulatory Authority 
+Ph. Eur 
+-  
+European Pharmacopeia  
+PK/PD  
+-  
+Pharmacokinetic/Pharmacodynamic 
+PBRER  
+- 
+Periodic Benefit-Risk Evaluation Report 
+RMP   
+- 
+Risk Management Plan 
+WHO   
+-  
+World Health Organization 
+ 
+ACKNOWLEGEMETS   
+CONTRIBUTORS 
+EAC Expert working group on Medicine Registration 2018   
+REVIEWERS 
+Dr. Jonathan Meriakol, Senior Principal Regulatory officer, PER, DHPT, 
+PPB 
+Dr. Ronald Inyangala –      Deputy-Director, Senior Principal Regulatory 
+Officer, Drug Product Evaluation and Registration (DPER) Department, 
+HPT 
+Dr. Peter Mbwiiri Ikamati, Chief Principal Regulatory officer, PER, DHPT, 
+PPB 
+Dr. Serah Chebet Chesaro, Principal Regulatory officer, PER, DHPT, PPB 
+Dr. Paulyne  Wairimu-  Principal Regulatory Officer, Medical Devices 
+Department,  Department, Directorate of Health Products and Technologies 
+ 
+viii 
+Dr. Eugene Odame, Senior Regulatory officer, Product Evaluation and 
+Registration (PER)  (MD&IVDs), DHPT, PPB  
+Dr. Ali Arale - Principal Regulatory Officer, Drug Product Evaluation and 
+Registration (DPER) Department, Directorate of Health Products and 
+Technologies) 
+Dr. James Owuor  - Assistant Principal Regulatory Officer, Drug Product 
+Evaluation and Registration (DPER) Department, Directorate of Health 
+Products and Technologies)  
+Dr. Edwin Burugu - 
+ Assistant Principal Regulatory Officer, Drug 
+Product Evaluation and Registration (DPER) Department Directorate of 
+Health Products and Technologies 
+Mr. Alex Mutai  
+- 
+Assistant Principal Regulatory Officer, Blood and 
+Blood Products Department, Directorate of Health Products and 
+Technologie 
+ Ms. Jacqueline Yahuma  
+- Assistant Principal Regulatory Officer, 
+Cosmetics Department, Directorate of Health Products and Technologies 
+Mr. Henry Chweya - Assistant Principal Regulatory Officer, Border line 
+Products Department, Directorate of Health Products and Technologies 
+Mr. Peter Mugala - Senior Information and Communication Technology 
+Officer; Drug Product Evaluation and Registration (DPER) Department, 
+Directorate of Health Products and Technologies 
+Mr. Anthony Kemboi 
+ - Information and Communication Technology 
+Officer; Drug Product Evaluation and Registration (DPER) Department, 
+Directorate of Health Products and Technologies 
+ Mr. Victor Kipchumba - Information and Communication Technology 
+Officer Medical Devices Department Directorate of Health Products and 
+Technologies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ix 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GLOSSARY  
+ 
+For the purposes of these guidelines, the following definitions shall apply:  
+ 
+Acceptance criteria 
+Means the product specifications and acceptance/rejection criteria, such 
+as acceptable quality level and unacceptable quality level, with an 
+associated sampling plan, that is necessary for making a decision to accept 
+or reject a lot or batch (or any other convenient subgroups of manufactured 
+units). 
+ 
+Anti-drug antibody 
+An antibody that binds to the active substance of a biotherapeutic product. 
+ 
+Anti-product antibody 
+An antibody that binds to the active substance, impurities or excipients of 
+a biotherapeutic product. 
+ 
+Biomarkers 
+A laboratory measurement that reflects the activity of a disease process, 
+correlates (either directly or inversely) with disease progression, and may 
+also be an indicator of a therapeutic response. A genomic biomarker is a 
+measurable DNA and/or RNA marker that measures the expression, 
+function or regulation of a gene. 
+ 
+Biotherapeutic 
+A biological medicinal product with the indication of treating human   
+ 
+x 
+diseases. 
+ 
+Comparability exercise 
+ 
+The activities – including study design, conduct of studies, and evaluation 
+of data that are designed to investigate whether a pre-change product and 
+a post-change product are highly similar 
+ 
+Critical quality attribute 
+A 
+physical, 
+chemical, 
+biological 
+or 
+microbiological 
+property 
+or 
+characteristic that is selected for its ability to help indicate the consistent 
+quality of the product within an appropriate limit, range or distribution to 
+ensure the desired product quality. 
+ 
+Drug product 
+A pharmaceutical product type in a defined container closure system that 
+contains a drug substance, generally in association with excipients. 
+ 
+Drug substance 
+Means any component that provides pharmacological activity or other 
+direct effect in the diagnosis, cure, mitigation, treatment, or prevention of 
+disease, or to affect the structure or any function of the body of man or 
+animals. 
+ 
+Expiry date 
+The date given on the individual container (usually on the label) of a 
+product up to and including which the drug substance and drug product 
+are expected to remain within specifications, if stored as recommended. 
+The expiry date is established for each batch by adding the shelf-life period 
+to the date of manufacture. 
+ 
+Good clinical practice (GCP) 
+Means a standard for the design, conduct, performance, monitoring, 
+auditing, recording, analyses, and reporting of clinical trials that provides 
+assurance that the data and reported results are credible and accurate, 
+and that the rights, integrity, and confidentiality of trial subjects are 
+protected.  
+ 
+Good laboratory practice (GLP) 
+A quality system concerned with the organizational process and conditions 
+under which nonclinical health and environmental safety studies are 
+planned, performed, monitored, recorded, archived and reported. 
+ 
+Good manufacturing practice (GMP) 
+That part of the pharmaceutical quality assurance process, which ensures 
+that products are consistently produced, and meet the quality standards 
+appropriate to their intended use as required by the marketing 
+authorization. In these guidelines, GMP refers to the current GMP 
+guidelines published by WHO. 
+ 
+ 
+xi 
+Local Technical Representative 
+A person or company with sufficient pharmaceutical expertise that is 
+incorporated within the specific country and who will be responsible for 
+facilitating communication with the Applicant and when the product is 
+registered shall assume all legal responsibilities.  
+ 
+Immunogenicity 
+The ability of a substance to trigger an immune response or reaction (e.g. 
+development of specific antibodies, T cell response, or allergic or 
+anaphylactic reaction). 
+ 
+Impurity 
+Any component present in the drug substance or drug product that is not 
+the desired product, a product-related substance, or excipient including 
+buffer components. An impurity may be either process- or product-related. 
+ 
+In-process control 
+Checks performed during production in order to monitor and, if necessary, 
+to adjust the process to ensure that the intermediate or product conforms 
+to its specifications. The control of the environment or equipment may also 
+be regarded as a part of in-process control. 
+ 
+In-silicomodeling 
+A computer-simulated model. 
+ 
+Master cell bank (MCB) 
+An aliquot of a single pool of cells which generally has been prepared from 
+the selected cell clone under defined conditions, dispensed into multiple 
+containers and stored under defined conditions. 
+ 
+Non-human primates (NHPs) 
+Primates used as models for the study of the effects of drugs in humans 
+prior to clinical studies. 
+ 
+Pharmacodynamics (PD) 
+The study of the biochemical and physiological effects of drugs on the body 
+and the mechanisms of drug action and the relationship between drug 
+concentration and effect. One dominant example is drug-receptor 
+interactions. PD is often summarized as the study of what a drug does to 
+the body, as opposed to pharmacokinetics which is the study of what the 
+body does to a drug. 
+ 
+Pharmacogenomics 
+The study of the pharmacological correlation between drug response and 
+variations in genetic elements has become of increasing importance for 
+drug development. Such variations can have effects on the risk of 
+developing adverse drug reactions as well as on the response to treatment. 
+Variations in drug pharmacokinetics and metabolic pathways can cause 
+higher drug concentrations in some patients, resulting in increased drug 
+toxicity, and/or lower drug concentrations in some patients, resulting in 
+ 
+xii 
+decreased drug effects. 
+ 
+Pharmacokinetics (PK) 
+The study and characterization of the time course of drug absorption, 
+distribution, metabolism and elimination. Pharmacokinetics is a 
+quantitative analysis of how living systems handle foreign compounds. 
+ 
+Pharmacovigilance 
+The activities that are carried out after a medicinal product is marketed in 
+order to observe and manage in a continuous manner the safety and the 
+efficacy of the products. 
+ 
+ 
+rDNA-derivedbiotherapeutics 
+Biotherapeutics prepared by recombinant DNA technology, i.e. all 
+biologically active protein products which are used in the treatment of 
+human diseases and which are prepared by rDNA technology. 
+ 
+Recombinant DNA technology 
+Technology that joins together (i.e., recombines) DNA segments from two 
+or more different DNA molecules that are inserted into a host organism to 
+produce new genetic combinations. It is also referred to as gene 
+manipulation or genetic engineering because the original gene is artificially 
+altered and changed. These new genes, when inserted into the expression 
+system, form the basis for the production of rDNA-derived protein(s). 
+ 
+Risk management plan 
+A detailed description of the activities that continuously ensure patients’ 
+safety and their benefit from a medicinal ingredient. A risk management 
+plan includes pharmacovigilance and many other elements. 
+ 
+Shelf-life 
+The period of time during which a drug substance or drug product, if stored 
+correctly, is expected to comply with the specification, as determined by 
+stability studies on a number of batches of the product. The shelf-life is 
+used to establish the expiry date of each batch. 
+ 
+Source material/starting material 
+Any substance of a defined quality used in the production of a biological 
+medicinal product, but excluding packaging materials. 
+ 
+Specification 
+Means a list of tests, references to analytical procedures and appropriate 
+acceptance criteria, which are numerical limits, ranges, or other criteria for 
+the tests described. It establishes the set of criteria to which an drug 
+substance or drug product should conform to be considered acceptable for 
+its intended use.  
+ 
+Working cell bank (WCB) 
+The working cell bank is prepared from aliquots of a homogeneous 
+ 
+xiii 
+suspension of cell obtained from culturing the master cell bank under 
+defined culture conditions. 
+ 
+GLOSSARY  
+ 
+For the purposes of these guidelines, the following definitions shall apply:  
+ 
+Acceptance criteria 
+Means the product specifications and acceptance/rejection criteria, such 
+as acceptable quality level and unacceptable quality level, with an 
+associated sampling plan, that is necessary for making a decision to accept 
+or reject a lot or batch (or any other convenient subgroups of manufactured 
+units). 
+ 
+Anti-drug antibody 
+An antibody that binds to the active substance of a biotherapeutic product. 
+ 
+Anti-product antibody 
+An antibody that binds to the active substance, impurities or excipients of 
+a biotherapeutic product. 
+ 
+Biomarkers 
+A laboratory measurement that reflects the activity of a disease process, 
+correlates (either directly or inversely) with disease progression, and may 
+also be an indicator of a therapeutic response. A genomic biomarker is a 
+measurable DNA and/or RNA marker that measures the expression, 
+function or regulation of a gene. 
+ 
+Biotherapeutic 
+A biological medicinal product with the indication of treating human 
+diseases. 
+ 
+Comparability exercise 
+ 
+The activities – including study design, conduct of studies, and evaluation 
+of data that are designed to investigate whether a pre-change product and 
+a post-change product are highly similar 
+ 
+Critical quality attribute 
+A 
+physical, 
+chemical, 
+biological 
+or 
+microbiological 
+property 
+or 
+characteristic that is selected for its ability to help indicate the consistent 
+quality of the product within an appropriate limit, range or distribution to 
+ensure the desired product quality. 
+ 
+Drug product 
+A pharmaceutical product type in a defined container closure system that 
+contains a drug substance, generally in association with excipients. 
+ 
+ 
+xiv 
+Drug substance 
+Means any component that provides pharmacological activity or other 
+direct effect in the diagnosis, cure, mitigation, treatment, or prevention of 
+disease, or to affect the structure or any function of the body of man or 
+animals. 
+ 
+Expiry date 
+The date given on the individual container (usually on the label) of a 
+product up to and including which the drug substance and drug product 
+are expected to remain within specifications, if stored as recommended. 
+The expiry date is established for each batch by adding the shelf-life period 
+to the date of manufacture. 
+ 
+Good clinical practice (GCP) 
+Means a standard for the design, conduct, performance, monitoring, 
+auditing, recording, analyses, and reporting of clinical trials that provides 
+assurance that the data and reported results are credible and accurate, 
+and that the rights, integrity, and confidentiality of trial subjects are 
+protected.  
+ 
+Good laboratory practice (GLP) 
+A quality system concerned with the organizational process and conditions 
+under which nonclinical health and environmental safety studies are 
+planned, performed, monitored, recorded, archived and reported. 
+ 
+Good manufacturing practice (GMP) 
+That part of the pharmaceutical quality assurance process, which ensures 
+that products are consistently produced, and meet the quality standards 
+appropriate to their intended use as required by the marketing 
+authorization. In these guidelines, GMP refers to the current GMP 
+guidelines published by WHO. 
+ 
+Local Technical Representative 
+A person or company with sufficient pharmaceutical expertise that is 
+incorporated within the specific country and who will be responsible for 
+facilitating communication with the Applicant and when the product is 
+registered shall assume all legal responsibilities.  
+ 
+Immunogenicity 
+The ability of a substance to trigger an immune response or reaction (e.g. 
+development of specific antibodies, T cell response, or allergic or 
+anaphylactic reaction). 
+ 
+Impurity 
+Any component present in the drug substance or drug product that is not 
+the desired product, a product-related substance, or excipient including 
+buffer components. An impurity may be either process- or product-related. 
+ 
+In-process control 
+Checks performed during production in order to monitor and, if necessary, 
+ 
+xv 
+to adjust the process to ensure that the intermediate or product conforms 
+to its specifications. The control of the environment or equipment may also 
+be regarded as a part of in-process control. 
+ 
+In-silicomodeling 
+A computer-simulated model. 
+ 
+Master cell bank (MCB) 
+An aliquot of a single pool of cells which generally has been prepared from 
+the selected cell clone under defined conditions, dispensed into multiple 
+containers and stored under defined conditions. 
+ 
+Non-human primates (NHPs) 
+Primates used as models for the study of the effects of drugs in humans 
+prior to clinical studies. 
+ 
+Pharmacodynamics (PD) 
+The study of the biochemical and physiological effects of drugs on the body 
+and the mechanisms of drug action and the relationship between drug 
+concentration and effect. One dominant example is drug-receptor 
+interactions. PD is often summarized as the study of what a drug does to 
+the body, as opposed to pharmacokinetics which is the study of what the 
+body does to a drug. 
+ 
+Pharmacogenomics 
+The study of the pharmacological correlation between drug response and 
+variations in genetic elements has become of increasing importance for 
+drug development. Such variations can have effects on the risk of 
+developing adverse drug reactions as well as on the response to treatment. 
+Variations in drug pharmacokinetics and metabolic pathways can cause 
+higher drug concentrations in some patients, resulting in increased drug 
+toxicity, and/or lower drug concentrations in some patients, resulting in 
+decreased drug effects. 
+ 
+Pharmacokinetics (PK) 
+The study and characterization of the time course of drug absorption, 
+distribution, metabolism and elimination. Pharmacokinetics is a 
+quantitative analysis of how living systems handle foreign compounds. 
+ 
+Pharmacovigilance 
+The activities that are carried out after a medicinal product is marketed in 
+order to observe and manage in a continuous manner the safety and the 
+efficacy of the products. 
+ 
+ 
+rDNA-derivedbiotherapeutics 
+Biotherapeutics prepared by recombinant DNA technology, i.e. all 
+biologically active protein products which are used in the treatment of 
+human diseases and which are prepared by rDNA technology. 
+ 
+ 
+xvi 
+Recombinant DNA technology 
+Technology that joins together (i.e., recombines) DNA segments from two 
+or more different DNA molecules that are inserted into a host organism to 
+produce new genetic combinations. It is also referred to as gene 
+manipulation or genetic engineering because the original gene is artificially 
+altered and changed. These new genes, when inserted into the expression 
+system, form the basis for the production of rDNA-derived protein(s). 
+ 
+Risk management plan 
+A detailed description of the activities that continuously ensure patients’ 
+safety and their benefit from a medicinal ingredient. A risk management 
+plan includes pharmacovigilance and many other elements. 
+ 
+Shelf-life 
+The period of time during which a drug substance or drug product, if stored 
+correctly, is expected to comply with the specification, as determined by 
+stability studies on a number of batches of the product. The shelf-life is 
+used to establish the expiry date of each batch. 
+ 
+Source material/starting material 
+Any substance of a defined quality used in the production of a biological 
+medicinal product, but excluding packaging materials. 
+ 
+Specification 
+Means a list of tests, references to analytical procedures and appropriate 
+acceptance criteria, which are numerical limits, ranges, or other criteria for 
+the tests described. It establishes the set of criteria to which an drug 
+substance or drug product should conform to be considered acceptable for 
+its intended use.  
+ 
+Working cell bank (WCB) 
+The working cell bank is prepared from aliquots of a homogeneous 
+suspension of cell obtained from culturing the master cell bank under 
+defined culture conditions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xvii 
+ 
+ 
+IMPLEMENTATION RESPONSIBILITY AND EXISTING LEGAL 
+FRAMEWORK 
+The Pharmacy and Poisons Board will ensure that the Biotherapeutic 
+product     dossiers submitted for market authorization are complying with 
+requirements as stipulated in the technical guidelines and in accordance 
+with the relevant policies, laws, legal frameworks, guidelines, manuals and 
+procedures existing   in Kenya.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xviii 
+ 
+ 
+ 
+ 
+ 
+ 
+SCOPE 
+The guidelines apply, in principle, to all biologically active protein products, 
+which are used in the treatment of human diseases including those 
+prepared by recombinant DNA technology using prokaryotic or eukaryotic 
+cells. The guidelines also apply to protein products used for in vivo 
+diagnosis (e.g. monoclonal antibody products used for imaging), products 
+used for exvivo treatment, and those intentionally modified by, for example, 
+PEGylation, conjugation with a cytotoxic drug, or modification of rDNA 
+sequences. Some aspects of these guidelines may apply to products 
+produced in transgenic animals and plants. However, specific issues for 
+such products can be found in the relevant documents published by WHO 
+and Pharmacy and Poisons Board   should be consulted for specific advice 
+on these products. 
+Whole blood, cellular blood components and Protein products used for in 
+vitro diagnosis are not within the scope of these guideline
+ 
+1 
+INTRODUCTION  
+ 
+These guidelines have been developed to provide guidance to applicant for 
+marketing authorization of Biotherapeutic products in the Kenya .  
+The work has been compiled by the East African Community (EAC) Experts 
+Working Group (EWG) on Medicines Evaluation and Registration. The team 
+relied on their experiences and knowledge on Biotherapeutic products   
+regulation of the respective Partner States, World Health Organization 
+(WHO) and other key partners in the biotechnology sector.  
+The guidelines therefore provide product dossier requirements in support 
+of market authorization of vaccines. One of the means for ensuring that 
+products meet the required standards of quality, safety and efficacy is by 
+conducting product specific pre-marketing assessments to determine 
+whether the product should be registered. Submission of adequate 
+documentation on quality, safety and efficacy of a Biotherapeutic product    
+will enable Pharmacy and Poisons Board to use the information and other 
+factors to assess the suitability of the product for the intended use. 
+ 
+Compliance to these guidelines in the submission of applications will 
+facilitate processing of applications and subsequent registration of the 
+products. This will enable the product to be available to the consumers in 
+a timely manner. 
+ 
+Pharmacy and Poisons Board requires that all medicinal products intended 
+to be marketed in Kenya meet the acceptable standards of quality, safety 
+and efficacy and at the same time be assessed to have been produced in 
+facilities that comply with current Good Manufacturing Practices (GMP). 
+This Guideline is made to provide guidance to applicants on the procedure 
+for registering Biotherapeutic products in the Kenya.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MODULE 1: ADMINISTRATIVE AND PRODUCT INFORMATION 
+ 
+ 
+2 
+Module 1 should contain all administrative documents (for example, 
+application forms and certifications), labelling, general correspondence and 
+annexes (environmental assessments and overseas evaluation reports), as 
+needed. 
+ 
+Documents should be organized in the order listed below. Generally, all of 
+the documents in Module 1, other than the annexes, should be provided in 
+a single volume. The annexes to the module should be submitted in 
+separate volumes. Official language is English as a mandatory language for 
+all medicinal products. 
+ 
+1.1 
+Cover Letter 
+Applicant should include a Cover Letter with all applications. A copy of the 
+letter should be placed at the beginning of Module 1. The applicant shall 
+sign the cover letter  
+1.2 
+Comprehensive table of Content for all modules 
+Module 1 should include a comprehensive table of contents for the entire 
+application. The comprehensive table of contents should include a 
+complete list of all documents provided in the application by module. In 
+the table of contents, the location of each document should be identified 
+by referring to the volume numbers that contain the relevant documents. 
+ 
+1.3  Application form  
+An application to register a biotherapeutic product must be accompanied 
+by a completed Application Form (Annex 1). The application form should 
+be dully filled   electronic   MS word with the relevant information and 
+attachments, dated, signed and stamped appropriately.  
+ The  dated, signed and stamped  page can be  scanned and attached to 
+the respective section. The application form can be downloaded from 
+Website: www.Pharmacyboardkenya.org  under guidelines section. 
+ 
+1.4  Product Information  
+Provide copies of all package inserts, labels and any information intended 
+for distribution with the product to the patient. 
+ 
+1.4.1 Summary of product characteristics (SmPC) 
+ 
+The SmPC is the basis of information for healthcare professionals on how 
+to use the medicinal product safely and effectively.  
+ 
+ 
+3 
+A summary of characteristics of the biotherapeutic product under 
+evaluation should be submitted. 
+For more guidance refer EAC Guidelines on Format and Content of 
+Summary of Products Characteristics for guidance on preparation of 
+SmPC (EAC/TF-MED/MER/FD/GDL/N4R0). 
+ 
+1.4.2  
+Container labeling 
+ 
+Product should be labeled as prescribed in the EAC Guidelines on 
+container labeling for guidance on preparation of product labeling (EAC/TF 
+MED/MER/FD/GDL/N5R0). 
+ 
+1.4.3  
+Package insert  
+ 
+Patient information leaflet (PIL): All medicinal preparations with potential 
+for long-term use and self-administered injections and Over the Counter 
+(OTC) must contain a patient information leaflet. Languages used for PIL 
+and labeling should be clearly expressed in English . Refer EAC Guidelines 
+on PIL for guidance on preparation of PIL (EAC/TF-MED/MER/FD/ 
+GDL/N6R0). 
+ 
+1.4.4  
+Mock-up and specimens  
+ 
+If the product applied for registration has a specimen or mock-up of the 
+sample(s) presentation of the medicine available at the time of initial 
+application should be included in Module1.4.4. 
+ 
+The purpose of this is to provide an example of the product, including 
+accessories, if any, to verify that they correspond to what is described for 
+the characteristics of the product under evaluation. 
+ 
+If there are multiple strengths and/or pack sizes, one representative 
+specimen or mock-up for each will be sufficient. If batch number and expiry 
+date are to be printed on the label. 
+ 
+If there are multiple strengths and/or pack sizes, one representative 
+specimen or mock-up for each will be sufficient. If batch number and expiry 
+date are to be printed on the label during packaging, a statement to this 
+effect should accompany the labels. If mock-ups or specimens are not 
+available at the time of initial application, a text version may be submitted, 
+ 
+4 
+however, mock-ups or specimens must be submitted to the   Board, during 
+the evaluation process and prior to finalization of the application 
+ 
+ 
+1.5   Information regarding experts.  
+ 
+A declaration should be sent signed by each of the experts who performed 
+the product evaluation from the standpoint of quality, nonclinical studies 
+and clinical studies. Attach a summary of their academic records and 
+employment experience and state the professional relationship between the 
+experts and the applicant of market authorization. 
+ 
+A sample of declaration form is provided as Annex II. 
+ 
+1.6 
+Certificate of Good Manufacturing Practices (GMP) 
+ 
+A certificate of GMP compliance should be submitted. This should include 
+manufacturers that are involved in any stage of the production process, for 
+example manufacturer(s) of the finished biotherapeutic product, active 
+substance(s), the diluents, and those responsible for labelling and 
+packaging of the finished biotherapeutic product.  
+ 
+1.7 
+Good Clinical Practice (GCP) and/or Good Laboratory Practice 
+(GLP) 
+ 
+ Provide evidence such as accredited certificate for GCP or GLP for the sites 
+participating in the clinical studies. 
+ 
+1.8 
+Regulatory Status  
+ 
+1.8.1 Registration status from countries with Stringent Drug 
+Regulatory Authorities (SDRAs) 
+ 
+ Provide the registration status of the biotherapeutic product applied for 
+registration in the countries with SRAs. Evidence(s) of the same should be 
+submitted with the application. 
+ 
+ 
+5 
+1.8.2  Registration status in EAC Partner States 
+Provide registration status of the biotherapeutic product applied for 
+registration in the countries in the EAC  region  and attach  evidence(s) for  
+the same. 
+ 
+1.8.3 List of countries in which a similar application has been 
+submitted 
+Provide list of countries in which a similar application has been submitted, 
+Dates of submission (if available) and the status of these applications 
+should also be stated. If applicable, detail approvals (with indications) and 
+deferrals, withdrawals and rejections with reasons in each case should be 
+stated as well. 
+ 
+1.8.4 Statement on whether an application for the product has been 
+previously rejected, withdrawn or repeatedly deferred in the EAC 
+Partner States 
+A declaration whether a marketing application for the biotherapeutic 
+product has been rejected prior to submission of the application in EAC 
+should be submitted. If the product has been rejected, repeatedly deferred, 
+withdrawn or suspended then reasons should be stated. 
+ 
+1.9  Manufacturing and Marketing authorization 
+ Provide  a Certificate of Pharmaceutical Product in the format 
+recommended by the World Health Organization issued  from the Country 
+of release of the product. 
+Also if available, evidence for prequalification of the biotherapeutic product 
+by WHO should also be submitted. 
+ 
+1.10  Product samples  
+ 
+A minimum of two samples of each pack size applied for registration should 
+be submitted together with the application. The samples should be 
+provided in the form in which it shall appear on the market for physical 
+evaluation.  
+ 
+1.11  Authorization of the local technical representative 
+ 
+Letter issued by the applicant authorizing the company to represent it and 
+market the product in Kenya  should be submitted. 
+ 
+6 
+ 
+1.12  Environmental risk assessment:  
+ 
+Evaluation of the possible environmental risks posed by the use and/or 
+disposal of the  biotherapeutic product should be submitted, also, 
+proposals in that regard and the indications or warnings to be included on 
+the product label should as well be submitted. 
+ 
+ 
+ 
+ 
+7 
+MODULE 2: OVERVIEWS AND SUMMARIES 
+ 
+The purpose of this module is to summarize the quality (chemical, 
+pharmaceutical, and biological), nonclinical and clinical information 
+presented in modules III, IV, and V in the market authorization application. 
+The experts who draft these summaries should take an objective approach 
+to the decisive points related to the quality of the product, clinical and 
+nonclinical studies performed, report all pertinent data for the evaluation, 
+and refer to the corresponding tables included in modules III, IV, and V. 
+The information in module II should be presented in the following order: 
+ 
+2.1 
+General table of contents.  
+A general index should be included of the scientific information contained 
+in modules II to V. 
+ 
+2.2 
+Introduction.  
+A summary of the type of product, composition, mechanism of action, and 
+indications proposed for the  biotherapeutic product. 
+ 
+2.3 
+Overall quality summary.  
+A general summary of the quality of the product should be presented, 
+related to the chemical, pharmaceutical, and biological aspects. This 
+summary should refer exclusively to the information, data, and 
+justifications included in module III or in other modules of the registration 
+document. This section should follow format as specified in the Quality 
+Overall Summary(QOS) template    presented for Human vaccine Guideline ( 
+Refer to  QOS  of Human vaccine Guideline) 
+ 
+2.4 
+Overview and summary of the nonclinical studies  
+A comprehensive and critical assessment of the results of the evaluation of 
+the biotherapeutic  product in animals and in vitro testing should be 
+presented and the safety characteristics of the same for use in humans 
+should be defined.  
+ 
+Overview and summary of the results of the pharmacological, 
+pharmacokinetic, and toxicological tests on animals and/or in vitro. The 
+data should be presented as a written and tabulated summary, in the 
+following order: 
+i. 
+Introduction 
+ii. 
+Written pharmacological summary 
+iii. 
+Tabulated pharmacological summary 
+iv. 
+Written pharmacokinetic summary (when appropriate) 
+Tabulated pharmacokinetic summary (when appropriate) 
+v. 
+Written toxicological summary 
+Tabulated toxicological summary 
+ 
+8 
+ 
+ 
+2.5 
+Overview and summary of the clinical studies 
+ 
+This section should include a critical analysis of the clinical study results 
+included in the clinical summary and in module V. Information  should 
+include a summary of the clinical development of the product, the design 
+of the pivotal studies, and the decisions related to the clinical studies and 
+their performance and it should include an overview of the clinical 
+conclusions and an evaluation of the risks/benefits in relation to the 
+results of the clinical studies and justification of the proposed dosages. All 
+the data related to efficacy/effectiveness and safety assessed through the 
+development of the product should be summarized in this section be 
+presented, as well as any study limitations. Summaries should include all 
+the clinical studies performed and synopsis of each study. 
+ 
+The data should be presented in a written and tabulated summary in the 
+following order: 
+i. 
+Introduction 
+ii. 
+Index 
+iii. 
+Detailed discussion of the development of the product 
+iv. 
+Overview of immunogenicity 
+v. 
+Overview of the efficacy  
+vi. 
+Overview of the safety 
+vii. 
+Conclusions and risk/benefit analysis 
+viii. 
+Bibliography 
+ 
+2.6 
+Non-clinical written and tabulated Summaries 
+The Nonclinical Overview should be presented in the following sequence:  
+Overview of the nonclinical testing strategy  
+Pharmacology 
+Pharmacokinetics 
+Toxicology  
+Integrated overview and conclusions  
+List of literature references  
+ 
+2.7 
+Clinical Summary 
+Biopharmaceutic Studies and Associated Analytical Methods  
+Clinical Pharmacology Studies  
+Clinical Efficacy  
+Clinical Safety  
+Literature References  
+Synopses of Individual Studies  
+In general, clinical overview and summaries should not exceed 50 pages.
+ 
+1 
+ 
+MODULE 3: QUALITY (CHEMISTRY, MANUFACTURING AND 
+CONTROLS) 
+ 
+3.1 
+Table of contents of module three 
+ 
+3.2.S.   
+Drug substance 
+ 
+The information requested under this section should be supplied 
+individually for each active substance used in the final rDNA derived 
+biotherapeutic product.  
+ 
+3.2.S.1 General information  
+ 
+3.2.S.1.1 Nomenclature 
+Information concerning the nomenclature of the active substance (e.g. 
+proposed 
+INN 
+name, 
+Pharmacopeial 
+name, 
+proprietary 
+name, 
+company/laboratory code (could include trade mark name), other names 
+or codes, if any) and identification number of production strain should be 
+provided.  
+ 
+Where an International Non-proprietary Name (INN) is available for rDNA-
+derived biotherapeutic, the INN should be used. The proper name should 
+be the equivalent of the INN in the language of the country of origin.  
+ 
+A list of any inactive substances, which may be present in the bulk active 
+substance, should be provided. 
+ 
+3.2.S.1.2 Structure 
+ 
+The structural formula, molecular formula and molecular weight should 
+be provided as well as the schematic amino acid sequence indicating 
+glycosylation sites or other post-translational modifications and relative 
+molecular mass, as appropriate. 
+ 
+3.2.S.1.3 General properties 
+A list of physicochemical and other relevant properties of the active 
+substance, including biological activity should be provided. The 
+description of an rDNA-derived biotherapeutics should indicate the 
+biological system in which it is produced (e.g. bacterial, fungal or 
+mammalian cells) as well as the presentation of the drug product. 
+Refer to ICH Q6B 
+ 
+2 
+3.2.S.2 Manufacture 
+3.2.S.2.1 Manufacturer(s)  
+The name, physical address and responsibility of each manufacturer, 
+including contractors, and each production site or facility involved in the 
+manufacturing and testing should be provided. The physical address 
+should include units and blocks for each production site.  
+The sites or facilities involved in creation, testing and storing of the cell 
+banks should be listed. 
+3.2.S.2.2 Description of manufacturing process and process controls 
+Information on the manufacturing process should be presented in the 
+form of a flow diagram which indicates each step of the process 
+including identification of the critical steps and points at which process 
+controls are conducted.  
+A narrative description of the manufacturing process including 
+information on cell bank and cell culture, harvest(s), purification and 
+modification reaction including filling storage and shipping conditions 
+should be provided. The in-process controls for each step or stage of the 
+process should be indicated. Explanation should be provided on batch 
+numbering system and any pooling of harvest or intermediates as well 
+as scale of culture and batch  
+a) Cell culture 
+The following information should be provided: 
+i. 
+Flow diagram from working cell bank (WCB) through harvest; 
+ii. 
+Information for each stage should be provided (population 
+doublings, cell concentrations, volumes, pH, cultivation time, 
+temperature) and transfers between steps. 
+iii. 
+Description of each step including any media, materials  or 
+additives used for both cell growth and for induction; 
+iv. 
+Information with respect to operating parameters for each stage 
+with 
+links to section 3.2.S.2.4 
+(in-process controls) or 
+specifications. Detailed information with respect to Production at 
+infinite passage, continous culture production and control of 
+host-cell/vector characteristics at the end of production cycles for 
+rDNA derived biotherapeutics can be referenced in ICH Q5D, ICH 
+Q5B and WHO TRS 987, Annex 4; 
+ 
+b) Purification 
+The following information should be provided: 
+i. 
+Flow diagram from crude harvest, extraction and purification  to 
+ 
+3 
+final step to obtain final active substance; 
+ii. 
+Information for each stage should be provided (pH, conductivity, 
+processing times, hold times, elution profiles, fraction (selection) 
+including viral inactivation step(s); 
+iii. 
+In-process controls, including acceptance criteria, should be 
+described in detail and should be validated. Special attention 
+should be given to the removal of viruses, nucleic acid, host cell 
+proteins 
+and 
+impurities 
+considered 
+to 
+pose 
+a 
+risk 
+of 
+immunogenicity; 
+iv. 
+Particular attention should be given to demonstrating the removal 
+and/or inactivation of possible contaminating viruses and residual 
+DNA from products manufactured using continuous cell lines; 
+v. 
+` 
+Description of each step 
+including scale (columns, 
+membranes), lifetime usage for resins/membranes, regeneration, 
+buffers used, and transfer between steps; 
+vi. 
+Reprocessing steps should be described with criteria. 
+Further guidance on control of residual cellular DNA from continuous 
+cell line (rDNA) and virus clearance can be obtained from WHO TRS 987, 
+Annex 
+4; 
+http://www.who.int/biologicals/biotherapeutics/TRS_987_Annex4.pdf
+?ua=1  and ICH Q5A 
+c) Drug substance filling, storage and transport 
+The following information should be provided: 
+i. 
+Procedure used to fill active substance into container with 
+associated process controls and acceptance criteria; 
+ii. 
+Container closure system, storage and shipping conditions; 
+iii. 
+Free/thaw or re-filtration procedures; 
+iv. 
+Hold times should be specified. 
+3.2.S.2.3 Control of materials 
+Information on raw materials used in cell culture and purification should 
+be described with respect to raw material grade or specification, product 
+contact filter, media composition, resins and contact membranes. 
+Control of source and starting materials of biological origin (viral safety 
+information) should be summarized and detailed information should be 
+provided in  3.2.A.2. 
+a) Source, history and generation of cell substrate 
+A description of the host cell, its source and history, and of the 
+expression vector used in production, including source and history, 
+should be provided in details. The description should include details of 
+the origin and identity of the gene being cloned as well as the 
+construction, genetic elements contained and structure of the expression 
+ 
+4 
+vector. An explanation of the source and function of the component parts 
+of the vector, such as the origins of replication, promoters, or antibiotic 
+markers, should be provided in addition to a restriction-enzyme map 
+indicating at least those sites used in construction. 
+Further information on cell substrate source, analysis of expression 
+construct used to genetically modify cells and incorporate in the initial 
+cell clone for Master cell bank can be obtained in the ICH Q5A; ICH Q5B; 
+ICH Q5C; ICH Q5D; WHO TSR 987,Annex 4guidances. 
+b) Cell Banking system, characterisation and testing 
+Information on the cell banking system; quality control activities and cell 
+line stability during production and storage (including procedures used 
+to generate the Master and Working Cell Bank(s) should be provided in 
+details.  
+Information should include MCB and WCB, future WCB and End of 
+Production Cell Bank and establishment of limit of in vitro cell age 
+(LIVCA). 
+The type of cell bank system used, the size of the cell bank(s), the 
+container (vials, ampoules, or other appropriate vessels) and closure 
+system used, the methods for preparation of the cell bank(s) including 
+the cryoprotectants and media used, and the conditions employed for 
+cryopreservation or long-term storage should all be documented and 
+described in detail. 
+For animal cells and animal derived cell banks, reference should be made 
+to WHO TRS 978, Annex 3. 
+3.2. S.2.4 Control of Critical Steps and Intermediates 
+Testing and acceptance criteria for the control of critical steps in the 
+manufacturing processes should be provided. 
+Stability/Micro data to support hold times of process intermediates 
+should be provided. Supportive data to be presented in section 3.2.S.2.5 
+Further requirement can be obtained in ICH Q6B: 
+3.2. S.2.5 Process Validation and/or evaluation 
+a) Validation summaries of each unit operation, hold times, sanitary 
+processing, and virus validation 
+Sufficient information on validation and evaluation studies to 
+demonstrate that the manufacturing process (including reprocessing 
+steps) is suitable for its intended purpose and to substantiated 
+selection of critical process controls (operational parameters and in-
+ 
+5 
+process tests) and their limits for critical manufacturing steps (e.g. cell 
+culture, harvesting, purification, and modification) should be provided. 
+Virus validation will also need to be discussed in 3.2.A.2. 
+b) Outline Validation strategy and scale used to complete studies 
+Information should include a description of the plan for conducting the   
+study and the results, analysis and conclusions from the executed 
+study (ies).  
+c) Reference analytical procedures used for analysis 
+The validation of corresponding assay and analytical methods should 
+be cross-referenced or provided as part of justifying the selection of 
+critical process controls and limits. For manufacturing steps, intended 
+to remove or inactive viral contaminants, the information from 
+evaluation studies should be provided 
+Validation process should include for example: Facilities, cleaning and 
+microbiological control, Cell growth and harvesting e.g. Cell growth 
+kinetics and antibody productivity profiles demonstrated for each 
+bioreactor 
+for 
+appropriate 
+timeframe, 
+Removal 
+of 
+media 
+components/additives during purification and Capacity of purification 
+process to remove contaminating virus. 
+Refer to EMA/CHMP/BWP/187338/2014  
+3.2. S.2.6 Manufacturing Process Development  
+a) Development program outline, scale(s) and tools used (design 
+of experiment, FMEA, statistical evaluations)  
+The developmental history of the manufacturing process, as described in 
+3.2. S. 2.2, should be provided.  
+b) Process description and batch information from development 
+scale(s) 
+i. 
+Outline any changes through development scale up to 
+commercial (clinical batches)  
+The description of change(s) made to the manufacture of drug 
+substance batches used in support of the marketing application 
+(e.g. non-clinical or clinical studies) including for example, changes 
+to the process or critical equipment. The reason for the change 
+should be explained. Relevant information on drug substance 
+batches manufactured during development, such as the batch 
+number, manufacturing scale and use (e.g. stability, non clinical 
+reference material) in relation to the change should also be 
+ 
+6 
+provided. 
+ii. 
+Major changes need to be assessed for potential impact on 
+product quality  
+The significance of change should be assessed by evaluating its 
+potential to impact the quality of the drug substance (and/or 
+intermediate, if appropriate). For manufacturing changes that are 
+considered significant, data from comparative analytical testing 
+on relevant drug substance should be provided along with a 
+discussion of the data including a justification for selection of the 
+test and assessment of results. 
+ 
+iii. 
+Selection of tests and results used to assess manufacturing 
+changes during development  
+Testing used to assess the impact of manufacturing changes on the 
+drug substance(s) and the corresponding finished drug product(s) 
+may also include non-clinical and clinical studies in other modules 
+of the submission should be included. 
+ 
+iv. 
+Process Characterisation shall include:  
+Establishment of operating parameters and in process controls for 
+commercial scale manufacture. 
+Elimination of operating parameters/in process controls based on 
+development work that deemed them non-critical. 
+Freeze/thaw development data used to set number of cycles for 
+drug substance. 
+Post approval – Comparability assessment of current to proposed 
+change including side-by-side batch release data, Co-mixture 
+analysis 
+with 
+reference 
+standard 
+and 
+subset 
+of 
+initial 
+characterisation testing to evaluation primary, secondary and 
+tertiary structure.  
+It is recommended that information on study design and product 
+knowledge should be presented in this section. 
+ 
+ 
+Refer to ICH Q5E and ICH Q11 
+ 
+3.2.S.3.1 Elucidation of Structure and other characteristics  
+Details on Primary, secondary and higher order structure of product and 
+product related substances, Post-translational forms – glycoforms 
+information on Biological activity, Purity and Immunochemical 
+properties (where relevant) should be provided. 
+ 
+7 
+3.2.S.3.2 Impurities  
+Information should be provided on both process and product related 
+impurities with links back to section 3.2.S.2.2 and 3.2.S.2.4 for detailed 
+information on removal and control of the respective impurities. There 
+should be an Investigation of impurities (e.g. aggregates including dimers 
+and higher multiples of the desired product).  
+3.2.S.4. Control of active Substance 
+3.2.S.4.1 Specification 
+At minimum release specifications for drug substance shall include 
+appearance and description, identity, purity and potency. Information on 
+the source, including as appropriate species of animal, type of 
+microorganism should be included in the specifications, etc. 
+For initial applications, acceptance criteria shall be based on data from 
+pre-clinical/clinical, development, consistency of the lots and stability 
+data as appropriate. Any specification changes post approval should take 
+into consideration clinical experience when tightening specifications. 
+Further requirements can be obtained in ICH Q6B and WHO TRS 987, 
+Annex 4, particularly Appendix 2 
+ 
+3.2.S.4.2 Analytical Procedures 
+The analytical procedure used for testing the active   substance should be 
+provided in sufficient detail to enable reproducible testing by another 
+laboratory. 
+ 
+Analytical procedure summaries should be provided that minimally 
+includes the following subsections: Principle, Procedure and Data 
+Analysis.  
+ 
+3.2.S.4.3 Validation of Analytical Procedures 
+Analytical validation information, including experimental data for the 
+analytical procedure used for testing the drug substance should be 
+provided. Typical validation characteristics to be considered are 
+selectivity, 
+precision 
+(repeatability, 
+intermediate 
+precision 
+and 
+reproducibility), accuracy, linearity, range, limit of quantitation, limit of 
+detection, robustness, and system suitability. 
+Analytical method validation data should be performed to provide 
+assurance of the method transferability to an additional testing site post 
+initial approval.  
+3.2. S.4.4 Batch Analysis 
+ 
+8 
+Description of batches and results of three batch analyses should be 
+provided. Results should be presented for three commercial batches 
+against acceptance criteria. Consideration to include graphs and/or gels 
+for those tests that are qualitative or where specification is “Comparable 
+to Reference Material‟.  
+3.2. S.4.5 Justification of Specification 
+Justification for the active substance specification should be provided. 
+ 
+Rationale for use of tests for specific quality attributes taking into account 
+the specifications and linking to manufacturing process, stability of active 
+substance, pre-clinical/clinical studies and analytical procedures should 
+be provided. 
+3.2.S.5 Reference Standard 
+Quality information of Reference standard or material used for testing of 
+active substance should be provided. The information should include a 
+description of manufacturing process of reference standard, and where 
+appropriate Characterisation, stability and storage of the reference 
+standard should also be detailed. 
+3.2.S.6 Container Closure system 
+A description of the container closure systems for the drug substance 
+should be provided, including specifications for their component 
+materials. The specifications should include description and identification 
+(and critical dimensions with drawings where appropriate). Suitability 
+and compatibility of the materials of construct with active substance 
+should also be demonstrated, literature reference may suffice when 
+applicable. 
+3.2.S.7 Stability 
+Stability studies should include: Storage conditions i.e Temperature and 
+relative humidity for accelerated and stress Conditions.  
+ 
+ Refer to TRS WHO TRS 987, Annex 4, ICHQ1A and ICH Q5C. 
+ 
+ 
+3.2  DRUG PRODUCT 
+This section should contain information on the final drug product 
+including all drug substances and excipients. If any proprietary 
+preparation or mixtures are used as components, a complete statement 
+of composition and other information that will properly describe and 
+identify these materials should be provided. 
+ 
+9 
+For all ingredients of human or animal origin, testing results or 
+certificates of analysis demonstrating freedom from adventious agents 
+should be provided as in section 3.2.A.2. 
+3.2.P.1. Description and composition of drug  Product 
+A description of the finished biotherapeutic product and its composition 
+should be provided. The information provided should include: 
+a) Description of the dosage form;  
+b) Composition, i.e., list of all components of the dosage form, and 
+their amount on a per-unit basis (including overages, if any,  the 
+function of the components, and a reference to their quality 
+standards (e.g., compendial monographs or manufacturer’s 
+specifications)  
+c) Description of accompanying reconstitution diluents (s) if any;    
+d) Type of container and closure used for the dosage form and 
+accompanying reconstitution diluent, if applicable 
+e) Overages need to be justified – not intended to compensate for 
+inadequate stability or manufacturing process. 
+ 
+Tables provided under section 2.3.P.1. of the QOS should be used to 
+summarize the information for this part. 
+3.2.P.2. Pharmaceutical development 
+Information and data on the development studies conducted to establish   
+the dosage form, the formulation manufacturing process, container 
+closure system, microbiological attributes and usage instructions as 
+appropriate for the purpose specified in the application, should be 
+presented.   Additionally, this section should identify and describe the 
+formulation and process attributes (clinical parameters) that may 
+influence batch reproducibility, product performance and drug product 
+quality.  
+Manufacturing process changes made during clinical study programme 
+should be explained and justified. A link between formulation 
+development and clinical batches should also be provided. 
+Supportive data and result from specific studies or published literature 
+may be included within or attached to the Pharmaceutical Development 
+Section. Additional supportive data may be referenced to the relevant non-
+clinical sections of the application. The report should include the 
+following: 
+3.2.P.2.1 Drug Substance:  
+ 
+ The description and properties of the active substance should be 
+provided. Compatibility with the rest of the components in the finished 
+ 
+10 
+biotherapeutic product, including preservatives and other additives 
+should be demonstrated, where applicable. 
+ 
+3.2.P.2.2 Drug Product:  
+ 
+Information on the development of the formulation, considering the 
+proposed route of administration should be provided. Details on the 
+physicochemical and biological properties of the product, indicating the 
+relevant parameters for developing the drug product should be included. 
+In addition, justification of final qualitative/quantitative formula of the 
+drug product should be provided. 
+ 
+3.2.P.2.3 Development of the manufacturing process: 
+ 
+Description of the selection and optimization of the manufacturing 
+process, particularly for critical aspects should be provided. 
+ 
+ 
+3.2.P.2.4 Container closure system selected:  
+ 
+Information on the materials selected, protection against humidity and 
+light, compatibility of the materials should be provided. 
+Information on the suitability of the container closure system used for the 
+storage, transportation (shipping) and use of the drug product should be 
+discussed. Results of extractable study should be presented and 
+depending on the results, also a leachable study with e.g. placebo in final 
+container should be presented. 
+3.2.P.2.5 Microbiological Attributes 
+ 
+Information on the integrity of the container closure system to prevent 
+microbial contamination should be presented. 
+ 
+3.2.P.2.6 Compatibility 
+Information on the compatibility of the drug product with the 
+manufacturing process contacts (e.g; online filters, bags), container 
+closure system including dosage devices where applicable and diluents 
+should be provided. 
+ 
+3.2.P.3 Manufacture processes of the drug product 
+ 
+3.2.P.3.1 Manufacturer;  
+Name(s), physical address(es) including unit(s) and/or block(s) and 
+functions of each manufacturing site involved in all stages of the 
+processes should be listed.  
+ 
+Valid manufacturing licence and/or certificates of GMP compliance of the 
+sites 
+and 
+other 
+pertinent 
+organizational 
+information 
+for 
+each 
+ 
+11 
+manufacturer responsible for any portion of the manufacture or testing 
+operations for the biotherapeutic products should be provided. 
+ 
+3.2.P.3.2 Batch formula:  
+ 
+Batch lot formula should be provided that includes a list of all 
+components of the dosage form to be used in the manufacturing process, 
+their amounts on a per batch basis, including overages and a reference 
+to their quality standards should be provided. 
+ 
+3.2.P.3.3 Description of the manufacturing process: 
+A flow diagram should be presented giving the steps of the process, 
+indicating the points where materials enter the process. The critical steps 
+and points at which process controls, intermediate tests or final product 
+controls are conducted should be identified. 
+ A narrative of the manufacturing process, equipment and materials used, 
+the room or area where the operation is performed (may reference the 
+simple floor diagram), in process controls, and the critical points 
+identified should be provided. 
+ 
+ 
+3.2.P.3.4 Control of critical and intermediate steps:  
+ 
+Tests and acceptance criteria developed to identify the critical steps in the 
+manufacturing process should be provided with justification. A listing of 
+the in-process controls and tests performed on the product at each step 
+should be submitted. Specifications for intermediate products should be 
+provided and they should be followed during routine production. 
+ 
+ 
+3.2.P.3.5 Validation and/or evaluation of the processes:  
+ 
+Description, documentation, and results of the studies on validation 
+and/or evaluation of the manufacturing process, should be provided for 
+the critical steps or critical tests employed in the manufacturing process. 
+It is also necessary to provide information on the viral safety of the 
+product, when applicable.  
+ 
+A product quality review may be submitted in lieu of the information 
+below. 
+The following information should be provided: 
+a) A copy of the process validation protocol, specific to the biotherapeutic, 
+that identifies the critical equipment and process parameters that can 
+affect the quality of the product and defines testing parameters, 
+sampling plans, analytical procedures and acceptance criteria; 
+ 
+12 
+b) A commitment that three consecutive, production-scale batches of the 
+biotherapeutic will be subjected to prospective validation in 
+accordance with the above protocol. The applicant should submit a 
+written commitment that information from these studies will be 
+available for verification. 
+c) Validation information relating to the adequacy and efficacy of any 
+sterilization process (e.g. medicinal product, packaging component 
+should be submitted. 
+The process validation report should include inter alia the following: 
+a) A reference to the current master production document; 
+b) A discussion of the critical equipment; 
+c) The process parameters that can affect the quality of the 
+biotherapeutic (critical process parameters (CPPs)) including challenge 
+experiments and failure mode operation; 
+d) Details of the sampling: sampling points, stages of sampling, methods 
+of sampling and the sampling plans (including schematics of blender/ 
+storage bins for uniformity testing of the final blend); 
+e) The testing parameters/ acceptance criteria including in-process and 
+release specifications and including comparative dissolution profiles of 
+validation batches against the batch(es) used in the bioavailability or 
+biowaiver studies; 
+f) The analytical procedures or a reference to appropriate section(s) of 
+the dossier; 
+g) The results/data obtained. 
+Refer to EMA/CHMP/CVMP/QWP/BWP/70278/2012  
+ 
+3.2.P.3.6 Description of the batch identification system: 
+ 
+Information on how the lots are defined in the stage of filling, 
+lyophilisation (if it applies) and packaging should be provided. 
+ 
+ 
+3.2.P.4 Control of excipients  
+ 
+3.2.P.4.1 Specifications; 
+ 
+Information on the specifications for all the excipients employed in the 
+formulation should be provided. List of raw materials meeting in-house 
+specifications including the tests performed and specifications of 
+Biological starting materials (human or animal origin) with information 
+on the requirements to avoid risk of transmissible spongiform 
+encephlopathies (TSEs) and human diseases (HIV, hepatitis, etc) in the 
+final product including Certificate of Suitability (CEP) should be included. 
+The information should be provided as appendices to module 3. (3.2.A) 
+ 
+ 
+3.2.P.4.2 Analytical procedures; 
+ 
+13 
+ 
+Description or bibliographic reference of the analytical methods used to 
+control all the excipients employed in the formulation   should be 
+submitted. 
+ 
+3.2.P.4.3 Validation of the analytical procedures  
+ 
+All analytical methods used to control the excipients    in   the final 
+formulation should be validated and validation reports   provided if 
+applicable. 
+ 
+3.2.P.4.4 Justification of specifications  
+ 
+Justification for the proposed specifications of the excipients should be 
+provided.  
+ 
+3.2.P.4.5 Substances of Human or Animal Origin 
+For excipients of human or animal origin, information should be provided 
+regarding the source/origin, description of the quality tests performed, 
+specifications, determination of adventitious agents and viral safety.  
+ 
+Additionally, testing results or certificates of analysis demonstrating their 
+freedom from adventitious agents should be provided.  
+ 
+ 
+3.2.P.4.6 Novel excipients 
+ 
+When used for the first time , formulated biotherapeutic product  for 
+human use or for a new route of administration,  detailed  information 
+should be provided on the manufacture, characterization, and control, 
+and data supporting safety established in nonclinical and clinical studies 
+in relation to the drug substance used. 
+ 
+3.2.P.5 Control of the finished biotherapeutic product 
+ 
+3.2.P.5.1 Specifications of   the  biotherapeutic product;  
+ 
+Specifications for the drug product should be provided. At minimum, 
+specification should contain test and acceptance criteria for description 
+and appearance, identity, quantity, potency, purity and impurities; 
+ 
+For Intermediate Products (as appropriate): Highlight the list of the 
+routine tests performed and specifications for intermediates. 
+ 
+ 
+3.2.P.5.2. Analytical procedures of the drug product 
+Detailed information on the analytical procedures used for quality control 
+of the drug product should be provided. This section should not be 
+presented as summaries or references. 
+ 
+14 
+ 
+ 
+3.2.P.5.3.Validation of the analytical procedures;  
+ 
+Information on the validation of the analytical procedures for the drug 
+product, including experimental data should be provided. This 
+information should include complete description of the protocol used for 
+each bioassay, the control standards, the validation of inherent variability 
+of test and the establishment of acceptance limits for each assay.  
+ 
+3.2.P.5.4. Batch analysis; 
+ 
+A description of all batches selected to assure the identity, purity, 
+strength and/or potency, as well as the lot-to-lot consistency of the drug 
+product and the specifications used for the drug product should be 
+submitted.  
+ 
+Description should include (size, origin and use) and test result of all 
+relevant batches e.g pre-clinical, clinical pilot, scale-up, and if available 
+production-scale batches) used to establish specification and evaluate 
+consistency in manufacturing. 
+ 
+Provide certificates of analysis and analytical results for at least three 
+consecutive batches signed by authorized personnel 
+ 
+3.2.P.5.5 Characterization and/or determination of impurities 
+ 
+Details on the characterization and/or determination of impurities, as 
+applicable, depending on the nature of active substance and method used 
+to manufacture the biotherapeutic product should be provided. 
+ 
+3.2.P.5.6 Justification of specifications 
+ 
+Justification of the proposed biotherapeutic product specifications should 
+be provided. 
+ 
+ 
+3.2.P.6 Reference standards and materials 
+Information on the reference standards and/or materials used for testing 
+of   the finished biotherapeutic product should be provided. 
+ 
+3.2.P.7 Container Closure System  
+ 
+Detailed description of the container closure system used for the drug 
+product plus any accessories accompanied with it should be provided. 
+The description should include the type and form of container closure 
+system, including the materials of which they are made and quality 
+specifications. 
+ 
+ 
+15 
+Detailed information concerning the supplier(s), address(es), and the 
+results of compatibility, toxicity and biological tests should be included. 
+When a delivery device is presented as part of the drug   product (e.g. 
+prefilled syringe, single-use autoinjector), it is important to demonstrate 
+the functionality of such a combination, such as the reproducibility and 
+accuracy of the dispensed dose under testing conditions which should 
+simulate the use of the drug product as closely as possible.  
+For multi-use containers such as vials or cartridges for a pen injector, 
+proper in-use stability studies should be performed to evaluate the impact 
+of the in-use period of the vial or the assembled device on the formulation 
+and the functionality of the pen injector. Dose accuracy should be 
+demonstrated for the first and last dose delivered. In addition, the effect 
+of multiple injections/withdrawals on the closure system should be 
+demonstrated. 
+Description should also be used on the specialized devices used to 
+monitor consistency of delivery if they are intended to become an 
+important part of the product’s container closure system. 
+ 
+3.2.P.8 Stability of the Drug Product: 
+ 
+3.2.P.8.1 Protocols and results of the stability study that justify the 
+proposed validity period. 
+ 
+Stability study report including the study protocol, specifications, 
+analytical methods, detailed description of the container closure system 
+for the product evaluated, storage conditions (temperature and relative 
+humidity) and results for at least three lots of drug product prepared from 
+different lots of drug substances should be provided and the reports 
+should contain conclusions as well as proposed validity period.  
+ 
+A minimum of twelve months’ data at the time of submission should be 
+provided in cases where storage periods greater than six months are 
+requested, unless otherwise justified. For storage periods of less than six 
+months, the stability data should cover the whole proposed shelf life. The 
+stability studies should be submitted in controlled documentation. 
+Stability studies under accelerated and stress conditions, including the 
+impact of the container closure system, should also be provided.   
+Refer to ICH Q5C, WHO TRS 953 Annex 2 and WHO TRS 962 Annex 3. 
+For drug products that require reconstitution, in use stability studies 
+should be provided. 
+ 
+3.2.P.8.2 Post-approval stability program:  
+ 
+16 
+Include the stability program or stability commitment to be carried out 
+once the drug product is in the market, including the number of batches 
+to be included in the study each year and the tests to be performed. These 
+results should be submitted periodically to update the information on the 
+stability of the drug product. 
+ 
+3.2.P.8.3 Stability data:  
+Evidence should be provided to demonstrate that the product is stable for 
+the proposed validity period under the indicated storage conditions.  
+ 
+The stability of each dosage form should be separately documented.  
+ 
+The summary results, which support the proposed expiration-dating 
+period, under recommended conditions, in the final container and closure 
+system, should be provided.  
+ 
+Stability data submitted should be for at least three consecutive batches 
+and include the following: 
+ 
+a) Information on stability of drug product, quality control methods 
+and rationale for the choice of tests for determining stability. 
+ 
+b) Information on the dates of manufacture of the lots, the lot 
+numbers, the vial and dose size, and the scale of production.  
+ 
+For lyophilized products the data supporting the shelf-life of the product 
+following reconstitution should be included. 
+ 
+If the drug product is frozen, data supporting the stability of the product 
+through a stated number of freeze-thaw cycles should be provided. 
+ 
+A plan for an on-going stability program should be provided. This should 
+include the protocol to be used, number of final lots to be entered into the 
+stability protocol each year and how such lots will be selected. A stability 
+study protocol should be provided. 
+ 
+The policy for assigning the date of manufacture of each component as 
+well as the final product (e.g. combination formulation) and diluents, as 
+appropriate should be described. 
+ 
+3.2.P.8.4 Shipping 
+ 
+Details should be provided on the measures used to guarantee adequacy 
+of temperature and humidity conditions for shipping the drug  product 
+from the place of production to the place of final sale, including all the 
+storage and distribution stages and indicating the controls performed in 
+each of the stages. Declaration should be signed by quality control 
+personnel.  
+ 
+17 
+Reference: 
+WHO TRS 999, Annex 2; 
+http://www.who.int/biologicals/areas/vaccines/Annex_2_WHO_Good_
+manufacturing_practices_for_biological_products.pdf?ua=1. 
+ 
+1 
+ 
+3.2. A   APPENDICES 
+ 
+3.2.A.1 Facilities and Equipment (name, manufacturer)  
+A diagram should be provided illustrating the manufacturing flow 
+including 
+movement 
+of 
+raw 
+materials, 
+personnel, 
+waste, 
+and 
+intermediate(s) in and out of the manufacturing areas. Information should 
+be presented with respect to adjacent areas or rooms that may be of 
+concern for maintaining integrity of the product.  
+Information on all developmental or approved products manufactured or 
+manipulated in the same areas as the applicant's product should be 
+included.  
+A summary description of product-contact equipment, and its use 
+(dedicated or multi-use) should be provided. Information on preparation, 
+cleaning, sterilisation, and storage of specified equipment and materials 
+should be included, as appropriate.  
+Information should be included on procedures (e.g., cleaning and 
+production scheduling) and design features of the facility (e.g., area 
+classifications) to prevent contamination or cross-contamination of areas 
+and equipment, where operations for the preparation of cell banks and 
+product manufacturing are performed. 
+3.2.A.2:  
+Adventitious Agents Safety Evaluation (name, dosage 
+form, manufacturer)  
+Information assessing the risk with respect to potential contamination 
+with adventitious agents should be provided in this section(Information on 
+control or avoidance of non-viral adventitious agents (TSE, bacteria, 
+mycoplasma) should be supported by TSE certificates of suitability and 
+ensure Raw material and/or production process controls in place ) 
+  
+For non-viral adventitious agents: Detailed information should be 
+provided on the avoidance and control of non-viral adventitious agents 
+(e.g., 
+transmissible 
+spongiform 
+encephalopathy 
+agents, 
+bacteria, 
+mycoplasma, fungi). This information can include, for example, 
+certification and/or testing of raw materials and excipients, and control of 
+the production process, as appropriate for the material, process and agent.  
+ 
+ 
+2 
+For further guidance refer WHO Recommendations for the evaluation of 
+animal cell cultures as substrates for manufacture of biological medicinal 
+products and for characterization of cell banks. TRS 978 annex 3. 
+ 
+For viral adventitious agents: Detailed information from viral safety 
+evaluation studies should be provided in this section. Viral evaluation 
+studies should demonstrate that the materials used in production are 
+considered safe, and that the approaches used to test, evaluate, and 
+eliminate the potential risks during manufacturing are suitable.  
+ 
+For further guidance refer ICH Q5A, Q5D, and Q6B. 
+ 
+Materials of Biological Origin: Information essential to evaluate the 
+virological safety of materials of animal or human origin (e.g. biological 
+fluids, tissue, organ, cell lines) should be provided. (See related 
+information in 3.2.S.2.3, and 3.2.P.4.5). For cell lines, information on the 
+selection, testing, and safety assessment for potential viral contamination 
+of the cells and viral qualification of cell banks should also be provided. 
+(See related information in 3.2.S.2.3).  
+ 
+Testing at appropriate stages of production: The selection of virological 
+tests that are conducted during manufacturing (e.g., cell substrate, 
+unprocessed bulk or post viral clearance testing) should be justified. The 
+type of test, sensitivity and specificity of the test, if applicable, and 
+frequency of testing should be included. Test results to confirm, at an 
+appropriate stage of manufacture, that the product is free from viral 
+contamination should be provided. (See related information in 3.2.S.2.4 
+and 3.2.P.3.4).  
+ 
+Viral Testing of Unprocessed Bulk: In accordance with Q5A and Q6B, 
+results for viral testing of unprocessed bulk should be included.  
+ 
+Viral Clearance Studies: In accordance with Q5A, the rationale and 
+action plan for assessing viral clearance and the results and evaluation of 
+the viral clearance studies should be provided. Data can include those that 
+demonstrate the validity of the scaled-down model compared to the 
+commercial scale process; the adequacy of viral inactivation or removal 
+procedures 
+for 
+manufacturing 
+equipment 
+and 
+materials; 
+and 
+manufacturing steps that are capable of removing or inactivating viruses. 
+(See related information in 3.2.S.2.5 and 3.2.P.3.5).  
+ 
+ 
+3 
+For further guidance refer ICH Q5A, Q5D, and Q6B. 
+3.2.A.3  
+Excipients 
+3.2.R:   
+Executed Batch Manufacturing Record  
+Provide executed batch manufacturing record  of at least one batch of the 
+drug product 
+3.3   
+LITERATURE REFERENCES  
+Key literature referenced should be provided, if applicable. 
+ 
+ 
+ 
+ 
+ 
+4 
+MODULE IV: NON CLINICAL STUDIES 
+Non-clinical studies should comply with the World Health Organization’s 
+Guidelines on Non-clinical Evaluation, WHO Technical Series No. 9984, 
+2014, or most recent version. 
+ 
+Pre-clinical testing is a prerequisite to moving  Biotherapeutic products 
+from the laboratory to the clinic and includes all aspects of testing such 
+as product characterization, proof of concept of effectiveness and safety 
+testing in animals conducted prior to clinical testing in humans.  
+ 
+The submission in this section should be organised as summarised below: 
+ 
+4.1  Table of contents of module4 
+4.2  Reports on studies 
+4.2.1  
+Pharmacology 
+4.2.1.1 
+Pharmacodynamic studies  
+4.2.2   
+Pharmacokinetics (when applicable) 
+4.2.3  
+Toxicology 
+4.2.3.1  
+Single-Dose Toxicity (in order by species, by route)  
+ 
+4.2.3.2  
+Repeat-Dose Toxicity (in order by species, by route, by 
+duration; including supportive toxicokinetics evaluations)  
+ 
+4.2.3.3  
+Genotoxicity  
+ 
+4.2.3.3.1  
+In vitro  
+ 
+4.2.3.3.2  
+In vivo (including supportive toxicokinetics evaluations) 
+ 
+4.2.3.4  
+Carcinogenicity 
+(including 
+supportive 
+toxicokinetics 
+evaluations) 
+  
+4.2.3.4.1  
+Long-term studies (in order by species; including range-
+finding studies that cannot appropriately be included under 
+repeat-dose toxicity or pharmacokinetics) 
+ 
+4.2.3.4.2  
+Short- or medium-term studies (including range-finding 
+studies that cannot appropriately be included under repeat-
+dose toxicity or pharmacokinetics)  
+ 
+ 
+5 
+4.2.3.4.3  
+Other studies  
+4.2.3.5  
+Reproductive and Developmental Toxicity (including range-
+finding studies and supportive toxicokinetics evaluations) (If 
+modified study designs are used, the following sub-headings 
+should be modified accordingly.)  
+ 
+4.2.3.5.1  
+Fertility and early embryonic development  
+ 
+4.2.3.5.2  
+Embryo-fetal development  
+ 
+4.2.3.5.3  
+Prenatal and postnatal development, including maternal 
+function  
+ 
+4.2.3.5.4  
+Studies in which the offspring (juvenile animals) are dosed 
+and/or further evaluated.  
+ 
+4.2.3.6  
+Local Tolerance  
+ 
+4.2.3.7  
+Other Toxicity Studies (if available)  
+ 
+4.2.3.7.1  
+Antigenicity  
+ 
+4.2.3.7.2  
+Immunotoxicity 
+ 
+4.2.3.7.3  
+Mechanistic studies (if not included elsewhere) 
+  
+4.2.3.7.4  
+Dependence 
+ 
+4.2.3.7.5  
+Metabolites  
+ 
+4.2.3.7.6  
+Impurities  
+ 
+Refer to ICH M3R2 and ICH S6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MODULE V: CLINICAL STUDIES 
+The clinical studies should follow the World Health Organization’s 
+Guidelines on the quality, safety and efficacy of biotherapeutic protein 
+products prepared by recombinant DNA technology, 2013 or most current 
+version and ICH E6 Applicants should be familiar with these guidelines 
+when submitting applications for marketing authorisation.  
+ 
+6 
+ 
+This section details Particulars of tests which have been performed in 
+human beings regarding the efficacy of the efficacy of the finished 
+biotherapeutic products and the indications for which it will be used 
+(clinical trials).  
+ 
+Clinical studies shall be designed and conducted to meet WHO and ICH 
+GCP guidelines.  
+ 
+Tabulated summary of the clinical development program of the rDNA, in 
+which critical parameters that may have changed during the clinical 
+development.  
+ 
+Clinical summary: Provide detailed summary and interpretation of the 
+safety and efficacy data obtained from clinical studies that supports the 
+current prescribing information.  
+ 
+Clinical Expert Report: Applicant shall provide an independent clinical 
+expert report on the clinical studies (evidence of expertise and 
+independence should be provided)  
+ 
+Reference:  
+ 
+WHO TRS 987, Annex 4 Guidelines on the quality, safety and efficacy of 
+biotherapeutic protein products prepared by recombinant DNA technology 
+or most current version  
+ 
+WHO TRS 850 (1995) Annex 3: Guidelines for good clinical practice (GCP) 
+for trials on pharmaceutical products or most current version.  
+ 
+REPORTS ON CLINICAL STUDIES 
+ 
+The submission in this section should be organised as summarised below 
+ 
+5.1 Table of contents of module5 
+ 
+5.2  Reports of Clinical studies 
+ 
+5.2.1  
+Phase I studies 
+ 
+5.2.2  
+Phase II studies 
+ 
+5.2.3  
+Phase III studies 
+ 
+5.2.4  
+Special considerations 
+ 
+ 
+7 
+5.2.6  
+Phase IV studies 
+ 
+ 
+6.  
+POST MARKET SURVEILLANCE FOR  BIOTHERAPEUTIC 
+PRODUCT 
+ 
+In this section, applicant should provide the following post approval 
+commitments: 
+ 
+a) Periodic safety update report (PSUR) in accordance to ICH Guideline 
+E2C (R2) Periodic benefit-risk evaluation report (PBRER). 
+ 
+b) Risk management plan in the format prescribed as per ICH Q 10 (Risk 
+management plan guidelines) and WHO guidelines on the quality, 
+safety and efficacy of biotherapeutic protein products prepared by 
+recombinant DNA technology, 2013 . 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 1:  APPLICATION FORM FOR REGISTRATION OF 
+BIOTHERAPEUTICS AND SIMILAR BIOTHERAPEUTIC PRODUCTS 
+Form 1  
+ 
+APPLICATION FOR REGISTRATION OF 
+BIOTHERAPEUTICS AND SIMILAR BIOTHERAPEUTIC 
+PRODUCTS   
+ 
+8 
+ To  
+THE REGISTRAR 
+PPB OFFICES, 
+LENANA ROAD, 
+DRUG REGISTRATION DEPARTMENT, 
+P.O. BOX 27663-00506, 
+NAIROBI. 
+Application Number 
+ 
+ 
+Date of submission 
+of the dossier  
+ 
+ 
+Name of the 
+1st   Assessor  
+ 
+Signature 
+Name of the 
+2nd Assessor 
+ 
+Signature 
+Date of 1st 
+Assessment 
+ 
+ 
+Date of 2nd 
+Assessment 
+ 
+ 
+CONCLUSION OF THE ASSESSMENT 
+RECOMMENDED (no outstanding issues) 
+QUERY RAISED (Indicate the sections 
+where query is raised) 
+REJECTED (indicate the module(s) that led 
+to the rejection) 
+(Please delete which does not apply) 
+ 
+TYPE OF APPLICATION – HUMAN PRODUCT 
+MODULE 1: ADMINISTRATIVE INFORMATION 
+SECTION 1: PARTICULARS OF THE PRODUCT  
+1.11 Name and address of Applicant 
+Company name:  
+Address:                
+ 
+9 
+Country:               
+Telephone: 
+E-Mail:  
+ 
+1.12   Type of Medicinal  Product Application ( Tick where appropriate) 
+ 
+New (Innovator)  BIOTHERAPEUTIC PRODUCT          
+OR      
+SIMILAR BIOTHERAPEUTIC PRODUCT.        
+ 
+ 
+For PPB use only 
+1.2 
+Trade/Proprietary name (prorietary Product name):  
+ 
+For PPB use only 
+1.3 
+Approved / INN / generic name of the   drug  substance 
+For PPB use only 
+1.4  
+Strength of drug substance(s) per unit dosage form of the product 
+and specifications of the drug substance(s), including the reference/ 
+monograph standard for each drug substance(s). 
+ 
+For PPB use only 
+1.5  
+Dosage form 
+1.5.1 
+Pharmaceutical Dosage form of the product: 
+1.5.2 
+Specifications of the Finished Pharmaceutical Product: 
+1.5.3 
+Route(s) of administration (use current list of standard terms - 
+European Pharmacopoeia):  
+For PPB use only 
+ 
+10
+1.6  
+Packing/Pack size of the product:  
+1.6.1 
+Pack size: 
+1.6.2 
+Primary packing materials: 
+1.6.3 
+Secondary packing materials: 
+For PPB use only 
+ 
+1.7  
+Visual Description of the product (Add as many rows as necessary) 
+For PPB use only 
+ 
+1.8 
+1.8 Proposed Shelf life of the product (in months):  
+1.8.1 
+Proposed shelf life (after reconstitution or dilution) (if applicable): 
+1.8.2 
+Proposed shelf life (after first opening container):  
+1.8.3 
+Proposed storage conditions:  
+1.8.4 
+Proposed storage conditions after first opening:  
+For PPB use only 
+1.9  
+Pharmacotherapeutic group and ATC Code 
+1.9.1 
+Pharmacotherapeutic group:  
+1.9.2 
+ATC Code: 
+1.9.3 
+If no ATC code has been assigned, please indicate if an application 
+for ATC code has been made:  
+1.9.4 
+Proposed indication(s) for the product: 
+For PPB use only 
+1.10 
+Indicate Legal category 
+1.10.1  
+POM (Prescription only Medicine) unless otherwise, provide 
+justification) 
+For PPB use only 
+1.11  
+Country of origin or country of release:  
+For PPB use only 
+ 
+1.12  
+Product Marketing Authorisation in the country of origin. (Attach 
+certificate of pharmaceutical product from competent regulatory 
+authority)   If not registered, state reasons 
+ 
+11
+ Authorised   
+Country:  
+Date of authorisation:  
+Proprietary name:  
+Authorisation number:  
+ 
+ Refused 
+Country: Not applicable 
+Date of refusal (dd-mm-yyyy):  
+Reason for Refusal:  
+ Withdrawn (by applicant after 
+authorisation) 
+Country:  
+Date of withdrawal (dd-mm-yyyy):  
+Proprietary name:  
+Reason for withdrawal:  
+ 
+ Suspended/revoked (by competent 
+authority) 
+Country: Not applicable 
+date of suspension/revocation (dd-mm-
+yyyy):  
+Reason for suspension/revocation:  
+ 
+For PPB use only 
+ 
+1.12.1 
+Registration status from countries with Stringent Regulatory 
+Authorities (SDRAs) where applicable 
+SDRAs - Documents to be attached: 
+For PPB use only 
+ 
+1.12.2 
+List of countries in which a similar application has been submitted 
+For PPB use only 
+ 
+1.12.3 
+Statement on whether an application for the Marketing 
+Authorisation has been previously rejected, withdrawn or 
+repeatedly deferred in the EAC Partner States 
+For PPB use only 
+ 
+1.12.4 
+Certificates of approval of Drug Substances(s)/ immunogenic s 
+substance(s) Master (DMF) by Stringent Regulatory Authority 
+For PPB use only 
+ 
+12
+ 
+1.12.5 
+Manufacturing Licence and Product Licence 
+For PPB use only 
+ 
+1.13  
+Certificate of Analysis from a WHO Prequalified Laboratory in Kenya and the 
+lot release certificate issued by the regulatory authority of country of origin  
+for those samples submitted with the application 
+ 
+For PPB use only 
+ 
+1.14  
+Name(s) and complete address (es) of the manufacturer(s) 
+1.14.1 
+Name and complete address(es)of the manufacturer(s) of the FPP, 
+including the finished pharmaceutical product release if different from 
+the manufacturer.         
+ 
+Marketing Authorisation Holder: 
+Company name:  
+Address:  
+Country:          
+Telephone:   
+E-Mail:  
+ 
+Manufactured By: 
+Company) Name:   
+ 
+13
+Address:                                 
+Country:. 
+Telephone:  
+Telefax :  
+ 
+If the manufacturer is different to 1.1 above, explain the relationship  
+ 
+1.14.2 
+Name(s) and complete address (es) of the manufacturer(s) of the  Drug 
+substance 
+ 
+ The active immunogenic substance:  (Add as many rows as necessary) 
+Company) Name:       
+Office Address  :                                 
+Country :   
+Telephone   :  
+Fax        :  
+Contact Person     :  
+E-mail                    :  
+ 
+ 
+For PPB use only 
+ 
+ 
+14
+1.15  
+Compliance to Good Manufacturing Practice (GMP) and Good 
+Clinical Practice  
+1.15.1 
+Good Manufacturing Practice (GMP) from PPB 
+1.15.2 
+Good Clinical Practice (GCP) or Good Laboratory Practice (GLP)  
+For PPB use only 
+1.16 .1 
+Name and complete address of the Local Technical Representative 
+of Manufacture (for finished pharmcautical Product)  
+ 
+Company name:  
+Address:          
+Country:     
+Telephone:       
+E-Mail:          
+ 
+If the Local Technical Representative is different to 1.1 above, 
+explain and provide evidence for the relationship: 
+1.16 .2 
+Name and address (physical and postal) of the person or company 
+responsible for pharmacovigilance 
+ 
+Company name:  
+Address:          
+Country:     
+ 
+15
+Telephone:       
+E-Mail:          
+ 
+For PPB use only 
+1.17 
+Product Information 
+1.17.1 
+Summary of Product Characteristics (SPC): 
+ 
+1.17.2 
+Prescribers/Patient information leaflet: 
+1.17.3 
+Mock-ups and Photo scan of the product: 
+ 
+16
+1.18 
+1.18 Batch number(s) and Batch Types of the final product used in                    
+Clinical studies: 
+Stability studies: 
+Validation/production scale batches Validation/production scale batches: 
+Comments:  
+Comments: Provide Reasons for comments , e.g batch numbers N/A  
+ 
+Qualitative and Quantitative composition of the drug substance(s) and excipient(s)  
+A note should be given as to which quantity the composition refers (e.g.   1 Vial ).  
+Name of 
+drug 
+substanc
+e(s)* 
+Quantity / 
+dosage 
+unit 
+Unit 
+of 
+measure  
+Reference/ 
+monograph standard 
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+e.t.c  
+ 
+ 
+ 
+Name of excipient(s) 
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+e.t.c 
+ 
+ 
+ 
+ 
+Note: * Only one name for each substance should be given in the following
+priority: INN**, Pharmacopoeia, common name, scientific name 
+** The drug substance should be declared by its recommended INN, accomp
+its salt or hydrate form if relevant. 
+Details of averages should not be included in the formulation columns but s
+stated below:  
+- Drug substance(s):       
+- Excipient(s): 
+           
+ 
+ 
+17
+1.19 
+State the reference/monograph standard such as British 
+Pharmacopeia,  United States Pharmacopeia, Ph. Eur, Japanese
+Pharmacopeia, In-house monograph  
+e.t.c. used for Finished Medicinal Product.  
+ 
+1.20 
+ 
+Name and address (physical and postal) of the Contract 
+Research Organisation(s) where the clinical studies of the 
+product were conducted. (If applicable) 
+Name:                N/A 
+Company name:       
+ 
+Address:                   
+Country:                   
+Telephone:                
+Telefax:                     
+E-Mail:                      
+ 
+1.21 DECLARATION BY AN APPLICANT 
+I, the undersigned certify that all the information in this form and accompanying 
+documentation is correct, complete and true to the best of my knowledge. 
+I further confirm that the information referred to in my application dossier is 
+available for verification during GMP inspection. 
+I also agree that I shall carry out pharmacovigelance to monitor the safety of the 
+product in the market and provide safety update reports to the National Medicines
+Regulatory Authority.  
+I further agree that I am obliged to follow the requirements of Kenya, and 
+Legislations and Regulations which are applicable to medicinal products. 
+ 
+Name: 
+ 
+18
+ 
+Position in the company:  
+ 
+Signature: 
+ 
+Date: 
+ 
+ 
+ 
+Official stamp:…………………………….. 
+ 
+* Note: If fees have been paid, attach proof of payment  
+ PPB use only 
+ 
+ 
+ OVERALL QUERIES AND RECOMMENDATIONS FOR THIS MODULE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19
+Annex II: EXPERT DECLARATION FORM 
+ 
+The following is an example of a suitable declaration form: 
+ 
+Quality /Non-clinical / Clinical (delete those not appropriate) 
+I, the undersigned, declare that I have: 
+i. 
+the suitable technical or professional qualifications to act in this 
+capacity (for more  
+     information, refer to the enclosed curriculum vitae). 
+ 
+ii. 
+fully examined the data provided by the applicant and have provided 
+references to the 
+literature to support statements made that are not supported by the 
+applicant’s original data. This report presents an objective assessment of 
+the nature and extent of the data. 
+ 
+iii. 
+provided a report based on my independent assessment of the data 
+provided. 
+ 
+iv. 
+based my recommendations, regarding suitability for registration, on 
+the data provided 
+herewith. I have considered the attached data and have recommended as 
+to suitability 
+for registration of the intended dose forms and presentations according to 
+the proposed product information document. 
+ 
+I further declare that this expert report represents my own view. 
+Further, I declare the following to be the full extent of the professional 
+relationship between the applicant and myself: 
+..........................................................................................................................
+..........................................................................................................................
+.......................................... 
+Revision History  
+Revision 
+No 
+    Date 
+Author 
+Section(s) 
+Revised 
+Description of the Change  
+1 
+11.01.2022 
+QAO 
+DOCUMENT 
+NUMBER 
+Changed to  
+PPB/HPT/PER/GUD/013  
+FROM 
+PPB/PER/MED/GUD/013 
+ 
+20
+2 
+11.01.202 
+QAO 
+Authorization 
+section 
+Changed from Registrar to 
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 00506 Lenana Road Opposite Russian Embassy 
+Nairobi,Tel: +254-02-12345/6789, Fax: +254-02-12345 
+Website:www.Pharmacyboardkenya.org.ke,Email:info@pharmacyboardkenya
+.org.ke 
+ 

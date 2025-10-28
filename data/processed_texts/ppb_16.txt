@@ -1,0 +1,1982 @@
+                  HPT/PER/GUD/025 
+                          Revision No: 0 
+ 
+                                  
+                           
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+  
+GUIDELINES ON SUBMISSION OF DOCUMENTATION FOR 
+COMPASSIONATE USE AUTHORIZATION (CUA) OF HEALTH 
+PRODUCTS AND TECHNOLOGIES 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+JUNE, 2025 
+ 
+ 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on the condition that the recommended citation below 
+is made. 
+Recommended citation: The Republic of Kenya, Ministry of Health, Pharmacy 
+and Poisons Board, Guidelines on Submission of Documentation for 
+Compassionate Use Authorization (CUA) of Health Products and Technologies, 
+and Revision number 0, 2025. 
+ 
+ 
+All rights reserved: 
+ 
+©Pharmacy and Poisons Board, 2025 
+ 
+For clarifications, comments, or suggestions, please contact: 
+ 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+Website:www.pharmacyboardkenya.org 
+  
+ 
+ 
+ 
+HPT/PER/GUD/025 
+Guidelines on Submission of Documentation 
+for Compassionate Use Authorization (CUA) of 
+Health Products and Technologies 
+Revision :0 
+Effective date:  
+02/06/2025 
+Review Date:  
+01/06/2030 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii
+Table of Contents 
+ABBREVIATIONS ......................................................................................... iv 
+GLOSSARY................................................................................................... vi 
+ACKNOWLEDGEMENTS ............................................................................. vii 
+FOREWORD ............................................................................................... viii 
+1.0 
+INTRODUCTION ................................................................................... 9 
+1.1 
+Legal Framework ............................................................................. 10 
+1.2 
+Scope .............................................................................................. 11 
+1.3 
+Eligibility Of Candidate Products .................................................... 12 
+2.0 
+APPLICATION SUBMISSION ............................................................... 13 
+2.1 
+Submission of applications ............................................................. 13 
+2.2 
+Post Authorization Phase ................................................................ 13 
+3.0 
+CUA APPLICATION PROCESS ............................................................ 15 
+3.1 
+CUA Application Minimum Information Requirements .................... 15 
+3.2 
+CUA application .............................................................................. 16 
+3.3 
+Format of submissions for CUA: ..................................................... 16 
+4.0 
+REGULATORY PROCESS ................................................................... 18 
+5.0 
+REGULATORY PROCESS TIMELINES ................................................ 19 
+6.0 
+TERMINATION OF CUA ...................................................................... 20 
+7.0 
+REFERENCES .................................................................................... 21 
+8.0 
+REVISION HISTORY ........................................................................... 22 
+9.0 
+LIST OF CONTRIBUTORS AND REVIEWERS ..................................... 23 
+10.0 
+ANNEXES ........................................................................................ 24 
+Annex I. Flow chart of the CUA process. .................................................. 24 
+Annex II: Application form for CUA .......................................................... 25 
+Annex III. Applicant, Physician and Patient Information form.................. 27 
+ 
+ 
+ 
+iii 
+Annex IV. Consent form for CUA .............................................................. 34 
+Annex V: Approval Letter for CUA ............................................................ 42 
+Annex VI:  Safety Monitoring guidance. ................................................... 45 
+LINE LIST FOR ADEs REPORTED WITH USE OF PRODUCT ...................... 47 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+ABBREVIATIONS 
+CUA  
+Compassionate Use Authorization 
+DPER 
+Department of Product Evaluation and Registration 
+EMA  
+European Medical Agency 
+GCP  
+Good Clinical Practice 
+GLP  
+Good Laboratory Practice 
+GMP  
+Good Manufacturing Practice 
+GxP  
+Good Practices e.g., GCP, GLP 
+ICH 
+International Council on Harmonization of requirements of 
+Pharmaceuticals for Human Use  
+IMP  
+Investigational Medicinal Product 
+PPB 
+Pharmacy and Poisons Board 
+PS 
+Product Safety Department 
+PV/PMS 
+Pharmacovigilance/ Post Market Surveillance 
+RRA 
+Reference Regulatory Authority 
+SAE 
+Serious Adverse Events 
+SmPC 
+Summary of product characteristics 
+SRA 
+Stringent Regulatory Authority 
+SUSAR 
+Suspected Unexpected Serious Adverse Reaction 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+v 
+QAO           Quality Assurance Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vi 
+GLOSSARY 
+For this guideline, the following definitions shall apply: 
+Compassionate use means approval for use in isolated cases of the 
+individual(s) or subpopulations i.e., where an unregistered medicinal product 
+is made available to “patients with a chronically or seriously debilitating 
+disease, or life-threatening disease or condition, including chemical, biological 
+or radiological harmful exposure and who cannot be treated satisfactorily 
+using a registered product and who are not eligible or participant(s) in a 
+clinical trial. 
+Marketing Authorization means approval i.e., license/ certificate of 
+registration for a product to be marketed in a country. The term product 
+registration may be used synonymously. 
+The Board- Pharmacy and Poisons Board 
+ 
+ 
+ 
+ 
+ 
+vii
+ACKNOWLEDGEMENTS 
+PPB acknowledges all the authors, stakeholders, and organizations who 
+contributed to the preparation of this document. 
+ 
+ 
+ 
+ 
+ 
+viii
+FOREWORD 
+The Compassionate Use Authorization (CUA) Guideline has been developed to 
+address situations where patients with serious, life-threatening, or rare 
+conditions may require access to investigational or otherwise unauthorized 
+health products or technologies for which no satisfactory authorized therapies 
+are available. This guideline provides a regulatory framework that enables 
+such access outside of clinical trials, under conditions that ensure patient 
+safety, ethical oversight, and appropriate regulatory control. It seeks to 
+balance the urgent medical needs of patients with the necessity of 
+maintaining oversight of products that have not yet completed the formal 
+registration process. 
+Rule 15 of the Pharmacy and Poisons Rules 2022 makes allowance for 
+Compassionate Use Authorization. This legal provision underpins the 
+compassionate use pathway and affirms the Board’s commitment to 
+facilitating timely access to critical health products, that are still under 
+investigation or not yet registered in Kenya. The CUA guideline outlines the 
+eligibility criteria, application process, supporting documentation, and post-
+authorization responsibilities required to operationalize this pathway 
+effectively 
+ 
+ 
+ 
+ 
+9
+1.0 
+INTRODUCTION 
+The Pharmacy and Poisons Board (hereinafter referred to as “the Board”) is 
+mandated under the Pharmacy and Poisons Act Cap 244 Laws of Kenya 
+(hereinafter referred to as “the Act”) to regulate Health Products and 
+Technologies. 
+Ordinarily, before any consideration for the Marketing Authorization of a 
+product, sufficient scientific and clinical evidence must be collected to 
+demonstrate that it is safe, efficacious, and of suitable quality. The scientific 
+evidence includes quality data, and safety and efficacy result from human 
+clinical trials or non-clinical studies; it should be evident that the benefits of 
+the product outweigh the risks associated. However, less sufficient 
+information on quality, safety, efficacy/immunogenicity/performance may be 
+accepted for individual health needs where there is no other available 
+treatment/intervention. In such circumstances, additional mechanisms like; 
+a risk-management plan, pharmacovigilance, and post-market surveillance 
+for compliance verifications as well as investigations of potential health 
+hazards shall be implemented. 
+Compassionate use Authorization shall be applied for use in isolated cases of 
+individual (s) or subpopulations i.e., a group of patients, where an 
+investigational medicinal product is made available to “patients with a 
+chronically or seriously debilitating disease, or life-threatening disease or 
+condition, and who cannot be treated satisfactorily using a registered product. 
+Notably, this does not require a declaration of public health emergency to 
+apply rather, it can be implemented whenever a situation occurs.  
+Products for compassionate use may be allowed to be used outside of clinical 
+trials when: the disease is serious and life-threatening, no alternative 
+treatment for the disease, the individual is not part of or eligible for the clinical 
+trial, and the doctor justifies that there are no other options, and the 
+experimental treatment may be of help.  
+The Board may grant compassionate use authorization, based on evidence of 
+such approval by an SRA or WHO. In case the investigational medicinal 
+ 
+ 
+ 
+10
+product is undergoing clinical trial studies within the country and where there 
+has been no authorization by SRA or acceptance by WHO, the Board may 
+approve for compassionate use upon advice from the mandated advisory 
+scientific committees and/     or WHO. 
+This guideline shall be read with international guidelines on quality, safety, 
+and efficacy, such as the international council on Harmonization of 
+requirements of Pharmaceuticals for Human Use (ICH) guidelines.  
+1.1 
+Legal Framework 
+The Board is statutorily empowered to undertake various duties in the 
+execution of its mandate regarding the regulation of health products and 
+technologies. This includes regulation of clinical trials and marketing 
+authorization. The regulation for the conduct of clinical trials is governed 
+under the provisions of the Pharmacy and Poisons Act Cap 244 Laws of Kenya 
+(hereinafter referred to as “the Act”), and the Subsidiary Legislation 
+thereunder. 
+With respect to Marketing Authorization and Clinical Trials, the Board is 
+empowered amongst others, under Section 3A of the Act to:  
+a) 
+Grant or withdraw authorization for conducting clinical trials of 
+medical products. 
+b) 
+Grant or withdraw marketing authorization for medicinal products 
+subject to appropriate conditions and revise such conditions for 
+marketing as necessary.      
+c) 
+Prescribe the standards appropriate for new medical products; new 
+uses, dosages, and formulations of existing medical products; and 
+such other categories as may be appropriate. 
+d) 
+Constitute technical and expert advisory committees. 
+ 
+Further Section 3B of the Act mandates the Board to undertake the following 
+with respect to clinical trials and compassionate use: 
+a) 
+Approve the use of any unregistered medicinal substance for purposes 
+of clinical trials and compassionate use. 
+ 
+ 
+ 
+11
+b) 
+Collaborate 
+with 
+other 
+national, 
+regional, 
+and 
+international 
+institutions on medicinal substance regulation. 
+c) 
+Advise the Cabinet Secretary on matters relating to the control, 
+authorization, and registration of medicinal substances. 
+Rule 15 of the Pharmacy and Poisons Rules 2022 makes allowance for 
+Compassionate Use Authorization. 
+This guideline shall be applicable to investigational medicinal products or 
+technologies for purposes of compassionate use. 
+1.2 
+Scope 
+This guideline is intended to provide general considerations and guidance on 
+content and format for required information for regulatory submission of 
+Health products and Technologies for compassionate use authorization in 
+Kenya.  
+Products for compassionate use may be allowed to be used outside of clinical 
+trials when: the disease is serious and life-threatening, no alternative 
+treatment for the disease, the individual is not part of or eligible for the clinical 
+trial, and the doctor justifies that there are no other options, and the 
+experimental treatment may be of help.  
+Compassionate Use Authorization shall be applied for use in isolated cases of 
+individual (s) or subpopulations i.e., a group of patients, where an 
+investigational medicinal product is made available to “patients with a 
+chronically or seriously debilitating disease, or life-threatening disease or 
+condition, and who cannot be treated satisfactorily using a registered product 
+ 
+Compassionate use is not a substitute for properly conducted trials. 
+Compassionate use should therefore not slow down the implementation or 
+continuation of clinical trials intended to provide essential information 
+relative to the benefit/risk balance of a medicinal product. 
+Patients should always be considered for inclusion in clinical trials before 
+being offered compassionate use programmes 
+ 
+ 
+ 
+12
+Compassionate use does not refer to the use of an authorised medicinal 
+product for an indication different from the one mentioned in section 4.1 of 
+the summary of product characteristics (SPC), i.e. off-label use. Thus, this 
+guideline does not cover the off-label use of health products and technologies. 
+1.3 
+Eligibility Of Candidate Products 
+The product categories to be reviewed under compassionate use shall include 
+but are not limited to: 
+a) 
+Medicines (therapeutics) 
+i. 
+Blood and Blood Product 
+ii. 
+Biotherapeutics products 
+iii. 
+Chemical products 
+b) 
+Vaccines 
+c) 
+Medical devices & In-vitro diagnostics (IVDs) 
+The product categories shall each have specific requirements for eligibility for 
+evaluation under the CUA procedure. 
+To qualify for assessment under the CUA procedure the following criteria 
+must be met: - 
+a) 
+The disease for which the product is intended is serious, immediately 
+life-threatening, and there are no registered products for the indication 
+or a critical subpopulation. 
+b) 
+The potential benefits of the product must outweigh the potential 
+risks. 
+c) 
+The product is manufactured in compliance with Good Manufacturing 
+Practices (medicines & Vaccines) and under a functional Quality 
+Management system (ISO standards) in the case of IVDs and Medical 
+devices, and 
+d) 
+Where applicable, the applicant undertakes to complete the 
+development of the product (clinical trials in case of medicines & 
+vaccines and validation and verification in case of IVDs).  
+ 
+ 
+ 
+ 
+ 
+13
+2.0 
+APPLICATION SUBMISSION 
+2.1 
+Submission of applications 
+The applicant (for CUA) shall submit an application with a cover letter to the 
+Pharmacy and Poisons Board, Department of Product Evaluation and 
+Registration.  
+For the compassionate Use Authorization application process, a cover letter 
+and supporting documentation shall be submitted. Please refer to the 
+application form (Annex II and Annex III). Additionally, the applicant shall be 
+required to submit an informed consent form (Annex IV), together with 
+supporting documents as outlined in section 3 of this guideline. 
+The Board shall acknowledge receipt through email for all submissions. 
+The Board shall issue a rejection letter for applications that do not meet 
+eligibility criteria. 
+2.2 
+Post Authorization Phase 
+The Board shall continually review submitted quality and safety reports 
+submitted by the QPPV appointed by the applicant to collect and analyze 
+reports 
+on 
+safety 
+surveillance, 
+efficacy/effectiveness/ 
+performance 
+monitoring, quality complaints, and other relevant data that may impact the 
+validity of the Authorization. 
+The existing Pharmacovigilance and Post-marketing surveillance mechanisms 
+shall be applied in effecting collection and dissemination of quality and safety 
+surveillance, 
+efficacy/effectiveness/ 
+performance 
+monitoring, 
+quality 
+complaints, and other relevant data. 
+The applicant should provide the following post-approval commitments in 
+addition to meeting other Pharmacovigilance obligations as stipulated in the 
+Guidelines on the safety and vigilance of medical products and health 
+technologies (https://pharmacyboardkenya.org/pharmacovigilance) 
+ 
+ 
+ 
+14
+1. 
+Periodic benefit-risk evaluation report in accordance with ICH 
+Guideline E2C(R2) Clinical Safety Data Management: Periodic benefit-
+risk evaluation report. 
+2. 
+Applicants shall provide information on any ongoing phase I/II/III/IV 
+studies or on any active monitoring of the safety profile that is taking 
+place i.e 
+a) 
+Risk management plan. 
+b) 
+Vigilance reports to be frequently provided; 
+i. Suspected unexpected Serious Adverse Reactions (SUSARS) 
+including Adverse events following Immunization (AEFIs) shall 
+be reported within 24 hours. 
+ii. Serious Adverse Events (SAEs) shall be reported within seven 
+(7) days. 
+iii. The Board may institute active Surveillance or targeted 
+Spontaneous reporting.   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15
+3.0 
+CUA APPLICATION PROCESS 
+3.1 
+CUA Application Minimum Information Requirements 
+In general, the following minimum information shall be submitted in any 
+application for a CUA: - 
+a) 
+A description of the product and its intended use (the serious or life-
+threatening disease, how the product is anticipated to be used, and /or 
+the populations/individual for which the product is to be used. 
+b) 
+Description of PPB’s registration status i.e., whether the product is NOT 
+registered or if registered the requested CUA is for an unapproved use. 
+Whether the product or intended use is under an Investigational 
+application (with PPB or SRA country), whether the product is 
+authorized in an SRA country or WHO. 
+c) 
+Detailed justifications should be provided to support the claim that the 
+medicinal product meets the criteria for compassionate use.  
+i. Available safety and effectiveness information. 
+ii. A discussion of risks and benefits. 
+iii. Product information equivalent to the Product information 
+requirements as per established product specific guidelines. 
+iv. Information on product stability, anticipated storage, and handling 
+conditions. 
+v. With regard to safety information;  
+a) For Unapproved uses of already registered products. If the new 
+indication uses a similar dose (or dose range as established 
+through 
+previous 
+clinical 
+trials), 
+duration, 
+route 
+of 
+administration, or mechanism of action, and the intended 
+patient population is similar to the approved product, a right of 
+reference to the registered product is applicable. 
+b) Unapproved products. The available data may vary considerably. 
+It is recommended that a CUA application should include 
+preclinical testing data i.e., in vitro testing and animal toxicology 
+data. The applicant is also encouraged to submit human safety 
+information 
+from 
+clinical 
+trials 
+and 
+individual 
+patient 
+experiences, if available. If only animal data (including data on 
+ 
+ 
+ 
+16
+non-human primates) is available an extrapolation to humans 
+shall be provided. Any safety information on humans on related 
+compounds or devices should be provided. 
+c) In terms of efficacy, the assumptions for compassionate use may 
+be based on mature randomised phase III trials.  
+d) However, acceptable assumptions may rely on promising early 
+data observed in exploratory trials (e.g. uncontrolled phase II 
+trials). In terms of safety, submission of all available data, which 
+may contribute to refinement of the conditions for use defined in 
+the opinion, is encouraged 
+vi. A discussion on Risk-benefit analysis shall include the following: - 
+a) Measures are taken to mitigate risks. 
+b) Uncertainties and data gaps. 
+c) Contraindications. 
+vii. The applicant shall provide a Pharmacovigilance plan and Risk 
+management Plan. 
+viii. 
+The applicant/facility/program shall obtain informed consent 
+from the patient(s), individual(s), or Guardian. 
+ix. Any additional conditions/requirements as per the Pharmacy and 
+Poisons (Registration of Health Products and Technologies) Rules, 
+Part V (Miscellaneous) regarding Compassionate Use. 
+3.2 
+CUA application 
+The assessment of CUA applications shall involve the selection of key experts 
+within the PPB, strategic planning, and oversight of systems to facilitate the 
+implementation of CUA, particularly in cases where the application is made 
+for a group of patients and involves more than one institution. 
+3.3 
+Format of submissions for CUA: 
+A CUA application shall include the following: 
+1. 
+Cover letter 
+Applicants shall include a cover letter with all applications. A copy of the letter 
+shall be placed at the beginning of the application. The cover letter should 
+include details on the institution/manufacturer providing the health product 
+ 
+ 
+ 
+17
+and/or technology, the recipient institution, and a list of all the documents 
+submitted including their version numbers and date. Additionally, the cover 
+letter shall include the statement to confirm that the material provided is true 
+and accurate and shall be signed and dated.  
+2. 
+Supporting documentation 
+The following additional documentation shall be submitted by the 
+applicant: 
+a) 
+A filled application form as per the format outlined in Annex II of 
+this guideline. 
+b) 
+A filled Applicant, Physician and Patient Information form 
+outlines in Annex III of this guideline. 
+c) 
+An informed consent from the patient(s), individual(s), Guardian, 
+or a legal representative as per the format outlined in Annex IV 
+of this guideline.  
+d) 
+Patient(s) prescriptions, treatment protocol, and duration of 
+treatment. 
+e) 
+Any additional documentation outlined in the relevant clauses, 
+and in section 3.1 mentioned above.  
+f) 
+Any additional conditions/documentation requirements as per 
+the Pharmacy and Poisons (Registration of Health Products and 
+Technologies) 
+Rules, 
+Part 
+III 
+(Miscellaneous) 
+regarding 
+registration for compassionate use.  
+g) 
+The applicant shall be required to provide a Pharmacovigilance 
+plan and Risk management plan (Guidelines on the safety and 
+vigilance 
+of 
+medical 
+products 
+and 
+health 
+technologies 
+(https://pharmacyboardkenya.org/pharmacovigilance) 
+ 
+ 
+ 
+ 
+ 
+18
+4.0 
+REGULATORY PROCESS 
+Upon submission of the application, screening of the application shall be 
+conducted for acceptance of the application. Screening shall be done within 
+the stipulated timelines in the service charter. Successful applications shall 
+proceed for evaluation under the CUA. If no queries are raised the application 
+shall be recommended for Compassionate use authorization. 
+After the initial submission of the CUA application with all the mandatory 
+information for initial assessment, applicants are requested to promptly 
+submit any additional information on the development of the product to the 
+Board. Any unsatisfactory application may be rejected upon screening or an 
+unsatisfactory response and feedback provided to the applicant. An applicant 
+may request for withdrawal of the application at any point of the evaluation 
+process in written form.  
+The compassionate use authorization shall be subject to but not limited to 
+the following conditions: - 
+ 
+1. 
+The allowable CUA quantities of product being requested shall primarily 
+be based on the physician prescription and submitted treatment 
+protocol. The maximum allowable CUA quantities/period of use shall 
+be determined by pharmacy and poisons board on case-by-case basis 
+to a maximum use period of 6 months. This includes:  
+a) Therapeutic dose, frequency, and duration of treatment per 
+patient.  
+b) The proposed strength of the investigational product in relation 
+to the therapeutic dose.  
+2. 
+The applicant shall adhere to all commitments including submission of 
+safety reports, risk management plans, and adherence to regulatory 
+requirements, and safety and vigilance requirements on health 
+products and technologies. 
+ 
+ 
+ 
+ 
+ 
+19
+5.0 
+REGULATORY PROCESS TIMELINES       
+The timelines for this process shall be in accordance with the PPB Service 
+Charter. 
+ 
+ 
+ 
+ 
+ 
+20
+6.0 
+TERMINATION OF CUA 
+A CUA has a one-off use validity; renewable whenever applicable based 
+on set conditions, or as determined by the Board as per the Pharmacy 
+and Poisons (registration of drugs) rules.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21
+7.0 
+REFERENCES 
+1. Guideline on compassionate use of medicinal products, pursuant to 
+Article 83 of regulation (EC) No 726/2004 (EMEA/27170/2006) 
+2. Guidance document on Expanded Access to Investigational Drugs 
+for Treatment Use, USFDA (November 2022) 
+3. AVAREF Guidance and considerations on Compassionate Use 
+Access 
+4. Guideline for Compassionate Use in Austria (L_I217, 14/02/2025) 
+ 
+ 
+22 
+8.0 REVISION HISTORY 
+Revision 
+No: 
+Date  
+ 
+Author/ 
+Reviewer 
+Section(s) 
+revised 
+Description 
+of 
+change 
+Rev 0  
+ 
+09/05/2025 
+QAO  
+ 
+All Sections  Separation of EUA 
+and CUA guideline. 
+This guideline has 
+been introduced 
+to provide exclusive 
+information 
+ 
+and 
+clearer scope on 
+the Compassionate 
+Use Authorization  
+ 
+ 
+ 
+ 
+23
+9.0 
+LIST OF CONTRIBUTORS AND REVIEWERS 
+1. Dr. Kariuki Gachoki Deputy Director, DPER, PPB 
+2. Dr. Ali Arale 
+Chief Principal Regulatory Officer, PPB 
+3. Dr. Solomon Koech  
+Senior Regulatory officer, (MD&IVDs), DPER, 
+PPB 
+4. Mr. Alex Mutai  
+Assistant Principal Regulatory Officer, Blood 
+and Blood Products Department, Directorate of Health Products and 
+Technologies 
+5. Dr. Christabel Khaemba 
+Deputy Director, PV, PPB 
+6. Dr. Lydia Tutai 
+Senior Principal Regulatory officer, Clinical 
+Trials, PPB 
+7. Dr. Benson Kanji 
+Senior Principal Regulatory, Clinical Trials, 
+PPB 
+8. Dr. Anushree Patel 
+Regulatory officer, DPER, PPB.  
+ 
+ 
+ 
+ 
+ 
+24
+10.0 ANNEXES 
+Annex I. Flow chart of the CUA process. 
+ 
+ 
+ 
+ 
+ 
+ 
+25
+Annex II: Application form for CUA 
+Application Form for Compassionate Use Authorization  
+Application No: 
+Active Substance: 
+Indication:  
+1. Description of the condition under which the HPT is to be used 
+1.1. Details of the condition 
+1.1.1 Definition 
+1.1.2 Aetiology 
+1.1.3 Specific characteristics; pathophysiological, histopathological, 
+clinical 
+characteristics 
+1.1.4. Classification 
+1.1.5 Diagnosis and symptoms 
+1.2. Proposed indication 
+1.3. Medical plausibility 
+1.3.1. Active substance: description of the medicinal product, 
+pharmacological class and 
+mode of action 
+1.3.2. Plausibility of the condition; data with the specific product as 
+applied for 
+designation in specific models or in patients affected the condition 
+1.4. Justification of the life-threatening or debilitating nature of the 
+condition 
+ 
+ 
+2. Prevalence of the condition 
+2.1. Prevalence of the disease or condition in the Kenya 
+2.2. Prevalence and incidence of the condition in the Kenya 
+ 
+ 
+ 
+3. Other methods for diagnosis, prevention or treatment of the condition 
+3.1. Details of any existing diagnosis, prevention or treatment methods 
+3.2. Justification as to why methods are not satisfactory (Applicable/Not 
+applicable. 
+(Delete as appropriate) 
+(Note that sections 3.2 and 3.3 are mutually exclusive.) 
+3.3. Justification of significant benefit 
+Applicable/Not applicable. (Delete as appropriate) 
+ 
+ 
+4. Description of the stage of development 
+4.1. Summary of the development of the product 
+4.1.1 Quality aspects 
+4.1.2 Non-clinical aspects 
+4.1.3 Proof-of concept in relevant model 
+4.1.4 Pharmacology 
+4.1.5 Pharmacokinetics 
+4.1.6 Toxicology 
+4.1.7 Clinical aspects 
+ 
+ 
+ 
+26
+4.1.8 Pharmacokinetics 
+4.1.9 Pharmacodynamics 
+4.1.10 Clinical efficacy 
+4.1.11 Dose-response studies and main clinical studies 
+4.1.12 Clinical studies in applied condition 
+4.1.13 Planned clinical studies 
+4.1.14 Clinical safety 
+4.1.15 Adverse events 
+4.1.16 Serious adverse events and deaths 
+4.2. Details of current regulatory status and marketing history in the 
+Kenya and other 
+countries 
+5. Applicant’s position: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27
+Annex III. Applicant, Physician and Patient Information form. 
+PHARMACY 
+AND 
+POISONS BOARD 
+FORM FOR COMPLETING THE 
+COMPASSIONATE USE AUTHORIZATION 
+APPLICATION 
+               FOM 001/PER/MED/GUD/024 
+                                               Rev. No.0 
+ 
+PLEASE READ THIS SECTION CAREFULLY BEFORE COMPLETING THIS 
+FORM 
+ 
+i. 
+The application form must be completed by an applicant 
+(medical officer, pharmacist, or any    authorized person by 
+the respective Hospital Ethics Committee) 
+ii. 
+Every application must be accompanied by the relevant 
+supporting documents 
+iii. 
+The Complete Application form shall be filled out for each 
+request for Compassionate Use of a medicinal product, 
+including Renewals. 
+ 
+SECTION A: 
+APPLICANT, PHYSICIAN, AND SHIPPING INFORMATION  
+ 
+Applicant’s Details: First and last name of the applicant, designation, contact 
+information (for group CUAs)  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+Physician’s Details: If different from the applicant (for group CUAs), the first 
+and last name of the responsible physician, and contact information. For an 
+individual patient CUA, the applicant is the responsible physician.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+Note: The physician must be authorized by law to treat patients with any drug 
+or drug substance intended for human use and requiring a prescription.  
+ 
+ 
+ 
+ 
+28
+Hospital or Clinic Name: Full name of clinic or hospital where the investigational 
+medicinal product (IMP) or unregistered novel product is to be delivered when 
+imported. 
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+Address:  Address of the physician’s office/clinic or hospital pharmacy where 
+the IMP/un-registered novel product is to be delivered, including the city, and 
+postal code.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+Contact Person: Full name and position (e.g Pharmacist,) of the person 
+completing the form, if other than the requesting physician.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+Contact Telephone number: A telephone number including an area code and 
+extension (if applicable) where the practitioner or a contact person can be 
+reached if further information or follow-up is required.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+Contact’s email address: An email address for the contact person should they 
+need to be reached if further information or follow-up is required.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+SECTION B: 
+UN-REGISTERED 
+NOVEL 
+PRODUCT 
+AND 
+MANUFACTURER 
+INFORMATION  
+ 
+ 
+ 
+29
+Brand Name/INN: Full name of an un-registered novel product, including 
+international nomenclature (INN) and company designated code.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+Name of Manufacturer: Full name of the manufacturer and location. Name 
+and contact details (telephone number and email address) for the 
+manufacturer or sponsor’s contact person. The manufacturer or sponsor’s 
+contact person has agreed to supply the unregistered novel product to the 
+requesting physician. Evidence of this acceptance by the manufacturer/ 
+sponsor should be attached to the application form.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+Route of Administration/Dosage Form: Key in the relevant information 
+ 
+SECTION C: 
+PATIENT INFORMATION FOR INDIVIDUAL OR GROUP REQUEST  
+ 
+1. 
+Individual Request  
+Initials: First, middle (if applicable), and last initials of the patient. Note: To 
+ensure confidentiality, indicate the inpatient number, outpatient number, or 
+the unique patient identifier 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+ 
+DOB: specify the date of birth in order of date, month, and year order (i.e. 
+DD/MM/YYYY).  
+……………………………………………………………………………………………….. 
+ 
+Sex: Check off the applicable box for the specified patient- Male or Female.  
+               Male                         Female 
+ 
+Indication: Exact medical indication for which the drug is being requested.  
+ 
+ 
+ 
+30
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+New or Repeat Patient: Check the applicable box indicating whether this 
+represents an initial or repeat. request for the patient for the specific IMP/ 
+un-registered novel product.  
+ 
+                   New                       Repeat Patient  
+ 
+ 
+Dosage and Duration: Prescribed dosage including planned duration of 
+therapy. Strength: Required strength or combination of strengths. 
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+……………………………………………………………………………………………….. 
+ 
+Quantity: Precise number of tabs, vials, etc. requested for each patient.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+ 
+1. 
+Group Request  
+Identity of the group: with approximate number and age range, and any 
+distinctive details.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+Indication: Exact medical indication for which the drug is being requested.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+New or Repeat Group request: Check the applicable box indicating whether 
+this represents an initial or repeat request for the group for the specific IMP/ 
+un-registered novel product.  
+ 
+ 
+ 
+ 
+31
+                   New                     Repeat Patient(s)  
+ 
+Dosage and Duration: Prescribed dosage including planned duration of 
+therapy.  
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+Strength: Required strength or combination of strengths.  
+……………………………………………………………………………………………….. 
+…………………………………………………………………………………………………
+………………………………………………………………………………………………… 
+ 
+Quantity: Precise number of tabs, vials, etc. requested for the group.  
+……………………………………………………………………………………………….. 
+…………………………………………………………………………………………………
+………………………………………………………………………………………………… 
+ 
+Total: Sum of the quantities for all patients. Note: Specify the exact amount 
+requested (e.g., number of tabs, vials, units, etc.). Your request will be returned 
+if the quantity is not clearly stated. 
+……………………………………………………………………………………………….. 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+SECTION D: CLINICAL RATIONALE  
+ 
+ 
+Question 1a) New Patients: Provide information about the patient(s)’s medical 
+history, including the severity of their condition, prognosis as well as 
+treatments considered, failed, unsuitable, or unavailable to achieve an 
+adequate response. Include a rationale indicating what about the requested 
+IMP/ un-registered novel product makes it the best choice for your patient(s) 
+(i.e., mechanism of action, dosage form, drug class) 
+ 
+……………………………………………………………………………………………….. 
+ 
+…………………………………………………………………………………………………. 
+ 
+………………………………………………………………………………………………… 
+ 
+ 
+ 
+32
+ 
+NB: Provide as attached the detailed information 
+ 
+ 
+Question 1b) Repeat Patients: Provide information on your patient(s)      
+condition since treatment was initiated, including a rationale for continued 
+access. Note: this section should be updated each time a renewal is requested 
+to ensure that the patient(s)’s current medical state is well described.  
+ 
+……………………………………………………………………………………………….. 
+ 
+…………………………………………………………………………………………………. 
+ 
+………………………………………………………………………………………………… 
+ 
+NB: Provide as attached the detailed information 
+ 
+ 
+Question 2) References: Provide specific data/references with respect to the 
+safety and efficacy of the product that supports the requesting physician’s 
+decision to prescribe the IMP/un-registered novel product for the specified 
+indication. This can be in the form of medical literature, clinical protocols, 
+investigator brochures, etc. Append copies of the reference(s) to the request 
+form. 
+ 
+……………………………………………………………………………………………….. 
+ 
+…………………………………………………………………………………………………. 
+ 
+ 
+SECTION E:  
+PHYSICIAN’S ATTESTATION 
+This section consists of three attestations for the requesting and /or 
+responsible physician to acknowledge and sign.  
+ 
+Physician’s Signature: Requesting/ responsible physician’s signature  
+……………………………………………………………………………………………….. 
+ 
+License number: Requesting/responsible physician’s license number (i.e. 
+license to practice medicine as issued by the KMPDC)  
+……………………………………………………………………………………………….. 
+ 
+ 
+ 
+33
+Date:  
+……………………………………………………………………………………………….. 
+ 
+SECTION F: 
+INFORMED CONSENT 
+The application should be accompanied by a consent form for each patient. 
+ 
+Processing of CUA Requests  
+The applicant/requesting physician should submit the complete application 
+form to the PPB with a brief cover letter addressed to the Board’s CEO.  
+ 
+The Board shall make every effort to process a request as rapidly as possible. 
+Group requests may require additional time. After consideration of a request, 
+approval may be granted. The Board shall send an approval letter or notice of 
+decline to the applicant /sponsor or requesting physician.  
+ 
+Due to the urgency of CUA requests, applications shall ideally, be submitted 
+to, and approval letters received from the Board electronically/through hard 
+copy. It is the responsibility of the applicant/requesting physician to contact 
+the Board in advance for related administrative information including 
+submission options, the procedure, and applicable fees. 
+ 
+ 
+ 
+ 
+ 
+ 
+34
+Annex IV. Consent form for CUA 
+PHARMACY AND POISONS 
+BOARD 
+INFORMED CONSENT FORM FOR 
+COMPASSIONATE USE AUTHORIZATION 
+FOM002/PER/MED/GUD/025 
+                               Rev. No.0 
+               
+INFORMED CONSENT FORM FOR COMPASSIONATE USE 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+Information about Compassionate Use Treatment and this Document 
+It has been determined that you have [ Condition] which is of public health 
+importance/life threatening/ severely debilitating. We believe that the [Health 
+Product and Technology] may help you. There is currently no other available 
+treatment that we believe would be as helpful for you. 
+ 
+[Health Product and Technology] is an investigational product. An 
+investigational product is one that researchers are still studying to find out 
+whether it is safe and effective. Because [Health Product and  Technology] is 
+under investigation, the Pharmacy and Poisons Board (PPB) has not yet 
+registered it for general use. 
+ 
+[Health Product and Technology are not registered by the Pharmacy and 
+Poisons Board (PPB) for your condition and therefore the use is under 
+Compassionate Use. 
+ 
+The purpose of this consent form is to give you information about [Health 
+Product and Technology] and to allow you to decide whether you want us to 
+use it to treat you. 
+ 
+Please read this information carefully. It provides you with important 
+information about the use of [Health Product and Technology]. This 
+information shall be reviewed with you and if you have any questions, you 
+can ask at any time.  
+ 
+If the patient in this compassionate use is under 18 years of age, the parental/guardian 
+consent will be required. 
+ 
+ 
+ 
+35
+To help you decide if you want to take part, you should know: 
+I. 
+Consent for use of [Health product and technology] is voluntary. 
+II. 
+You can choose to say NO. 
+III. 
+You are free to change your mind at any time even after you have 
+accepted. 
+IV. 
+Your decision won’t cause any penalties or loss of benefits to which you 
+are otherwise entitled to. 
+V. 
+Your decision won’t change the access to the medical care you get now 
+or in the future if you decide to say “NO or YES” now but change your 
+mind later. 
+If you agree to the use of [Health Product and Technology], you need to sign 
+this consent form to show that you want to take part. We shall give you a 
+signed copy of this form to keep. A copy of this form shall be put in your 
+medical records, and another copy shall be submitted to the Pharmacy and 
+Poisons Board. 
+ 
+Include the below information for cognitively impaired adults taking part in this 
+compassionate use: 
+I. 
+The person being asked to take part in this compassionate use may not 
+be able to give consent for the use.  You are therefore being asked to 
+permit this person as his/her decision maker.  
+II. 
+While you are taking [Health Product Technology], we shall tell you if 
+we learn of any new information that may cause you to change your 
+mind about allowing this compassionate use. 
+ 
+ 
+NB: Before you sign this form, be sure you understand how [Health Product 
+Technology]relates to your condition, as well as the risks and possible benefits 
+of using it. 
+ 
+2. 
+Information about the treatment 
+ 
+Dr. [Include name, address, phone] would like to treat your [condition] using 
+the [Health Product and Technology], [if the medical device, include a 
+ 
+ 
+ 
+36
+description of the device]. However, [Health Product and Technology] is not 
+registered by the PPB for use in treating [condition].   Dr. [Name] is 
+recommending the use of [Health Product and Technology] because S/he 
+believes this is the best option to treat/manage your [condition] currently. 
+ 
+What will happen to you? 
+[Add information – in lay terms – of any procedures, blood tests, etc. that the 
+patient will undergo as part of the treatment. Include an estimation of how 
+long the treatment and any related follow-up shall      last (e.g., duration of 
+participation).] 
+ 
+ 
+3. 
+Risks, Benefits, and other Alternatives 
+ 
+What are the risks of being treated with [Drug /Medical Device]? 
+[Describe reasonably foreseeable risks (including any risks to fetuses, if 
+applicable). Include a statement that some risks may be unforeseeable. 
+Include a statement about who to notify/what to do if side effects occur for 
+example reporting to the PPB Pharmacovigilance reporting details] in case of 
+ADRs. 
+ 
+What are the possible benefits of being treated with [Drug /Medical Device]? 
+[Describe 
+anticipated 
+benefits 
+(e.g., 
+cure 
+of 
+condition, 
+minimizing 
+severity/effects of a condition). Include disclosure that it is possible that the 
+patient may not benefit] 
+ 
+What are the options if one does not want to allow compassionate use with 
+(Drug/Medical Device)? 
+Inform the patient that s/he does not have to allow the compassionate use of 
+the drug/medical device and that if s/he decides not to allow the use of the 
+drug/medical device, his or her care at the hospital will not be affected. 
+ 
+What is usually done for patients who have this type of disease or condition? 
+ 
+ 
+ 
+37
+Standard treatments for [Condition] include [list and describe standard 
+treatments, if any]. We shall be glad to talk to you about your other treatment 
+options. 
+ 
+You are free to stop using this [Health Product and Technology] at any time, 
+and your treatment with it is voluntary. Before stopping, you should discuss 
+your choice with your doctor, as stopping its use may pose additional risks to 
+you that your doctor may need to manage. If you stop treatment before it is 
+finished, there shall be no penalty or loss of benefits to which you may 
+otherwise be entitled. If you decide to stop treatment before it is 
+finished, please tell one of the persons listed in Section 6 “Contact 
+Information” (below). 
+ 
+ 
+4. 
+Costs associated with this treatment  
+[Select one of the following then delete the other option as well as all bracketed 
+instructions:] 
+[if manufacturer is providing free Health Product and Technology:] 
+The [Health Product and Technology] shall be provided to you at no cost. You 
+or your insurance company shall      be responsible for the remaining costs 
+related to this treatment,  
+ 
+including the cost of treatment if the [Health Product and Technology] makes 
+you sick or causes you injury. You shall be responsible for any costs your 
+insurance does not cover. If you have any questions about these costs, or 
+what out-of-pocket expenses you may be responsible for, contact your 
+insurance company. 
+ 
+(if the patient will be responsible for ALL costs) 
+You or your insurance shall be responsible for the cost of all care associated 
+with the procedure[s] and the [Health Product and Technology] itself. This 
+includes the cost of treatment. If [Health Product and Technology] makes you 
+sick or causes you injury, it is possible that your insurance shall not pay for 
+the cost of the [include as applicable Health Product and Technology, the 
+procedure to implant the device] because the [Health Product and Technology] 
+ 
+ 
+ 
+38
+is considered CUA. If that occurs, you shall be responsible for all costs, and 
+these costs may be substantial. 
+ 
+By signing this form, you do not give up your right to seek compensation in 
+case of professional negligence if you are harmed in the process of this 
+treatment. 
+ 
+Shall you be paid to take part in this procedure? 
+You shall not be paid for taking part in this procedure. 
+ 
+5. 
+Sharing of your information 
+If you give us permission to use [Health Product and Technology], we shall      
+need to provide information about you, your condition, and your treatment to 
+[Sponsor/Manufacturer Name], which is the manufacturer or supplier of the 
+[[Health Product and Technology]] and to the Pharmacy and Poisons Board 
+(PPB).  
+ 
+[Sponsor/Manufacturer Name] and the PPB require this information as part 
+of the approval process for treatment use of [Health Product and Technology] 
+and to monitor safety.  
+ 
+[Hospital Name], the Pharmacy and Poisons Board (PPB), and/or other 
+ministry of health officials may also need to review your medical records to 
+make sure that the [Health Product and Technology] is used in a safe and 
+proper manner. 
+ 
+6. 
+Contact Information 
+Who can I contact about this treatment? 
+Please contact the doctor to get the information listed below: 
+i. 
+Obtain more information about the [Health Product and 
+Technology] 
+ii. 
+Ask a question about the [Health Product and Technology]. 
+iii. 
+Any adverse events that may be related to the use of the 
+drug/device. 
+ 
+ 
+ 
+39
+iv. 
+Talk about treatment-related costs to you or your health plan. 
+v. 
+Report an illness, injury, or other problem.  
+vi. 
+Stop the treatment before it is finished. 
+vii. 
+Express any concern. 
+ 
+ (you may also need to tell your other doctors)  
+ 
+Doctor Overseeing Compassionate Use: [Name]  
+Mailing Address: [Address] 
+Telephone: [Phone] 
+ 
+When you call or write about a concern, please provide as much information as 
+possible, including the name of the doctor providing treatment with the 
+[HealthProduct and Technology], the title (at the top of this form), and details 
+about the problem. This will help us look into your concern. When reporting a 
+concern, you do not have to give your name unless you want to. 
+ 
+7. 
+ Signature  
+Consent 
+I have read (or it has been read to me) and fully understood the information 
+in this consent document. I have had an opportunity to ask questions and all 
+of my questions thus far have been answered to my satisfaction. If I have 
+more questions or concerns, I may contact the person (s) listed in Section 6 
+of this consent document. I voluntarily agree to the use of [Health Product 
+and Technology] for my treatment and understand that I can change my mind 
+at any time. I do not give up any of my legal rights by signing this consent 
+document. 
+ 
+Name:  
+ 
+ 
+Signature:  
+ 
+ 
+Date(dd/mm/yy): 
+ 
+ 
+ 
+ 
+ 
+40
+ 
+If the patient is not able to consent themselves to the use of this investigational/ 
+CUA, use the following signature block to obtain permission from a legally 
+authorized representative or a parent 
+ 
+Guardian or Parent Permission 
+I have read (or it has been read to me) and fully understood the information 
+in this consent document. I have had an opportunity to ask questions and all 
+of my questions thus far have been answered to my satisfaction. If I have 
+more questions or concerns, I may contact the person (s) listed in Section 6 
+of this consent document. By signing this form, I am voluntarily providing 
+permission for the use of [Health Product and Technology] to treat [Patient 
+Name] and understand that I can change my mind at any time. I do not give 
+up any legal rights by signing this consent document. 
+ 
+Name:  
+ 
+ 
+Signature:  
+ 
+ 
+Date (mm/dd/yy): 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Relationship to patient:   ◻ Parent    ◻ Spouse   ◻ Child 
+◻ Sibling   ◻Legal Guardian ◻ Other (specify) 
+ 
+If “Other,” explain the reason the patient is unable to consent:   
+ 
+Doctor 
+I 
+have 
+provided 
+this 
+patient 
+and/or 
+his/her 
+legally 
+authorized 
+representative(s) with information about this compassionate use that I believe 
+to be accurate and complete. The patient and/or his/her legally authorized 
+representative(s) indicated that he or she understands the nature of the 
+treatment, including the risks and benefits of its use. 
+ 
+Name:  
+ 
+ 
+ 
+ 
+ 
+41
+Signature:  
+ 
+ 
+Date(dd/mm/yy):  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42
+Annex V: Approval Letter for CUA   
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+Telegrams: "MINIHEALTH", Nairobi                                          
+                                  
+PHARMACY AND POISONS BOARD HOUSE 
+Telephone: Nairobi  020 2716905/6 , 3562107                                                                
+LENANA ROAD 
+Cellphone: 0733 – 884411/0720608811                                                                           
+P.O.  BOX 27663-00506 
+Fax: 2713409                                                                                                                    
+NAIROBI 
+                                                                                                                                         
+When replying please quote 
+Ref. No.                                                                                                                             
+Date: 
+  
+Applicant/Sponsor/secretary hospital ethics committee 
+  
+Dear Sir/Madam, 
+Re:  Compassionate use Authorization of [“health product and 
+technology]” in Treatment/Diagnosis of [Disease /Condition]. 
+Reference is made to the above and your letter dated [].  
+The Board is cognizant that currently there is no registered medication or 
+vaccine for treatment or prophylaxis of [Condition].  
+ 
+ 
+ 
+43
+In view of this, the Board has considered and granted your request for 
+Compassionate Use of (Product Name & strength) in [condition] cases in 
+Kenya. The product details are hereby listed as follows:  
+Name of the product (brand Name): 
+INN name: 
+Name of the FPP manufacturer: 
+FPP site/s: 
+API site/s: 
+ 
+  
+Yours Sincerely, 
+  
+The office bearer & Signature 
+  
+ 
+Title 
+Conditions of authorization [page 2]: 
+The Local Technical Representative (LTR): 
+1. 
+The LTR shall ensure that all Adverse Events relating to the product, 
+both at the authorized hospitals and out of the country are reported to 
+the PPB promptly. Any such reports shall include any clinical data, 
+including clinical trial data obtained in and out of the country. 
+2. 
+The LTR shall maintain all such information and records in compliance 
+with good records and documentation practice in case of any regulatory 
+and other GXP inspections. 
+ 
+Authorized Hospitals: 
+1. 
+The hospital shall ensure that all the patients or legal guardians sign 
+the PPB-prescribed informed consent forms and as approved by the 
+ethics committee in your institution, before administration of the 
+product (Refer to Annexure V). 
+2. 
+All adverse events shall be documented and reported every week, taking 
+note of the requirement to report all fatal cases within 48 hours. Any 
+such reports shall include concomitant medication(s) used. These 
+reports shall be submitted through the Pharmacy and Poisons Board 
+ 
+ 
+ 
+44
+Pharmacovigilance 
+electronic 
+reporting 
+system 
+at 
+https://pv.pharmacyboardkenya.org. In addition to the individual case 
+safety reports (ISCRs) submitted, a summary line list shall be submitted 
+to the PV department (Refer to Annexure VI); 
+ 
+3. 
+A cumulative summary of the number of patients given the product, 
+patient outcomes, including negative conversion rate, time to body 
+temperature normalization, death, need for ventilation and radiological 
+progression where monitored, shall be submitted on a fortnight basis. 
+4. 
+The hospital shall maintain and report information on product 
+accountability. 
+5. 
+Compassionate use of this medicine shall be well documented in the 
+routine patient registry. 
+6. 
+The quantities imported shall be aligned to the number of prescriptions 
+or LPO submitted.  
+7. 
+If a different therapy is registered (i.e., a marketing authorization has 
+been issued) by the Board or there is compelling evidence against the 
+use [health product and technologies] in treatment of [condition] the 
+Board reserves the right to terminate this authorization. 
+8. 
+Kindly note that this does NOT constitute a marketing authorization for 
+the use of ((Product Name & strength). 
+ 
+ 
+ 
+ 
+ 
+45
+Annex VI:  Safety Monitoring guidance. 
+PHARMACY AND 
+POISONS BOARD 
+ 
+REQUIREMENTS FOR SAFETY MONITORING 
+          FOM 002/PER/MED/GUD/025 
+                                           Rev. No.0 
+ 
+Objective 
+The objective of the safety monitoring plan is to outline procedures for active 
+pharmacovigilance during treatment of [condition] to ensure that healthcare 
+professionals report all suspected adverse events (AEs) associated with 
+medicines issued with Compassionate Use Authorization to facilitate early 
+detection of safety signals to promote patient safety. 
+ 
+Monitoring Aspects  
+1. 
+All adverse events shall be documented and reported as detailed in the 
+National 
+Pharmacovigilance 
+guideline: 
+(https://pharmacyboardkenya.org/pharmacovigilance) 
+a. 
+Suspected unexpected Serious Adverse Reactions (SUSARS) 
+including Adverse events following Immunization (AEFIs) should 
+be reported within 24 hours 
+b. 
+Serious Adverse Events (SAEs) should be reported within seven 
+(7) days. 
+2. 
+Any such reports should include concomitant medication(s) used. 
+These reports shall be submitted through the Pharmacy and Poisons 
+Board 
+Pharmacovigilance 
+electronic 
+reporting 
+system 
+at  
+https://pv.pharmacyboardkenya.org/. In addition, information on 
+patients treated with any of the medicines during pregnancy shall also 
+be reported with follow-up on the outcome of the pregnancy. To assist 
+the PPB in the assessment of suspected adverse events reports, as 
+much information as possible should be provided in the initial report, 
+particularly under listed information (use the Adverse events reporting 
+tools in the Pharmacovigilance Electronic Reporting System) 
+Suspected drug 
+I. 
+The age and gender of the patient  
+II. 
+Description of the adverse reaction (including an indication of 
+seriousness)  
+ 
+ 
+ 
+46
+III. 
+Patient’s 
+medical 
+history 
+(including 
+any 
+previously 
+diagnosed/recently diagnosed conditions) e.g. diabetes, heart 
+disease, chronic liver disease, asthma, HIV, active tuberculosis.  
+IV. 
+Any concomitant medications, whether supportive or already 
+prescribed  
+V. 
+The outcome of the reaction (resolved, revolving, death)  
+VI. 
+State whether the medicine was discontinued as a result of the 
+adverse reaction 
+ 
+3. 
+A line list of all the reported AEs should be prepared on an excel sheet 
+using the format on the table below and submitted monthly. 
+4. 
+All necessary laboratory parameters monitored must be documented 
+and a list of out-of-range parameters reported before and after 
+commencement of the use of [Medical Product and Health Technology]. 
+5. 
+Cumulative summary of the total number of patients (Including full 
+demographic data) put on the Medical Product and Health Technology 
+and the outcomes, e.g., negative conversion rate, time to body 
+temperature normalization, death, need for ventilation, and radiological 
+progression where monitored shall be submitted on a fortnight basis to 
+Pharmacovigilance Division. 
+6. 
+Information on product accountability shall be maintained and 
+reported. 
+7. 
+Your [Compassionate use] of this medicine should be well documented 
+in the routine patient registry. 
+8. 
+Adherence by the hospital to Good Records and Documentation 
+practices to facilitate the reconstruction of the history of any related 
+data in case of any regulatory decision and other GxP inspections. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+47
+LINE LIST FOR ADEs REPORTED WITH USE OF PRODUCT  
+No 
+Case 
+Numb
+er 
+Case 
+Repor
+t 
+Type  
+Facili
+ty of 
+Occu
+rrenc
+e 
+Repo
+rter 
+Type  
+A
+g
+e 
+G
+e
+n
+de
+r 
+List 
+of 
+Sus
+pec
+t 
+Pro
+duc
+t 
+Na
+me
+s 
+List of 
+Concom
+itant 
+Product 
+Names 
+List 
+of 
+eve
+nts  
+Case 
+Leve
+l 
+Seri
+ous 
+Case 
+Related
+ness 
+Case 
+Narrati
+ve/ 
+Descri
+ption 
+of the 
+reactio
+n 
+Case 
+Outcome 
+Treatment 
+Outcome 
+1 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+3 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+4 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+5 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+6 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+7 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+8 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+9 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+10 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 - 00506 Lenana Road Opposite Russian Embassy Nairobi, 
+Tel: +254-02-12345/6789, Fax: +254-02-12345, 
+Website: www.Pharmacyboardkenya.org.ke, 
+Email: info@pharmacyboardkenya.org.ke 
+ 
+ 

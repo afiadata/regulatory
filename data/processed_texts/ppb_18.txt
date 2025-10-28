@@ -1,0 +1,4305 @@
+HPT/PER/GUD/012                   
+           Rev. No. 002 
+ 
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+ 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+ 
+GUIDELINE ON SUBMISSION OF DOCUMENTATION FOR 
+REGISTRATION OF HUMAN VACCINES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEBRUARY, 2025 
+ 
+ 
+Citation 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on the condition that the recommended citation below 
+is made.  
+ 
+Recommended citation: Republic of Kenya, Ministry of Health, Pharmacy 
+and Poisons Board, Guideline on Submission of Documentation for Registration 
+of Human Vaccines 2, 2025  
+ 
+All rights reserved:  
+ 
+©Pharmacy and Poisons Board, 2025  
+For clarifications, comments, or suggestions, please contact:  
+The Chief Executive Officer  
+Pharmacy and Poisons Board  
+P.O. Box 27663 – 00506, Nairobi  
+Telephone: 0709770100  
+Email: info@pharmacyboardkenya.org  
+Website: www.pharmacyboardkenya.org  
+ 
+ 
+ 
+ii
+Table of Contents 
+ABBREVIATIONS AND ACRONYMS ............................................................ vii 
+GLOSSARY..................................................................................................viii 
+ACKNOWLEDGEMENTS ............................................................................. xii 
+List of Contributors .................................................................................. xii 
+Reviewers ................................................................................................. xii 
+1.0 
+INTRODUCTION ................................................................................... 1 
+1.2 
+Scope ................................................................................................ 2 
+1.3 
+Legal Framework ............................................................................... 2 
+2.0 
+EVALUATION PATHWAYS .................................................................... 3 
+3.0 
+FEES .................................................................................................... 4 
+MODULE 1: ADMINISTRATIVE AND PRODUCT INFORMATION ................... 5 
+Cover letter ................................................................................................ 5 
+Comprehensive table of contents for all modules ....................................... 5 
+Application form ........................................................................................ 5 
+Product information ................................................................................... 6 
+Summary of product characteristics (SmPC) .............................................. 6 
+Primary package label ................................................................................ 6 
+Secondary Package Label ........................................................................... 7 
+Package Insert ........................................................................................... 7 
+Mock-up and specimens ............................................................................ 8 
+Information about the experts.................................................................... 8 
+Certificate of Good Manufacturing Practices (GMP) .................................... 9 
+Good Clinical Practice (GCP) and/or Good Laboratory Practice (GLP) ........ 9 
+Regulatory Status ...................................................................................... 9 
+Registration status from countries with RRA .......................................... 9 
+ 
+ iii
+Registration status in EAC/IGAD Partner States .................................... 9 
+List of countries in which a similar application has been submitted ....... 9 
+Statement on whether an application for the product has been previously 
+rejected, withdrawn or repeatedly suspended ....................................... 10 
+Manufacturing and Marketing authorization ........................................... 10 
+Product samples ...................................................................................... 10 
+Authorization of the local technical representative ................................... 10 
+Lot release certificate ............................................................................... 10 
+Summary protocol of batch production and control ................................. 10 
+Environmental risk assessment ............................................................... 11 
+MODULE 2: OVERVIEWS AND SUMMARIES .............................................. 12 
+Table of contents ...................................................................................... 12 
+Introduction ............................................................................................. 12 
+Overall quality summary (QOS)................................................................ 12 
+Overview and summary of the nonclinical studies ................................... 12 
+Overview and summary of the clinical studies ......................................... 13 
+MODULE 3:  QUALITY (CHEMISTRY, MANUFACTURING AND CONTROLS)
+ ................................................................................................................... 15 
+Table of contents of module 3 .................................................................. 15 
+3.2.S. Immunogenic substances ........................................................... 15 
+3.2.S.1 General information, starting materials and raw materials ....... 15 
+3.2.S.1.1    Nomenclature of immunogenic substance .......................... 15 
+3.2.S.1.3.1 Physicochemical Characterization: ..................................... 16 
+3.2.S.1.4    General description of the starting materials of biological origin 
+used to obtain or extract the immunogenic substance .......................... 17 
+3.2.S.1.5 General description of the raw materials ............................... 19 
+3.2.S.4 Quality control of the immunogenic substance ......................... 26 
+3.2.S.4.1 Specification of the immunogenic substance ......................... 26 
+3.2.S.4.2 Description of the analytical procedures ................................ 26 
+3.2.S.4.4 Batch analysis and Production consistency ........................... 27 
+ 
+ iv
+3.2.S.4.5 Justification of the quality specifications ............................... 28 
+3.2.S.5 Reference standards or materials.............................................. 28 
+3.2. S.6 Packaging and container closure system ................................. 28 
+3.2.P FINISHED IMMUNOGENIC PRODUCT ............................................ 29 
+3.2.P.1       Description and Composition .............................................. 29 
+3.2.P.2       Formulation development ................................................... 30 
+3.2.P.2.1    Immunogenic Substance ..................................................... 30 
+3.2.P.2.2    Adjuvant, preservative, stabilizers, and excipients .............. 31 
+3.2.P.2.2.2: Overages (name, dosage form) ............................................ 32 
+3.2.P.2.2.3: Physicochemical and Biological Properties (name, dosage 
+form) ..................................................................................................... 32 
+3.2.P.2.3    Development of the manufacturing process ........................ 32 
+3.2.P.2.4    Container closure system.................................................... 32 
+3.2.P.2.5 Microbiological Attributes (name, dosage form) ...................... 33 
+3.2.P.2.6 Compatibility (name, dosage form) ......................................... 33 
+3.2.P.3 Manufacture of finished immunogenic product......................... 33 
+3.2.P.3.1 Manufacturer ......................................................................... 33 
+3.2.P.3.2    Batch formula ..................................................................... 33 
+3.2.P.3.3    Description of the manufacturing process .......................... 34 
+3.2.P.3.4    Control of critical and intermediate steps ........................... 34 
+3.2.P.3.5    Validation and/or evaluation of the processes .................... 34 
+3.2.P.3.6    Description of the batch identification system .................... 35 
+3.2.P.4  Control of the adjuvant, preservative, stabilizers, and excipients
+ ............................................................................................................. 35 
+3.2.P.4.1    Specifications ...................................................................... 35 
+3.2.P.4.2    Analytical procedures ......................................................... 35 
+3.2.P.4.3    Validation of the analytical procedures ............................... 35 
+3.2.P.4.4    Justification of specifications .............................................. 36 
+3.2.P.4.5    Substances of Human or Animal Origin .............................. 36 
+3.2.P.4.6    Novel adjuvant, preservative, stabilizer, and excipients ...... 36 
+3.2.P.5 Control of the finished immunogenic product ........................... 36 
+3.2.P.5.1 Specifications ......................................................................... 36 
+3.2.P.5.2    Analytical procedures ......................................................... 37 
+3.2.P.5.3    Validation of the analytical procedures ............................... 37 
+ 
+ v
+3.2.P.5.4    Lot consistency and analysis .............................................. 37 
+3.2.P.5.5    Characterization and/or determination of impurities ......... 37 
+3.2.P.5.6    Justification of specifications .............................................. 38 
+3.2.P.5.7    Analytical certificates .......................................................... 38 
+3.2.P.6       Reference standards and materials ..................................... 38 
+3.2.P.7 Container Closure System of the Finished Immunogenic Product
+ ............................................................................................................. 38 
+3.2.P.8 Stability of the Finished Immunogenic Product ........................... 39 
+3.2.P.8.1 Protocols and results of the stability study that justify the 
+proposed validity period ........................................................................ 39 
+3.2.P.8.2    Post- approval stability program ......................................... 39 
+3.2.P.8.3    Stability data ...................................................................... 39 
+3.2.P.8.4 Description of the procedures used to guarantee the cold chain 
+as per WHO guidelines on the international packaging and shipping of 
+vaccines ................................................................................................ 41 
+3.2.A. APPENDICES ................................................................................. 41 
+3.2.A.1 Facilities and Equipment (name, manufacturer) ....................... 41 
+3.2.A.2: Adventitious Agents Safety Evaluation (name, dosage form, .... 42 
+manufacturer) ....................................................................................... 42 
+3.2.A.3 Excipients ................................................................................. 43 
+3.2.R: SUMMARY LOT PROTOCOLS ........................................................ 43 
+3.3 LITERATURE REFERENCES ................................................................. 43 
+MODULE 4: NON-CLINICAL INFORMATION ............................................... 44 
+4.1 Table of contents of module 4 ............................................................ 44 
+4.2 Reports on studies ............................................................................. 44 
+4.2.1 Pharmacology............................................................................... 44 
+4.2.1.1 Pharmacodynamic studies (immunogenicity of the vaccine), ..... 44 
+4.2.1.2 Pharmacodynamic studies of adjuvants (if applicable) .............. 45 
+4.2.3 Toxicology .................................................................................... 45 
+4.2.3.1 General toxicology ..................................................................... 45 
+4.2.4 Special considerations ................................................................. 45 
+4.2.4.1 Live attenuated vaccines ........................................................... 45 
+ 
+ vi
+4.3. Literature references ......................................................................... 46 
+MODULE 5: CLINICAL STUDIES................................................................. 46 
+5.1 Table of contents of Module V ............................................................ 47 
+5.2 Reports of Clinical studies ................................................................. 47 
+5.2.1 Phase I studies ............................................................................. 47 
+5.2.2 Phase II studies ............................................................................ 47 
+5.2.3 Phase III studies........................................................................... 47 
+5.2.4 Special considerations ................................................................. 48 
+5.2.5 Adjuvants ..................................................................................... 48 
+5.2.6 Phase IV studies .......................................................................... 49 
+5.3   POST MARKET SURVEILLANCE FOR VACCINE ................................. 49 
+REVISION HISTORY .................................................................................... 51 
+ANNEX I: RECOMMENDED FORMAT OF THE COVER LETTER ................. 52 
+Annex II:APPLICATION FORM ..................................................................... 54 
+Annex III: EXPERT DECLARATION FORM .................................................. 63 
+ANNEX IV: QUALITY OVERALL SUMMARY ................................................. 64 
+ANNEX VI: VACCINE SPECIFIC REQUIREMENTS ...................................... 86 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vii
+ABBREVIATIONS AND ACRONYMS 
+CTD -           Common Technical Dossier (CTD) 
+EAC -          East Africa Community 
+EMA -         European Medicines Agency  
+EWG -         Experts Working Group 
+ICH   -        International Council on Harmonization of Technical  
+Requirements for Registration of Human Medicinal Products  
+GMP -         Good Manufacturing Practices 
+HIV -          Human Immunodeficiency Virus  
+MCB -         Master Cell Bank 
+MMR -        Measles-Mumps-Rubella 
+MRH -         Medicines Regulation Harmonization 
+NMRA-        National Medicines Regulatory Authority 
+NOAD -       New Onset Autoimmune Disease 
+NOCD -       New Onset Chronic Disease 
+PIC/S -        Pharmaceutical Inspection Cooperation Scheme 
+RRA-          Reliable Regulatory Authority 
+SDRAs        Stringent Drug Regulatory Authorities 
+SOP -          Standard Operating Procedure 
+TSE -          Transmissible spongiform encephalopathies 
+VVM           Vaccine Vial Monitor  
+WHO -        World Health Organization 
+ 
+ 
+ 
+ 
+viii 
+GLOSSARY  
+For the purposes of these guidelines, the following definitions shall apply: 
+Adjuvant 
+ 
+A component that potentiates the immune responses to 
+an antigen and/or modulates it towards the desired 
+immune responses. 
+Adverse Events 
+Following 
+Immunization 
+ 
+Any untoward medical occurrence which follows 
+immunization and which does not necessarily have a 
+causal relationship with the usage of the vaccine. The 
+adverse event may be any unfavorable or unintended 
+sign, abnormal laboratory finding, symptom or disease. 
+Combination 
+Vaccine 
+ 
+a combination vaccine consists of two or more live 
+organisms; inactivated organisms or purified antigens 
+combined either by the manufacturer or mixed 
+immediately before administration. (Ref: FDA Guidance 
+for Industry for the Evaluation of Combination vaccines 
+for Preventable Diseases: Production, Testing and 
+Clinical Studies) 
+Batch (or lot) 
+ 
+A defined quantity of material produced in a process or 
+series of processes so that it is expected to be 
+homogeneous within specified limits 
+Follow-on 
+manufacturer 
+New manufacturer of vaccine that has been granted 
+market authorization by SDRA(s).  
+Immunogenic 
+Substance  
+ 
+An immunogenic substance is the unformulated active 
+substance which may be subsequently formulated with 
+excipients 
+to 
+produce 
+the 
+medicinal 
+product. 
+Immunogenic substance may be whole bacterial cells, 
+viruses, or parasites (live or killed), split bacterial cells, 
+viruses, or parasites, crude or purified antigens isolated 
+from killed or living cells; crude or purified antigens 
+secreted from living cells, recombinant or synthetic 
+carbohydrate, 
+protein 
+or 
+peptide 
+antigens, 
+polynucleotides (as in plasmid DNA vaccines) or 
+conjugates.  
+ 
+ ix
+Manufacturer 
+ 
+A manufacturer is a natural or legal person with 
+responsibility for manufacturing of a medicinal product 
+or Immunogenic substance.   
+Master 
+Cell 
+Bank (MCB) 
+ 
+An aliquot of a single pool of cells which generally has 
+been prepared from the selected cell clone under defined 
+conditions, dispensed into multiple containers and 
+stored under defined conditions. The MCB is used to 
+derive all working cell banks. The testing performed on 
+a new MCB (from a previous initial cell clone, MCB or 
+WCB) should be the same as for the MCB unless 
+justified. 
+Master 
+Virus 
+Seed (MVS) 
+ 
+A viral seed of a selected vaccine virus from which all 
+future vaccine production will be derived, either directly, 
+or via Working Virus Seeds.  
+Immunological 
+product  
+ 
+A medicinal product is the finished dosage form of the 
+immunogenic 
+substance. 
+The 
+medicinal 
+product 
+contains the immunogenic substance(s) formulated with 
+other ingredient in the finished dosage form ready for 
+marketing. Other ingredients, active or inactive, may 
+include adjuvants, preservatives, stabilizers, and/or 
+excipients.  
+Officially 
+recognized 
+pharmacopoeia 
+(or 
+compendium) 
+The official recognized pharmacopoeias in the EAC 
+Partners States are current version of the British 
+Pharmacopoeia (BP), European Pharmacopoeia (Ph. 
+Eur.), The International Pharmacopoeia (Ph. Int), 
+Japanese Pharmacopoeia (JP) and United States 
+Pharmacopeia (USP) 
+Ongoing 
+stability study 
+ 
+The study carried out by the manufacturer on 
+production batches according to a predetermined 
+schedule in order to monitor, confirm and extend the 
+projected retest period (or shelf-life) of the immunogenic 
+substance or confirm or extend the shelf-life of the 
+medicinal product. (WHO glossary of terms). 
+ 
+ x
+Pilot Plant Scale 
+ 
+The production of a recombinant protein by a procedure 
+fully representative of and simulating that to be applied 
+on a full commercial manufacturing scale. The methods 
+of cell expansion, harvest, and product purification 
+should be identical except for the scale of production. 
+Pilot-scale 
+batch 
+ 
+A batch of an immunogenic substance or medicinal 
+product 
+manufactured 
+by 
+a 
+procedure 
+fully 
+representative of and simulating that to be applied to a 
+full production-scale batch. For example, for solid oral 
+dosage forms a pilot scale is generally, at a minimum, 
+one-tenth that of a full production scale or 100 000 
+tablets or capsules, whichever is the larger; unless 
+otherwise adequately justified. (WHO glossary of terms). 
+Primary batch 
+ 
+A batch of an immunogenic substance or medicinal 
+product used in a stability study, from which stability 
+data are submitted in a registration application for the 
+purpose of establishing a retest period or shelf-life. 
+(WHO glossary of terms). 
+Production 
+batch 
+ 
+A batch of an immunogenic substance or medicinal 
+product manufactured at production scale by using 
+production equipment in a production facility as 
+specified in the application. 
+Vaccine 
+ 
+Means a heterogeneous class of medicinal products 
+containing 
+immunogenic 
+substances 
+capable 
+of 
+inducing specific, active and protective host immunity 
+against infectious disease. 
+(Ref: WHO guidelines on stability evaluation of vaccines) 
+Vaccine 
+Vial 
+Monitor (VVM)  
+ 
+The VVM is a heat-sensitive label attached to vaccine 
+vials which gradually and irreversibly changes colour, 
+from light to dark, as the vaccine is exposed to heat. It 
+warns the health worker as to when a vial of a vaccine 
+should be discarded because the vaccine is likely to have 
+been degraded by exposure to heat. 
+ 
+ xi
+Working 
+Cell 
+Bank (WCB) 
+ 
+The Working Cell Bank is prepared from aliquots of a 
+homogeneous suspension of cells obtained from 
+culturing the MCB under defined culture conditions. 
+Working 
+Virus 
+Seed (WVS) 
+ 
+A viral seed derived by propagation of virus from the 
+MVS under defined conditions and used to initiate 
+production cell cultures lot-by-lot.  
+Sample a specimen of the product in the same packaging 
+intended for commercial purposes  
+  
+ 
+ 
+ 
+ 
+xii
+ACKNOWLEDGEMENTS 
+List of Contributors 
+Dr. Jonathan Meriakol 
+Head Biologics, PER, DHPT, PPB 
+Dr. Ali Arale 
+Chief Principle Regulatory Officer, Product Evaluation 
+and Registration (DPER) Department 
+Dr.Vallarie Khamira 
+Product Evaluation and Registration Department, 
+PPB 
+ 
+Reviewers 
+Dr. Ahmed Mohamed 
+Director, 
+Health 
+Products 
+&amp; 
+Health 
+Technologies, PPB 
+Dr. Kariuki Gachoki 
+Deputy Director, Health Products &amp; Health 
+Technologies, PPB 
+Dr. Felistas Chepwogen Product 
+Evaluation 
+and 
+Registration 
+Department, PPB 
+Dr. Sarah Chesaro 
+Product 
+Evaluation 
+and 
+Registration 
+Department, PPB 
+Dr. Burugu K. Edwin 
+Product 
+Evaluation 
+and 
+Registration 
+Department, PPB 
+Dr.Kireran Gitobu 
+Product 
+Evaluation 
+and 
+Registration 
+Department, PPB 
+Dr.Purity Mutinda 
+Product 
+Evaluation 
+and 
+Registration 
+Department, PPB 
+Dr.Lucy Ochola 
+Head Department of Infectious Diseases Kenya 
+Institute  
+of Primate Research 
+Mr. Alex Mutai- 
+Product 
+Evaluation 
+and 
+Registration 
+Department, PPB 
+Mr. Anthony Kemboi 
+Quality Management Systems Department, PPB 
+ 
+ 
+ 
+\ 
+1
+1.0 
+INTRODUCTION  
+The Pharmacy and Poisons Board has a role to ensure that vaccines coming 
+onto the Kenyan market meet the quality, safety, and efficacy standards for 
+clinical use. Before a vaccine is considered for approval, sufficient scientific 
+and clinical evidence must be collected to show that it is safe, efficacious and 
+of suitable quality. This scientific evidence includes results from human 
+clinical trials and for acceptance; it should be evident that the benefits of the 
+vaccine outweigh any risks associated. 
+ 
+This Guideline provides product dossier requirements in support of market 
+authorization of human vaccines.  
+ 
+The guideline also describes the format in which dossiers should be presented 
+in support of the application. According to the CTD format, each application 
+is a collection of documents, grouped into 5 modules. Module 1 prescribes 
+Administrative Information and Prescribing Information requirements, which 
+is region specific. The Overviews and Summaries, Quality, Non-clinical, and 
+Clinical modules have been described in Modules 2 to 5, respectively.  
+ 
+These guidelines should be read in conjunction with other international 
+guidelines on quality, safety and efficacy as cited in this guideline namely the 
+World Health Organization (WHO), European Medicines Agency (EMA) and 
+International Conference of Harmonization (ICH).  
+ 
+Risk-based lot release program will be performed for every vaccine product to 
+be marketed in Kenya. This will be achieved by issuing a lot release certificate 
+following document review and Laboratory testing. 
+ 
+Post-market 
+surveillance 
+and 
+post-market 
+changes 
+for 
+compliance 
+verifications as well as investigations of potential health hazards will 
+consistently be monitored to ensure quality, safety and efficacy of the product. 
+ 
+ 2
+1.2 
+Scope 
+These guidelines are intended to provide general considerations and guidance 
+on content and format for regulatory submission of human vaccines for the 
+purpose of marketing authorization in Kenya.   
+ 
+The vaccine categories include but are not limited to: -   
+a) Microorganisms or toxins inactivated by chemical or physical means 
+that retain appropriate immunogenic properties; 
+b) Living microorganisms that have been attenuated whilst retaining 
+immunogenic properties; 
+c) Antigen extracted from microorganisms, secreted by them or produced 
+by recombinant DNA technology; or 
+ 
+d) Antigen produced by chemical synthesis in vitro including chemically 
+conjugated or modified natural antigen. 
+e) Inactivated antigen or toxins with enhanced immunogenicity by 
+addition of adjuvants. 
+ 
+The principles expressed in this document may also apply to combined 
+vaccines that are not explicitly mentioned. 
+ 
+For vaccine specific requirement please make reference to Annex VI 
+1.3 
+Legal Framework 
+The Pharmacy and Poisons Board (PPB), under Cap 244, Section 3(A), is 
+empowered to formulate guidelines for the regulation of medical products, 
+including their manufacture, import, export, distribution, sale, and use. 
+Additionally, Section 3(C) grants the Board the authority to grant or 
+withdraw marketing authorization for medical products, subject to 
+appropriate conditions, and to revise these conditions as necessary. 
+The Pharmacy and Poisons (Registration of Health Products and 
+Technologies) Rules, 2022, under Section 5(1), authorizes the Board to 
+ 
+ 3
+register a health product or technology once it is satisfied with its safety, 
+efficacy, quality, performance, and economic value. 
+In accordance with these regulations, the Pharmacy and Poisons Board will 
+ensure that vaccine dossiers submitted for market authorization meet all the 
+relevant requirements as outlined in the technical guidelines. This includes 
+adherence to the applicable policies, laws, legal frameworks, guidelines, 
+manuals, and procedures in force in Kenya. 
+2.0 
+EVALUATION PATHWAYS 
+Vaccine applications for new registrations and variations in Kenya will follow 
+one of four evaluation / review pathways: 
+I. 
+Full review-A comprehensive / thorough review of all aspects of the 
+dossier, based primarily on the evaluation of data (and summaries 
+thereof) submitted by the applicant. This is the default routine 
+evaluation pathway for new registrations not previously approved by 
+the Pharmacy and Poisons Board, or where reliance documentation 
+provided to PPB is deemed to be insufficient 
+ 
+II. 
+Abridged review-A streamlined review based primarily on un-redacted 
+assessment reports from Recognized Regulatory Authority (RRAs), 
+replacing the need to evaluate all of the data (and summaries thereof) 
+submitted in support of an application. 
+ 
+III. 
+Verified review-A streamlined review based primarily on verifying, 
+instead of evaluating, information submitted in the application against 
+information which has already been approved by Pharmacy and Poisons 
+Board or a Recognized Regulatory Authority. Note that un-redacted 
+reports are required for verified reviews as a fallback option for 
+evaluators. 
+IV. 
+Recognition-A streamlined registration / approval process based on 
+directly recognizing the outcome of a review from an RRA with which 
+PPB shares a recognition agreement. 
+ 
+ 
+ 4
+Review pathways (ii), (iii) and (iv) represent reliance-based evaluations. For 
+further information refer to Guidance on Reliance Mechanisms for Marketing 
+Authorization of Health Products and Technologies in Kenya. 
+3.0 
+FEES 
+The fees payable is published in the Government Gazette and are also 
+available on the Pharmacy and Poisons Board website. 
+ 
+To ensure evaluation of the relevant submission(s) a copy of proof of payment 
+both invoice and receipts must be attached with the relevant submission 
+documents. 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 5
+MODULE 1: ADMINISTRATIVE AND PRODUCT INFORMATION 
+Module 1 should contain all administrative documents (for example, 
+application forms and certifications), labelling, general correspondence and 
+annexes (environmental assessments and overseas evaluation reports), as 
+needed. 
+Documents should be organized in the order listed below. Generally, all of the 
+documents in Module 1, other than the annexes, can be provided in a single 
+volume in Searchable PDF. 
+The annexes to the module should be submitted in separate volumes. All 
+applications and supporting data submitted to the Pharmacy and Poisons 
+Board should be presented in English (UK). Original documents not in English 
+should be accompanied by an English translation.  
+Cover letter  
+Applicants should include a cover letter with all applications. A copy of the 
+letter should be placed at the beginning of Module 1. The cover letter (Annex 
+I) shall be signed by the Marketing Authorization Holder.   
+Comprehensive table of contents for all modules  
+Module 1 should include a comprehensive table of contents for the entire 
+application. The comprehensive table of contents should include a complete 
+list of all documents provided in the application by module. In the table of 
+contents, the location of each document should be identified by referring to 
+the volume numbers that contain the relevant documents.  
+Application form  
+An application to register a medicinal product for human use must be 
+accompanied by a completed application form (Annex II). The application form 
+should be duly filled   in MS word with the relevant information and 
+attachments, dated, signed and stamped appropriately.  The dated, signed 
+and stamped page can be scanned and attached to the respective section. 
+ 
+ 6
+Product information  
+Provide copies of Summary of product characteristics, labels, package inserts 
+and any information intended for distribution of the product to the patient. 
+  
+Summary of product characteristics (SmPC)  
+The SmPC is the basis of information for healthcare professionals on how to 
+use the medicinal product safely and effectively.  
+  
+For more guidance refer to the PPB guidelines for Summary of Product 
+Characteristics (SmPC), Patient Information leaflet and labelling. 
+Primary package label 
+ 
+Submit the label proposed for the finished pharmaceutical product’s primary 
+container, which should have the following information as a minimum: 
+(i) 
+Proprietary, commercial or trade name 
+(ii) 
+Non-proprietary name  
+(iii) 
+Pharmaceutical form 
+(iv) 
+Concentration 
+(v) 
+Volume/content, if applicable 
+(vi) 
+Number of doses per vial (for multi-dose presentations) 
+(vii) 
+Route of administration 
+(viii) 
+Storage conditions (for multi-dose presentations include storage 
+conditions after initial opening) 
+(ix) 
+Lot number 
+(x) 
+Manufacturing date  
+(xi) 
+Expiry date  
+(xii) 
+Name and Physical address of manufacturing site 
+(xiii) 
+Vaccine Vial Monitor (if applicable) 
+(xiv) 
+Barcode/unique identifier (If Applicable)  
+Note: The manufacturing date, physical address of the manufacturing site and 
+storage conditions may be omitted on the primary container due to lack of 
+space. The name of the manufacturer may be substituted with a trademark 
+ 
+ 7
+or other symbols. However, all these details should appear in full on the 
+secondary packaging. 
+Secondary Package Label  
+Include the text proposed for the finished pharmaceutical product’s secondary 
+packaging, which should provide the following information as a minimum: 
+a) Proprietary, commercial or trade name 
+b) Non-proprietary name and standard used  
+c) Pharmaceutical form 
+d) Concentration 
+e) Content/volume 
+f) Number of doses per vial (for multi-dose presentations) 
+g) Route of administration 
+h) Storage conditions for multi-dose presentations include storage 
+conditions after initial opening 
+i) Lot number 
+j) Manufacturing date 
+k) Expiry date 
+l) Shelf life after first opening the container/in use shelf life  
+m) Physical address of manufacturing site 
+n)  Barcode/unique identifier 
+Package Insert 
+The Package insert should conform with the content in the SmPC. The 
+package insert shall contain the following information as a minimum 
+a) Proprietary, commercial or trade name 
+b) Non-proprietary or common name 
+c) Pharmaceutical form 
+d) Concentration, potency, or viral titre 
+e) Content/Volume of the unit pack 
+f) Volume per dose 
+g) Number of doses per vial (for multi-dose presentations) 
+h) Composition 
+i) Excipients including Preservatives 
+j) Cell substrate 
+ 
+ 8
+k) Route of administration 
+l) Indications 
+m) Immunization plan 
+n) Proper use 
+o) Precautions 
+p) Warnings 
+q) Adverse Events 
+r) Contraindications 
+s) Use during pregnancy and breastfeeding 
+t) Storage of the product/storage conditions for multi-dose presentations 
+include storage conditions after initial opening 
+u) Name and address of the manufacturer of the finished product 
+v) Name and address of the company responsible for packaging. 
+w) Description of vaccine vial monitor stages (if applicable) 
+  
+For more guidance on the content and format of the package insert refer to 
+the PPB guidelines for Summary of Product Characteristics (SmPC), Patient 
+Information leaflet and labelling. 
+Mock-up and specimens  
+If the product’s applicant has a specimen or mock-up of the sample(s) 
+presentation of the medicine available at the time of initial application, it 
+should be included in Module 1.4.4. 
+The purpose of this is to provide an example of the product, including 
+accessories, if any, to verify that they correspond to what is described for the 
+characteristics of the product under evaluation. 
+Information about the experts  
+A declaration should be sent signed by each of the experts who performed the 
+product evaluation from the standpoint of quality, nonclinical studies and 
+clinical studies. Attach a summary of their academic records and employment 
+experience and state the professional relationship between the experts and 
+the applicant of market authorization. 
+  
+A sample of the declaration form is provided as Annex III. 
+ 
+ 9
+Certificate of Good Manufacturing Practices (GMP) 
+Provide certificate of GMP compliance from a competent drug authority or 
+RRA. This should include manufacturers that are involved in any stage of the 
+production 
+process, 
+for 
+example 
+manufacturer(s) 
+of 
+the 
+finished 
+immunological product, immunological substance(s), the diluents, and those 
+responsible for labelling and packaging the finished immunological product.  
+ 
+For more information on GMP requirements and application for GMP 
+inspection, refer PPB Guidelines on Good Manufacturing Practice. 
+If available at the time of submission of application, GMP certificates from 
+PPB or evidence for application for GMP inspection should be submitted in 
+Module 1.15. 
+Good Clinical Practice (GCP) and/or Good Laboratory Practice (GLP) 
+Provide evidence such as accredited certificate for GCP or GLP for the sites 
+participating in the clinical studies 
+Regulatory Status  
+Registration status from countries with RRA   
+Provide registration status of the vaccine applied for registration in the 
+countries with RRAs and attach evidence(s) for the same (for example approval 
+letters, rejection letters, withdraw letters, etc.).   
+Registration status in EAC/IGAD Partner States 
+Provide registration status of the vaccine applied for registration in the 
+EAC/IGAD region and attach evidence(s) for the same. 
+List of countries in which a similar application has been submitted 
+The applicant should provide, in Module 1.8.3 of the dossier, a list of countries 
+in which a similar application has been submitted, dates of submission (if 
+available) and the status of these applications. This should detail approvals 
+(with indications), suspensions, withdrawals and rejections with reasons in 
+each case. 
+ 
+ 
+10
+Statement on whether an application for the product has been previously 
+rejected, withdrawn or repeatedly suspended   
+Applicants must declare whether a marketing application for the vaccine has 
+been rejected prior to submission of the application. If the vaccine has been 
+rejected, repeatedly suspended, withdrawn, or cancelled then reasons must 
+be stated. 
+Manufacturing and Marketing authorization 
+Submit a Certificate of Pharmaceutical Product in format recommended by 
+the 
+World Health Organization together with a valid Manufacturing Authorization 
+for pharmaceutical production.  
+ 
+If available, evidence for prequalification of vaccine by WHO should be 
+submitted.  
+Product samples  
+A minimum of three samples of each pack size applied for registration should 
+be submitted together with the application. The samples should be provided 
+in the form in which it shall appear in the Kenyan market for physical 
+evaluation. However additional samples may be requested depending on test 
+and parameters to be carried out. 
+Authorization of the local technical representative 
+Provide a letter issued by the MAH authorizing the LTR to represent it and 
+market the product in Kenya.  
+Lot release certificate  
+Provide a lot release certificate issued by the regulatory authority of the 
+country of origin of the product or the regional regulatory authority 
+responsible for its release. The certificate should correspond to those samples 
+submitted with the application for licensing, as applicable. 
+Summary protocol of batch production and control  
+This protocol should follow the format recommended by the WHO in the 
+specific requirements for the production and control of the specific product 
+ 
+ 
+11
+submitted for marketing authorization. These protocols are published in the 
+WHO’s Technical Report Series. For novel products for which there are no 
+specific WHO recommendations, submit a template of the protocol proposed 
+for its evaluation or a protocol that has been approved by the regulatory 
+authority of the country of origin. This should be presented in section 3.2 R.  
+Environmental risk assessment  
+Include an evaluation of the possible environmental risks posed by the use 
+and/or disposal of the vaccine and give proposals in that regard and the 
+indications or warnings should be included on the product label or package 
+insert. 
+ 
+ 
+ 
+ 
+12
+MODULE 2: OVERVIEWS AND SUMMARIES  
+The purpose of this module is to summarize the quality (chemical, 
+pharmaceutical, and biological); nonclinical and clinical information 
+presented in modules 3, 4, and 5 in the market authorization application. The 
+experts who draft these summaries should take an objective approach to the 
+decisive points related to the quality of the product, clinical and nonclinical 
+studies performed, report all pertinent data for the evaluation, and refer to 
+the corresponding tables included in modules 3, 4, and 5. The information in 
+module II should be presented in the following order: 
+Table of contents 
+An index should be included of the scientific information contained in 
+modules 2. 
+Introduction 
+A summary of the type of vaccine, composition, immunological mechanism, 
+and proposed indications for the vaccine should be provided. 
+This information must be submitted in both electronic MS Word and PDF 
+formats 
+Overall quality summary (QOS)  
+A general summary of the quality of the product should be presented, related 
+to the chemical, pharmaceutical, and biological aspects. This summary 
+should refer exclusively to the information, data, and justifications included 
+in module 3 or in other modules of the product dossier.  
+This information should follow the format as specified in the Quality Overall 
+Summary template (Annex IV). 
+Overview and summary of the nonclinical studies  
+A comprehensive and critical assessment of the results of the evaluation of 
+the in vivo and in vitro testing should be presented and the safety 
+characteristics of the vaccine for use in humans should be defined. An 
+overview 
+and 
+summary 
+of 
+the 
+results 
+of 
+the 
+pharmacological, 
+pharmacokinetic, and toxicological tests in vivo and/or in vitro studies should 
+ 
+ 
+13
+be presented. The data should be presented as a written and tabulated 
+summary, in the following order: 
+ 
+i) Introduction 
+ii) Written pharmacological summary 
+iii) Tabulated pharmacological summary 
+iv) Written pharmacokinetic summary (when appropriate) 
+v) Tabulated pharmacokinetic summary (when appropriate) 
+vi) Written toxicological summary 
+vii) Tabulated toxicological summary 
+ 
+Overview and summary of the clinical studies  
+This section should include a critical analysis of the clinical results included 
+in the clinical summary and in module V. The information provided should 
+include a summary of the clinical development of the product, the design of 
+the pivotal studies, and the decisions related to the clinical studies and their 
+performance. It should also include an overview of the clinical conclusions 
+and an evaluation of the risks/benefits in relation to the results of the clinical 
+studies and justification of the proposed dosages.  
+All the data related to efficacy/effectiveness and safety assessed through the 
+development of the product should be summarized in this section as well as 
+any study limitations. Summaries should include all the clinical studies 
+performed and synopsis of each study. 
+The data should be presented in a written and tabulated summary in the 
+following order: 
+a) Introduction 
+b) Detailed discussion of the development of the product 
+c) Overview of immunogenicity 
+d) Overview of the efficacy 
+e) Overview of the safety 
+f) Conclusions and risk/benefit analysis 
+g) Bibliography
+ 
+\ 
+14
+In addition to the above stated, the applicant should submit a dully filled 
+Quality Information Summary (QIS) – WHO adopted format (Annex V) 
+ 
+ 
+ 
+ 
+15
+MODULE 3:  QUALITY (CHEMISTRY, MANUFACTURING AND CONTROLS)   
+Table of contents of module 3 
+3.2.S. Immunogenic substances 
+The information requested under this section should be provided individually 
+for each immunogenic substance in the vaccine. 
+Production of immunogenic substances, whether by fermentation, cultivation, 
+isolation, or synthesis, usually starts with biological raw materials. 
+Subsequent steps of the procedure involve preparation, characterization and 
+purification of intermediates eventually resulting in the immunogenic 
+substance.  
+  
+The quality and purity of the immunogenic substance cannot be assured 
+solely by downstream testing, but depends on proper control of the 
+manufacturing processes. Proper control and attainment of minimal levels of 
+impurities depend on: 
+i. 
+Appropriate quality and purity of the starting materials, including the 
+seed lot system, cell banks and reagents; 
+ii. 
+Establishment and use of in-process controls for intermediates; 
+iii. 
+Consistent adherence to validated process procedures; and 
+iv. 
+Adequacy of the final (release) control testing of the immunogenic 
+substance 
+3.2.S.1 General information, starting materials and raw materials 
+This section should contain information on the source materials: source 
+materials include any component/ unformulated immunogenic substance 
+used in the manufacture of the immunogenic product (e.g. microorganisms, 
+cells/ cell substrate, immunogen) their specifications and the tests used to 
+demonstrate compliance with the Specifications. The following information 
+should be provided:  
+3.2.S.1.1    Nomenclature of immunogenic substance 
+The following information should be provided: 
+ 
+ 
+16
+a) Name of the immunogenic substance based on the WHO or 
+Pharmacopoeia requirements, as appropriate: 
+b) The biological name (including strain and/or clone designation) or 
+chemical name, including any approved name: 
+c) For combination vaccines, each immunogenic substance, which will be 
+pooled, combined with other antigens and formulated:  
+d) Any chemical modification or conjugation of the immunogenic 
+substance   
+e) List of any inactive substances, which may be present in the 
+immunogenic substance including impurities and residual proteins. 
+3.2.S.1.2    Structure  
+Provide the structural and molecular formula and relative molecular mass, 
+when 
+applicable, 
+for 
+example 
+in 
+synthetic 
+vaccines 
+containing 
+polysaccharides or proteins. In this case, include the schematic amino acid 
+sequence, indicating the glycosylation sites or other modifications and relative 
+molecular mass. 
+3.2.S.1.3    Physicochemical Characterization and Biological Activity 
+3.2.S.1.3.1 Physicochemical Characterization: 
+Provide the description and characterization of the immunogenic substance, 
+including physicochemical properties. The information provided should 
+include the degree of derivatization or conjugation, the amount of unmodified 
+substance removal of free materials (e.g., toxins, linkers, etc.), and the 
+stability of the modified substance. 
+Additional physicochemical characterization may be required for modified 
+immunogenic substances such as conjugates, multiple antigen peptides 
+(MAP), impurities, residual proteins and residual rDNA or those undergoing 
+further chemical or enzymatic modifications. 
+ 
+ 
+ 
+ 
+17
+3.2.S.1.3.2 Biological Activity 
+A description and results of all relevant in vivo and in vitro biological testing 
+(bioassays) performed on the manufacturer’s reference standard lot or other 
+relevant lots to demonstrate the potency and activity (ies) of the immunogenic 
+should be provided. 
+This section should include a complete description of the protocol used for 
+each bioassay, the control standards used, the validation of the inherent 
+variability of the test, and the established acceptance limits for each assay. 
+The characteristics of specific antibodies used in the immunochemical or 
+serological assays should also be included. 
+Further information can be obtained from ICHQ6B. 
+3.2.S.1.4    General description of the starting materials of biological 
+origin used to obtain or extract the immunogenic substance 
+For each biological starting material, a summary of safety of the material with 
+respect to contamination by other microorganism should be provided: 
+a) Strain(s) Information should be provided on the origin, number of 
+passes, identification, analysis certificates, processes of attenuation, 
+development or construction and genetic stability, depending on type of 
+vaccine strains. 
+b) Master/working 
+seed 
+bank 
+systems 
+- 
+origin, 
+identification, 
+characterization, 
+preparation 
+method, 
+analysis 
+certificates, 
+determination of foreign agents, stability, controls, and frequency of the 
+tests, definition of the number of passes. In the case of cell banks, 
+information should be provided to demonstrate that the characteristics 
+of the cells remain unaltered in the passes used in production and 
+successively. The cell bank system generally consists of two tiers: a 
+Master Cell Bank (MCB), and a Working Cell Bank (WCB) generated 
+from the MCB for vaccine manufacturing. In some instances, another 
+tier of ‘Primary Cell Bank’ may be established which allows the 
+manufacturers to perform extensive testing on a pool of cryopreserved 
+primary cells prior to their usage in vaccine production. 
+ 
+ 
+18
+i) Master Cell Bank (MCB): The cells comprising the MCB should be 
+identified and a complete history and characterization of the MCB 
+should be provided. For recombinant products, the cell substrate used 
+to establish the MCB is the transfected cell containing the desired 
+genetic construct, which has been cloned from a single cell progenitor. 
+For non-recombinant products, the cell substrate is the cell from the 
+parental cell line chosen for preparation of the MCB without further 
+modification. For a diploid cell line the population doubling level chosen 
+for the MCB should be given. 
+ii) Working Cell Bank (WCB): This section should contain a description 
+of the procedures used to derive a WCB from the MCB. The description 
+should include the identification system used for the WCB as well as 
+the procedures for storage and cataloguing of the WCB. The assays used 
+for qualification and characterization of each new WCB should be 
+included with the results of those assays for the WCB currently in use. 
+If applicable, a description of animal passage of the WCB performed to 
+assure the presence of virulence factors, which are protective antigens, 
+should be supplied. This section should also contain a description of 
+the methods and procedures used to assure culture purity and identity. 
+iii) End of Production Cells (EPC): For rDNA derived immunogenic 
+substances, a detailed description of the characterization of the EPC 
+that demonstrates that the biological production system is consistent 
+during growth should be provided. The results of the analysis of the 
+EPC for phenotypic or genotypic markers to confirm identity and purity 
+should be included. This section should also contain the results of 
+testing supporting the freedom of the EPC from contamination by 
+adventitious agents. The results of restriction enzyme analysis of the 
+gene constructs in the EPC should be submitted. For recombinant DNA 
+(rDNA) derived products and rDNA modified cell substrates, detailed 
+information shall be provided regarding the host cell and the source 
+and function of the component parts of the recombinant gene construct.  
+iv) Use of fertilized eggs. Information on their origin, identification, 
+quality certificates should be provided.  
+ 
+ 
+19
+Further information can be obtained in ICHQ5A, ICHQ5B, ICH Q5C and 
+ICHQ5D 
+3.2.S.1.5 General description of the raw materials 
+These are raw materials used in the preparation process from which the 
+immunogenic substance is not directly derived, such as culture media, bovine 
+fetal serum, etc. Applicant should submit information on manufacturer(s) 
+(name and address), quality certificates and any controls performed. In the 
+case of raw materials of animal origin, describe the origin and criteria for 
+selection, shipping, and conservation, and submit a certificate on reduction 
+of the risk of transmission of agents related to animal spongiform 
+encephalopathy and the risk of porcine circoviruses.  
+A list of all materials (culture media, buffers, resins for peptide synthesis, 
+chemicals, columns, etc.) used in the manufacture of the immunogenic 
+substance, and their tests and specifications, or reference to official 
+compendia, should be provided. 
+  
+For purchased materials, representative certificates of analysis from the 
+supplier(s) and/or manufacturer’s acceptance criteria should be provided.  
+3.2.S.2 Manufacture of the Immunogenic Substance 
+3.2.S.2.1 Manufacturer(s) 
+Provide the name(s), physical address (es) of the manufacturing site, unit(s) 
+and/or block(s) involved in all stages of manufacturing processes. Provide a 
+valid manufacturing license and/or certificates of GMP compliance of the sites 
+and other pertinent organizational information for each manufacturer 
+responsible for any portion of the manufacture or testing operations for the 
+immunogenic substance. This may include independent contractors or other 
+company subsidiaries serving as contractors, or other locations/sites owned 
+and operated by the applicant. Also, in this section there should include a 
+discussion of the operations performed by each party and the responsibilities 
+delegated to each party by the applicant. 
+Manufacture of Other substances: Provide a comprehensive list of all 
+additional products that are manufactured or manipulated in the same areas 
+ 
+ 
+20
+used to produce the immunogenic substance that is the subject of this 
+application should be provided.  
+3.2.S.2.2 Description of manufacturing process and process control of 
+immunogenic substance 
+Provide detailed description of the manufacturing processes and controls to 
+demonstrate proper quality control and prevention of possible contamination 
+with adventitious agents. The inclusion of a list of all relevant SOPs is 
+required; however, actual copies of the SOPs are not required, as these will be 
+verified on site during GMP inspection. 
+Submit a description of the manufacturing process that includes all the 
+stages. A typical production process for a vaccine starts with a vial(s) from the 
+respective seed and / or cell bank, including cell cultures, harvest(s), 
+purification, modification reactions (when applicable), filling, storage, and 
+transfer conditions. Where applicable, include the number of passages. 
+The description should be accompanied with a flow chart of the production 
+process, showing all the manufacturing steps, including intermediate 
+processes.  
+Description of multiple immunogenic substances 
+For multiple immunogenic substances prepared from a single strain, a 
+common flow chart is acceptable, through the propagation and harvest cycle, 
+with indications of where the processing diverges. This flow chart should show 
+the steps in production, equipment and materials used, room or area where 
+the operation is performed (may reference diagrams in other sections of the 
+application), and a complete list of the in-process controls and tests performed 
+including specifications and acceptance criteria on the product at each step.  
+In-process holding steps should be included, with time and temperature limits 
+indicated. For chemical synthesis, a flow chart should include all the steps in 
+a general synthesis cycle with other specific steps, such as fragment 
+condensation or peptide cleavage, indicated.  
+Description of Recombinant DNA 
+ 
+ 
+21
+For recombinant DNA (rDNA) derived products and rDNA-modified cell 
+substrates, detailed information should be provided regarding the host cells, 
+and the source and function of the component parts of the recombinant gene 
+construct. 
+Description of synthetic immunogenic substance 
+For synthetic immunogenic substance such as linear or complex synthetic 
+peptides, or modified synthetic or semi-synthetic immunogens like 
+lipopeptides, peptide to carrier protein or polysaccharide to carrier protein 
+conjugates, the detail of the peptide synthesis including purification 
+procedures should be provided. 
+Provide a description of the lot identification system. Identification of the lot 
+in each stage of the process, including when mixtures are made. Also submit 
+information on the manufacturing scale and lot size. 
+Provide a description and validation of the inactivation or detoxification 
+process. The methods and agents used, parameters controlled, and 
+production stage in which it is performed should be described where 
+applicable. For toxoid/inactivated vaccine, the detoxification/inactivation 
+procedures should be described in detail for the immunogenic substances: 
+a) The method(s) and agent(s) used for detoxification/inactivation; 
+b) The stage in production where detoxification/inactivation is performed; and 
+c) The parameters that are monitored. 
+d) Verification of the adequacy of the method for detoxification/inactivation 
+should be provided. 
+Description of the purification process: 
+Method used reagents, and materials used, operating parameters controlled, 
+and specifications. The conditions for the use and re-use of membranes and 
+chromatography columns and the respective validation studies should be 
+described. 
+Description of the conjugation process: 
+ 
+ 
+22
+Indicate when applicable and/or when a modification of active ingredients is 
+done. Also, include information on the origin and quality control of the 
+starting material used to obtain the substance used as a protein carrier. 
+Stabilization of the immunogenic substance: 
+Description of the steps performed to stabilize the immunogenic substance, 
+for example, the addition of stabilizers or other procedures, when applicable. 
+Reprocessing: 
+Reprocessing: Description of the procedures established for reprocessing the 
+active ingredient or any intermediate product; criteria and justification. This 
+section should include detailed information on any reprocessing that may be 
+done on each immunogenic substance. The information provided for each 
+reprocessing procedure should include: 
+i) A description of the conditions or criteria, determined from process 
+controls or specifications, which indicate the need for re-processing; a 
+description of the reprocessing step; 
+ii) A description of any additional or modified in-process controls or 
+specifications which are included to monitor re-processing steps; 
+iii) A description of the modifications in batch numbers and documentation 
+of re-processing in the Batch Production Record (BPR); and 
+iv) The evidence derived from validation studies, which assure that product 
+identity, purity, potency, and stability is preserved for re-processed 
+batches. 
+v) Methods and agents used, parameters controlled, and production stage 
+in which it is performed. 
+ 
+Filling Procedure: 
+Filling Procedure: Provide description of the procedure for packaging the 
+active ingredient, process controls, acceptance criteria, type of container 
+ 
+ 
+23
+closure system, type of seal on the container used to store the active 
+ingredient, storage and transfer conditions, when applicable. 
+3.2.S.2.3 General description of the raw materials 
+These are raw materials used in the preparation process from which the 
+immunogenic substance is not directly derived, such as culture media, bovine 
+fetal serum, etc. Applicant should submit information on manufacturer(s) 
+(name and address), quality certificates and any controls performed. In the 
+case of raw materials of animal origin, describe the origin and criteria for 
+selection, shipping, and conservation, and submit a certificate on reduction 
+of the risk of transmission of agents related to animal spongiform 
+encephalopathy and the risk of porcine circoviruses. 
+A list of all materials (culture media, buffers, resins for peptide synthesis, 
+chemicals, columns, etc.) used in the manufacture of the immunogenic 
+substance, and their tests and specifications, or reference to official 
+compendia, should be provided. 
+ 
+For purchased materials, representative certificates of analysis from the 
+supplier(s) and/or manufacturer’s acceptance criteria should be provided. 
+3.2.S.2.4 Controls of critical steps and intermediates 
+Identification of critical steps in the process and controls performed, from the 
+original inoculation until the active substance is obtained, defining the 
+operational parameters or aspects to be controlled during the critical stages, 
+including specifications should be provided. 
+For all in-process testing indicated in the Flow Charts, a brief description of 
+the sampling procedures and the test methods used should be provided. For 
+testing performed at significant phases of production criteria for accepting or 
+rejecting an in-process batch should be specified. 
+3.2.S.2.5 Process Validation and/or evaluation  
+Provide information on validation/and or evaluation of the manufacturing 
+process of immunogenic substance. It should include reprocessing, 
+ 
+ 
+24
+sterilization, establishment of critical steps, and criteria for establishing the 
+control limits on the critical steps. A summary report, including protocols and 
+results, should be provided for the validation studies of each critical process 
+or factor that affects immunogenic substance specifications, i.e., a decision to 
+accept or reject a batch. 
+Consistency of the manufacturing process for each vaccine component shall 
+be demonstrated by manufacturing at least three, preferably consecutive 
+batches of immunogenic substances of a size corresponding to that of routine 
+production. 
+Further requirements on individual vaccines can be obtained in Guidelines 
+for validation of Production Processes for Vaccines for WHO Prequalification- 
+Compliance Expectations and WHO TRS 
+3.2.S.2.6 Manufacturing Process Development 
+a) Development program outline, scales) and tools used (design of experiment, 
+FMEA, statistical evaluations) 
+The developmental history of the manufacturing process, as described in 3.2. 
+S. 2.2 should be provided. 
+b) Process description and batch information- from development scale(s) 
+(i) 
+Outline any changes through development scale up to 
+commercial 
+(clinical 
+batches) 
+The description of changes) made to the manufacture of drug substance 
+batches used in support of the marketing application (e.g., non-clinical 
+or clinical studies) including for example, changes to the process or 
+critical equipment. The reason for the change should be explained. 
+Relevant information on drug substance batches manufactured during 
+development such as the batch number, manufacturing scale and use 
+e.g., stability, non- clinical reference material) in relation to the change 
+should also be provided. 
+(ii) Major changes need to be assessed for potential impact on product 
+quality 
+ 
+ 
+25
+The significance of change should be assessed by evaluating its potential 
+to impact the quality of the drug substance (and/or intermediate, if 
+appropriate). For manufacturing changes that are considered significant, 
+data from comparative analytical testing on relevant drug substance 
+should be provided along with a discussion of the data including a 
+justification for selection of test and assessment of results. 
+(iii) Selection of tests and results used to assess manufacturing changes 
+during development. 
+Testing used to assess the impact of manufacturing changes on the drug 
+substance(s) and the corresponding finished drug products) may also 
+include non-clinical and clinical studies in other modules of the 
+submission should be included. 
+(iv) Process Characterization shall include: 
+a. Establishment of operating parameters and in process controls for 
+commercial scale manufacture. 
+b. Elimination of operating parameters/in process controls based on 
+development work that deemed them non-critical. 
+c. Freeze/thaw development data used to set number of cycles for drug 
+substance. 
+d. Post approval - Comparability assessment of current to proposed 
+change including side-by-side batch release data, Co-mixture analysis 
+with reference standard and subset of initial characterization testing to 
+evaluation 
+primary, 
+secondary 
+and 
+tertiary 
+structure. 
+It is recommended that information on study design and product knowledge 
+should be presented in this section. (Refer to ICH Q5E and ICH Q1). 
+ 
+3.2.S.3 Characterization of the immunogenic substance 
+This section should contain a description of all analytical testing performed 
+to characterize the immunogenic substance with respect to identity, purity, 
+potency, and stability.  
+ 
+ 
+26
+Test results should include actual data such as tabular data, legible copies of 
+chromatograms or spectra, photographs of gels or immunoblots, actual 
+histograms of cytometric analysis, or other appropriate formats. Results for 
+quantitative assays should be presented as actual data, not generally as 
+"Pass" or "Fail."  
+Impurities that should be characterized and quantitated include: 
+(i) Product related impurities (variants or alterations of antigen occurring 
+during processing or storage). 
+(ii) Process related impurities: Media components; Cell substrate proteins or 
+nucleic acids; or Process reagents which have not been removed by the 
+purification process.  
+Note: For highly purified substances, purity in reference to the theoretical 
+composition should be presented.  
+Further requirements on individual vaccines can be obtained from WHO TRS 
+978, Annex 3 and ICHQ6B. 
+3.2.S.4 Quality control of the immunogenic substance 
+3.2.S.4.1 Specification of the immunogenic substance 
+This section should contain the specifications and tests for each immunogenic 
+substance.  
+ 
+The specifications should include assays for identity, purity, potency (biologic 
+effect), physicochemical measurements, which predict potency, and measures 
+of stability. 
+ 
+In some cases, test results for the stabilized intermediates of component 
+antigens should be included in the final release of the immunogenic product. 
+Further requirements on individual vaccines can be obtained in W.H.O TRS. 
+Information on test procedures and acceptance criteria can be obtained in 
+ICHQ6B. 
+3.2.S.4.2 Description of the analytical procedures 
+ 
+ 
+27
+A full description of analytical procedures used for carrying out tests provided 
+in the specification should be provided where such methods are adopted from 
+standard, a declaration should be given and any differences should be 
+described. 
+Further requirements can be obtained in ICH Q6B. 
+3.2.S.4.3 Analytical Method validation 
+All analytical methods used in carrying out assay and impurities of 
+immunogenic substances should be validated and validation reports should 
+be provided. 
+The results of studies validation the specificity, sensitivity, and variability of 
+each method used for release testing shall be provided. Where applicable this 
+shall include descriptions of reference standards and their validation. For 
+Analytical methods in compendial sources, the appropriate citations should   
+be provided.  
+Further requirements can be obtained in WHO Recommendation for the 
+preparation, characterization and establishment of international and other 
+biological reference standards, TRS 932 annex 2. 
+3.2.S.4.4 Batch analysis and Production consistency 
+Provide a summary protocol of the production and control of three consecutive 
+lots of immunogenic substances, analysis certificates in the event this 
+information is not included in the summarized protocol for the finished 
+immunogenic substances, an analysis of the results of these lots in terms of 
+production consistency.
+ 
+\ 
+28
+3.2.S.4.5 Justification of the quality specifications 
+Discussion of the impurities in the immunogenic substance should be 
+provided. The identity and quantity of impurities should be provided along 
+with the analytical data (gels, elution profiles, Western blots, etc.), which 
+support the impurities profile. 
+  
+Provide a justification for all the tests and acceptance criteria. 
+ 
+Further requirements can be obtained in ICH Q6B. 
+3.2.S.5 Reference standards or materials 
+Provide a detailed description of the reference standards or materials used 
+and their certificate of analysis. A description of the preparation, 
+characterization, and stability of primary and working reference standards 
+should be provided. A detailed description of the procedures to qualify new 
+lots of reference standards and acceptance criteria for a new reference 
+standard should be included. The rationale and use of the reference standards 
+in assuring consistency in product characteristics shall be described. 
+  
+Further requirements can be obtained in the WHO Recommendations for 
+preparation of standards TRS 932 Annex 2.  
+3.2. S.6 Packaging and container closure system 
+Provide the full description of the container closure system in which the 
+immunogenic substance will be stored until used for preparing the finished 
+immunogenic product. The information should include identification of all the 
+materials that constitute the packaging container closure system and their 
+specifications. When applicable, discuss the types of materials selected with 
+respect to protection of the active ingredient against humidity and light. 
+  
+ 
+\ 
+29
+3.2.S.7 Stability  
+Provide information on the stability of the immunogenic substance and any 
+in-process material at each holding step, as outlined in the guideline 
+references below. 
+a) Protocol for the stability study, results and conclusions should include the 
+study conditions, including all the storage conditions (temperature, 
+humidity, light) in which the vaccine is evaluated, analytical method, 
+specifications, results, and conclusions. 
+b) Stability program or stability commitment; Refers to the continuation of the 
+stability study, including the number of lots to be included in the study 
+each year and the tests to be performed. 
+c) Stability data. Should include complete data from each batch evaluated 
+during stability studies. 
+d) Storage and transportation conditions for the immunogenic substance, 
+when applicable. Describe the equipment used, areas, and buildings (if 
+pertinent) and the shipping and storage conditions. 
+  
+Further information can be obtained in WHO Guidelines on stability evaluation 
+of vaccines, 2006 and ICHQ5C. 
+3.2.P FINISHED IMMUNOGENIC PRODUCT 
+This section should contain information on the final immunogenic product 
+including all immunogenic substances, adjuvants and excipients in the final 
+immunogenic product. If any proprietary preparations or mixtures are used 
+as components, the information provided should include a complete 
+statement of composition and other information that will properly describe 
+and identify these materials.  
+Appropriate information may be cross-referenced to those under the 
+immunogenic substance section. 
+  
+For diluents and reconstitution solvents, entire section 3.2.P should be 
+included in the submission. 
+3.2.P.1       Description and Composition 
+ 
+ 
+30
+Provide a description of the finished immunogenic product, its composition, a 
+list all components in the finished immunogenic product, including 
+immunogenic substance(s), adjuvants, preservatives, stabilizers, and 
+excipients, stating the function of each of them and other ingredients, with 
+their unit doses and batch quantities specified. 
+ 
+Where applicable, the quantity may be expressed as percentage or molarity. 
+  
+For lyophilized products, also include a description of the diluent and the 
+container closure system employed for the diluent. 
+  
+Note: Tables in Quality Overall Summary should be used to summarize unit 
+composition of the immunogenic product 
+3.2.P.2       Formulation development 
+Provide the studies performed to establish the dosage form, formulation, 
+manufacturing process, and the container closure system used for the final 
+immunogenic product. The studies to be described in this section are different 
+from the routine quality control tests performed in accordance with the 
+product specifications.  
+  
+Further information can be obtained in ICHQ8. 
+3.2.P.2.1    Immunogenic Substance 
+Compatibility information/data with the rest of the components in the 
+finished immunogenic product, including adjuvant, preservative, and 
+stabilizers should be demonstrated, as applicable. Compatibility with diluents 
+or reconstitution solvent should also be provided. For products that contain 
+more than one immunogenic substance, the compatibility of the immunogenic 
+substances with each other should also be evaluated. 
+ 
+\ 
+31
+3.2.P.2.2    Adjuvant, preservative, stabilizers, and excipients 
+This section should contain a list of the chemical formula and precise quantity 
+of each adjuvant per unit dose. Whether the quantity of adjuvant is 
+determined by assay or by calculation should be indicated and the method 
+used should be described. 
+Adjuvant   
+The mechanism of association and association efficiency between antigen and 
+adjuvant should be defined and described. Aspects that are critical for the 
+biological properties of the adjuvant-antigen combination (e.g. adsorption, 
+binding characteristics) should be identified and monitored. If more than one 
+adjuvant is to be incorporated, appropriate information for each adjuvant 
+should be supplied and compatibility studies should be performed on the 
+intended combination of adjuvant(s) and antigen(s). 
+The entire manufacturing process of the adjuvant-antigen combination 
+should be described in detail. 
+  
+Preservatives 
+Each preservative should be identified by chemical as well as any trade name 
+or reference to compendial sources. A rationale should be provided for the 
+inclusion of a preservative in single dose finished products. The results of the 
+preservative effectiveness studies should be included or reference may be 
+made to other files. 
+  
+Further requirements for DT based combined vaccines can be obtained in 
+recommendations to assure the quality, safety and efficacy of DT-based 
+combined vaccines; WHO Technical Report Series, No. 800, annex 6. 
+  
+Stabilizers and Excipients  
+This section should contain a list of all inactive components with the rationale 
+for the inclusion of each in the final product. The information provided should 
+include certificates of analysis, results of analytical testing, or other 
+information that will describe or identify each excipient. If compendial 
+ 
+ 
+32
+excipients are used, citations may be included in lieu of analytical testing. 
+Excipients may include, but not be limited to: 
+a) Diluents (molarity, pH should be included for these); 
+b) bulking agents; 
+c) adsorbents (other than adjuvants); and 
+d) stabilizers (e.g., sugars, wetting agents). 
+3.2.P.2.2.2: Overages (name, dosage form) 
+Any overages in the formulation(s) described in 3.2.P.1 should be justified. 
+3.2.P.2.2.3: Physicochemical and Biological Properties (name, dosage 
+form) 
+Parameters relevant to the performance of the drug product, such as pH, 
+biological activity or potency, and/or immunological activity, should be 
+addressed. 
+3.2.P.2.3    Development of the manufacturing process 
+Provide description of the selection and optimization of the manufacturing 
+process, particularly for critical aspects. The scientific rationale for the 
+selection, optimization and scale-up of the manufacturing process should be 
+explained, in particular the critical aspects 
+3.2.P.2.4    Container closure system 
+The suitability of the container-closure system used for the storage, 
+transportation (shipping) and use of the FPP should be discussed. This 
+discussion should consider, e.g. choice of materials, protection from moisture 
+and light, compatibility of the materials of construction with the dosage form 
+(including sorption to container and leaching) safety of materials of 
+construction, and performance (such as reproducibility of the dose delivery 
+from the device when presented as part of the finished product) 
+ 
+\ 
+33
+3.2.P.2.5 Microbiological Attributes (name, dosage form) 
+Contaminants in a product include all adventitiously introduced materials not 
+intended to be part of the manufacturing process, such as chemical and 
+biochemical materials (e.g., microbial proteases) and/or microbial species 
+should be evaluated. The selection and effectiveness of preservative systems 
+in products containing antimicrobial preservatives should be discussed. 
+ 
+Contaminants should be strictly avoided and/or suitably controlled with 
+appropriate in-process acceptance criteria or action limits for drug substance 
+or drug product. For the special case of adventitious viral or mycoplasma 
+contamination, the concept of action limits is not applicable, and the 
+strategies 
+proposed 
+in 
+ICH 
+guidance; 
+Q5A 
+Quality 
+of 
+Biotechnological/Biological Products: Viral Safety Evaluation of Biotechnology 
+Products Derived from Cell Lines of Human or Animal Origin and Q5D Quality 
+of Biotechnological/Biological Products: Derivation and Characterization of Cell 
+Substrates Used for Production of Biotechnological/Biological Products 
+3.2.P.2.6 Compatibility (name, dosage form) 
+The compatibility of the drug product with reconstitution diluent(s) or dosage 
+devices (e.g., precipitation of drug substance in solution, sorption on injection 
+vessels, stability) should be addressed to provide appropriate and supportive 
+information for the labeling. 
+3.2.P.3 Manufacture of finished immunogenic product 
+3.2.P.3.1 Manufacturer 
+Provide the name(s), physical address (es) of the manufacturing site, unit(s) 
+and/or block(s) involved in all stages of manufacturing processes. Applicants 
+should provide valid manufacturing license and/or certificates of GMP 
+compliance of the sites and other pertinent organizational information for 
+each manufacturer responsible for any portion of the manufacture or testing 
+operations for the finished immunogenic products. 
+3.2.P.3.2    Batch formula 
+ 
+ 
+34
+Provide the formula of the production lot, including a list of all components of 
+the immunogenic product to be used in the manufacturing process, their 
+amounts on a per batch basis, including overages, and a reference to their 
+quality standards. 
+3.2.P.3.3    Description of the manufacturing process 
+Provide a flowchart of the process, including all the steps in the process and 
+indicate the points at which the material enters the process, identify the 
+critical steps and control points in the process, intermediate products, and 
+final product. Also include a narrative of the manufacturing process, 
+equipment and materials used, the room or area where the operation is 
+performed (may reference the simple floor diagram), in process controls, and 
+the critical points identified. Further requirements for DT based combined 
+vaccines can be obtained in recommendations to assure the quality, safety and 
+efficacy of DT-based combined vaccines; WHO Technical Report Series, No. 800, 
+annex 6. 
+3.2.P.3.4    Control of critical and intermediate steps 
+Provide the tests and acceptance criteria developed to identify the critical 
+steps in the manufacturing process and how they were controlled. A listing of 
+the in-process controls and tests performed on the product at each step 
+should be submitted. Information on the quality and control of intermediates 
+isolated during the process should be provided. 
+3.2.P.3.5    Validation and/or evaluation of the processes 
+Provide a description, documentation, and results of the studies on validation 
+and/or evaluation of the manufacturing process, including the critical steps 
+or critical tests employed in the manufacturing process. Further requirements 
+can be obtained in Validation of Production Processes for Vaccines for WHO 
+Prequalification- Compliance Expectations documentation.  
+ 
+\ 
+35
+3.2.P.3.6    Description of the batch identification system 
+Provide information on how the lots are defined in the stage of filling, 
+lyophilization (if it applies) and packaging. 
+3.2.P.4  Control of the adjuvant, preservative, stabilizers, and excipients 
+3.2.P.4.1    Specifications 
+Provide information on the specifications for all the substances (adjuvant, 
+preservative, stabilizers, and excipients etc.) employed in the formulation of 
+the finished immunogenic product that are different from the immunogenic 
+substance. List of raw materials meeting in-house specifications including the 
+tests performed and specifications of Biological starting materials (human or 
+animal origin) with information on the requirements to avoid risk of 
+transmissible spongiform encephalopathies (TSEs) and human diseases (HIV, 
+hepatitis, etc.) in the final product including Certificate of Suitability (CEP). 
+The information should be provided as appendices to module 3. (3.2.A). 
+Further information can be found in ICHQ6B 
+3.2.P.4.2    Analytical procedures                                               
+Provide the description or bibliographic reference of the analytical methods 
+used to control all the substances (adjuvant, preservative, stabilizers, and 
+excipients etc.) employed in the formulation of the finished immunogenic 
+product. 
+3.2.P.4.3    Validation of the analytical procedures 
+All analytical methods used to control the substances (adjuvant, preservative, 
+stabilizers, and excipients etc.) used in formulating the final product should 
+be validated and validation reports should be provided if applicable. 
+  
+Further information can be found in ICHQ6B and ICHQ2B 
+ 
+\ 
+36
+3.2.P.4.4    Justification of specifications 
+Provide a justification of the specifications of the substances (adjuvant, 
+preservative, stabilizers, and excipients etc.) used in formulating the final 
+product. 
+  
+Further information can be found in ICHQ6B. 
+3.2.P.4.5    Substances of Human or Animal Origin 
+Provide information on the source, origin, description of the quality tests  
+performed, specifications, determination of adventitious agents, and viral 
+safety. For all ingredients of human or animal origin, testing results or 
+certificates of analysis demonstrating their freedom from adventitious agents 
+should be provided.  
+3.2.P.4.6    Novel adjuvant, preservative, stabilizer, and excipients 
+When used for the first time in a vaccine for human use or for a new route of 
+administration, provide all information on the manufacture, characterization, 
+and control, and data supporting safety established in nonclinical and clinical 
+studies in relation to the active ingredient used. Further requirements can be 
+obtained in the  
+EMA guidelines on adjuvants for vaccine for human use, London, 20 January 
+2005, WHO Guidelines on the nonclinical evaluation of vaccine adjuvants and 
+adjuvanted vaccines, Recommendations to assure the quality, safety and 
+efficacy of DT-based combined vaccines; WHO Technical Report Series, No. 980, 
+annex 6 and WHO Guidelines on Transmissible Spongiform Encephalopathies 
+in relation to Biological and Pharmaceutical products 
+3.2.P.5 Control of the finished immunogenic product 
+3.2.P.5.1 Specifications 
+This section should contain a description of tests and specifications for 
+finished immunogenic product. At minimum, specifications should contain 
+test and acceptance criteria for description and appearance, identity, 
+quantity, potency, purity and impurities.  
+ 
+ 
+37
+Further information on requirements for tests for sterility, Bacterial 
+endotoxins, pyrogenicity etc. can be obtained in individual vaccines WHO 
+TRS. 
+General information on specifications can be found in ICHQ6B. 
+3.2.P.5.2    Analytical procedures 
+Provide information on the analytical procedures used for quality control of 
+the finished product should be provided. 
+3.2.P.5.3    Validation of the analytical procedures 
+Provide information on the validation of the analytical procedures for the  
+finished immunogenic product, including experimental data. This information 
+should include a complete description of the protocol used for each bioassay, 
+the control standards, the validation of inherent variability of the test and the 
+establishment of acceptance limits for each assay.  
+Further information can be found in ICHQ6B and Q2B. 
+3.2.P.5.4    Lot consistency and analysis 
+Provide a description of all test methods selected to assure the identity, purity, 
+strength and/or potency, as well as the lot-to-lot consistency of the finished 
+immunogenic product and the specifications used for the immunogenic 
+product.  
+  
+The production and control protocols for at least three lots of finished product 
+should be submitted and an analysis of the results for those lots in terms of 
+production consistency. Batch/lot release certificates issued by the relevant 
+regulatory Authority in the country of the manufacture with the aim of the 
+confirmation of consistency of production at each lot of vaccines should be 
+submitted for three consecutive batches. 
+3.2.P.5.5    Characterization and/or determination of impurities 
+ 
+ 
+38
+Provide details on the characterization and/or determination of impurities, as 
+applicable, depending on the method used to manufacture the immunogenic 
+product submitted for market authorization. 
+3.2.P.5.6    Justification of specifications 
+Provide justification of the specifications proposed for the immunogenic 
+product.  
+Further information can be found in ICHQ6B. 
+3.2.P.5.7    Analytical certificates 
+Provide certificates of analysis and analytical results for at least three 
+consecutive batches of the immunogenic product signed by manufacturer  
+ 
+Further requirements can be obtained in the ICH Q6B and Guidelines for 
+Independent Lot Release of Vaccines by Regulatory Authorities World Health 
+Organization 2010.  
+3.2.P.6       Reference standards and materials 
+Provide information on the reference standards and/or materials used in the 
+tests to control the finished immunogenic product.  
+  
+ICH Q6B should be consulted for further requirements. 
+3.2.P.7 Container Closure System of the Finished Immunogenic Product 
+A description of the container-closure systems should be provided, including 
+the identity of materials of construction of each primary packaging component 
+and its specification. The specifications should include description and 
+identification (and critical dimensions, with drawings where appropriate).  
+  
+For non-functional secondary packaging components (e.g. those that neither 
+provide additional protection nor serve to deliver the product), only a brief 
+description should be provided. Suitability information should be located in 
+3.2.P.2. 
+  
+ 
+ 
+39
+Further requirements can be obtained in The WHO Guidelines on packaging for 
+pharmaceutical products  
+  
+3.2.P.8 Stability of the Finished Immunogenic Product 
+3.2.P.8.1 Protocols and results of the stability study that justify the 
+proposed validity period. 
+  
+Submit the stability study including the study protocol, specifications, 
+analytical methods, detailed description of the container closure system for 
+the product evaluated, storage conditions (temperature and relative 
+humidity), results for at least three lots of finished immunogenic product 
+prepared from different lots of immunogenic substances, conclusions, and 
+proposed validity period. The professional in charge of the study should sign 
+the stability studies. It is important to provide additional studies on the 
+stability of the vaccine in intermediate stages in the manufacturing method 
+that require different temperatures from the storage temperature, studies of 
+challenge temperatures, photosensitivity or other specifications, depending 
+on the type of vaccine, evaluated for at least three lots. For lyophilized 
+vaccines demonstrate the compatibility between the lyophilized product and 
+the diluent. 
+  
+3.2.P.8.2    Post- approval stability program 
+Include the stability program or stability commitment to be carried out once 
+the vaccine is in the market, including the number of lots to be included in 
+the study each year and the tests to be performed. These results should be 
+submitted periodically to update the information on the stability of the vaccine 
+evaluated. 
+  
+3.2.P.8.3    Stability data 
+Evidence shall be provided to demonstrate that the product is stable for the 
+proposed validity period under the indicated storage conditions.  
+The stability of each dosage form should be separately documented.  
+ 
+ 
+40
+The summary results, which support the proposed expiration-dating period, 
+under recommended conditions, in the final container and closure system, 
+should be provided.  
+  
+Stability data submitted should be for at least three consecutive batches. 
+Information on stability of the final immunogenic product, quality control 
+methods and rationale for the choice of tests for determining stability should 
+be provided. 
+Information on the dates of manufacture of the lots, the lot numbers, the vial 
+and dose size, and the scale of production. 
+  
+Describe the policy for assigning the date of manufacture of each component 
+as well as the final product (e.g. combination vaccine) and diluents, as 
+appropriate.  
+  
+In addition to final product stability data at the recommended storage 
+temperature, the stability data at elevated temperatures should be sufficient 
+to justify the choice of Vaccine Vial Monitor (VVM) for use with the product. 
+  
+For lyophilized products the data supporting the shelf-life of the product 
+following reconstitution should be included. 
+  
+If the immunogenic product is frozen, data supporting the stability of the 
+product through a stated number of freeze-thaw cycles should be provided. 
+  
+A plan for an on-going stability program should be provided. This should 
+include the protocol to be used, number of final lots to be entered into the 
+stability protocol each year and how such lots will be selected. A stability 
+study protocol should be provided. 
+For multi-dose vaccines, the WHO policy statement Multi-dose Vial Policy 
+(MDVP) for vaccines should be consulted.  
+  
+For extended controlled temperature conditions (ECTC) stability; WHO 
+Guidelines on the stability evaluation of vaccines for use under extended 
+ 
+ 
+41
+controlled temperature conditions, technical report series number 999, Annex 5 
+should be consulted.  
+3.2.P.8.4 Description of the procedures used to guarantee the cold chain 
+as per WHO guidelines on the international packaging and shipping of 
+vaccines 
+  
+Describe in detail the measures used to guarantee adequate temperature and 
+humidity conditions for shipping the finished immunogenic product from the 
+place of production to the place of final sale, including all the storage and 
+distribution stages and indicating the controls performed in each of the 
+stages. Signed declaration from authorized personnel should be provided.   
+  
+Further requirements can be obtained in the WHO Guidelines on stability 
+evaluation of vaccines, 2006 and ICH Q5C. 
+3.2.A. APPENDICES 
+3.2.A.1 Facilities and Equipment (name, manufacturer)  
+A diagram should be provided illustrating the manufacturing flow including 
+movement of raw materials, personnel, waste, and intermediate(s) in and out 
+of the manufacturing areas. Information should be presented with respect to 
+adjacent areas or rooms that may be of concern for maintaining integrity of 
+the product. 
+Information on all developmental or approved products manufactured or 
+manipulated in the same areas as the applicant's product should be included.  
+A summary description of product-contact equipment, and its use (dedicated 
+or multi-use) should be provided. Information on preparation, cleaning, 
+sterilization, and storage of specified equipment and materials should be 
+included, as appropriate.  
+Information should be included on procedures (e.g., cleaning and production 
+scheduling) and design features of the facility (e.g., area classifications) to 
+prevent contamination or cross-contamination of areas and equipment, where 
+operations for the preparation of cell banks and product manufacturing are 
+performed. 
+ 
+ 
+42
+ 
+3.2.A.2: Adventitious Agents Safety Evaluation (name, dosage form,  
+manufacturer)  
+Information assessing the risk with respect to potential contamination with 
+adventitious agents should be provided in this section.  
+  
+For non-viral adventitious agents: Detailed information should be provided 
+on the avoidance and control of non-viral adventitious agents (e.g., 
+transmissible spongiform encephalopathy agents, bacteria, mycoplasma, 
+fungi). This information can include, for example, certification and/or testing 
+of raw materials and excipients, and control of the production process, as 
+appropriate for the material, process and agent.  
+  
+For further guidance refer WHO Recommendations for the evaluation of animal 
+cell cultures as substrates for manufacture of biological medicinal products and 
+for characterization of cell banks. TRS 978 annex 3. 
+  
+For viral adventitious agents: Detailed information from viral safety 
+evaluation studies should be provided in this section. Viral evaluation studies 
+should demonstrate that the materials used in production are considered 
+safe, and that the approaches used to test, evaluate, and eliminate the 
+potential risks during manufacturing are suitable.  
+  
+For further guidance refer ICH Q5A, Q5D, and Q6B. 
+Materials of Biological Origin: Information essential to evaluate the 
+virological safety of materials of animal or human origin (e.g. biological fluids, 
+tissue, organ, cell lines) should be provided. (See related information in 
+3.2.S.2.3, and 3.2.P.4.5). For cell lines, information on the selection, testing, 
+and safety assessment for potential viral contamination of the cells and viral 
+qualification of cell banks should also be provided. (See related information 
+in 3.2.S.2.3).  
+  
+ 
+ 
+43
+Testing at appropriate stages of production: The selection of virological 
+tests that are conducted during manufacturing (e.g., cell substrate, 
+unprocessed bulk or post viral clearance testing) should be justified. The type 
+of test, sensitivity and specificity of the test, if applicable, and frequency of 
+testing should be included. Test results to confirm, at an appropriate stage of 
+manufacture, that the product is free from viral contamination should be 
+provided. (See related information in 3.2.S.2.4 and 3.2.P.3.4).  
+  
+Viral Testing of Unprocessed Bulk: In accordance with Q5A and Q6B, 
+results for viral testing of unprocessed bulk should be included.  
+  
+Viral Clearance Studies: In accordance with Q5A, the rationale and action 
+plan for assessing viral clearance and the results and evaluation of the viral 
+clearance studies should be provided. Data can include those that 
+demonstrate the validity of the scaled-down model compared to the 
+commercial scale process; the adequacy of viral inactivation or removal 
+procedures for manufacturing equipment and materials; and manufacturing 
+steps that are capable of removing or inactivating viruses. (See related 
+information in 3.2.S.2.5 and 3.2.P.3.5).  
+  
+For further guidance refer ICH Q5A, Q5D, and Q6B. 
+3.2.A.3 Excipients 
+3.2.R: SUMMARY LOT PROTOCOLS 
+Summary lot protocols should be provided. This should be in accordance with 
+the WHO lot release protocol for vaccines  
+3.3 LITERATURE REFERENCES 
+Key literature referenced should be provided, if applicable. 
+  
+  
+ 
+ 
+ 
+ 
+44
+MODULE 4: NON-CLINICAL INFORMATION 
+Submit in Searchable PDF 
+Non-clinical evaluation of vaccines in the context of this document, refers to 
+all invivo and invitro testing performed prior or during the clinical development 
+of vaccines. For example, nonclinical evaluation may be necessary when 
+changes in the manufacturing process or product formulations are made or 
+to further study potential safety concerns that may have arisen from phase I 
+and II trials or that have been described in the literature for similar products. 
+Studies involving evaluation in animals are referred to as preclinical testing. 
+Here, preclinical includes moving candidate vaccines from the laboratory to 
+the clinic and considers aspects of testing, product characterization, proof of 
+concept/immunogenicity studies and safety testing in animals conducted 
+prior to clinical testing of the product in humans.  
+ 
+Non-clinical studies should comply with the World Health Organization’s 
+Guidelines on Non-clinical Evaluation of Vaccines, WHO Technical Series No. 
+927, 2005, or most recent version. All non-clinical studies should be 
+conducted in compliance with GLP and the immunogenicity evaluations 
+(pharmacological/ toxicological studies) could be conducted in a non-GLP 
+provided the most appropriate scientific standards are guaranteed (WHO, 
+Annex Guidelines on the nonclinical evaluation of vaccine adjuvants and 
+adjuvanted vaccines).  
+  
+The submission in this section should be organized as summarized below: 
+4.1 Table of contents of module 4 
+4.2 Reports on studies 
+4.2.1 Pharmacology 
+4.2.1.1 Pharmacodynamic studies (immunogenicity of the vaccine),  
+Pharmacodynamic immunogenicity studies should provide evaluation of 
+humoral as well as cellular immune responses, dose ranges testing of vaccine 
+(antigen) and persistence of immunity  
+ 
+ 
+45
+4.2.1.2 Pharmacodynamic studies of adjuvants (if applicable) 
+The potential for undesirable effects especially if an adjuvant is included in a 
+formulation should be described. All observations should be provided  
+ 
+4.2.2 Pharmacokinetics 
+Pharmacokinetic studies, when applicable depending on the type of vaccine 
+or when new substances for example so called "Novel" adjuvants are used in 
+the formulation of the product, new routes of administration, or 
+pharmaceutical forms that require the respective pharmacokinetic evaluation. 
+4.2.3 Toxicology 
+4.2.3.1 General toxicology 
+Information should be presented on: 
+4.2.3.1.1     Design of the study and justification of the animal model 
+4.2.3.1.2     Animal species used, age, group size 
+4.2.3.1.3     Dose, route of administration, and control groups 
+4.2.3.1.4     Parameters monitored 
+4.2.3.1.5     Local tolerance 
+4.2.3.2        Special toxicology for vaccines (when applicable) 
+ 
+ 
+Developmental and reproductive toxicology 
+4.2.3.2.1     Special immunological investigations 
+4.2.3.2.2     Toxicity studies in special populations 
+4.2.3.2.3     Genotoxicity and carcinogenicity studies, when applicable 
+4.2.3.2.4     Reproductive toxicity studies for vaccines to be administered to 
+pregnant women or individuals of fertile age. 
+4.2.4 Special considerations 
+4.2.4.1 Live attenuated vaccines 
+An evaluation should be presented of the possibility of microorganism 
+shedding through natural avenues of excretion. 
+ 
+In the case of new substances incorporated into the formulation (new  
+ 
+ 
+46
+ adjuvants, stabilizers, additives) other routes of administration, and new 
+combined vaccines, submit the corresponding toxicology studies. 
+  
+Further guidance refer WHO TRS 927 (2005) Annex 1: WHO guidelines on 
+nonclinical evaluation of vaccines and WHO TRS 987 (2013), Annex 2:  WHO 
+Guidelines on the nonclinical evaluation of vaccine adjuvants and adjuvanted 
+vaccines   
+4.3. Literature references 
+Include literature references if used.  
+  
+MODULE 5: CLINICAL STUDIES  
+Submit in Searchable PDF 
+This section details Particulars of tests, which have been performed in 
+humans regarding the safety and efficacy of the vaccine. Clinical studies shall 
+be designed and conducted to meet WHO and ICH GCP principles.  
+  
+Tabulated summary: The applicant shall provide a tabulated summary of the 
+clinical development program of the vaccine, including any critical parameters 
+that may have changed during the clinical development. 
+  
+Clinical summary: Provide detailed summary and interpretation of the safety, 
+efficacy and immunogenicity data obtained from clinical studies that supports 
+the current prescribing information.  
+  
+Clinical Expert Report: Applicant shall provide an independent clinical expert 
+report on the clinical studies (evidence of expertise and independence should 
+be provided)  
+  
+The clinical studies should follow the World Health Organization’s Guidelines 
+on Clinical Evaluation of Vaccines: Regulatory Expectations. The current 
+version should be consulted. Further important information can be found in 
+the EMA Guideline EMEA/CHMP/VWP/164653/2005. 
+  
+ 
+ 
+47
+5.1 Table of contents of Module V 
+5.2 Reports of Clinical studies 
+5.2.1 Phase I studies 
+These are intended to define the safety and reactogenicity of the vaccine and 
+to seek preliminary information on immunogenicity. Dose and route of 
+administration should be evaluated with respect to these parameters. 
+Generally, these studies are conducted on small groups of immune competent 
+healthy adults (50-200) who usually present low risk of being infected by the 
+disease the vaccine is intended for. 
+5.2.2 Phase II studies 
+After the studies in phase I have been completed or sufficient information is 
+obtained to demonstrate satisfactory results, the phase II studies can begin. 
+The main distinction between the two phases is that the phase II studies 
+involve a large number of subjects (200-600) and are usually controlled and 
+randomized. The main objectives of these studies are to demonstrate the 
+immunogenicity of the active(immunogenic) component(s) and safety in the 
+target population The phase II studies should define the optimum dose, the 
+vaccination schedule, and most importantly, safety, prior to beginning phase 
+III. 
+5.2.3 Phase III studies 
+The Phase III studies are large scale studies designed to obtain data on the 
+efficacy and safety of the vaccine. These studies are usually carried out in 
+large populations to evaluate the efficacy and safety of the formulation(s) of 
+the immunologically active component(s).  
+  
+The populations should be less restricted and should contain less exclusion 
+criteria than studies in Phase II, so that the results of Phase III studies can 
+better be extrapolated to the general population. Different ethnic 
+subpopulations including African natives and different age groups depending 
+on the kind of preventable disease should be included.  
+ 
+ 
+48
+Several thousand subjects can be enrolled in these studies (the number will 
+be defined by the end point of the study). Serological data are collected (for at 
+least one immunized population subgroup) with the idea of establishing a 
+correlation between clinical efficacy and immunogenicity, although this 
+cannot always be established. The type of vaccine and other relevant factors 
+(incidence of disease, immunological markers, and safety) will determine the 
+duration of the follow-up on these studies and the number of participants. 
+  
+Depending on the nature of the disease pre-immunization antibody titers may 
+be very important for sufficient evaluation of the efficacy and safety of the 
+vaccine and should be fully evaluated (for example Dengue fever). In case of 
+high pre- immunization antibody titers results after vaccination may not be 
+transferable to a naïve population. At minimum 3000 participants should be 
+evaluated for safety reasons. Depending on the disease, placebo or an active 
+comparator design can be appropriate. Efficacy analysis should always be 
+submitted including the per protocol and the ITT analysis. 
+  
+The phase III clinical studies should be performed using at least three lots 
+manufactured on the industrial or production scale to be used routinely (in 
+the majority of countries). 
+5.2.4 Special considerations 
+Depending on the type of vaccine, apart from the clinical studies on 
+immunogenicity, efficacy, and reactogenicity, it may be necessary to evaluate 
+microorganism shedding in the case of live vaccines, interaction with other 
+vaccines, and interference with maternal antibodies.  
+  
+In special situations with well-known complications of precursor vaccines, the 
+new product must be evaluated in well-designed safety studies with adequate 
+endpoints (for example rotavirus vaccines and intussusception). In general, 
+and especially if so-called “novel adjuvants” are used, careful evaluation of 
+new onset of autoimmune diseases (NOAD) and new onset of chronic diseases 
+(NOCD) is mandatory. 
+5.2.5 Adjuvants 
+ 
+ 
+49
+Evidence and scientific support that justifies the use of adjuvants, when 
+applicable. The use of a so-called “novel adjuvant” should be justified by 
+superior efficacy compared to non-adjuvant or conventionally adjuvant 
+products (for example aluminum salts). The potential risk of the so-called 
+“novel adjuvant” on the incidence of new onset of autoimmune diseases 
+(NOAD) and new onset of chronic diseases (NOCD) must be fully evaluated. 
+5.2.6 Phase IV studies 
+Depending on the type of application for market authorization, approval in 
+other  
+countries, or depending on the type of vaccine, a phase IV study protocol or 
+the results of studies that have already been performed, will be required. For 
+new vaccines, a pharmacovigilance plan should be presented. 
+  
+5.2.7   Combined vaccines or vaccines made by follow-on manufacturers 
+  
+Submit information on bridging studies performed to ensure the non-
+inferiority of the vaccine under evaluation compared with the reference 
+vaccine, supporting immunogenicity, reactogenicity, safety, and efficacy, 
+when applicable. 
+5.3   POST MARKET SURVEILLANCE FOR VACCINE 
+In this section, applicant should provide the following post approval 
+commitments: 
+a) An outline of the post marketing pharmacovigilance plan for the 
+vaccine. 
+b) Periodic benefit-risk evaluation report in accordance with ICH 
+Guideline E2C(R2) Clinical Safety Data Management: Periodic benefit 
+risk evaluation report  
+c) In the case of vaccines that have recently been registered/ licensed, 
+applicant should provide information on any on-going phase IV 
+studies or on any active monitoring of the safety profile that is taking 
+place including adverse events following immunization (AEFI).  
+d) Risk management plan. 
+ 
+ 
+50
+  
+Further requirements can be obtained in the WHO TRS 924 (2004) Annex 1, 
+WHO TRS 850 (1995) Annex 3 and ICH E2E. 
+  
+NB: For vaccine specific Requirements please refer to ANNEX VI 
+ 
+ 
+ 
+ 
+51
+REVISION HISTORY 
+Revision 
+No 
+Date 
+Author 
+Section(s) 
+Revised 
+Description of the Change  
+1 
+ 
+11/01/2022 
+ 
+QAO 
+ 
+Document 
+Number 
+Changed to PPB/HPT/PER/GUD/012 
+FROM PPB/PER/MED/GUD/012 
+Authorization 
+section 
+Changed from Registrar to CEO 
+2 
+ 
+30/1/2025 
+ 
+QAO 
+ 
+Abbreviations 
+and Glossary 
+Section 
+Addition of Abbreviations and Glossary of 
+terms to align with content 
+Scope  
+Revision of Grammar and Content 
+Structure for Enhanced Flow and Clarity 
+Legal 
+Framework 
+Refined to Capture the Pharmacy and 
+Poisons (Registration of Health Products 
+and Technologies) Rules, 2022 and clearly 
+state PPB’s mandate 
+Introduction 
+Revision of Grammar and Content 
+Structure for Enhanced Flow and Clarity. 
+Evaluation 
+Pathways 
+Incorporation of Evaluation Pathways for 
+Dossiers and Reliance Considerations 
+Fee 
+Included a statement outlining payment 
+requirements. 
+Module 1 
+Referenced guidelines for Summary of 
+Product Characteristics (SmPC), Patient 
+Information Leaflet, and labelling 
+requirements. 
+Added requirement for barcode/unique 
+identifier on primary and secondary 
+package labels (if applicable). 
+Directed the applicant to PPB's Good 
+Manufacturing Practice guidelines. 
+Updated regulatory status terminology by 
+replacing "SDRA" with "RRA" as per PPB’s 
+revised reliance requirements. 
+Incorporated both EAC and IGAD 
+considerations and referred applicant to 
+PPB MA reliance Guideline 
+Added clause noting the potential 
+requirement for additional samples to be 
+submitted by the applicant. 
+Module 2 
+Inclusion of QIS as an additional 
+Requirement for Application Submission 
+Module 4 
+ 
+Addition of Guidance Notes for Applicants 
+on Pharmacodynamic Studies, 
+Pharmacodynamic Studies of Adjuvants, 
+and Developmental and Reproductive 
+Toxicology 
+Annex 
+The inclusion of the following annexes: 
+Annex 1: Cover Letter 
+Annex VI: Refer Applicant to Vaccine 
+Specific Requirements 
+Annex V: Quality Information Summary 
+ 
+ 
+ 
+ 
+52
+ANNEX I: RECOMMENDED FORMAT OF THE COVER LETTER 
+ 
+<Applicant> 
+<Address> 
+<Post code><Town> 
+<Country 
+ 
+<Applicant’s reference>  
+ 
+ 
+ 
+ 
+ 
+ 
+<Date> 
+ 
+<Pharmacy and Poisons Board> 
+<Address> 
+<Post code><Town> 
+<Kenya> 
+ 
+Dear Sir/Madam, 
+ 
+Subject: 
+Submission 
+of 
+Application 
+Dossier(s) 
+for 
+Marketing 
+Authorization of <Product Name(s), [strength(s) of active pharmaceutical 
+ingredient(s) and dosage form(s) 
+We are pleased to submit our Application Dossier(s) for a registration of 
+human medicines which details are as follows: 
+ 
+Name of the medicinal product(s): ………………………………….……………… 
+Pharmaceutical form(s) and strength(s): ………………………………………… 
+INN/Active Pharmaceutical Ingredient(s): ……………………........................ 
+ATC Code(s): ………….………………………………………………………………… 
+ 
+You will find enclosed the submission dossier as specified hereafter: 
+• CTD format, 2 soft copies documents format   
+• CD rom; Summaries in word format and body data in PDF format  
+• We confirm that all future submissions for this specific product will be 
+submitted in this same format  
+• We confirm that the electronic submission has been checked with up-to-
+date and state-of-the-art antivirus software.  
+ 
+ 
+53
+• The electronic submission contains the following modules: 
+– Module 1: Administrative information and product information 
+– Module 2: Overview and summaries 
+– Module 3: Quality 
+– Module 4: Non clinical study reports 
+– Module 5: Clinical study reports 
+ 
+<The relevant fees have been paid.> 
+ 
+Yours sincerely, 
+………………………………… 
+<Signature> 
+<Name> 
+<Title> 
+<Phone number(s)> 
+<Email address> 
+ 
+ 
+ 
+ 
+ 
+54
+Annex II:APPLICATION FORM 
+ 
+ 
+ 
+ 
+ 
+REPUBLIC OF KENYA 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+APPLICATION FOR REGISTRATION OF HUMAN   VACCINE PRODUCT 
+ 
+ 
+(to be submitted as electronic copy in MS-Word only) 
+ 
+CONFIDENTIAL 
+(2022) 
+ 
+Form 1  
+ 
+APPLICATION FOR REGISTRATION OF HUMAN   VACCINE 
+PRODUCT 
+ To  
+THE CEO 
+PPB OFFICES, 
+LENANA ROAD, 
+DRUG REGISTRATION DEPARTMENT, 
+P.O. BOX 27663-00506, 
+NAIROBI. 
+Application 
+Number 
+ 
+ 
+Date 
+of 
+submission of 
+the dossier  
+ 
+ 
+Name of the 
+1st   Assessor  
+ 
+Signature 
+Name of the 
+2nd Assessor 
+ 
+Signature 
+Date of 1st 
+Assessment 
+ 
+ 
+Date of 2nd 
+Assessment 
+ 
+ 
+ 
+ 
+55
+CONCLUSION 
+OF 
+THE 
+ASSESSMENT 
+RECOMMENDED 
+(no 
+outstanding 
+issues) 
+QUERY RAISED (Indicate the sections 
+where query is raised) 
+REJECTED (indicate the module(s) 
+that led to the rejection) 
+(Please delete which does not 
+apply) 
+ 
+TYPE OF APPLICATION – HUMAN PRODUCT 
+MODULE 1: ADMINISTRATIVE INFORMATION 
+SECTION 1: PARTICULARS OF THE PRODUCT  
+1.11 Name and address of Applicant 
+Company name:  
+Address:                
+Country:               
+Telephone: 
+E-Mail:  
+ 
+1.12   Type of Medicinal Product Application ( Tick where appropriate) 
+ 
+New (Innovator)         
+OR      
+Generic (Traditional/Follow on vaccines.        
+ 
+ 
+For PPB use only 
+1.
+2 
+Trade/Proprietary name (prorietary Product name):  
+ 
+For PPB use only 
+1.
+3 
+Approved / INN / generic name of the immunogenic  substance 
+For PPB use only 
+1.
+4  
+Strength of immunogenic substance(s) per unit dosage form of the product and 
+specifications of the immunogenic substance(s), including the reference/ 
+monograph standard for each immunogenic substance(s). 
+ 
+For PPB use only 
+1.
+5  
+Dosage form 
+1.
+5.
+1 
+Pharmaceutical Dosage form of the product: 
+1.
+5.
+2 
+Specifications of the Finished Pharmaceutical Product: 
+1.
+5.
+3 
+Route(s) of administration (use current list of standard terms - European 
+Pharmacopoeia):  
+For PPB use only 
+1.
+6  
+Packing/Pack size of the product:  
+ 
+ 
+56
+1.
+6.
+1 
+Pack size: 
+1.
+6.
+2 
+Primary packing materials: 
+1.
+6.
+3 
+Secondary packing materials: 
+For PPB use only 
+ 
+1
+.
+7  
+Visual Description of the product (Add as many rows as necessary) 
+For PPB use only 
+ 
+1.8 
+1.8 Proposed Shelf life of the product (in months):  
+1.8.1 
+Proposed shelf life (after reconstitution or dilution) (if applicable): 
+1.8.2 
+Proposed shelf life (after first opening container):  
+1.8.3 
+Proposed storage conditions:  
+1.8.4 
+Proposed storage conditions after first opening:  
+For PPB use only 
+1.9  
+Pharmacotherapeutic group and ATC Code 
+1.9.1 
+Pharmacotherapeutic group:  
+1.9.2 
+ATC Code: 
+1.9.3 
+If no ATC code has been assigned, please indicate if an application 
+for ATC code has been made:  
+1.9.4 
+Proposed indication(s) for the product: 
+For PPB use only 
+1.10 
+Indicate Legal category 
+1.10.1  POM (Prescription only Medicine) unless otherwise, provide 
+justification) 
+For PPB use only 
+1.11  
+Country of origin or country of release:  
+For PPB use only 
+ 
+1.12  
+Product Marketing Authorisation in the country of origin. (Attach 
+certificate of pharmaceutical product from competent regulatory 
+authority)   If not registered, state reasons 
+ Authorised   
+Country:  
+Date of authorisation:  
+Proprietary name:  
+Authorisation number:  
+ 
+ Refused 
+ 
+Withdrawn 
+(by 
+applicant 
+after 
+authorisation) 
+Country:  
+Date of withdrawal (dd-mm-yyyy):  
+Proprietary name:  
+Reason for withdrawal:  
+ 
+ 
+ 
+57
+Country: Not applicable 
+Date of refusal (dd-mm-yyyy):  
+Reason for Refusal:  
+ Suspended/revoked (by competent 
+authority) 
+Country: Not applicable 
+date of suspension/revocation (dd-mm-
+yyyy):  
+Reason for suspension/revocation:  
+ 
+For PPB use only 
+ 
+1.12.1 Registration status from countries with Stringent Regulatory 
+Authorities (SDRAs) where applicable 
+SDRAs - Documents to be attached: 
+For PPB use only 
+ 
+1.12.2 List of countries in which a similar application has been submitted 
+For PPB use only 
+ 
+1.12.3 Statement 
+on 
+whether 
+an 
+application 
+for 
+the 
+Marketing 
+Authorisation has been previously rejected, withdrawn or repeatedly 
+deferred in the EAC Partner States 
+For PPB use only 
+1.12.4 Certificates of approval of Drug Substances(s)/ immunogenic s 
+substance(s) Master (DMF) by Stringent Regulatory Authority 
+For PPB use only 
+ 
+1.12.5 Manufacturing Licence and Product Licence 
+For PPB use only 
+1.13  
+ Certificate of Analysis from a WHO Prequalified Laboratory in Kenya and 
+the  
+lot release certificate issued by the regulatory authority of country of 
+origin  
+for those samples submitted with the application 
+ 
+For PPB use only 
+ 
+1.14  
+Name(s) and complete address (es) of the manufacturer(s) 
+1.14.1 Name and complete address(es)of the manufacturer(s) of the FPP, 
+including the finished pharmaceutical product release if different from the 
+manufacturer.         
+ 
+Marketing Authorisation Holder: 
+Company name:  
+Address:  
+Country:          
+ 
+ 
+58
+Telephone:   
+E-Mail:  
+ 
+Manufactured By: 
+Company) Name:   
+Address:                                 
+Country: 
+Telephone:  
+Telefax :  
+ 
+If the manufacturer is different to 1.1 above, explain the relationship  
+ 
+1.14.2 
+Name(s) and complete address (es) of the manufacturer(s) of the active 
+immunogenic substance 
+ 
+ The active immunogenic substance:  (Add as many rows as necessary) 
+Company) Name:       
+Office Address  :                                 
+Country :   
+Telephone   :  
+Fax        :  
+Contact Person     :  
+E-mail                    :  
+For PPB use only 
+ 
+1.15  
+Compliance to Good Manufacturing Practice (GMP) and Good Clinical 
+Practice  
+1.15.1 
+Good Manufacturing Practice (GMP) from PPB 
+1.15.2 
+Good Clinical Practice (GCP) or Good Laboratory Practice (GLP)  
+For PPB use only 
+ 
+ 
+59
+1.16 .1 Name and complete address of the Local Technical Representative of 
+Manufacture (for finished pharmaceutical Product)  
+ 
+Company name:  
+Address:          
+Country:     
+Telephone:       
+E-Mail:          
+ 
+If the Local Technical Representative is different to 1.1 above, 
+explain and provide evidence for the relationship: 
+1.16 .2 Name and address (physical and postal) of the person or company 
+responsible for pharmacovigilance 
+ 
+Company name:  
+Address:          
+Country:     
+Telephone:       
+E-Mail:          
+ 
+For PPB use only 
+1.17 
+Product Information 
+1.17.1 
+Summary of Product Characteristics (SPC): 
+ 
+1.17.2 
+Prescribers/Patient information leaflet: 
+1.17.3 
+Mock-ups and Photo scan of the product: 
+ 
+ 
+60
+1.18 
+ 
+1.18 Batch number(s) and Batch Types of the final product used in            
+Clinical studies 
+ 
+Stability studies  
+ 
+ 
+ 
+Validation/production scale batches 
+ 
+ 
+ 
+Comments:   
+Comments [e.g., batch size, explanation of NA (not applicable) answers] 
+ 
+ 
+Quantitative composition (Administration Unit) of the  immunogenic subs
+and excipient(s)  
+A note should be given as to which quantity the composition refers (e.g. per
+Ingredients 
+Administr
+ation Unit  
+Clinical 
+studies 
+[batch number(s) 
+Primary 
+stability 
+[batch 
+number (s) 
+Production 
+ [batch numb
+Qua
+ntity 
+/ 
+dosa
+ge 
+unit 
+Uni
+t of 
+me
+as
+ure 
+Quantit
+y / 
+dosage 
+unit 
+Unit of 
+measur
+e 
+Qua
+ntity 
+/ 
+dosa
+ge 
+unit 
+Unit 
+of 
+meas
+ure 
+Quan
+tity / 
+dosa
+ge 
+unit 
+Unit 
+ of 
+ meas
+Active (Name of immunogen(s) 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e.t.c 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Name Excipients: 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e.t.c 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  Only one name for each substance should be given in the following 
+priority: INN, Pharmacopoeia, common name, scientific name. 
+ 
+ 
+ 
+61
+State the reference/monograph standard such as British Pharmacopeia
+United States Pharmacopeia, Ph. Eur, Japanese Pharmacopeia, In-hous
+monograph  
+e.t.c. used for Finished Medicinal Product.  
+ 
+1.20 
+ 
+Name and address (physical and postal) of the 
+Contract Research 
+Organisation(s) where the clinical studies of the product were conducted. (If 
+applicable) 
+Name:                N/A 
+Company name:       
+ 
+Address:                   
+Country:                   
+Telephone:                
+Telefax:                     
+E-Mail:                      
+ 
+1.21 DECLARATION BY AN APPLICANT 
+I, the undersigned certify that all the information in this form and accom
+documentation is correct, complete and true to the best of my knowledge. 
+I further confirm that the information referred to in my application do
+available for verification during GMP inspection. 
+I also agree that I shall carry out pharmacovigelance to monitor the safety
+product in the market and provide safety update reports to the National Me
+Regulatory Authority.  
+I further agree that I am obliged to follow the requirements of Kenya, and 
+Legislations and Regulations which are applicable to medicinal products. 
+ 
+Name: 
+ 
+Position in the company:  
+Signature: 
+ 
+ 
+62
+Date: 
+ 
+Official stamp:…………………………….. 
+ 
+* Note: If fees have been paid, attach proof of payment  
+ PPB use only 
+ 
+ OVERALL QUERIES AND RECOMMENDATIONS FOR THIS MODULE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+63
+Annex III: EXPERT DECLARATION FORM 
+  
+The following is an example of a suitable declaration form: 
+  
+Quality /Non-clinical / Clinical (delete those not appropriate) 
+I, the undersigned, declare that I have: 
+1. The suitable technical or professional qualifications to act in this 
+capacity (for more information, refer to the enclosed curriculum vitae).  
+2. (ii)  fully examined the data provided by the applicant and have provided 
+references to the literature to support statements made that are not 
+supported by the applicant’s original data. This report presents an 
+objective assessment of the nature and extent of the data.  
+3. (iii)  provided a report based on my independent assessment of the data 
+provided.  
+4. (iv)  based my recommendations, regarding suitability for registration, 
+on the data provided herewith. I have considered the attached data and 
+have recommended suitability for registration of the intended dose 
+forms and presentations according to the proposed product information 
+document.  
+  
+I further declare that this expert report represents my own view. 
+Further, I declare the following to be the full extent of the professional 
+relationship between the applicant and myself: 
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+................................................ 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+64
+ANNEX IV: QUALITY OVERALL SUMMARY 
+MODULE 2.3: QUALITY OVERALL SUMMARY 
+2.3. S Immunogenic substance (name, manufacturer) 
+  
+2.3. S.1 General information, starting materials and raw materials 
+  
+2.3. S.1.1 Nomenclature 
+(a) WHO or Pharmacopoeial name(s)  
+(b) Biological name 
+(c) For combination vaccines (names of immunogenic substances) 
+(d) Chemical modification/conjugation of the immunogenic substance  
+ 
+2.3. S.1.2 Structure  
+                  (a)      Structural formula 
+                  (b)      Schematic amino acids sequence/molecular formula  
+                  (c)      Relative molecular mass 
+  
+2.3.S.1.3      Physicochemical Characterization and Biological Activity  
+3.2.S.1.3.1    Physicochemical Characterization  
+  
+3.2.S.1.3.2    Biological Activity 
+  
+2.3.S.1.4      General description of the starting materials of 
+biological origin used to obtain or extract the immunogenic 
+substance  
+  
+2.3.S.1.5      General description of the raw materials  
+  
+2.3.S.1.6      Analytical certificates signed by the manufacturer and the 
+applicant 
+  
+2.3. S.2       Manufacture of the immunogenic substance (name,  
+Manufacturer) 
+  
+2.3. S.2.1 Manufacturer(s)  
+  
+                  (a) Name, address and responsibility (e.g. fabrication, packaging, 
+labelling, testing, and storage) of each manufacturer, including contractors 
+and each proposed production site or facility involved in these activities: 
+  
+Name and address 
+Responsibility  
+ 
+ 
+65
+(including 
+block(s)/unit(s)) 
+  
+  
+  
+  
+  
+  
+  
+                  (b)      Manufacturing authorization for the production 
+of API(s) and, where available, certificate of GMP compliance 
+(GMP information should be provided in Module 1): 
+  
+2.3. S.2.2 Immunogenic substance manufacturing process 
+                  (a)      Flow diagram of manufacturing process 
+                  (b)      Narrative description of the manufacturing 
+process (es) 
+                  (c)      In process holding steps 
+                  (d)      Description of lot identification system 
+(e)      Description and validation of the inactivation or detoxification process 
+(f)       Description of the purification process 
+(g)      Description of the conjugation process 
+(h)      Stabilization of the immunogenic substance 
+(i)       Reprocessing (if applicable)  
+(j)       Filling Procedure 
+  
+2.3. S.2.3 Control of critical steps and intermediates  
+(a)      Critical steps in the process and controls performed 
+(b)      Description of sampling procedures 
+  
+2.3.S.2.4 Process Validation and/or evaluation  
+  
+2.3. S.3 Characterization of the immunogenic substance 
+  
+(a)            Details of analytical testing  
+(b)            Impurities 
+(i)             Product related Impurities 
+(ii)            Process related Impurities 
+  
+2.3. S.4 Control of the Immunogenic Substance 
+  
+2.3. S.4.1 Specifications 
+  
+2.3. S.4.2 Description of Analytical Procedures 
+ 
+ 
+66
+  
+2.3. S.4.3 Analytical Method validation 
+  
+2.3. S.4.4 Batch analysis and Production consistency 
+  
+2.3. S.4.5 Justification of the quality specifications 
+  
+2.3. S.5 Reference Standards or Materials (name, manufacturer) 
+  
+(a)            Source (including lot number) of primary reference 
+standards or reference  
+     materials  
+                           (e.g.Ph.Int., Ph.Eur., BP, USP, in-house) 
+                  (b)      Characterization and evaluation of non-official (e.g. 
+not from an officially recognized  
+                  pharmacopoeia) primary reference standards or reference 
+materials (e.g. elucidation of structure, certificate of 
+analysis) 
+(c)      Description of the process controls of the secondary reference 
+standard (comparative certificate of analysis and IR spectra 
+against primary standard) 
+  
+2.3. S.6 Packaging and container closure system of the immunogenic 
+substance 
+  
+2.3. S.7 Stability of the immunogenic substance 
+  
+(a)            Stability Studies Protocol 
+  
+(b)            Stability program or stability commitment 
+  
+(c)            Stability data 
+  
+(d)           Stability studies conclusion and proposed storage and 
+transportation conditions 
+  
+2.3. P FINISHED IMMUNOGENIC PRODUCT (NAME, MANUFACTURER) 
+  
+2.3. P.1 Description and Composition 
+                  (a)      Description of the finished immunogenic 
+product  
+                  (b)      Composition of the finished immunogenic 
+product 
+  
+ 
+ 
+67
+Component and 
+quality standard 
+(and 
+grade, 
+if 
+applicable) 
+Function Strength (label claim) 
+  
+  
+  
+Quant. 
+per 
+unit or 
+per mL  
+% 
+Quant. 
+per 
+unit or 
+per mL 
+% 
+Quanti
+ty 
+per 
+unit or 
+per mL 
+% 
+<complete with appropriate titles  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Subtotal 1 
+  
+  
+  
+  
+  
+  
+  
+<complete with appropriate title  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Subtotal 2 
+  
+  
+  
+  
+  
+  
+  
+Total 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+(c)                     Type of container closure system used for the FPP and 
+accompanying reconstitution diluents, if applicable: 
+  
+2.3. P.2 Pharmaceutical Development  
+  
+2.3. P.2.1 Compatibility of Immunogenic Substance with other components 
+  
+2.3. P.2.2 Adjuvant, preservative, stabilizers, and excipients 
+  
+2.3. P.2.3 Development of the manufacturing process 
+  
+2.3. P.2.4 Container closure system  
+  
+2.3. P.3 Manufacture processes of the finished immunogenic product 
+  
+2.3. P.3.1 Manufacturer(s)  
+  
+(a)    Name, address and responsibility (e.g. fabrication, packaging, 
+labelling, and testing) of each manufacturer, including contractors 
+and each proposed production site or facility involved in 
+manufacturing and testing: 
+  
+Name and address 
+(include block(s)/unit(s)) 
+Responsibility 
+ 
+ 
+68
+  
+  
+  
+  
+  
+  
+  
+  
+  
+(b)   Manufacturing authorization, marketing authorization and, 
+where available,  
+WHO-type certificate of GMP (GMP information should be provided in 
+Module 1): 
+  
+2.3. P.3.2 Batch Formula  
+  
+Largest intended commercial lot size: 
+Other intended commercial lot sizes: 
+  
+                  (a)      List of all components of the finished 
+immunogenic product to be used in the  
+                           manufacturing process and their amounts on a 
+per batch basis; 
+  
+2.3. P.3.3 Description of the manufacturing process 
+  
+                  (a)      Flow diagram of the manufacturing process 
+  
+  
+                  (b)      Narrative description of the manufacturing process, 
+including equipment type and working capacity, 
+process parameters: 
+  
+2.3. P.3.4 Controls of Critical Steps and Intermediates  
+  
+(a)            Summary of controls performed at the critical steps of the 
+manufacturing  
+     process and on isolated intermediates: 
+  
+Step 
+(e.g. granulation, compression, 
+coating) 
+Controls (parameters/limits/frequency 
+of testing) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2.3. P.3.5 Validation and/or evaluation of the processes  
+ 
+ 
+69
+  
+2.3. P.3.6 Description of the batch identification system 
+  
+2.3. P.4 Control of the adjuvant, preservative, stabilizers, and excipients 
+  
+2.3. P.4.1 Specifications 
+  
+                  (a)      Summary of the specifications  
+  
+2.3. P.4.2 Analytical Procedures  
+  
+                  Summary 
+of 
+the 
+analytical 
+procedures 
+for 
+supplementary tests 
+  
+2.3. P.4.3 Validation of Analytical Procedures  
+  
+(a)            Summary of the validation information for the analytical 
+procedures for supplementary tests (where applicable) 
+  
+2.3. P.4.4 Justification of Specifications  
+  
+(a)            Justification of the specifications (e.g. evolution of tests, 
+analytical  
+procedures and acceptance criteria, exclusion of certain tests, 
+differences from officially recognized compendial standard(s)): 
+  
+2.3. P.4.5 Excipients of Human or Animal Origin  
+  
+(a)           For FPPs using excipients without risk of transmitting agents 
+of animal spongiform encephalopathies, a letter of attestation 
+confirming this can be found in: 
+  
+                  (b)      CEP(s) demonstrating TSE-compliance can be 
+found in: 
+  
+2.3. P.4.6 Novel Excipients  
+  
+2.3. P.5 Control of finished immunogenic product 
+  
+2.3. P.5.1 Specifications of the immunogenic product 
+  
+2.3. P.5.2 Analytical Procedures  
+  
+                  (a)      Summary or references to analytical procedures  
+  
+ 
+ 
+70
+2.3. P.5.3 Validation of Analytical Procedures  
+  
+                  (a)      Summary or references to the validation 
+information  
+  
+2.3. P.5.4. Lot consistency and analysis 
+  
+                  (a)      Description of the lots: 
+  
+Strength and 
+batch 
+number 
+Batch size 
+Date and 
+site of production 
+Use 
+(e.g 
+clinical, 
+comparability 
+studies 
+etc) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2.3. P.5.5 Characterization and/or determination of impurities 
+  
+2.3. P.5.6 Justification of Specification(s)  
+  
+3.2. P.5.7 Analytical certificates  
+  
+2.3. P.6 Reference Standards or Materials  
+  
+(a)            Source (including lot number) of primary reference standards or 
+reference  
+         materials (e.g. Ph.Int., Ph.Eur., BP, USP, in-house) not discussed in 
+3.2.S.5: 
+  
+(b)            Characterization and evaluation of non-official primary reference  
+  
+  
+(c)            Description of the process controls of the secondary reference 
+standard  
+  
+2.3. P.7 Container Closure System  
+  
+(a)            Description of the container closure systems, including 
+unit count or fill size,  
+     container size or volume: 
+  
+Description 
+Strength/conce
+ntration 
+Unit count or fill 
+size 
+Container size 
+ 
+ 
+71
+(including 
+materials 
+of 
+construction) 
+  
+(e.g. 1ml, 2ml, 
+5ml, etc.) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2.3. P.8 Stability of the Finished Immunogenic Product 
+  
+2.3. P.8.1 Protocols and results of the stability study that justify 
+the proposed validity period.  
+  
+(a)            Summary of accelerated and long-term testing parameters 
+(e.g. studies  
+     conducted): 
+  
+Storage 
+conditions (◦C, 
+% RH) 
+Strength 
+and 
+batch 
+number 
+Batch size Container 
+closure 
+system 
+Completed (and 
+proposed) 
+test 
+intervals 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                  (b)      Proposed storage statement and shelf-life (and 
+in-use storage conditions and in-use period, if applicable): 
+  
+Container 
+closure 
+system 
+Storage statement 
+Shelf-life 
+  
+  
+  
+  
+  
+  
+  
+2.3. P.8.2 post-approval stability program 
+  
+(a)            Stability protocol for Primary stability batches, Commitment batches 
+and Ongoing batches   
+  
+2.3. P.8.3 Stability Data 
+ 
+ 
+72
+  
+(b)            The actual stability results should be provided in Module 3. 
+  
+(c)            Summary of analytical procedures and validation information for 
+those  
+procedures not previously summarized in 2.3.P.5 (e.g. analytical procedures 
+used only for stability studies): 
+  
+(d)            Data to support freeze thaw cycles recommended 
+  
+2.3. P.8.4 Description of the procedures used to guarantee the cold chain  
+  
+2.3. A APPENDICES 
+  
+3.2.A.1 Facilities and Equipment (name, manufacturer)  
+3.2.A.2 Adventitious Agents Safety Evaluation (name, dosage form, 
+manufacturer) 
+3.2.A.3 Excipients 
+3.2. R: Summary lot protocols 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+73
+ANNEX V: QUALITY INFORMATION SUMMARY (QIS)  
+Quality Information Summary (QIS) 
+Introduction 
+a) Summary of product information: 
+Non-proprietary 
+name(s) 
+of 
+the 
+finished pharmaceutical product(s) 
+(FPP) 
+ 
+ 
+Proprietary name(s) of the finished 
+pharmaceutical product(s) (FPP) 
+ 
+International 
+non-proprietary 
+name(s) of the active pharmaceutical 
+ingredient(s) (API(s)), including form 
+(salt, hydrate, polymorph) 
+ 
+Applicant name and address 
+ 
+Dosage form 
+ 
+Application Number 
+ 
+ 
+Strength 
+ 
+Route of administration 
+ 
+ 
+Proposed indication(s) 
+ 
+Local 
+Technical 
+Representative 
+(Agency) 
+ 
+LTR Contact person details  
+ 
+Local Technical Representative (LTR) 
+contact person  
+ 
+Physical address details 
+ 
+ 
+Town/City 
+ 
+Postal code 
+ 
+Country (Within Kenya) 
+ 
+ 
+Contact person's email address 
+ 
+Contact person's phone number 
+ 
+FPP manufacturer Qualified Person  
+ 
+FPP manufacturer Qualified person's contact details (including Physical 
+address) 
+ 
+Unit /block 
+ 
+Road/Street 
+ 
+ 
+Plant 
+ 
+Village/suburb 
+ 
+ 
+Town/City 
+ 
+ 
+ 
+74
+Postal code 
+ 
+Country 
+ 
+ 
+Contact person's email address 
+ 
+Contact person's phone number 
+ 
+ 
+ 
+b) Administrative Summary: 
+Applicant’s date of preparation or 
+revision of the QIS 
+ 
+Version and/or date of acceptance (PPB use only) 
+ 
+Related dossiers (e.g. FPP(s) with the same API(s) submitted to PPB by the 
+applicant): 
+Application 
+number 
+( ) 
+ 
+ 
+ 
+Registered 
+(Y/N) 
+ 
+ 
+ 
+API, 
+strength, 
+dosage form 
+(eg. 
+Irinotecan 
+(as 
+chloride) 
+20mg 
+per 
+ml 
+Solution) 
+API manufacturer 
+(including 
+address if same  
+manufacturer 
+as 
+current 
+dossier) 
+ 
+ 
+ 
+ 
+ 
+2.3.S  DRUG SUBSTANCE (or ACTIVE PHARMACEUTICAL INGREDIENT 
+(API)) (NAME, MANUFACTURER) 
+Indicate which option applies for the submission of API information: <check 
+one only> 
+Name of API: 
+ 
+Name 
+of 
+API 
+manufacturer: 
+ 
+ 
+□  
+Certificate of suitability to the European Pharmacopoeia 
+(CEP) 
+Option 1. 
+□ 
+Confirmation of API prequalification document: 
+Option 2 
+□ 
+API Ref No; ____________. 
+Option 3a. 
+□ 
+PPB Active pharmaceutical ingredient master file (PPB 
+APIMF) procedure: 
+ 
+ 
+75
+APIMF number assigned by PPB (if known): _______ ; 
+version number(s) including amendments (and/or 
+date(s)) of the open part: _______ ; version number(s) 
+including amendments (and/or date(s)) of the restricted 
+part: : _______. 
+Option 3b. 
+□ 
+Full details in the PD 
+Open part DMF version number_________________ 
+Restricted part DMF version number_____________ 
+Identifier of current module 3.2.S:  _______________ 
+Option 4. 
+ 
+ 
+2.3.S.2 Manufacture (name, manufacturer) 
+2.3.S.2.1 Manufacturer(s) (name, manufacturer) 
+a) Name, address and responsibility (e.g. fabrication, packaging, labelling, 
+testing, storage) of each manufacturer, including contractors and each 
+proposed production site or facility involved in these activities: 
+Name 
+and 
+address 
+(including 
+block(s)/unit(s)) 
+Responsibility  CEP number/ WHOAPI-
+PQ 
+number 
+/WHO 
+APIMF/ PPB registration 
+No./PPB 
+APIMF/ 
+if 
+applicable) 
+Letter 
+of 
+access 
+provided? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3.S.2.3 Control of Materials (name, manufacturer) – for API option 4 
+only 
+ 
+a) Name of starting material: 
+b) Name 
+and 
+manufacturing 
+site 
+address 
+of 
+starting 
+material 
+manufacturer(s): 
+2.3.S.4 Control of the API (name, manufacturer) 
+2.3.S.4.1 Specification (name, manufacturer) 
+ 
+ 
+ 
+ 
+76
+       API specifications of the FPP manufacturer:  
+Standard (e.g. Ph.Int., Ph.Eur., BP, USP, in-
+house) 
+ 
+Specification reference number & version 
+effective date 
+Test 
+Acceptance criteria 
+Analytical procedure 
+(Type/Source/Version) 
+Description 
+ 
+ 
+Identification 
+ 
+ 
+Impurities 
+ 
+ 
+Assay 
+ 
+ 
+etc. 
+ 
+ 
+ 
+2.3.S.6 Container Closure System (name, manufacturer) 
+a) Description of the container closure system(s) for the storage and 
+shipment of the API: 
+2.3.S.7 Stability (name, manufacturer) 
+2.3.S.7.1 Stability Summary and Conclusions (name, manufacturer) 
+c) Proposed storage conditions and re-test period (or shelf-life, as 
+appropriate): 
+Container closure system 
+Storage statement 
+Re-test period* 
+ 
+ 
+ 
+ 
+* indicate if a shelf-life is proposed in lieu of a re-test period (e.g. in the 
+case of labile APIs) 
+2.3.P DRUG PRODUCT (or FINISHED PHARMACEUTICAL PRODUCT 
+(FPP)) 
+ 
+ 
+77
+Indicate which option applies for the submission of FPP information: 
+<check one only> 
+Name of API: 
+ 
+Name of API manufacturer: 
+ 
+▪  
+Full details 
+▪  
+WHO collaborative procedure 
+▪  
+SRA Abridged procedure 
+▪  
+PPB Mutual Recognition 
+▪  
+EU Article 58 procedure 
+ 
+2.3.P.1 Description and Composition of the FPP 
+a) Description of the FPP (in signed specifications): 
+b) Composition of the FPP: 
+i. Composition, i.e. list of all components of the FPP and their amounts 
+on a per unit basis and percentage basis (including individual 
+components of mixtures prepared in-house (e.g. coatings) and 
+overages, if any): 
+Component 
+and 
+quality standard 
+(and 
+grade, 
+if 
+applicable) 
+Function Strength (label claim) 
+Quant. 
+per unit 
+or 
+per 
+mL 
+% Quant. 
+per unit 
+or 
+per 
+mL 
+% Quantity 
+per unit or 
+per mL 
+% 
+<complete with appropriate titles e.g. Core tablet (Layer 1, Layer 2, etc. as 
+applicable), Contents of capsule, Powder for injection>  
+Subtotal 1 
+<complete with appropriate title e.g. Film-coating > 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+78
+Component 
+and 
+quality standard 
+(and 
+grade, 
+if 
+applicable) 
+Function Strength (label claim) 
+Quant. 
+per unit 
+or 
+per 
+mL 
+% Quant. 
+per unit 
+or 
+per 
+mL 
+% Quantity 
+per unit or 
+per mL 
+% 
+Subtotal 2 
+Total 
+ 
+ii. Composition of all components purchased as mixtures (e.g. 
+colorants, coatings, capsule shells, imprinting inks): 
+Description of accompanying reconstitution diluent(s), if applicable: 
+2.3.P.2.2.1 Formulation Development 
+c) Information on primary (submission, registration, exhibit) batches 
+including 
+comparative 
+bioavailability 
+or 
+biowaiver, 
+stability, 
+commercial: 
+ 
+Batch number(s) of the FPPs used in 
+Bioequivalence 
+<e.g. bioeq. batch 
+A12345>.  
+Biowaiver 
+<e.g. 
+biowaiver 
+batch X12345> 
+For 
+proportional 
+strength 
+biowaiver: 
+the 
+bioequivalence batch of the reference strength 
+Dissolution profile studies  
+  
+Stability studies (primary batches) 
+‹Packaging configuration I› 
+‹ packaging configuration II› 
+ 
+ 
+ 
+‹Add/delete as many rows as necessary› 
+Stability studies (production batches) 
+‹ Packaging configuration I› 
+ 
+ 
+ 
+‹ Packaging configuration II› 
+(Add/delete as many rows as necessary) 
+Validation studies (primary batches) 
+‹ Packaging configuration I› 
+‹ Packaging configuration II› 
+(Add/delete as many rows as necessary) 
+ 
+ 
+ 
+ 
+ 
+79
+Validation studies (at least the first three consecutive 
+production batches) version(s) for process validation 
+protocol(s) 
+ 
+ Summary of batch numbers: 
+Summary of formulations and discussion of any differences: 
+Component 
+and 
+quality 
+standard (e.g. 
+NF, 
+BP, 
+Ph.Eur, 
+in-
+house) 
+Relevant batches 
+Comparative 
+bioavailability 
+or biowaiver 
+Stability 
+Process 
+validation 
+Commercial 
+(2.3.P.1) 
+<Batch 
+nos. 
+and sizes> 
+<Batch nos. 
+and sizes> 
+<Batch nos. 
+and sizes> 
+<Batch nos. 
+and sizes> 
+Theor. 
+quantity 
+per batch 
+% Theor. 
+quantity 
+per 
+batch 
+% Theor. 
+quantity 
+per 
+batch 
+% Theor. 
+quantity 
+per batch 
+% 
+<complete with appropriate titles e.g. Core tablet (Layer 1, Layer 2, etc. as 
+applicable), Contents of capsule, Powder for injection> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subtotal 1 
+<complete with appropriate title e.g. Film-coating > 
+Subtotal 2 
+Total 
+ 
+2.3.P.3 Manufacture 
+2.3.P.3.1 Manufacturer(s) 
+a) Name, address and responsibility (e.g. fabrication, packaging, labelling, 
+testing) of each manufacturer, including contractors and each proposed 
+production site or facility involved in manufacturing and testing: 
+Name 
+and 
+address 
+(include 
+block(s)/unit(s)) 
+Name 
+and 
+address 
+(include 
+block(s)/unit(s)) 
+ 
+ 
+ 
+ 
+80
+ 
+ 
+ 
+ 
+ 
+ 
+2.3.P.3.2 Batch Formula 
+Largest intended commercial batch size: 
+Other intended commercial batch sizes: 
+<information on all intended commercial batch sizes should be in the 
+QIS> 
+a) List of all components of the FPP to be used in the manufacturing 
+process and their amounts on a per batch basis (including 
+components of mixtures prepared in-house (e.g. coatings) and 
+overages, if any): 
+Strength (label claim) 
+Master 
+production 
+document 
+reference 
+number 
+and/or version 
+Proposed 
+commercial 
+batch 
+size(s) (e.g. number 
+of dosage units) 
+Component 
+and 
+quality standard 
+(and 
+grade, 
+if 
+applicable) 
+Quantity per 
+batch 
+(e.g. 
+kg/batch) 
+Quantity per 
+batch 
+(e.g. 
+kg/batch) 
+Quantity per 
+batch 
+(e.g. 
+kg/batch) 
+<complete with appropriate titles e.g. Core tablet (Layer 1, Layer 2, etc. as 
+applicable), Contents of capsule, Powder for injection> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subtotal 1 
+ 
+ 
+ 
+<complete with appropriate title e.g. Film-coating > 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+81
+Subtotal 2 
+ 
+ 
+ 
+Total 
+ 
+2.3.P.3.3 Description of Manufacturing Process and Process Controls 
+a) Flow diagram of the manufacturing process: 
+b) Narrative description of the manufacturing process, including 
+equipment type and working capacity, process parameters: 
+2.3.P.3.4 Controls of Critical Steps and Intermediates 
+a) Summary of controls performed at the critical steps of the 
+manufacturing process and on isolated intermediates: 
+Step 
+(e.g. 
+granulation, 
+compression, coating) 
+Controls (parameters/limits/frequency of 
+testing) 
+ 
+ 
+ 
+ 
+ 
+Proposed/validated holding periods for intermediates (including bulk 
+product):  
+a) Summary of the process validation and/or evaluation studies 
+conducted and/or a summary of the proposed validation protocol for 
+the critical steps or critical assays used in the manufacturing process 
+(e.g. protocol number, parameters, results): 
+Document code(s) for the process validation protocol(s) and/or report(s) 
+(including reference number/version/date):  
+ 
+2.3.P.5 Control of FPP 
+2.3.P.5.1 Specification(s) 
+ 
+a) Specification(s) for the FPP: 
+Standard (e.g. Ph.Int., BP, USP, in-house) 
+ 
+ 
+82
+Specification reference number and version 
+Test 
+Acceptance 
+criteria 
+(release) 
+Acceptance 
+criteria 
+(shelf-life) 
+Analytical procedure 
+(type/source/version) 
+Description 
+Identification 
+Impurities 
+Assay 
+etc. 
+ 
+ 
+ 
+ 
+ 
+2.3.P.7 Container Closure System 
+a) Description of the container closure systems, including unit count or 
+fill size, container size or volume: 
+Description 
+(including 
+materials 
+of 
+construction) 
+Strength 
+Unit count or fill 
+size 
+(e.g. 
+60s, 
+100s etc.) 
+Container 
+size 
+(e.g. 5 ml, 100 ml 
+etc.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3.P.8 Stability 
+2.3.P.8.1 Stability Summary and Conclusions 
+ 
+b) Proposed storage statement and shelf-life (and in-use storage 
+conditions and in-use period, if applicable): 
+Container 
+closure 
+system 
+Storage statement 
+Shelf-life 
+ 
+ 
+83
+ 
+ 
+ 
+2.3.P.8.2 Post-approval Stability Protocol and Stability Commitment 
+a) Stability protocol for Primary stability batches (e.g. storage conditions 
+(including tolerances), batch numbers and batch sizes, tests and 
+acceptance criteria, testing frequency, container closure system(s)): 
+ 
+Parameter 
+Details 
+Storage condition(s) (◦C, % 
+RH) 
+ 
+Batch number(s) / batch 
+size(s) 
+<primary batches> 
+Tests 
+and 
+acceptance 
+criteria 
+Description 
+ 
+Moisture 
+Impurities 
+Assay 
+etc. 
+Testing frequency 
+  
+Container 
+closure 
+system(s) 
+  
+ 
+ 
+ 
+b) Stability protocol for Commitment batches (e.g. storage conditions 
+(including tolerances), batch numbers (if known) and batch sizes, tests 
+and acceptance criteria, testing frequency, container closure system(s)): 
+ 
+ 
+ 
+84
+Parameter 
+Details 
+Storage 
+condition(s) 
+(◦C, % RH) 
+ 
+Batch 
+number(s) 
+/ 
+batch size(s) 
+<not less than three production batches in each 
+container closure system> 
+Tests and acceptance 
+criteria 
+Description 
+Moisture 
+Impurities 
+Assay 
+etc. 
+Testing frequency 
+ 
+Container 
+closure 
+system(s) 
+ 
+c) Stability protocol for Ongoing Batches (e.g. storage conditions 
+(including tolerances), number of batches per strength and batch sizes, 
+tests and acceptance criteria, testing frequency, container closure 
+system(s)): 
+ 
+Parameter 
+Details 
+Storage condition(s) 
+(◦C, % RH) 
+Batch 
+size(s), 
+annual allocation 
+<at least one production batch per year (unless none is 
+produced that year) in each container closure system 
+> 
+Tests 
+and 
+acceptance criteria 
+Description 
+Moisture 
+ 
+ 
+85
+Parameter 
+Details 
+Impurities 
+Assay 
+ 
+etc. 
+Testing frequency 
+Container 
+closure 
+system(s) 
+ 
+2.3.P.8.3 Stability Data 
+a) Bracketing and matrixing design for commitment and/or continuing 
+(i.e. ongoing) batches, if applicable: 
+ 
+ 
+ 
+86
+ANNEX VI: VACCINE SPECIFIC REQUIREMENTS 
+ 
+For vaccine specific Requirements please refer to Below Guidelines  
+ 
+• Recommendations to assure the quality, safety and efficacy of BCG 
+vaccines, Annex 3, TRS No 979  
+• Guidelines for the production and control of inactivated oral cholera 
+vaccine, Annex 3, TRS No 924 
+• Guidelines on the quality, safety and efficacy of plasmid DNA vaccines, 
+Annex 2, TRS No 1028 
+• Recommendations to assure the quality, safety and efficacy of DT-based 
+combined vaccines, Annex 6, TRS No 980 
+• Guidelines on the quality, safety and efficacy of dengue tetravalent 
+vaccines (live, attenuated), Annex 2, TRS No 979 
+• Recommendations to assure the quality, safety and efficacy of diphtheria 
+vaccines (adsorbed), Annex 4, TRS No 980 
+• Guidelines for assuring the quality and non-clinical safety evaluation of 
+DNA vaccines, Annex 1, TRS 941 
+• Guidelines on the quality, safety and efficacy of Ebola vaccines, Annex 
+2, TRS No 1011 
+• Recommendations to assure the quality, safety and efficacy of 
+enterovirus 71 vaccines (inactivated), Annex 3, TRS No 1030 
+• Recommendations for the production & control of Hemophilus influenzae 
+type b conjugate vaccines, Annex 1, TRS No 897 
+• Recommendations to Assure the Quality, Safety and Efficacy of 
+Recombinant Hepatitis B Vaccines, Annex 4, TRS No 978 
+• Recommendations to assure the quality, safety and efficacy of influenza 
+vaccines (human, live attenuated) for intranasal administration, Annex 
+4, TRS No 977 
+• Guidelines on the quality, safety and efficacy of recombinant malaria 
+vaccines targeting the pre-erythrocytic and blood stages of Plasmodium 
+falciparum, Annex 3, TRS No 980 
+• Recommendations for the production and control of Meningococcal 
+group C conjugate vaccines, Annex 2, TRS No 924 
+• Guidelines for the safe production and quality control of poliomyelitis 
+vaccines, Annex 4, TRS No 1016 
+• Guidelines for the safe production and quality control of poliomyelitis 
+vaccines, Annex 3, TRS No 1028 
+• Guidelines on the quality, safety and efficacy of respiratory syncytial 
+virus vaccines, Annex 2, TRS No 1024 
+• Recommendations to assure the quality, safety and efficacy of tetanus 
+vaccines (adsorbed), Annex 5, TRS No 980 
+• Recommendations to assure the quality, safety and efficacy of typhoid 
+conjugate vaccines, Annex 2, TRS No 1030 
+• Recommendations to assure the quality, safety and efficacy of live 
+attenuated yellow fever vaccines, Annex 5, TRS No 978 
+ 
+ 
+ 
+87
+To access the above stated WHO Technical Report Series documents please 
+click here 
+ 
+ 
+ 
+ 

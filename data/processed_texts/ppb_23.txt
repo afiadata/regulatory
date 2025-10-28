@@ -1,0 +1,5058 @@
+HPT/PER/GUD/032 
+Revision No: 002 
+ 
+ 
+ 
+MINISTRY OF HEALTH 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+ 
+ 
+ 
+GUIDELINE FOR SUBMISSION OF VARIATION APPLICATIONS 
+FOR REGISTERED HUMAN VACCINES 
+ 
+                        
+                   
+ 
+ 
+ 
+ 
+ 
+FEBRUARY, 2024 
+ 
+ 
+ 
+Citation  
+ 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on the condition that the recommended citation below 
+is made. 
+ 
+Recommended citation: Republic of Kenya, Ministry of Health, Pharmacy and 
+Poisons Board, Guideline for Submission of Variation Applications for 
+Registered Human Vaccines, Version number 2, 2024 
+ 
+ 
+All rights reserved: 
+ 
+ 
+©Pharmacy and Poisons Board, 2024 
+ 
+For clarifications, comments, or suggestions, please contact: 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+Website: www.pharmacyboardkenya.org 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ii
+Table of Contents 
+ABBREVIATIONS AND ACRONYMS ............................................................. iv 
+GLOSSARY.................................................................................................... v 
+ACKNOWLEDGEMENTS ............................................................................. xv 
+1.0 
+INTRODUCTION ................................................................................... 1 
+1.1 
+Legal Framework ............................................................................... 1 
+1.2 
+Scope ................................................................................................ 2 
+1.3 
+Objectives .......................................................................................... 2 
+2.0 
+APPLICATION FOR VARIATION OF A REGISTERED HUMAN 
+VACCINES .................................................................................................... 3 
+2.1 
+Payment of Fees ................................................................................ 3 
+3.0 
+GENERAL GUIDANCE .......................................................................... 4 
+3.1 
+Reporting Types ................................................................................ 5 
+3.1.1. Notification (N) .............................................................................. 5 
+3.1.2.  Minor variation (Vmin) ................................................................. 5 
+3.1.4.  New applications .......................................................................... 6 
+3.1.5. Reliance Mechanisms in Handling Variations ............................... 6 
+3.2. Conditions to be Fulfilled .................................................................... 7 
+3.3. Documentation Required .................................................................... 7 
+3.4 Reporting Types for Safety, Efficacy, and/or Product Labeling 
+Information Changes.................................................................................. 8 
+3.5 
+Application Process ......................................................................... 10 
+3.6 
+Special Considerations .................................................................... 10 
+3.6.1   Adjuvants ................................................................................... 10 
+3.6.2   Influenza vaccines ...................................................................... 11 
+3.6.3 Bridging studies ........................................................................... 12 
+3.7    Summary of changes ...................................................................... 12 
+3.7.1 Administrative changes ................................................................ 12 
+ 
+iii 
+ 
+3.7.2 Changes to the antigen ................................................................ 14 
+3.7.3 Manufacture ................................................................................ 14 
+3.7.4 Change in equipment used .......................................................... 21 
+3.7.6 Control of the antigen .................................................................. 24 
+3.7.7 Reference standards or materials ................................................. 26 
+3.7.8 Container closure system ............................................................. 26 
+3.7.9 Stability of the drug substance or intermediate ........................... 28 
+3.7.10 Changes to the final product ...................................................... 30 
+3.7.11 Manufacture .............................................................................. 35 
+3.7.12      Change in the final product manufacturing process ............. 36 
+3.7.13 Control of the final product ........................................................ 42 
+3.7.14 Change in the specification used to release the final product .... 42 
+3.7.15 Reference standards or materials ............................................... 44 
+3.7.16 Container closure system ........................................................... 44 
+4.0 
+REFERENCES .................................................................................... 52 
+5.0 
+REVISION HISTORY ........................................................................... 53 
+6.0 
+APPENDICES ..................................................................................... 55 
+Appendix I: Safety and efficacy changes ................................................... 55 
+Appendix II: Examples of changes that make a new application necessary
+ ................................................................................................................ 58 
+Annex I: Application for Submission of Variation ..................................... 59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+ 
+ABBREVIATIONS AND ACRONYMS 
+CTD 
+Common Technical Dossier (CTD)  
+EAC  
+East Africa Community  
+EMA  
+European Medicines Agency   
+GMP  
+Good Manufacturing Practices  
+ICH  
+International 
+Council 
+on 
+Harmonization 
+of 
+Technical 
+Requirements for Registration of Human Medicinal Product 
+MCB  
+Master Cell Bank  
+MMR  
+Measles-Mumps-Rubella  
+MRH  
+Medicines Regulation Harmonization  
+NMRA 
+National Medicines Regulatory Authority  
+SDRAs 
+Stringent Drug Regulatory Authorities 
+SOP  
+Standard Operating Procedure  
+TSE 
+Transmissible spongiform encephalopathies 
+Vmaj 
+Major Variation 
+Vmin 
+Minor Variation 
+VVM   
+Vaccine Vial Monitor   
+WHO  
+World Health Organization 
+QAO 
+Quality Assurance Officer  
+PPB 
+Pharmacy and Poisons Board  
+                                                
+                                           
+      
+ 
+ 
+ 
+     
+                
+ 
+ 
+v 
+ 
+GLOSSARY  
+ 
+Adjuvant 
+A substance or combination of substances used in 
+conjunction with a vaccine antigen to enhance (for example, 
+increase, accelerate, prolong and/or possibly target) or 
+modulate a specific immune response to the vaccine antigen 
+in order to enhance the clinical effectiveness of the vaccine.  
+ 
+Antigen  
+The following definitions for an antigen apply in this 
+document:  
+a) The active ingredient in a vaccine against which the 
+immune response is induced. Antigens may be: (a) 
+live attenuated or inactivated preparations of 
+bacteria, viruses, or parasites; (b) crude cellular 
+fractions or purified antigens, including recombinant 
+proteins (that is, those derived from recombinant 
+DNA expressed in a host cell); (c) polysaccharides and 
+conjugates 
+formed 
+by 
+covalent 
+linkage 
+of 
+polysaccharides to components such as mutated or 
+inactivated proteins and/or toxoids; (d) synthetic 
+antigens; (e) polynucleotides (such as plasmid DNA 
+vaccines); or (f) living vectored cells expressing 
+specific heterologous antigens. Also referred to as 
+“immunogen” in other documents.  
+b) Also used to describe (a) a component that may 
+undergo chemical change or processing before it 
+becomes the antigen or active ingredient used to 
+formulate the final product (also referred to as an 
+“intermediate” in other documents), or (b) an active 
+ingredient present in an unmodified form in the final 
+product (also referred to as “drug substance” or 
+“active substance” in other documents). For example, 
+in this document, the term “antigen” applies, in the 
+case of a polysaccharide conjugated vaccine, to the 
+ 
+vi 
+ 
+polysaccharide intermediate as well as to the 
+conjugated polysaccharide that will not undergo 
+further modification prior to formulation.  
+ 
+Applicant 
+For the purpose of this document, the term applicant refers 
+to any person or entity who has participated in the 
+procedure for registration of vaccines by submission of the 
+required documentation on a product that has been listed 
+after evaluation as registered.  
+ 
+Authority 
+For the purpose of this document, the term authority refers 
+to Pharmacy and poisons board (PPB)  
+ 
+Cell bank  
+A collection of vials of cells of uniform composition (though 
+not necessarily clonal) derived from a single tissue or cell 
+and used for the production of a vaccine directly or via a 
+cell bank system. The following terms are used in these 
+Guidelines – master cell bank (MCB): a bank of a cell-
+substrate from which all subsequent cell banks used for 
+vaccine production will be derived. The MCB represents a 
+well-characterized collection of cells derived from a single 
+tissue or cell; and working cell bank (WCB): a cell bank 
+derived by the propagation of cells from an MCB under 
+defined conditions and used to initiate the production of cell 
+cultures on a lot-by-lot basis. Also referred to as 
+“manufacturer’s working cell bank” in other documents.   
+ 
+Change  
+Refers to a change that includes, but is not limited to, the 
+product composition, manufacturing process, quality 
+controls, 
+equipment, 
+facilities, 
+or 
+product 
+labeling 
+information made to an approved MA or license by the MA 
+holder. Also referred to as “variation” in other documents. 
+Comparability 
+study 
+The activities, including study design, conducting of 
+studies, and data evaluation are designed to investigate 
+ 
+vii 
+ 
+whether the pre- and post-change products are comparable. 
+In addition to routine analysis performed during production 
+and control of the antigen or final product, these 
+evaluations 
+typically 
+include 
+a 
+comparison 
+of 
+manufacturing process steps and parameters impacted by 
+the change, characterization studies, and an evaluation of 
+product stability following the change. In some cases, 
+nonclinical or clinical data might contribute to the 
+conclusion reached.  
+ 
+Comparability 
+protocol   
+ 
+Establishes the tests to be done and acceptable limits to be 
+achieved to demonstrate the lack of a negative effect of 
+specific 
+manufacturing 
+changes 
+on 
+the 
+safety 
+or 
+effectiveness of the product. A comparability protocol is a 
+highly 
+specific, 
+well-defined 
+plan 
+for 
+the 
+future 
+implementation of quality (that is, manufacturing) change. 
+Also referred to as “post-approval change management 
+protocol” in other documents.  
+ 
+Container 
+closure 
+system  
+ 
+Refers to the following components: (a) a primary container 
+closure system is a packaging component (for example, a 
+vial or pre-filled syringe) that is in, or may come into, direct 
+contact with the final product dosage form, or components 
+that contribute to the container/closure integrity of the 
+primary packaging material for a sterile product; and (b) a 
+secondary container closure system is a packaging 
+component (for example, a carton or tray) that is not, and 
+will not be, in direct contact with the dosage form.  
+ 
+Dosage form  
+ 
+In this document “dosage form” refers to the physical form 
+in which a pharmaceutical product is presented by the 
+manufacturer (a form of presentation) and the form in 
+ 
+viii 
+ 
+which it is administered (a form of administration). Also 
+referred to as “pharmaceutical form” in other documents.  
+Drug product: See immunogenic product  
+Drug substance: See immunogenic substances  
+ 
+EAC 
+East African Community  
+Excipient   
+Any component of the final product other than the active 
+component/antigen and the packaging material. Also 
+referred to as “inactive ingredient” in other documents. In 
+the context of this document, adjuvants are not considered 
+to be excipients.  
+Final lot   
+ 
+A collection of sealed final containers that are homogeneous 
+with respect to the composition of the product and the risk 
+of contamination during filling. A final lot must therefore 
+have been filled from a formulated bulk in one continuous 
+working session.  
+Final product  
+A finished dosage form (for example, suspension or 
+lyophilized cake) that contains an active ingredient, 
+generally but not necessarily in association with inactive 
+ingredients (excipients) or adjuvants. Also referred to as 
+“finished product” or “drug product” in other documents.  
+Formulated 
+bulk  
+ 
+An intermediate in the drug product manufacturing 
+process, consisting of the final formulation of antigens, 
+adjuvants, and excipients at the concentration to be filled 
+into primary containers.  
+ 
+Immunogenic 
+Substance   
+An immunogenic substance is an unformulated active 
+substance that may be subsequently formulated with 
+excipients 
+to 
+produce 
+the 
+medicinal 
+product. 
+The 
+immunogenic substance may be whole bacterial cells, 
+viruses, or parasites (live or    
+A medicinal product is the finished dosage form of the 
+immunogenic substance. The medicinal product contains 
+ 
+ix 
+ 
+the immunogenic substance(s) formulated with other 
+ingredients in the finished dosage form ready for marketing. 
+Other 
+ingredients, active or 
+inactive, may 
+include 
+adjuvants, preservatives, stabilizers, and/or excipients.   
+ 
+Intermediate   
+ 
+A material produced during steps in the manufacture of a 
+vaccine undergoes further processing before it becomes the 
+final product. See the definition for Antigen above. 
+ 
+Manufacturer  
+ 
+ Any person or legal entity engaged in the manufacture of a 
+product subject to MA or licensure. In other documents, 
+“manufacturer” may also refer to any person or legal entity 
+that is an applicant or a holder of a MA or product license 
+where the applicant assumes responsibility for compliance 
+with the applicable product and establishment standards. 
+See the definition for Marketing authorization holder below.  
+ 
+Marketing 
+authorization 
+(MA)  
+A formal authorization for a medicine to be marketed. Once 
+an NMRA approves an MA application for a new medicine, 
+the medicine may be marketed and may be available for 
+physicians to prescribe. Also referred to as “product license” 
+or “license” in this and other documents.  
+ 
+Marketing 
+authorization 
+application 
+(MA 
+application)  
+A formal application to the NMRA for approval to market a 
+new medicine. The purpose of the MA application is to 
+determine whether the medicine meets the statutory 
+standards for safety, effectiveness, product labeling 
+information, and manufacturing. Also referred to as “license 
+application” in other documents.  
+ 
+Marketing 
+authorization 
+Any person or legal entity that has received MA or licensure 
+to manufacture and/or distribute a medicine. It also refers 
+to a person or legal entity allowed to apply for a change to 
+ 
+x 
+ 
+holder 
+(MA 
+holder)  
+the MA or license. Also referred to as the “manufacturer” or 
+“applicant” in this and other documents.  
+NMRA  
+National Medicines Regulatory Agency  
+Officially 
+recognized 
+pharmacopeia 
+(or 
+compendium)  
+Those pharmacopeias recognized by EAC Partner State’s 
+NMRAs (i.e. The International Pharmacopoeia (Ph.Int.), the 
+European 
+Pharmacopoeia 
+(Ph.Eur.), 
+the 
+British 
+Pharmacopoeia (BP), the Japanese Pharmacopoeia (JP) and 
+the United States Pharmacopeia (USP)).  
+ 
+Product 
+labeling 
+information  
+Printed materials that accompany a prescription medicine 
+and all labeling items, namely: (a) prescribing information 
+(an instruction circular that provides product information 
+on the indication, dosage, and administration, safety and 
+efficacy, contraindications, and warnings, along with a 
+description of the product for health care providers (also 
+referred to as “summary of product characteristics” or 
+“package insert” in various countries); (b) patient labeling 
+or consumer information; (c) inner label or container label; 
+and (d) outer label or carton.  
+Quality 
+attribute  
+A physical, chemical, biological or microbiological property 
+or characteristic. A critical quality attribute refers to a 
+characteristic or property that should be within an 
+appropriate limit, range, or distribution to ensure the 
+desired product quality.  
+  
+Quality 
+change  
+ 
+In the context of this document, quality change refers to a 
+change in the manufacturing process, product composition, 
+quality control testing, equipment, or facility. Also referred 
+to as “chemistry manufacturing and control (CMC) change” 
+in other documents.  
+ 
+ 
+xi 
+ 
+Raw materials  
+ 
+A general term used to denote reagents or solvents intended 
+for 
+use 
+in 
+the 
+production 
+of 
+starting 
+materials, 
+intermediates, or final products. 
+Seed lot  
+ 
+Preparation of live cells (prokaryotic or eukaryotic) or 
+viruses constituting the starting material for the vaccine 
+antigen. A seed lot is of uniform composition (although not 
+necessarily clonal), is derived from a single culture process, 
+and is aliquoted into appropriate storage containers, from 
+which all future vaccine production will be derived either 
+directly or via a seed lot system.  
+The following derived terms are used in these Guidelines – 
+master seed lot (MSL): a lot or bank of cells or viruses from 
+which all future vaccine production will be derived. The 
+MSL represents a well-characterized collection of cells or 
+viruses of uniform composition. Also referred to as “master 
+virus seed” for virus seeds, “master seed bank” or “master 
+seed antigen” in other documents; and working seed lot 
+(WSL): a cell or viral seed lot derived by propagation from 
+the MSL under defined conditions and used to initiate 
+production of vaccines on a lot-by-lot basis. Also referred to 
+as “working virus seed” for virus seeds, “working seed bank” 
+or “working seed antigen” in other documents.   
+ 
+Specification  
+The quality standard (that is, tests, analytical procedures, 
+and 
+acceptance 
+criteria) 
+provided 
+in 
+an 
+approved 
+application to confirm the quality of antigens (drug 
+substances), final products (drug products), intermediates, 
+raw materials, reagents, components, in-process materials, 
+container closure systems and other materials used in the 
+production of the antigen (drug substance) or final product 
+(drug product). For this definition, acceptance criteria mean 
+numerical limits, ranges, or qualitative criteria for the 
+applied tests.  
+ 
+xii 
+ 
+Starting 
+material  
+Any material used at the beginning of the manufacturing 
+process, as described in an MA or product license. 
+Generally, the term refers to a substance of defined 
+chemical properties and structure that contributes an 
+important and/or significant structural element (or 
+elements) to the active substance (for example in the case 
+of vaccines, synthetic peptides, synthetic glycans, and 
+starting materials for adjuvants). The starting material for 
+an antigen (drug substance) obtained from a biological 
+source 
+is 
+considered 
+to 
+consist 
+of: 
+(a) 
+cells; 
+(b) 
+microorganisms; (c)plants, plant parts, macroscopic fungi 
+or algae; or (d) animal tissues, organs or body fluid from 
+which the antigen (drug substance) is derived.  
+Stringent 
+regulatory 
+authority 
+(SRA)  
+A National Medicines Regulatory Authority which is strict, 
+precise, and exact with effective and well-functioning 
+systems.  Among others, it includes regulatory authorities 
+which are: -  
+• Members or observers or associates (before 2015) of the 
+International Council for Harmonization of Technical 
+Requirements for Registration of Pharmaceuticals for 
+Human Use (ICH)   
+• European Union member States (Austria, Belgium, 
+Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, 
+Finland, France, Germany, Greece, Hungary, Ireland, 
+Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, 
+Portugal, Romania, Slovak Republic, Slovenia, Spain, 
+Sweden, The Netherlands, and United Kingdom  
+• Japan  
+• United States  
+•  Observers:   for ICH European Free Trade Association 
+(EFTA) represented by Swiss Medic of Switzerland, and 
+Health Canada (as may be updated from time to time). 
+ 
+xiii 
+ 
+• Associates: through mutual recognition agreements: 
+Australia, Norway, Iceland, and Liechtenstein (as may be 
+updated from time to time).  
+• For medicines used exclusively outside the ICH region, 
+positive opinions or tentative approval under any of the 
+following three special regulatory schemes are recognized 
+as stringent approval: -  
+• Article 58 of European Union Regulation (EC) No. 
+726/2004  
+• Canada S.C. 2004, c. 23 (Bill C-9) procedure  
+• United States FDA tentative approval (for antiretroviral 
+under the PEPFAR program)  
+• A regulatory Authority that has been WHO listed to have 
+effective and well-functioning medicines regulation 
+systems.   
+Supplement:   
+Written request submitted to the NMRA to approve a change 
+in the original application for MA (or product license) or any 
+other notification to add to (that is, supplement) the 
+information in the original MA or product license file. A prior 
+approval supplement (PAS) is a supplement requiring 
+approval from the NMRA before implementation of the 
+change. Also referred to as “change application dossier” in 
+other documents.  
+Vaccine  
+A preparation containing antigens capable of inducing an 
+active immune response for the prevention, amelioration, or 
+treatment of infectious diseases.  
+ 
+Vaccine 
+efficacy  
+The relative reduction in disease incidence or severity in 
+vaccinated 
+individuals 
+compared 
+to 
+unvaccinated 
+individuals was measured in a randomized, placebo-
+controlled clinical trial. In the context of these Guidelines, 
+vaccine efficacy has a broad meaning and relates to all 
+ 
+xiv 
+ 
+clinical 
+data 
+obtained 
+to 
+ensure 
+vaccine 
+efficacy, 
+immunogenicity, or field effectiveness.  
+ 
+WHO 
+Listed 
+Authority 
+(WLA) 
+A WHO Listed Authority (WLA) is a regulatory authority (RA) 
+or a regional regulatory system (RRS) that complies with all 
+the relevant indicators and requirements specified by WHO 
+for regulatory capability as defined by an established 
+benchmarking and performance evaluation process. A 
+regulatory authority provides the framework that supports 
+the WHO recommended regulatory functions. This is the 
+authority and affiliated institutions that are responsible for 
+regulatory oversight of medical products in a given country 
+or region and in charge of assuring the quality, safety and 
+efficacy of medical products as well as ensuring the 
+relevance and accuracy of product information. 
+ 
+ 
+ 
+xv 
+ 
+ACKNOWLEDGEMENTS 
+List Of Contributors 
+Dr. Jonathan Meriakol 
+ Head Biological Products Registration, PPB 
+Dr. Ali Arale 
+Chief Principle Regulatory Officer, Product Evaluation and   
+ Registration (DPER) Department 
+Dr. Vallarie Khamira 
+Product Evaluation and Registration Department, PPB 
+Dr.Gitobu Kireran 
+Product Evaluation and Registration Department, PPB 
+Reviewers 
+Dr. Ahmed Mohamed 
+Director Health Products and Health Technologies, 
+PPB 
+ 
+Dr. Kariuki Gachoki 
+Deputy Director, Health Products &amp;  
+Health Technologies, PPB 
+ 
+Dr. Felistas Chepwogen 
+Product Evaluation and Registration Department,PPB 
+Dr. Sarah Chesaro 
+Product Evaluation and Registration Department,PPB 
+Dr. Burugu K. Edwin 
+Product Evaluation and Registration Department,PPB 
+Dr.Purity Mutinda 
+Product Evaluation and Registration Department, PPB 
+ 
+Dr.Ann Tibin 
+Product Evaluation and Registration Department, PPB 
+ 
+Dr.Lucy Ochola 
+ 
+Head Department of Infectious Diseases Kenya Institute  
+of Primate Research 
+Mr. Alex Mutai- 
+Product Evaluation and Registration Department,PPB 
+Mr. Anthony Kemboi 
+Quality Management Systems, PPB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+1.0 
+INTRODUCTION 
+ 
+Changes to a registered vaccine may be inevitable during its lifecycle and 
+such changes may span from administrative to other substantial changes 
+that enable a registered vaccine to be manufactured and controlled by 
+methods that are scientifically relevant throughout its lifecycle.   
+The variation guideline is intended to guide applicants on the conditions to 
+fulfil and the type of documentation to provide before a proposed change can 
+be approved. Three categories of changes that require an application for 
+variation are described in the guidelines. The changes are Notifications (N), 
+Minor changes (Vmin), and Major changes (Vmaj).  
+Technical requirements for the different types of variations are set out in this 
+guideline in order to facilitate the submission of appropriate documentation 
+by applicants and their assessment by the Authority and to ensure that 
+variations to the Vaccines do not result in health concerns. 
+PPB reserves the right to request information or material, or define conditions 
+not explicitly described in this guideline, to allow for adequate assessment of 
+proposed change in relation to the quality, safety, and efficacy of a registered 
+vaccine.   
+Technical requirements for the different types of variations are set out in this 
+guideline in order to facilitate the submission of appropriate documentation 
+by applicants and their assessment by the Authority and to ensure that 
+variations to the Vaccines do not result in health concerns. 
+Applicants are urged to read and follow these guidelines fully so that 
+applications for variations to registered vaccines meet submission 
+requirements as outlined in these guidelines.  
+ 
+1.1 
+Legal Framework 
+In accordance with Cap 244, Section 3B, Subsection (2)(i), the Board is 
+empowered to evaluate applications for approval and modifications of 
+dossiers intended for the marketing authorization of medicinal substances. 
+ 
+2 
+ 
+The Pharmacy and Poisons Board (PPB) will ensure that vaccine variation 
+applications submitted for 
+market authorization comply with the 
+requirements outlined in the applicable technical guidelines, policies, laws, 
+legal frameworks, manuals, and procedures in Kenya.  
+1.2 
+Scope 
+This guideline applies to applicants intending to make changes in the 
+production, quality control, indications, or other changes to a registered 
+vaccine. This includes the antigenic substance responsible for eliciting an 
+immune response in the human body. This guideline should be read in 
+conjunction with other applicable guidelines including the PPB Guidelines 
+for Registration of Human Vaccines. 
+1.3 
+Objectives 
+This guideline is intended to:  
+a) assist applicants with the classification of changes made to a registered 
+vaccine;   
+b) guide the technical and other general data requirements to support 
+changes that may potentially impact the quality, safety, and efficacy 
+attributes of a registered vaccine.  
+ 
+ 
+ 
+3 
+ 
+2.0 
+APPLICATION FOR VARIATION OF A REGISTERED HUMAN 
+VACCINES  
+All applications for variation to a registered vaccines shall be made according 
+to requirements stipulated in this Guideline and clearly outlined in the 
+Variation application form (refer to the variation application form for 
+Registered products)   
+2.1 
+Payment of Fees   
+Every application shall be accompanied by requisite fees at the time of 
+application except for PSURS. Any application that will not be accompanied 
+by requisite fees will not be accepted.  
+Mode of Payment: Payments by crossed or bankers’ cheque shall be made 
+payable to PHARMACY AND POISONS BOARD. Any variation irrespective of 
+whether a notification, minor or major variation will attract a fee as prescribed 
+by the Board as per the service charter. 
+ 
+Timelines for Evaluations of applications for Variations 
+Information on timelines for evaluations of variation applications is available  
+in the Pharmacy and Poisons Board service charter.  
+The customer service delivery charter is available on the board’s website: 
+https://web.pharmacyboardkenya.org/download/customers-service-
+delivery-charter/ 
+ 
+ 
+ 
+4 
+ 
+3.0 
+GENERAL GUIDANCE 
+Applicants should be aware that some variations may require the submission 
+of additional consequential variations. Therefore, for any given change the 
+applicant should consider if one or more variations may be required to be 
+submitted.  
+If the applicant is uncertain about the classification of a variation, or the 
+change has not been cited in this guideline, they should seek clarification via 
+email from the PPB prior to submission. Any change not cited in this 
+guideline, shall be decided on a case-by-case basis. 
+ 
+Any application found to be misclassified with a lower variation risk to 
+bypass regulatory scrutiny will be rejected. The applicant will be required to 
+reapply and pay the initial application fee in full.   
+If changes to the dossier only concern editorial changes, such changes need 
+not be submitted as a separate variation but can be included as a notification 
+together with a subsequent variation concerning that part of the dossier. In 
+such a case, a declaration should be provided that the content of the 
+concerned part of the dossier has not been changed by the editorial changes 
+beyond the substance of the variation submitted.    
+Grouping of variations is acceptable only when variations are consequential 
+to each other, e.g. introduction of a new impurity specification that requires 
+a new analytical procedure. For classification, an application involving two 
+or more types of variations will be considered as the highest risk type, e.g. a 
+variation grouping both a minor change and a major change will be classified 
+as a major change. 
+For this document 'test procedure' has the same meaning as 'analytical 
+procedure' and 'limits' has the same meaning as 'acceptance criteria. 
+'Specification parameter' means the quality attribute for which a test 
+procedure and limits are set, e.g. assay, identity, and water content. The 
+addition or deletion of a specification parameter, therefore, includes its 
+corresponding test method and limits.   
+ 
+5 
+ 
+It is encouraged that all queries raised are addressed comprehensively. If the 
+change is not considered satisfactory, within three cycles of the additional 
+review after first assessment, the application will be rejected and the 
+applicant will be required to make a new application. This will be notified, 
+through email correspondence to the applicant. 
+3.1 
+Reporting Types 
+3.1.1. Notification (N)  
+Annual notification (AN)  
+Applicants must satisfy themselves that they meet all of the prescribed 
+conditions for the change. The change should be summarized as part of the 
+notification but the indicated documentation is not required to be submitted. 
+The documentation indicated for ANs should be available on request or at the 
+time of inspection. ANs should be submitted to PPB within 12 months of 
+implementation of the changes.  
+ 
+Immediate notification (IN)  
+Applicants must satisfy themselves that they meet all of the prescribed 
+conditions for the change and submit all required documentation with the 
+notification application. Such changes can be implemented immediately at 
+the time of submission and they can be considered accepted if an objection is 
+not issued by the Authority within 30 working days from the date of 
+acknowledgement of receipt of the application.  
+ 
+3.1.2.  Minor variation (Vmin)  
+Minor variations are changes that may have minor effects on the overall 
+safety, efficacy and quality of the FPP. Applicants must satisfy themselves 
+that they meet all of the prescribed conditions for the change and submit all 
+required documentation with the variation application.  
+ 
+Such variations shall only be implemented upon receipt of a formal letter of 
+acceptance from the PPB.  
+ 
+Minor variations shall be evaluated in accordance with the Customer Service 
+Delivery Charter, which is available on the Board’s website.  
+ 
+6 
+ 
+ 
+3.1.3.  Major variation (Vmaj)  
+Major variations are changes that could have major effects on the overall 
+safety, efficacy and quality of the FPP. The documentation required for the 
+changes included in this reporting type should be submitted. Prior acceptance 
+by PPB is required before the changes can be implemented. An approval of 
+the change will be issued for all major variations when the variation is 
+considered acceptable. Major variations shall be evaluated as per customer 
+service delivery charter which is available on the board’s website.  
+ 
+The applicant(s) are advised that all variations to registered products must be 
+submitted in strict accordance with this guideline. If the applicant is 
+uncertain about the classification of a variation, seek clarification via email 
+from the PPB prior to submission. Any application found to be misclassified 
+with a lower variation risk to bypass regulatory scrutiny will be rejected. The 
+applicant will be required to reapply and pay the initial application fee in full.  
+ 
+It is encouraged that all queries raised are addressed comprehensively. If the 
+change is not considered satisfactory, within three cycles of the additional 
+review after first assessment, the application will be rejected and the applicant 
+will be required to make a new application. This will be notified, through email 
+correspondence to the applicant. 
+3.1.4.  New applications 
+Certain changes are so fundamental that they alter the terms of the accepted 
+dossier and consequently cannot be considered as changes.  For these cases, 
+a new dossier must be submitted. Examples of such changes are listed in 
+Appendix 2. 
+3.1.5. Reliance Mechanisms in Handling Variations 
+For an application to be assessed through reliance, the change must be 
+approved by WHO listed authority (WLA). The following conditions and 
+documentation shall be fulfilled. 
+ 
+7 
+ 
+a) All Conditions and documentation will be required as per variations codes 
+selected along with a copy of the reference SRA/ WHO decision or other 
+document confirming the final decision of the reference SRA/WHO. 
+b) Confirmation letter that the information (variation dossier) submitted to 
+the PPB is the same as that submitted to reference SRA/WHO for the 
+variation.  
+Whenever FPPs have been registered on the basis of approval by a WHO listed 
+authority (WLA) (innovator products or generic products) or WHO 
+prequalification, subsequent applications for variations should also be 
+approved by the same WLA and WHO PQP, respectively, and the Board shall 
+be notified of the approval of the changes and the applicant shall submit 
+proof of approval of such changes from the respective agency, if applicable.  
+For products formerly registered by PPB and subsequently approved by 
+WLAs, the variation(s) shall be approved based on submission of letter of 
+approval of the variation(s), from the WLAs. 
+For further Guidance Please refer to Guidance on Reliance Mechanisms for 
+Marketing Authorization of Health Products and Technologies in Kenya  
+3.2. Conditions to be Fulfilled 
+For each variation, attempts have been made to identify particular 
+circumstances where lower reporting requirements (N, or Vmin) are possible. 
+A change that does not meet all of the conditions stipulated for these specific 
+circumstances is considered to be a major variation.  
+In some circumstances, Vmaj categories have been specifically stated for a 
+given variation. This has been done to indicate to applicants what documents 
+should be considered to be provided. This is for informational purposes only.  
+3.3. Documentation Required 
+For each variation, certain documents have been identified as supporting 
+data.  Regardless of the documents specified, applicants should ensure that 
+they have provided all relevant information to support the variation.  
+a) 
+A variation application form (a template can be downloaded from 
+the website). All sections of this form shall be completed and the 
+document signed. Electronic versions of the application form, both 
+ 
+8 
+ 
+as a Word document and a scanned signed PDF file, shall be 
+provided; 
+b) 
+Replacement of the relevant sections of the dossier;  
+c) 
+Copies of SmPC, PIL, and labels, if relevant.  
+For all changes, it remains the responsibility of the applicant to provide all 
+necessary documents to demonstrate that the change does not have a 
+negative effect on the safety, efficacy, or quality of the vaccine.  
+The list of documentation is not intended to be comprehensive and further 
+documentation may be required.  
+3.4 Reporting Types for Safety, Efficacy, and/or Product Labeling 
+Information Changes 
+After assessing the effect of a change related to clinical use or product 
+labeling information on the safe and effective use of a vaccine, MA holders 
+should classify this change as belonging to one of the following categories:  
+a) A safety and efficacy change;  
+b) Product labeling information changes 
+The product labeling information includes prescribing information (or 
+package insert) for health care providers or patients, outer label (carton), and 
+inner label (container label 
+Further information on each category is provided in the following sections, 
+with examples of efficacy, safety, and product labeling information changes 
+considered to be appropriate for each category provided in Appendix 1.   
+3.4.1. Safety and efficacy changes 
+Safety and efficacy changes are changes that have an impact on the clinical 
+use of the vaccine in relation to safety, efficacy, dosage, and administration, 
+and that require data from clinical studies to support the change. Safety and 
+efficacy changes require approval before implementation.  
+Generally, safety and efficacy changes affect the product labeling information 
+and have the potential to increase or decrease the exposure levels of the 
+vaccine, either by expanding the population that is exposed or by changing 
+ 
+9 
+ 
+dosage or dosing. These changes may relate to the clinical use of the vaccine. 
+Examples of these changes are provided in Appendix 1. 
+The type and scope of the required supporting nonclinical and/or clinical 
+safety and efficacy data are determined case by case based on risk benefit 
+considerations related to the impact of the changes, the vaccine attributes 
+and the disease that the vaccine is designed to prevent. Other considerations 
+include:  
+a) Robustness of the immune response elicited by the vaccine and availability 
+of a correlate of protection (that is, data establishing a threshold of 
+antibody needed to protect against the development of disease following 
+exposure);  
+b) Availability of animal models;  
+c) Vaccine attributes (for example, live as opposed to inactivated vaccines).   
+MA holders are encouraged to consult with the board on the adequacy of the 
+clinical data needed to support a safety and efficacy change if deemed 
+necessary.   
+For a change under this category, the MA holder should submit an 
+application to the NMRA that may include the following:  
+a) Detailed description and rationale of the proposed change; 
+b) Summary of the methods used and studies performed to evaluate the effect 
+of the change on the vaccine's safety or efficacy;  
+c) Amended product labeling information;  
+d) Clinical studies (protocol, statistical analysis plan, and clinical study 
+report);  
+e) Clinical assay methods (including SOPs) and validations;  
+f) The pharmacovigilance plan.  
+ 
+3.4.2. Product labeling information changes 
+There are two types of product Labeling information changes 
+a) A product labeling information change that has impact on clinical use. 
+b) An administrative product labelling information change (in cases where 
+prior approval before implementation is needed).  
+ 
+10 
+ 
+For a change under this category, the MA holder should submit an 
+application to PPB that may include the following:  
+a)    Detailed description and rationale of the proposed change 
+b)    Pharmacovigilance reports and statistical analysis results  
+c)    Amended product labeling information.  
+Administrative product labelling information changes are changes that are 
+not expected to affect the safe and efficacious use of the vaccine. In some 
+cases, these changes may require reporting to the PPB and receipt of approval 
+prior to implementation, while in other cases reporting may not be required 
+Applications for product labeling information changes related to clinical use 
+often require data from pharmacovigilance reports ("periodic safety update 
+reports"). Changes supported by large clinical or nonclinical studies will not 
+be considered as product labelling information changes but as safety and 
+efficacy changes.  Product labeling information changes that have an impact 
+on clinical use require prior approval by PPB.  
+Examples of these changes are provided in Appendix 1.  
+3.5 
+Application Process 
+Applicants are expected to apply for variations using the variation application 
+form (Annex 1) together with a cover letter signed and dated by the MAH.  
+3.6 
+Special Considerations 
+3.6.1   Adjuvants 
+Because adjuvants are considered to be components of vaccines, each new 
+adjuvanted vaccine is considered to be a new entity that will require 
+appropriate physicochemical characterization and nonclinical and clinical 
+evaluation. It is the specific antigen-adjuvant formulation (as a whole) that 
+is tested in nonclinical and clinical trials and which receives MA or licensure 
+based on demonstration of safety and efficacy.  
+There is substantial diversity among vaccine adjuvants, antigens, and the 
+diseases they are designed to prevent. Therefore, the supporting information 
+needed for adjuvant-related changes will depend upon product-specific 
+features, clinical indications, and the impact of the change. The 
+ 
+11 
+ 
+recommendations in WHO Guidelines on the nonclinical evaluation of 
+vaccine adjuvants and adjuvanted vaccines should be followed.  
+3.6.2   Influenza vaccines 
+To ensure that influenza vaccines are effective against circulating influenza 
+viruses, WHO reviews global virological and epidemiological data twice a year, 
+and if necessary, recommends new vaccine strain(s) by the available evidence 
+for the northern and southern hemispheres, WHO and NMRAs recommend 
+the use of certain vaccine virus strains based on their antigenic 
+characteristics. Influenza vaccine viruses are usually derived from isolates 
+obtained from laboratories in the WHO Global Influenza Surveillance and 
+Response System.  
+For seasonal influenza vaccines, annual changes in the vaccine strain 
+composition are considered to be minor quality changes because of extensive 
+experience with such changes and to maximize the flexibility and brevity of 
+the review process. MA holders of approved seasonal vaccines are expected 
+to submit a supplement for a minor quality change to support annual 
+changes in the influenza strain composition. To allow for the timely 
+distribution of vaccines, NMRAs should review the supplement as part of a 
+streamlined and prompt process. The supporting quality information 
+generally consists of: (a) information on the source of the seed viruses; (b) 
+passage history until establishment of working seeds; (c) results of quality 
+release tests performed on working virus seeds (including identity 
+confirmation); and (d) specific validation data (including inactivation 
+kinetics). Generally, stability data for antigen bulks or final drug products 
+produced in the previous influenza season are expected to be submitted to 
+continuously support the approved shelf-life. In addition, updated product 
+labeling information items (package insert and inner and outer labels with 
+relevant strain composition and formula year) should be provided.   
+Changes to the manufacturing processes, posology and product labeling 
+information of influenza vaccines that are not related to the annual update 
+should follow the normal categorization process and should not be included 
+in the strain change supplements to avoid delays in the approval process. 
+Due to time constraints related to the seasonality of influenza vaccines, 
+ 
+12 
+ 
+changes that are not related to vaccine strain composition should be timed 
+such that approval will allow for vaccines manufactured with the change to 
+be distributed before the start of the influenza season.  
+3.6.3 Bridging studies 
+Clinical bridging studies are trials in which a parameter of interest (such as 
+manufacturing process, formulation, or dosing schedule) is directly 
+compared with a changed version of that parameter with respect to the effect 
+of the change on the product’s clinical performance. The comparison of 
+immune responses and safety outcomes (for example, rates of common and 
+serious AEFIs) is often the primary objective. If the immune response and 
+safety profiles are similar, the safety and efficacy of the vaccine can be 
+inferred.  
+In some cases, safety and efficacy data comparing the approved vaccine to 
+the vaccine produced with the change may be required by NMRAs. The 
+following are examples of manufacturing changes that may require clinical 
+bridging studies:  
+a) use of a new or re-derived antigen (that is, re-derived virus seed or 
+bacterial cell bank) or host cell line (that is, re-derived MCB);  
+b) new agents used for inactivation or splitting of the antigen;  
+c) a new dosage form;  
+d) a new formulation (for example, the amount of ingredients, adjuvants, 
+preservatives, 
+or 
+reactogenic 
+residual 
+components 
+from 
+the 
+manufacturing process. 
+ 
+3.7    Summary of changes 
+3.7.1 Administrative changes 
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+1a  
+Change in the name 
+and/or 
+corporate 
+address 
+of 
+the 
+Marketing 
+Authorization Holder 
+(MAH) of the vaccine    
+1  
+1  
+N  
+ 
+13 
+ 
+1b  
+Company 
+sale, 
+purchase, merger  
+2  
+1, 2, 3  
+N  
+Conditions to be fulfilled 
+1. Authorization of change from the previous MAH  
+2. The marketing authorization holder shall remain the same legal entity 
+Documentation required 
+1. A formal document from a relevant official body (e.g. the national medicines regulatory 
+authority (NMRA)) in which the new name and/or address is mentioned.  
+2. Approval for sale/purchase as per statutory requirements  
+3. Revised labelling 
+ 
+Description of change  
+Conditions to be  
+fulfilled   
+Documentation 
+required  
+Reporting type  
+2  
+Change 
+in 
+the 
+name 
+and/or 
+address 
+of 
+a 
+manufacturer 
+of 
+the vaccine  
+1  
+1,2  
+N  
+Conditions to be fulfilled 
+1. No change in the location of the manufacturing site and in the manufacturing operations. 
+Documentation required 
+1. Copy of the modified manufacturing authorization or a formal document from a relevant 
+official body (e.g., NMRA) in which the new name and/or address is mentioned.  
+2. Two (2) commercial samples/colored mock up samples with name and address of the current 
+manufacturing site 
+ 
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+3  
+Deletion of a manufacturing site or manufacturer involving:  
+  
+production, 
+packaging 
+or 
+testing 
+of 
+the 
+intermediate or  
+vaccine  
+1-2  
+1,2  
+N  
+Conditions to be fulfilled 
+1) At least one other site continues to perform the same function(s) as the site(s) intended to 
+be deleted.                 
+2) The deletion of site is not a result of critical deficiencies in manufacturing.  
+Documentation required 
+1) Clear identification of the manufacturing, packaging and/or testing site to be deleted, in 
+the letter accompanying the application.  
+2) Two (2) commercial samples/colored mock up samples of the vaccine required ONLY if 
+deleted manufacturing site appears on registered product label 
+  
+ 
+14 
+ 
+Description of change  
+Conditions to 
+be fulfilled  
+Documentation 
+required  
+Reporting type  
+ 4 
+  
+Change of Local Technical 
+Representative (LTR) 
+None  
+1-3  
+Vmaj  
+Documentation required 
+1) Letter of appointment from the product Marketing Authorization Holder  
+2) Letter of acceptance from the proposed LTR and a copy of termination notice of previous 
+LTR.  
+3) List of affected products, including registration numbers. Affected products should appear 
+on the current Drug Register.  
+ 
+Description of change  
+Conditions to 
+be fulfilled  
+Documentation 
+required  
+Reporting type  
+5 
+Change of product name 
+(brand name)   
+None   
+1,2  
+Vmin  
+Conditions to be fulfilled 
+1) Refer to EAC Guidelines on Naming of Medicinal Products  
+Documentation required 
+1) Revised product information  
+2) Approval from trademark agency within the Partner States  
+3) Two (2) commercial samples/ colored mock up samples of the product  
+3.7.2 Changes to the antigen 
+Description of change  
+Conditions to 
+be fulfilled  
+Documentation 
+required  
+Reporting type  
+1 
+Change in the name of the 
+antigen Note: This change 
+generally applies only to 
+influenza 
+vaccines 
+(see 
+section 3.6.2). 
+None   
+1,2 
+Vmin 
+Documentation required 
+1. Revised product labelling information  
+2.  Information on the proposed nomenclature of the antigen and evidence that the proposed 
+name for the antigen is recognized (for example, proof of acceptance by WHO).  
+3.7.3 Manufacture 
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+2 
+Change to an antigen manufacturing facility:  
+  
+2a 
+Replacement or 
+addition 
+of 
+a 
+manufacturing 
+facility for the 
+antigen bulk, or  
+any 
+intermediate of 
+the antigen  
+None   
+1-4, 6-8  
+Vmaj 
+1-4  
+2,4-8  
+Vmin 
+ 
+15 
+ 
+2b 
+Deletion 
+of 
+a 
+manufacturing 
+facility 
+or 
+manufacture of 
+an antigen  
+intermediate, or 
+antigen bulk 
+5-6  
+None  
+N 
+ 
+Conditions to be fulfilled 
+1) The new manufacturing facility /suite is an approved antigen manufacturing site  
+2) Any changes to the manufacturing process and/or controls are considered either minor or 
+Immediate Notification  
+3) The new facility/suite is under the same quality assurance/quality control (QA/QC) 
+oversight.  
+4) The proposed change does not involve additional containment requirements.  
+5) There should remain at least one site/manufacturer, as previously authorized, performing 
+the same function as the one(s) to be deleted.  
+6) The deletion should not be due to critical deficiencies in manufacturing (such as recurrent 
+deviations, recurrent out-of-specification events, environmental monitoring failures and so 
+on).  
+Documentation required 
+1) Evidence that the facility is GMP compliant 
+2) Name, address and responsibility of the proposed facility  
+3) Process validation study reports  
+4) Comparability of the pre-and post-change antigen with respect to physicochemical 
+properties, biological activity, purity, impurities and contaminants, as appropriate. 
+Nonclinical and/or clinical bridging studies may occasionally be required when quality data 
+are insufficient to establish comparability. The extent and nature of nonclinical and/or 
+clinical studies should be determined on a case-by-case basis, taking into consideration 
+the quality-comparability findings, the nature and level of knowledge of the vaccine, existing 
+relevant nonclinical and clinical data, and aspects of vaccine use.  
+5) Justification for the classification of any manufacturing process and/or control changes as 
+minor or Immediate Notification.  
+6) Description of the batches and summary of in-process and release testing results as 
+quantitative data, in a comparative tabular format, for at least three (3) consecutive 
+commercial-scale batches of the pre-and post-change antigen. Comparative pre-change test 
+results do not need to be generated concurrently; relevant historical testing results are 
+acceptable. Matrixing, bracketing, the use of smaller-scale batches, and/or the use of fewer 
+than 3 batches may be acceptable where justified and agreed by the NMRA.  
+7) Comparative pre-and post-change test results for the manufacturer's characterized key 
+stability indicating attributes for at least three (3) commercial-scale antigen batches 
+produced with the proposed changes under real-time/real-temperature testing conditions. 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable. The data should cover 
+a minimum of 3 months of testing unless otherwise justified. Additionally, the 
+manufacturer should commit to undertake real-time stability studies to support the full 
+shelf-life /hold-time of the antigen under its normal storage conditions and to report to the 
+NMRA any failures in these ongoing long-term stability studies. Matrixing, bracketing, the 
+use of smaller-scale batches, and/or the use of fewer than 3 batches and/or use of forced 
+degradation or accelerated temperature conditions for stability testing may be acceptable 
+where justified and agreed by the NMRA.  
+8) Updated post approval stability protocol.   
+  
+Description of change 
+Conditions 
+to 
+be fulfilled  
+Documentation 
+required 
+Reporting 
+ type 
+3 
+Change to the antigen fermentation, viral propagation or cellular 
+ 
+16 
+ 
+propagation process 
+3a 
+A critical change (a change 
+with 
+high 
+potential 
+to 
+impact the quality of the 
+antigen or final product) 
+(e.g. 
+incorporation 
+of 
+disposable 
+bioreactor 
+technology) 
+None 
+1-7, 9, 11 
+Vmaj 
+3b 
+A change with moderate 
+potential to impact quality 
+of the antigen or final 
+product (e.g. extension of 
+the in vitro cell age beyond 
+validated parameters) 
+2,4 
+1-6, 8, 10 
+Vmin 
+3c 
+A non-critical change with 
+minimal 
+potential 
+to 
+impact the quality of the 
+antigen or final product 
+(e.g. change in harvesting 
+and/or pooling procedures 
+which does not affect the 
+method of manufacture, 
+recovery, 
+intermediate 
+storage 
+conditions, 
+sensitivity of detection of 
+adventitious 
+agents, 
+or 
+production 
+scale; 
+or 
+duplication 
+of 
+a 
+fermentation train) 
+1-6, 9-11 
+1-4 
+N 
+ 
+ 
+ 
+ 
+ 
+4 
+Change to the antigen purification process involving; 
+4a 
+A critical change (a change 
+with 
+high 
+potential 
+to 
+impact the quality of the 
+antigen or final product) 
+(e.g. change that could 
+potentially impact the viral 
+clearance capacity of the 
+process or the impurity 
+profile of the antigen) 
+None 
+1,2,5-7,9,11,12 
+Vmaj 
+ 
+17 
+ 
+4b 
+A change with moderate 
+potential to impact quality 
+of the antigen or final 
+product (e.g. change in the 
+chemical 
+separation 
+method, for example ion-
+exchange HPLC to reverse 
+phase HPLC) 
+2,4 
+1,2,5-7, 10,11 
+Vmin 
+4c 
+A non-critical change with 
+minimal 
+potential 
+to 
+impact the quality of the 
+antigen or final product 
+(e.g. addition of an in-line 
+filtration step equivalent to 
+the 
+approved 
+filtration 
+step) 
+1-5 
+1,2 
+N 
+ 
+5 
+Change in scale of the manufacturing process: 
+5a 
+At the fermentation, viral 
+propagation 
+or 
+cellular 
+propagation stage 
+3-6, 11-13 
+2,3,5-7,9,11 
+Vmin 
+5b 
+At the purification stage 
+1,3,5,7 
+2,5-7,9,11 
+Vmin 
+ 
+6 
+Change in supplier of raw 
+materials/reagents 
+of 
+biological origin (e.g. fetal 
+calf 
+serum, 
+insulin, 
+human serum albumin) 
+None 
+4,8,12,13 
+Vmin 
+8 
+4,8 
+N 
+ 
+7 
+Change in source of raw 
+materials/reagents 
+of 
+biological origin 
+None 
+4,7,12,13 
+Vmin 
+8 
+4,7 
+N 
+ 
+8 
+Introduction 
+of 
+reprocessing steps 
+14 
+8,10,11,14 
+Vmin 
+Conditions to be fulfilled 
+1. No change in the principles of the sterilization procedures of the antigen 
+2. The change does not impact the viral clearance data or the chemical nature of an 
+inactivating agent. 
+3. No change in the antigen specification outside of the approved limits. 
+4. No change in the impurity profile of the antigen outside of the approved limits. 
+5. The change is not necessitated by recurring events arising during manufacture or because 
+of stability concerns 
+ 
+18 
+ 
+6. The change does not affect the purification process. 
+7. The change in scale is linear with respect to the proportionality of production parameters 
+and materials. 
+8. The change is for compendial raw materials of biological origin (excluding human plasma-
+derived materials). 
+9. The new fermentation train is identical to the approved fermentation strain(s). 
+10. No change in the approved in vitro cell age. 
+11. The change is not expected to have an impact on the quality, safety or efficacy of the final 
+product. 
+12. No change in the proportionality of the raw materials (i.e. the change in scale is linear) 
+13. The change in scale involves the use of the same bioreactor (i.e. does not involve the use 
+of a larger bioreactor). 
+14. The need for reprocessing is not due to recurrent deviations from the validated process and 
+the root cause triggering reprocessing is identified.  
+Documentation required 
+1) Justification for the classification of the change(s) as major, minor or immediate 
+notification as this relates to the impact on the quality of the antigen 
+2) Flow diagram (including process and in-process controls) of the proposed manufacturing 
+process(es) and a brief narrative description of the proposed manufacturing process(es). 
+3) If the change results in an increase in the number of populations doublings or sub 
+cultivations, information on the characterization and testing of the post-production cell 
+bank for recombinant product, or of the antigen for non-recombinant product. 
+4) For antigens obtained from, or manufactured with, reagents  obtained from sources that 
+are at risk of transmitting bovine  spongiform encephalopathy/transmissible spongiform  
+encephalopathy (BSE/TSE) agents (for example, ruminant origin), information and 
+evidence that the material does not pose a potential BSE/TSE risk (for example, name of 
+manufacturer, species and tissues from which the material is a derivative, country of origin 
+of the source animals, and use and previous acceptance of the material). 
+5) Process validation study reports  
+6) Comparability of the pre-and post-change antigen with respect to physicochemical 
+properties, biological activity, purity, impurities and contaminants, as appropriate. 
+Nonclinical and/or clinical bridging studies may occasionally be required when quality 
+data are insufficient to establish comparability. The extent and nature of nonclinical 
+and/or clinical studies should be determined on a case-by-case basis, taking into 
+consideration the quality-comparability findings, the nature and level of knowledge of the 
+vaccine, existing relevant nonclinical and clinical data, and aspects of vaccine use. 
+7) Description of the batches and summary of in-process and release testing results as 
+quantitative data, in a comparative tabular format, for at least three (3) consecutive 
+commercial-scale batches of the pre-and post-change antigen. Comparative pre-change 
+test results do not need to be generated concurrently; relevant historical testing results are 
+acceptable. Matrixing, bracketing, the use of smaller-scale batches, and/or the use of fewer 
+than 3 batches may be acceptable where justified and agreed by the NMRA. 
+8) Description of the batches and summary of in-process and release testing results as 
+quantitative data, in a comparative tabular format, for one (1) commercial-scale batch of 
+the pre- and post-change antigen. Comparative pre-change test results do not need to be 
+generated concurrently; relevant historical testing results are acceptable. Batch data on 
+the next two full-production batches should be made available on request and should be 
+reported by the MA holder if outside the specification (with proposed action). The use of a 
+smaller-scale batch may be acceptable where justified and agreed by the NMRA.  
+9) Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least three (3) commercial scale antigen batches 
+produced with the proposed changes under real-time/real temperature testing conditions. 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable. The data should cover 
+a minimum of 3 months of testing unless otherwise justified. Additionally, the 
+ 
+19 
+ 
+manufacturer should commit to undertake real-time stability studies to support the full 
+shelf-life/hold-time of the antigen under its normal storage conditions and to report to the 
+NMRA any failures in these ongoing long-term stability studies. Matrixing, bracketing, the 
+use of smaller-scale batches, the use of fewer than 3 batches and/or use of forced 
+degradation or accelerated temperature conditions for stability testing may be acceptable 
+where justified and agreed by the NMRA. 
+10) Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least one (1) commercial-scale antigen batch produced 
+with the proposed changes under real-time/real-temperature testing conditions. 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable. The data should cover 
+a minimum of 3 months of testing unless otherwise justified. Additionally, the 
+manufacturer should commit to undertake real-time stability studies to support the full 
+shelf-life/hold-time of the antigen under its normal storage conditions and to report to the 
+NMRA any failures in these ongoing long-term stability studies. Matrixing, bracketing, the 
+use of smaller-scale batches, and/or use of forced degradation or accelerated temperature 
+conditions for stability testing may be acceptable where justified and agreed by the NMRA. 
+11) Updated post-approval stability protocol and stability commitment to place the first 
+commercial-scale batch of the final product manufactured using the post-change antigen 
+into the stability programme. 
+12) Information assessing the risk with respect to potential contamination with adventitious 
+agents (for example, impact on viral clearance studies and BSE/TSE risk)  
+13) Information demonstrating comparability of the raw materials/reagents of both sources. 
+14) Data describing the root cause triggering the reprocessing, as well as validation data (for 
+example, extended hold-times and resistance to additional mechanical stress) to help 
+prevent the reprocessing from having an impact on the antigen. 
+ 
+ 
+Description of change  
+Conditions to be  
+fulfilled 
+Documentation 
+required  
+Reporting type  
+9  
+Changes to the cell banks:  
+Note: New cell substrates that are unrelated to the MCB or pre-MCB material generally 
+require a new application for marketing authorization  
+9a  
+generation of a new 
+Master Cell  
+Bank 
+1 
+1,2,5,7-9 
+Vmin 
+9b  
+generation of a new 
+Working Cell  
+Bank (WCB)  
+None 
+1,2 
+Vmin 
+2-4 
+1,2 
+N 
+9c  
+Change in cell bank 
+storage site  
+7 
+10 
+N 
+  
+10  
+Changes to the seed lots:  
+Note: New viral or bacterial seeds that are unrelated to the MSL or pre-MSL material 
+generally require a new application for marketing authorization  
+10a  
+Generation of a new 
+Master Seed  
+Lot (MSL) 
+1 
+1,5-9, 11  
+Vmaj 
+  
+ 
+20 
+ 
+10b  
+Generation of a new 
+Working  
+Seed Lot (WSL)  
+2,3 
+5-9, 11  
+Vmin 
+2-4 
+5-6, 11  
+N 
+10c  
+Generation of a new 
+Working  
+Seed Lot (WSL) by 
+extending the 
+passage level of an 
+existing WSL beyond 
+an approved level  
+None 
+5-7,11 
+Vmin 
+10d  
+Change in seed  
+lot storage site  
+7 
+10 
+N 
+  
+11  
+Change in cell 
+bank/seed lot  
+testing site  
+5,7 
+10 
+N 
+12  
+Change in cell 
+bank/seed lot  
+qualification protocol 
+None 
+3,4 
+Vmin 
+7 
+4 
+N 
+ Conditions to be fulfilled  
+1. The new MCB is generated from pre-approved MCB or WCB or the new MSL is generated 
+from a pre-approved MSL or WSL  
+2. The new cell bank/seed lot is generated from a pre-approved MCB/MSL  
+3. The new cell bank/seed lot is the pre-approved passage level  
+4. The new cell bank/seed lot is released according to a pre-approved protocol/process or as 
+described in the original license.  
+5. No changes have been made to the tests/acceptance criteria used for the release of the cell 
+bank/seed lot. 
+6. The protocol is considered more stringent (i.e. addition of new tests or narrowing of 
+acceptance criteria).  
+7. No changes have been made to the storage conditions used for the cell bank/seed lot and 
+the transport conditions of the cell bank/seed lots have been validated.  
+Documentation to be supplied 
+1. Qualification of the cell bank or seed lot according to guidelines considered acceptable by 
+the NMRA.  
+2. Information on the characterization and testing of the MCB/WCB, and cells from the end-
+of production passage or post-production passage.  
+3. Justification of the change to the cell bank/seed lot qualification protocol  
+4. Updated cell bank/seed lot qualification protocol  
+5. Comparability of the pre and post change antigen with respect to physicochemical 
+properties, biological activity, purity, impurities and contaminants, as appropriate, 
+Nonclinical and/or clinical bridging studies may occasionally be required when quality data 
+are insufficient to establish comparability. The extent and nature of nonclinical and/or 
+clinical studies should be determined on a case-by-case basis, taking into consideration the 
+quality comparability findings, the nature and level of the knowledge of the vaccine, existing 
+relevant nonclinical and clinical data, and aspects of vaccine use.   
+6. Quality control test results as quantitative data in tabular format for the new seed lot.  
+7. Description of the batches and summary of in-process and release testing results as 
+quantitative data, in a comparative tabular format, for at least three (3) consecutive 
+commercial-scale batches of the antigen derived from the new cell bank/seed lot. Matrixing, 
+bracketing, the use of smaller-scale batches, and/or the use of fewer than 3 batches may 
+be acceptable where justified and agreed by the NMRA.  
+8. Comparative pre and post change test results for the manufacturer's characterized key 
+stability indicating attributes with at least three (3) commercial-scale antigen batches 
+produced with the proposed changes under real-time/real-temperature testing conditions. 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable.  The data should cover 
+ 
+21 
+ 
+a minimum of 3 months testing unless otherwise justified. Additionally, the manufacturer 
+should commit to undertake real-time stability studies to support the full shelf-life/hold 
+time of the antigen under its normal storage conditions and to report to the NMRA any 
+failures in these ongoing long-term stability studies. Matrixing, bracketing, the use of 
+smaller-scale batches, the use of fewer than 3 batches and or use of forced degradation or 
+accelerated temperature conditions for stability testing may be acceptable where justified 
+and agreed by the NMRA.  
+9. Update post-approval stability protocol.  
+10. Evidence that the new company/facility is GMP-compliant  
+11. Revised information on the quality and controls of critical starting   materials (for example, 
+specific pathogen-free eggs and chickens) used in the generation of the new WSL, where 
+applicable 
+3.7.4 Change in equipment used 
+Description of change 
+Conditions to be 
+fulfilled 
+Documentation 
+required 
+Reporting 
+type 
+13 
+Change in equipment used in the antigen manufacturing process, such as; 
+13a 
+Introduction of new equipment 
+with different operating principles 
+and different product contact 
+material 
+None 
+1-6 
+Vmin 
+13b 
+Introduction of new equipment 
+with the same operating 
+principles and different product 
+contact material 
+None 
+1,3-6 
+Vmin 
+13c 
+Introduction of new equipment 
+with the different operating 
+principles but the same product 
+contact material 
+None 
+1-3, 5,6 
+Vmin 
+13d 
+Replacement of equipment with 
+equivalent equipment (including 
+filter) 
+None 
+1,5-7 
+N 
+Conditions to be fulfilled 
+None 
+Documentation required 
+1. Information on the in-process control testing. 
+2. Process validation study reports. 
+3. Description of the batches and summary of results as quantitative data, in a comparative 
+tabular format, for one (1) commercial-scale batch of the antigen produced with the 
+approved and proposed product contact equipment/ material. Batch data on the next two 
+full-production batches should be made available on request and reported by the MA 
+holder if outside specification (with proposed action). 
+4. Information on leachables and extractables. 
+5. Information on the new equipment and comparison of similarities and difference 
+regarding operating principles and specifications between the new and the replaced 
+equipment. 
+6. Information demonstrating requalification of the equipment or requalification of the 
+change. 
+7. Rationale for regarding the equipment as similar/comparable, as applicable.  
+ 
+3.7.5 Change in specifications for Materials 
+Description of change  
+Conditions 
+to 
+be fulfilled  
+Documentation 
+required  
+Reporting type  
+14  
+Change in specification for the materials, involving:  
+  
+ 
+22 
+ 
+14a  
+Raw materials/ 
+intermediates: 
+widening 
+of 
+the 
+approved specification 
+limits 
+for 
+starting 
+materials/ 
+intermediates, which  
+may have a significant 
+effect on the overall 
+quality of the antigen  
+and/or final product 
+and are not changes to  
+the cell banks or seed 
+lots 
+None  
+1,3-6, 8,11  
+Vmin  
+ 
+14b  
+Raw 
+materials/intermedia
+tes: narrowing of the 
+approved 
+specification 
+limits 
+for 
+starting 
+materials/intermedia
+tes  
+1-4 
+1,3-7 
+N 
+  
+15  
+Change to in-process tests and/or acceptance criteria applied during manufacture of 
+the antigen, involving:  
+15a  
+Narrowing 
+of 
+in 
+process limits  
+3,5,8,9 
+2,6 
+Vmin 
+15b  
+Addition of new in-
+process 
+test 
+and 
+limits  
+4,5,10,11 
+2-6,8,10 
+Vmin 
+15c  
+Deletion 
+of 
+a 
+nonsignificant 
+in 
+process test  
+4-6 
+2,6,9 
+Vmin 
+ 
+15d  
+Widening 
+of 
+the 
+approved in- 
+process limits  
+None 
+2-6,8,10,11 
+Vmin 
+3-5 
+2,6,8,10,11 
+Vmin 
+15e  
+Deletion of an in-
+process test which 
+may 
+have 
+a 
+significant 
+effect  
+on        the overall 
+quality of the antigen  
+None 
+2,6,8,10 
+Vmin 
+15f  
+Addition          or 
+replacement of an in-
+process test as a 
+result of a safety or 
+quality issue  
+None 
+2-6,8,10 
+Vmin 
+  
+  
+ 
+23 
+ 
+16  
+Change       in      in- 
+process 
+controls 
+testing site  
+3-5,7,8 
+12 
+N 
+Conditions to be fulfilled  
+1. The change in specification for the materials is within the approved limits.  
+2. The grade of the materials is the same or is of higher quality, where appropriate.  
+3. No change in the antigen specification outside the approved limits.  
+4. No change in the impurity profile of the antigen outside the approved limits.  
+5. The change is not necessitated by recurring events arising during manufacture or 
+because of stability concerns.  
+6. The test does not concern a critical attribute (for example, content, impurity, any critical 
+physical characteristics or microbial purity).  
+7. The replaced analytical procedure maintains or tightens precision, accuracy, specificity 
+and sensitivity, if applicable.  
+8. No change in the in-process controls outside the approved limits.  
+9. The test procedure remains the same, or changes in the test procedure are minor.  
+10. Any new test method does not concern a novel non-standard technique or a standard 
+technique used in a novel way.  
+11. The new test method is not a biological/immunological/immunochemical or 
+physicochemical method or a method using a biological reagent (does not include 
+standard pharmacopeial microbiological methods). 
+Documentation to be supplied 
+1. Revised information on the quality and controls of the materials (for example, raw 
+materials, starting materials, solvents, reagents and catalysts) used in the manufacture 
+of the post-change antigen.  
+2. Revised information on the controls performed at critical steps of the manufacturing 
+process and on intermediates of the proposed antigen.  
+3. Updated antigen specification, if changed.  
+4. Copies or summaries of analytical procedures, if new analytical procedures are used.  
+5. Validation study reports, if new analytical procedures are used.  
+6. Comparative table or description, where applicable, of pre- and post-change in process 
+tests/limits.  
+7. Description of the batches and summary of in-process and release testing result as 
+quantitative data, in a comparative tabular format, for one (1) commercial-scale batch of 
+the pre- and post-change antigen. Comparative pre-change test results do not need to be 
+generated concurrently; relevant historical testing results are acceptable. Batch data on 
+the next two full production batches should be made available on request and reported 
+by the MA holder if outside specification (with proposed action). The use of a smaller-
+scale batch may be acceptable where justified and agreed by the NMRA.  
+8. Description of the batches and summary of in-process and release testing results as 
+quantitative data, in a comparative tabular format, for at least three (3) consecutive 
+commercial-scale batches of the pre- and post-change antigen. Comparative pre-change 
+test results do not need to be generated concurrently; relevant historical testing results 
+are acceptable. Matrixing, bracketing, the use of smaller-scale batches and/or the use of 
+fewer than 3 batches may be acceptable where justified and agreed by the NMRA.  
+9. Justification/risk assessment showing that the attribute is nonsignificant.  
+10. Justification for the new in-process test and limits.  
+11. Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least three (3) commercial scale final product batches 
+produced with the proposed changes under real-time/ real-temperature testing 
+conditions. Comparative pre- change test results do not need to be generated 
+concurrently; relevant historical results for lots on the stability programme are 
+acceptable. The data should cover a minimum of 3 months testing unless otherwise 
+justified. Additionally, the manufacturer should commit to undertake real-time stability 
+studies to support the full shelf-life/ hold-time of the final product under its normal 
+storage conditions and to report to the NMRA any failures in these ongoing long-term 
+stability studies. Matrixing, bracketing, the use of smaller- scale batches, the use of fewer 
+than 3 batches and/ or use of forced degradation or accelerated temperature conditions 
+for stability testing may be acceptable where justified and agreed by the NMRA.  
+ 
+24 
+ 
+12. Evidence that the new company/facility is GMP compliant. 
+3.7.6 Control of the antigen 
+Description of change  
+Conditions to be 
+fulfilled   
+Documentation 
+required  
+Reporting type  
+17  
+Change affecting the quality control (QC) (release and stability) testing of the 
+antigen, involving:  
+17a  
+transfer of the QC 
+testing activities for a 
+non- 
+pharmacopeial 
+assay 
+to 
+a 
+new 
+company 
+not 
+approved 
+in 
+the 
+current MA or license 
+1-3  
+1,2  
+N  
+17b  
+transfer of the  
+QC testing activities 
+for 
+ 
+ 
+ 
+a 
+pharmacopoeia 
+assay 
+to 
+a 
+new 
+company 
+not 
+approved 
+in 
+the 
+current MA or license  
+1  
+1,2  
+N  
+Conditions to be fulfilled  
+1) 
+The transferred QC test is not a potency assay (for example, the test may be a bioassay 
+such as an endotoxin assay or sterility assay).  
+2) 
+No changes to the test method.  
+3) 
+ Transfer within a site approved in the current MA for the performance of other tests.  
+Documentation required  
+1) 
+Information demonstrating technology transfer qualification.  
+2) 
+Evidence that the new company/facility is GMP compliant.  
+  
+Description of change  
+Conditions 
+to 
+be fulfilled   
+Documentation 
+required  
+Reporting type  
+18 
+Change in the specification used to release the antigen, involving:  
+18a 
+deletion of a test  
+None 
+1,5,8 
+Vmin 
+18b 
+addition of a test  
+1-3 
+1-3, 5  
+N 
+18c 
+replacement    of an 
+analytical 
+procedure  
+None 
+1-5 
+Vmin 
+ 
+25 
+ 
+18d 
+change in animal 
+species/strains 
+for 
+a 
+test 
+(for 
+example, 
+new 
+species/strains, 
+animals of different  
+age, new supplier 
+where 
+genotype 
+of 
+the 
+animal 
+cannot 
+be 
+confirmed)  
+None 
+6,7 
+Vmin 
+ 
+18e 
+minor changes to 
+an 
+approved 
+analytical 
+procedure  
+4-7 
+1,4,5 
+N 
+18f 
+change from an in-
+house 
+analytical 
+procedure 
+to 
+a 
+recognized 
+compendial/ 
+pharmacopeial 
+analytical 
+procedure  
+4,7 
+1-3 
+N 
+18g 
+widening 
+of 
+an 
+acceptance 
+criterion  
+None 
+1,5,8 
+Vmin 
+18h  
+narrowing 
+of 
+an 
+acceptance 
+criterion  
+1,8,9, 
+1 
+N 
+1) 
+The change does not result from unexpected events arising during manufacture (for 
+example, new unqualified impurity or change in total impurity limits).  
+2) 
+No change in the limits/acceptance criteria outside the approved limits for the approved 
+assays.  
+3) 
+The addition of the test is not intended to monitor new impurity species.  
+4) 
+No change in the acceptance criteria outside the approved limits.  
+5) 
+The method of analysis is the same and is based on the same analytical technique or 
+principle (for example, a change in column length or temperature, but not a different type 
+of column or method) and no new impurities are detected.  
+6) 
+The modified analytical procedure maintains or tightens precision, accuracy, specificity, 
+and sensitivity.  
+7) 
+The change does not concern potency testing.  
+8) 
+Acceptance criteria for residuals are within recognized or approved acceptance limits (for 
+example, within ICH limits for a Class 3 residual solvent, or pharmacopeial requirements).  
+9) 
+ The analytical procedure remains the same, or changes to the analytical procedure are 
+minor.  
+Documentation required  
+1) Updated antigen specification.  
+2) Copies or summaries of analytical procedures, if new analytical procedures are used.  
+3) Validation reports, if new analytical procedures are used.  
+4) Comparative results demonstrating that the approved and proposed analytical procedures 
+are equivalent.  
+5) Justification for deletion of the test or for the proposed antigen specification (for example, 
+tests, acceptance criteria or analytical procedures).  
+6) Data demonstrating that the change in animals/strains give results comparable to those 
+obtained using the approved animals/strains. 
+7) Copies of relevant certificate of fitness for use (for example, veterinary certificate  
+ 
+26 
+ 
+8)  Declaration/evidence that consistency of quality and of the production process is 
+maintained 
+3.7.7 Reference standards or materials 
+Description of change  
+Conditions 
+to 
+be fulfilled  
+Documentation 
+required  
+Reporting type  
+19  
+Qualification of a new 
+reference 
+standard 
+against a new primary 
+international 
+standard  
+None  
+1,2  
+Vmin  
+20  
+Change in the  
+reference 
+standard 
+from 
+in-house 
+(no 
+relationship 
+with 
+international 
+standard) 
+to 
+pharmacopeial 
+or 
+international 
+standard  
+None  
+1,2  
+Vmin  
+21  
+Qualification of a new 
+lot 
+of 
+reference 
+standard against the 
+approved 
+reference 
+standard 
+(including 
+qualification of a new 
+lot of a secondary 
+reference 
+standard 
+against the approved 
+primary standard) 
+1  
+1,2  
+Vmin  
+22 
+Change to reference 
+standard 
+qualification protocol  
+None 
+3,4 
+Vmin 
+23 
+Extension 
+of 
+reference standard  
+shelf-life 
+2 
+5 
+N 
+Conditions to be fulfilled  
+1. 
+Qualification of the new reference standard is according to an approved protocol.  
+2. 
+The extension of the shelf-life is according to an approved protocol.  
+Documentation required  
+1. Justification for the change in reference standard.  
+2. Information demonstrating qualification of the proposed reference standards or materials 
+(for example, source, characterization, certificate of analysis and comparability data).  
+3. Justification of the change to the reference standard qualification protocol.  
+4. Updated reference standard qualification protocol.  
+5. Summary of stability testing and results to support the extension of reference standard 
+shelf-life.  
+3.7.8 Container closure system 
+ 
+27 
+ 
+Description of change  
+Conditions to be  
+fulfilled  
+Documentation to 
+be supplied  
+Reporting type  
+24  
+Change in the primary 
+container 
+closure 
+system(s) 
+for 
+the 
+storage and shipment 
+of the antigen  
+None  
+1,2,4,5  
+Vmin  
+1 
+  
+1,3,5 
+  
+N  
+Conditions to be fulfilled  
+1. The proposed container closure system is at least equivalent to the approved container 
+closure system with respect to its relevant properties.  
+Documentation required  
+1. Information on the proposed container closure system (for example, description, composition, 
+materials of construction of primary packaging components and specification).  
+2. Data demonstrating the suitability of the container closure system (for example, 
+extractable/leachable testing).  
+3. Results demonstrating that the proposed container closure system is at least equivalent to 
+the approved container closure system with respect to its relevant properties (for example, 
+results of transportation or interaction studies, and extractable/leachable studies).  
+4. Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least three (3) commercial scale antigen batches produced 
+with the proposed changes under real-time/real-temperature testing conditions. 
+5. Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable. The data should cover a 
+minimum of 3 months testing unless otherwise justified. Additionally, the manufacturer 
+should commit to undertake real-time stability studies to support the full shelf life/ hold-
+time of the antigen under its normal storage conditions and to report to the NMRA any failures 
+in these ongoing long-term stability studies. Matrixing, bracketing, the use of smaller-scale 
+batches, the use of fewer than 3 batches and/or use of forced degradation or accelerated 
+temperature conditions for stability testing may be acceptable where justified and agreed by 
+the NMRA  
+6. Comparative table of pre- and post-change specifications 
+ 
+Description of change  
+Conditions to be  
+fulfilled  
+Documentation to 
+be supplied  
+Reporting type  
+25  
+Change in the specification of the primary container closure system for the 
+antigen, involving:  
+25a  
+deletion of a test  
+1,2  
+1,2  
+N  
+25b  
+addition of a test  
+3  
+1-3  
+N  
+25c  
+replacement of an  
+analytical 
+procedure  
+6,7  
+1-3  
+N  
+25d  
+minor changes to 
+an 
+analytical 
+procedure  
+4-7  
+1-3  
+N  
+25e  
+widening 
+of 
+an 
+acceptance 
+criterion  
+None  
+1,2  
+Vmin  
+25f  
+Narrowing 
+of 
+an 
+acceptance 
+criterion  
+8  
+1  
+N  
+Conditions to be fulfilled  
+ 
+28 
+ 
+1) 
+The deleted test has been demonstrated to be redundant compared to the remaining tests 
+or is no longer a pharmacopeial requirement.  
+2) 
+The change to the specification does not affect the functional properties of the container 
+closure component nor result in a potential impact on the performance of the antigen.  
+3) 
+The change is not necessitated by recurring events arising during manufacture or because 
+of stability concerns.  
+4) 
+There is no change in the acceptance criteria outside the approved limits.  
+5) 
+The new analytical procedure is of the same type.  
+6) 
+Results of method validation demonstrate that the new or modified analytical procedure 
+is at least equivalent to the approved analytical procedure.  
+7) 
+The new or modified analytical procedure maintains or tightens precision, accuracy, 
+specificity and sensitivity  
+8) 
+ The change is within the range of approved acceptance criteria or has been made to reflect 
+a new pharmacopeial monograph specification for the container closure component. 
+Documentation to be supplied 
+1) 
+Updated copy of the proposed specification for the primary container closure system.  
+2) 
+Rationale for the change in specification for a primary container closure system.  
+3) 
+Description of the analytical procedure and, if applicable, validation data. 
+  
+ 
+ 
+3.7.9 Stability of the drug substance or intermediate 
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+26  
+Change in the shelf-life/hold-time for the antigen or for a stored intermediate of the 
+antigen, involving:  
+26a  
+Extension  
+None  
+1-5  
+Vmin  
+1-5  
+1,2,5  
+N  
+26b  
+reduction  
+None  
+1-5  
+Vmin  
+6  
+2-4  
+N  
+Conditions to be fulfilled   
+1. No changes to the container closure system in direct contact with the antigen with the 
+potential of impact on the antigen, or to the recommended storage conditions of the antigen. 
+2. The approved shelf-life is at least 24 months.  
+3. Full long-term stability data are available covering the proposed shelf-life and are based on 
+stability data generated on at least three (3) commercial-scale batches.  
+4. Stability data were generated in accordance with the approved stability protocol.  
+5. Significant changes were not observed in the stability data.  
+6. The reduction in the shelf-life is not necessitated by recurring events arising during 
+manufacture or because of stability concerns. Note: Problems arising during manufacturing 
+or stability concerns should be reported for evaluation. 
+Documentation required 
+ 
+29 
+ 
+1. Summary of stability testing and results (for example, studies conducted, protocols used 
+and results obtained).  
+2. Proposed storage conditions and shelf-life, as appropriate.  
+3. Updated post-approval stability protocol and stability commitment.  
+4. Justification of the change to the post-approval stability protocol or stability commitment. 
+5. Results of stability testing (that is, full real-time/real-temperature stability data covering 
+the proposed shelf-life generated on at least three (3) commercial-scale batches). For 
+intermediates, data to show that the extension of shelf-life has no negative impact on the 
+quality of the antigen. Under special circumstances and with prior agreement of the NMRA, 
+interim stability testing results and a commitment to notify the NMRA of any failures in the 
+ongoing long-term stability studies may be provided. 
+  
+Description of change  
+Conditions to be  
+fulfilled  
+Documentation 
+required  
+Reporting type  
+27  
+Change in the post-approval stability protocol of the antigen, involving:  
+27a  
+significant change 
+to 
+the 
+post- 
+approval 
+stability protocol 
+or 
+stability 
+commitment, 
+such as deletion 
+of 
+a 
+test, 
+replacement of an 
+analytical 
+procedure 
+or 
+change in storage 
+temperature  
+None  
+1-6  
+Vmin  
+1  
+1,2,4-6  
+N  
+27b  
+addition of time 
+point(s) into the 
+post-approval 
+stability protocol  
+None  
+4,6  
+N  
+27c  
+addition of test(s) 
+into the post  
+approval stability 
+protocol  
+2  
+1,2,4,6  
+N  
+27d  
+deletion of time 
+point(s) from the 
+post-approval 
+stability protocol  
+beyond                the 
+approved       shelf-
+life  
+None  
+4,6  
+N  
+27e  
+deletion of time 
+point(s) from the 
+post-approval 
+stability protocol  
+within 
+the 
+approved 
+shelf- 
+life 
+3  
+4,6  
+N  
+Conditions to be fulfilled  
+1) 
+For the replacement of an analytical procedure, the new analytical procedure maintains or 
+tightens precision, accuracy, specificity and sensitivity.  
+ 
+30 
+ 
+2) 
+The addition of test(s) is not due to stability concerns or to the identification of new 
+impurities.  
+3) 
+The approved antigen shelf-life is at least 24 months.  
+Documentation to be supplied  
+1) Copies or summaries of analytical procedures, if new analytical procedures are used.  
+2) Validation study reports, if new analytical procedures are used.  
+3) Proposed storage conditions and/or shelf-life, as appropriate.  
+4) Updated post-approval stability protocol and stability commitment.  
+5) If applicable, stability testing results to support the change to the post-approval stability 
+protocol or stability commitment (for example, data showing greater reliability of the 
+alternative test).  
+6) Justification for the change to the post-approval stability protocol.  
+  
+Description of change  
+Conditions 
+to 
+be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+28  
+Change in the storage conditions for the antigen, involving:  
+28a  
+addition 
+or 
+change 
+of 
+storage condition for the 
+antigen 
+(for 
+example, 
+widening or narrowing of a 
+temperature criterion)  
+  
+None  
+1-4  
+Vmin  
+1,2  
+1-3  
+N  
+Conditions to be fulfilled  
+1) 
+The change is not necessitated by recurring events arising during manufacture or because 
+of stability concerns.  
+2) 
+The change consists in the narrowing of a temperature criterion within the approved 
+ranges.  
+Documentation to be supplied  
+1) 
+Proposed storage conditions and shelf-life.  
+2) 
+Updated post-approval stability protocol and stability commitment.  
+3) 
+Justification of the change in the labelled storage conditions/cautionary statement  
+4) 
+Results of stability testing (that is, full real-time/real-temperature stability data covering 
+the proposed shelf-life generated on at least three (3) commercial scale batches).  
+  
+3.7.10 Changes to the final product 
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+29  
+Change in the description or composition of the final product, involving:  
+ 
+31 
+ 
+29a  
+addition of a dosage 
+form or change in 
+the formulation (for 
+example, 
+lyophilized powder 
+to liquid, change in 
+the 
+amount 
+of 
+excipient 
+or 
+new 
+diluent 
+for 
+lyophilized product)  
+  
+Note: 
+Change 
+in 
+formulation does  
+not 
+include 
+changes in  
+antigen(s) or  
+adjuvants. 
+A 
+change 
+in 
+antigen(s) 
+or 
+adjuvant(s)  
+requires the  
+filing 
+of 
+a 
+new 
+application      for 
+MA 
+or 
+licensure. 
+MA holders     are 
+encouraged     to 
+contact the  
+NMRA for further 
+guidance. 
+None  
+1-10  
+Vmaj  
+ 
+29b  
+change 
+in 
+fill 
+volume 
+(that 
+is, 
+same concentration, 
+different volume) 
+None  
+1,5,7,10  
+Vmaj  
+1,2 
+1,5,7 
+Vmin 
+1-3 
+5,7 
+N 
+ 
+29c  
+addition           of a 
+new 
+presentation 
+(for 
+example, 
+addition of a  
+new prefilled  
+syringe where the 
+approved 
+presentation is a 
+vial for a vaccine in 
+a liquid  
+dosage form) 
+None  
+1,5,7-10  
+Vmaj  
+Conditions to be fulfilled  
+1) 
+No changes classified as major in the manufacturing process to accommodate the new 
+fill volume.  
+2) 
+No change in the dose recommended.  
+3) 
+Narrowing of fill volume while maintaining the lower limit of extractable volume.  
+Documentation required  
+ 
+32 
+ 
+1) 
+Revised final product labelling information (as applicable).  
+2) 
+ Characterization        data   demonstrating      that   the    conformation and 
+immunogenicity of the antigen is comparable in the new dosage form and/or 
+formulation.  
+3) 
+Description and composition of the dosage form if there are changes to the composition 
+or dose.  
+4) 
+Discussion of the components of the final product, as appropriate (for example, choice 
+of excipients, compatibility of antigen and excipients, leachates or compatibility with 
+new container closure system, as appropriate).  
+5) 
+Information on the batch formula, manufacturing process and process controls, control 
+of critical steps and intermediates, and process validation study reports.  
+6) 
+Control of excipients, if new excipients are proposed (for example, specification).  
+7) 
+Information on specification, analytical procedures (if new analytical methods are used), 
+validation of analytical procedures (if new analytical methods are used), batch analyses 
+(certificate of analysis for three (3) consecutive commercial-scale batches should be 
+provided). Bracketing for multiple strength products, container sizes and/or fills may be 
+acceptable if scientifically justified.  
+8) 
+Information on the container closure system and leachable and extractables, if any of 
+the components have changed (for example, description, materials of construction and 
+summary of specification).  
+9) 
+Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least three (3) commercial-scale final product 
+batches produced with the proposed changes under real-time/real-temperature testing 
+conditions. Comparative pre-change test results do not need to be generated 
+concurrently; relevant historical results for lots on the stability programme are 
+acceptable. The data should cover a minimum of 3 months testing unless otherwise 
+justified. Additionally, the manufacturer should commit to undertake real-time stability 
+studies to support the full shelf-life/hold-time of the final product under its normal 
+storage conditions and to report to the NMRA any failures in these ongoing long-term 
+stability studies. Matrixing, bracketing, the use of smaller-scale batches, the use of fewer 
+than 3 batches and/or use of forced degradation or accelerated temperature conditions 
+for stability testing may be acceptable where justified and agreed by the NMRA. 
+10) 
+ Supporting clinical data or a justification for why such studies are not needed 
+Description and composition of the final product: change to an adjuvant 
+Note:  
+a) Change in the type/structure of a chemical adjuvant, in the type of a 
+biological adjuvant, or a component of a biological adjuvant may 
+necessitate the filing of a new application for MA or licensure. MA 
+holders are encouraged to contact the NMRA for further guidance.  
+b) For additional guidance on the required supporting data for quality 
+changes for chemical and biological adjuvants, see recommendations 
+for other changes to the final product, such as changes to facilities, 
+equipment, manufacturing process, quality control, shelf-life, and so 
+on, as applicable  
+ 
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+30  
+Change involving an approved chemical/synthetic adjuvant:  
+30a  
+change in supplier 
+of 
+a 
+chemical/ 
+synthetic adjuvant  
+None  
+4,5,10,11  
+Vmin  
+1-3  
+5  
+N  
+ 
+33 
+ 
+30b  
+change            in 
+manufacture of a  
+chemical/synth etic 
+adjuvant  
+None  
+3-5, 10,11  
+Vmin  
+30c  
+change 
+in 
+specification 
+of 
+a 
+None 
+chemical/synthetic 
+adjuvant (including 
+tests 
+and/or 
+the 
+analytical 
+procedures)  
+None  
+7-11  
+Vmin  
+1,3 
+7-9 
+Vmin 
+ 
+31  
+Change involving a biological adjuvant: 
+31a  
+change in supplier 
+of a  
+biological adjuvant  
+None  
+1-7, 10-13  
+Vmaj  
+31b  
+change 
+in 
+manufacture of a 
+biological adjuvant  
+None  
+1-7, 10-12  
+Vmaj  
+4  
+1-7, 10-12  
+Vmin  
+31c  
+change            in 
+specification 
+of 
+a 
+biological adjuvant  
+(Including 
+tests 
+and/or the  
+analytical 
+procedures)  
+None  
+6-10  
+Vmin  
+1,3  
+7- 8  
+Vmin  
+Conditions to be fulfilled  
+1) The specification of the adjuvant is equal to or narrower than the approved limits (that is, 
+narrowing of acceptance criterion).  
+2) The adjuvant is an aluminum salt.  
+3) The change in specification consists of the addition of a new test or of a minor change to 
+an analytical procedure  
+4) There is no change in the manufacturer and/or supplier of the adjuvant.   
+ 
+Documentation required  
+1) Information assessing the risk with respect to potential contamination with adventitious 
+agents (for example, impact on the viral clearance studies, BSE/TSE risk).   
+2) Information on the quality and controls of the materials (for example, raw materials, 
+starting materials) used in the manufacture of the proposed adjuvant.   
+3) Flow diagram of the proposed manufacturing process(es), a brief narrative description of 
+the proposed manufacturing process(es), and information on the controls performed at 
+critical steps of the manufacturing process and on intermediates of the proposed adjuvant.  
+4) Process validation study reports (for example, for manufacture of the adjuvant) unless 
+otherwise justified.   
+5) Description of the general properties, including stability, characteristic features and 
+characterization data of the adjuvant, as appropriate.  
+6) Comparability of the pre- and post-change adjuvant with respect to physicochemical 
+properties, biological activity, purity, impurities and contaminants, as appropriate. 
+Nonclinical and/or clinical bridging studies may occasionally be required when quality data 
+ 
+34 
+ 
+are insufficient to establish comparability. The extent and nature of nonclinical and clinical 
+studies should be determined on a case-by case basis, taking into consideration the 
+quality-comparability findings, the nature and level of knowledge of the adjuvant, existing 
+relevant nonclinical and clinical data, and aspects of vaccine use  
+7) Updated copy of the proposed specification for the adjuvant (and updated analytical 
+procedures if applicable).  
+8) Copies or summaries of analytical procedures, if new analytical procedures are used.  
+9) Validation study reports, if new analytical procedures are used. 
+10) Description of the batches and summary of results as quantitative data, in a comparative 
+tabular format, for at least three (3) consecutive commercial-scale batches of the final 
+product with the pre-change (approved) and post-change (proposed) adjuvant, as 
+applicable. Comparative test results for the approved adjuvant do not need to be generated 
+concurrently; relevant historical testing results are acceptable 
+11) Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least three (3) commercial-scale final product batches 
+produced with the proposed changes under real-time/real-temperature testing conditions. 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable. The data should cover 
+a minimum of 3 months testing unless otherwise justified. Additionally, the manufacturer 
+should commit to undertake real-time stability studies to support the full shelf-life/hold-
+time of the final product under its normal storage conditions and to report to the NMRA 
+any failures in these ongoing long-term stability studies. Matrixing, bracketing, the use of 
+smaller-scale batches, the use of fewer than 3 batches and/or use of forced degradation or 
+accelerated temperature conditions for stability testing may be acceptable where justified 
+and agreed by the NMRA 
+12)  Supporting nonclinical and clinical data, if applicable 
+13)  Evidence that the facility is GMP compliant 
+ 
+Description and composition of the final product: change to a diluent  
+Note: Changes to diluents containing adjuvants and/or antigens are 
+considered final products and as such the corresponding changes to the final 
+product (not diluent) should be applied. 
+  
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+32 
+Change to the diluent, involving:  
+  
+32a 
+change 
+in 
+manufacturing 
+process 
+None 
+1-5 
+Vmin 
+1,3 
+1-4 
+N 
+32b 
+replacement of or 
+addition 
+to 
+the 
+source of a diluent  
+None 
+1-5 
+Vmin 
+1-3 
+1-3 
+N 
+32c 
+change in facility 
+used 
+to 
+manufacture 
+a 
+diluent 
+(same 
+company)  
+1,2 
+1,3,5 
+N 
+ 
+35 
+ 
+32d 
+addition of a diluent 
+filling line  
+1,2,4 
+1,3,5 
+N 
+32e 
+addition of a diluent 
+into an approved 
+filling  
+line  
+1,2 
+1,3,5 
+N 
+32f 
+deletion of a diluent None 
+None 
+N 
+Conditions to be fulfilled  
+1. The diluent is water for injection or a salt solution (including buffered salt solutions)- that 
+is, it does not include an ingredient with a functional activity (such as a preservative) and 
+there is no change to its composition.  
+2. After reconstitution, there is no change in the final product specification outside the 
+approved limits.  
+3. The proposed diluent is commercially available in the NMRA country/jurisdiction.  
+4.  The addition of the diluent filling line is in an approved filling facility.  
+Documentation required:  
+1. 
+Flow diagram (including process and in-process controls) of the proposed 
+manufacturing process(es) and a brief narrative description of the proposed 
+manufacturing process (es 
+2. 
+Updated copy of the proposed specification for the diluent. 
+3. 
+Description of the batches and summary of results as quantitative data, in a 
+comparative tabular format, for at least three (3) consecutive commercial-
+scale batches of the approved and proposed diluent. Comparative test results 
+for the approved diluent do not need to be generated concurrently; relevant 
+historical testing results are acceptable 
+4. 
+Updated stability data on the product reconstituted with the new diluent 
+5. 
+ Evidence that the facility is GMP compliant 
+ 
+3.7.11 Manufacture 
+Description of change  
+Conditions 
+to 
+be fulfilled  
+Documentation 
+required  
+Reporting type  
+33  
+Change involving a final product manufacturer/ manufacturing facility, such as:  
+33a  
+replacement or 
+addition 
+of 
+a 
+manufacturing 
+facility 
+for the final product 
+(including formulation/  
+filling 
+and 
+primary 
+packaging)  
+None  
+1-7  
+Vmaj  
+1-5  
+1-3, 5-8  
+Vmin  
+33b  
+replacement or addition 
+of 
+a 
+secondary 
+packaging 
+facility, 
+a 
+labelling/storage facility 
+or a distribution facility  
+2,3  
+1-3  
+N  
+ 
+33c  
+deletion 
+of 
+a 
+final 
+product manufacturing  
+facility  
+None  
+None  
+N  
+Conditions to be fulfilled  
+ 
+36 
+ 
+1. The proposed facility is an approved formulation/filling facility (for the same company/MA 
+holder).  
+2. There is no change in the composition, manufacturing process and final product 
+specification.  
+3. There is no change in the container/closure system and storage conditions.  
+4. The same validated manufacturing process is used.  
+5. The newly introduced product is in the same family of product(s) or therapeutic classification 
+as the products already approved at the site, and also uses the same filling 
+process/equipment. 
+Documentation required  
+1. Name, address and responsibility of the proposed production facility involved in 
+manufacturing and testing.  
+2. Evidence that the facility is GMP compliant.  
+3. Confirmation that the manufacturing process description of the final product has not 
+changed as a result of the submission (other than the change in facility), or revised 
+description of the manufacturing process.  
+4. Comparative description of the manufacturing process if different from the approved process, 
+and information on the controls performed at critical steps of the manufacturing process and 
+on the intermediate of the proposed final product.  
+5. Process validation study reports. The data should include transport between sites, if relevant. 
+6. Description of the batches and summary of results as quantitative data, in a comparative 
+tabular format, for at least three (3) consecutive commercial-scale batches of the pre- and 
+post-change final product. Comparative pre-change test results do not need to be generated 
+concurrently; relevant historical testing results are acceptable. Bracketing for multiple-
+strength products, container sizes and/or fills may be acceptable if scientifically justified.  
+7. Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least three (3) commercial scale final product batches 
+produced with the proposed changes under real-time/ real-temperature testing conditions. 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable. The data should cover a 
+minimum of 3 months testing unless otherwise justified. Additionally, the manufacturer 
+should commit to undertake real-time stability studies to support the full shelf-life/hold-time 
+of the final product under its normal storage conditions and to report to the NMRA any 
+failures in these ongoing long-term stability studies. Matrixing, bracketing, the use of 
+smaller-scale batches, the use of fewer than 3 batches and/or use of forced degradation or 
+accelerated temperature conditions for stability testing may be acceptable where justified and 
+agreed by the NMRA.  
+8. Rationale for considering the proposed formulation/filling facility as equivalent. 
+ 
+3.7.12      Change in the final product manufacturing process 
+Description of change  
+Conditions to be  
+fulfilled 
+Documentation 
+required  
+Reporting type  
+34 
+Change in the final product manufacturing process, such as:  
+34a 
+scale-up of the 
+manufacturing 
+process at the 
+formulation/filli ng 
+stage  
+1-4 
+1-6  
+Vmin  
+34b 
+addition          or 
+replacement of 
+equipment (for 
+example, 
+formulation tank, 
+filter housing, filling 
+line and head, and 
+lyophilizer); see 
+change 13 above.  
+None 
+1-8  
+Vmin  
+5 
+2, 7-9  
+N  
+ 
+37 
+ 
+34c 
+addition of a new 
+scale bracketed by 
+the approved scales 
+or scale down 
+of the 
+manufacturing  
+process  
+1-4 
+1,4  
+N  
+34d 
+addition of a new 
+step (for example,  
+filtration) 
+3 
+1-6 
+Vmin 
+ 
+Conditions to be fulfilled  
+1. The proposed scale uses similar/comparable equipment to the approved equipment. Note: 
+Change in equipment size is not considered as using similar/comparable equipment.  
+2. Any changes to the manufacturing process and/or to the in-process controls are only those 
+necessitated by the change in batch size (for example, the same formulation, controls and 
+SOPs are utilized).  
+3. The change should not be a result of recurring events having arisen during manufacture or 
+because of stability concerns.  
+4. No change in the principle of the sterilization procedures of the final product. 
+5. Replacement of equipment with equivalent equipment; the change is considered “like for like” 
+(that is, in terms of product contact material, equipment size and operating principles).  
+Documentation required  
+1. Description of the manufacturing process, if different from the approved process, and 
+information on the controls performed at critical steps of the manufacturing process and 
+on the intermediate of the proposed final product.  
+2. Information on the in-process control testing, as applicable.  
+3. Process validation study reports (for example, media fills), as appropriate.  
+4. Description of the batches and summary of results as quantitative data, in a comparative 
+tabular format, for at least three (3) consecutive commercial-scale batches of the pre- and 
+post-change final product. Comparative pre-change test results do not need to be generated 
+concurrently; relevant historical testing results are acceptable. Bracketing for multiple-
+strength products, container sizes and/or fills may be acceptable if scientifically justified 
+5. Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least three (3) commercial scale final product batches 
+produced with the proposed changes under real-time/ real-temperature testing conditions. 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable. The data should cover 
+a minimum of 3 months testing unless otherwise justified. Additionally, the manufacturer 
+should commit to undertake real-time stability studies to support the full shelf-life/hold-
+time of the final product under its normal storage conditions and to report to the NMRA any 
+failures in these ongoing long-term stability studies. Matrixing, bracketing, the use of 
+smaller-scale batches, the use of fewer than 3 batches and/or use of forced degradation or 
+accelerated temperature conditions for stability testing may be acceptable where justified 
+and agreed by the NMRA.  
+6. Information on leachables and extractables, as applicable.  
+7. Information on the new equipment and comparison of similarities and differences regarding 
+operating principles and specifications between the new and the replaced equipment.  
+8. Information demonstrating requalification of the equipment or requalification of the change. 
+Rationale for regarding the equipment as similar/comparable, as applicable 
+Description of change  
+Conditions to 
+be fulfilled  
+Documentation 
+required  
+Reporting type  
+35  
+Change in the controls (in-process tests and/or acceptance criteria) applied during 
+the manufacturing process or on intermediates, such as:  
+35a  
+narrowing of in process 
+limits  
+2,3,7 
+1,5 
+N 
+ 
+38 
+ 
+35b  
+addition of new in-
+process test and limits  
+2,3,8,9 
+1-6,8 
+N 
+35c  
+deletion of a non-
+significant in process 
+test  
+2-4 
+1,5,7 
+N 
+35d  
+widening of the approved 
+in process limits  
+None 
+1-6, 8,9  
+Vmaj 
+1-3 
+1,5,6,8,9 
+Vmin 
+35e  
+deletion of an in- 
+process test which may 
+have a significant effect 
+on the overall quality of 
+the final product  
+None 
+1,5,6,8 
+Vmaj 
+35f  
+addition or replacement 
+of an in-process test as a 
+result of a safety or 
+quality issue  
+None 
+1-6,8 
+Vmin 
+  
+36  
+Change in in- 
+process controls testing 
+site  
+1-3, 5,6  
+10 
+N 
+ 
+Conditions to be fulfilled  
+1. No change in final product specification outside the approved limits.  
+2. No change in the impurity profile of the final product outside the approved limits.  
+3. The change is not necessitated by recurring events arising during manufacture or because 
+of stability concerns.  
+4. The test does not concern a critical attribute (for example, content, impurities, any critical 
+physical characteristics or microbial purity).  
+5. The replaced analytical procedure maintains or tightens precision, accuracy, specificity and 
+sensitivity, if applicable.   
+6. No change in the in-process control limits outside the approved limits.  
+7. The test procedure remains the same, or changes in the test procedure are minor.  
+8. Any new test method does not concern a novel non-standard technique or a standard 
+technique used in a novel way.  
+9. The 
+new 
+test 
+method 
+is 
+not 
+a 
+biological/immunological/immunochemical 
+or 
+physicochemical method or a method using a biological reagent (does not include standard 
+pharmacopeial microbiological methods) 
+Documentation required  
+1. Revised information on the controls performed at critical steps of the manufacturing process 
+and on intermediates of the proposed antigen.  
+2. Updated final product specification if changed.  
+3. Copies or summaries of analytical procedures, if new analytical procedures are used.  
+4. Validation study reports, if new analytical procedures are used.  
+5. Comparative table or description, where applicable, of current and proposed inprocess 
+tests.  
+6. Description of the batches and summary of in-process and release testing results as 
+quantitative data, in a comparative tabular format, for at least three (3 consecutive 
+commercial-scale batches of the pre- and post-change final product (certificates of analysis 
+should be provided). Comparative pre-change test results do not need to be generated 
+concurrently; relevant historical testing results are acceptable 
+7. Justification/risk assessment showing that the attribute is nonsignificant.  
+8. Justification for the new in-process test and limits.  
+9. Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least three (3) commercial scale final product batches 
+produced with the proposed changes under real-time/ real-temperature testing conditions. 
+ 
+39 
+ 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable. The data should cover 
+a minimum of 3 months testing unless otherwise justified. Additionally, the manufacturer 
+should commit to undertake real-time stability studies to support the full shelf-life/hold-
+time of the final product under its normal storage conditions and to report to the NMRA any 
+failures in these ongoing long-term stability studies. Matrixing, bracketing, the use of 
+smaller-scale batches, the use of fewer than 3 batches and/or use of forced degradation or 
+accelerated temperature conditions for stability testing may be acceptable where justified 
+and agreed by the NMRA.  
+10. Evidence that the new company/facility is GMP compliant 
+  
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+37 
+Change in the specification used to release the excipient, involving: Note: This 
+change excludes adjuvants. See adjuvant-specific changes above for details (changes 
+30 and 31).  
+37a  
+deletion of a test  
+5,8 
+1,3 
+N 
+37b  
+addition of a test  
+4 
+1-3 
+N 
+ 
+37c  
+replacement of an 
+analytical procedure  
+1-3 
+1,2 
+N 
+37d  
+minor changes to an 
+approved analytical 
+procedure  
+None 
+1,2 
+N 
+37e  
+change from an in-
+house analytical  
+procedure to a 
+recognized 
+compendial 
+analytical procedure  
+None 
+1,2 
+N 
+37f 
+widening of an 
+acceptance criterion  
+None 
+1,3 
+Vmin 
+37g  
+narrowing of an 
+acceptance criterion  
+3,4,6,7 
+1 
+N 
+Conditions to be fulfilled  
+Results of method validation demonstrate that the proposed analytical procedure is at least 
+equivalent to the approved analytical procedure.  
+The replaced analytical procedure maintains or tightens precision, accuracy, specificity and 
+sensitivity.  
+The change is within the range of approved acceptance criteria or has been made to reflect the 
+new pharmacopeial monograph specification for the excipient.  
+Acceptance criteria for residual solvents are within recognized or approved acceptance limits 
+(for example, within ICH limits for a Class 3 residual solvent or pharmacopeial requirements).  
+The deleted test has been demonstrated to be redundant compared to the remaining tests or 
+is no longer a pharmacopeial requirement.  
+The analytical procedure remains the same, or changes in the test procedure are minor.  
+The change does not result from unexpected events arising during manufacture (for example, 
+new unqualified impurity or change in total impurity limits).  
+An alternative test analytical procedure is already authorized for the specification 
+attribute/test and this procedure has not been added through a minor change submission. 
+Documentation required  
+ 
+40 
+ 
+Updated excipient specification.  
+Where an in-house analytical procedure is used and a recognized compendial standard is 
+claimed, results of an equivalency study between the in-house and compendial methods.  
+Justification of the proposed excipient specification (for example, demonstration of the 
+suitability of the monograph to control the excipient and potential impact on the performance 
+of the final product).  
+Description of change  
+Conditions to  
+be fulfilled  
+Documentation 
+required  
+Reporting type  
+38 
+Change in the 
+source of an 
+excipient from a 
+vegetable or 
+synthetic source to a 
+human or animal 
+source that may 
+pose a  
+TSE or viral risk  
+None 
+2-7  
+Vmaj  
+ 
+39 
+Change in the source 
+of an excipient from a 
+TSE risk (for example, 
+animal) source to a 
+vegetable or  
+synthetic source  
+None 
+1,3,5,6  
+Vmin  
+40 
+Replacement in the 
+source of an excipient 
+from a TSE risk 
+source to a different 
+TSE risk source  
+5,6 
+2-7  
+N  
+41 
+  
+Change            in 
+manufacture of a 
+biological excipient   
+Note:    This change 
+excludes biological  
+adjuvants; see 
+adjuvant-specific 
+changes above for 
+details  
+(Changes 30 and  
+31).  
+None 
+2-7  
+Vmaj  
+2 
+2-7  
+Vmin  
+1,2 
+2-7  
+N  
+42 
+Change in supplier 
+for a plasma derived 
+excipient (for 
+example,  
+human         serum  
+albumin) 
+None 
+3-8  
+Vmaj  
+3,4 
+5,6,9 
+Vmin 
+ 
+43 
+Change                 in  
+None 
+2,3,5-7  
+Vmin  
+ 
+41 
+ 
+supplier 
+for 
+an 
+excipient 
+of 
+nonbiological origin or 
+of 
+biological 
+origin 
+(excluding 
+plasma-
+derived 
+excipient) 
+Note: 
+This 
+change 
+excludes 
+adjuvants; 
+see adjuvant-specific 
+changes 
+above 
+for 
+details  
+(Changes 30 and  
+31)  
+1,5,6 
+  
+3  
+  
+N  
+  
+44 
+Change in excipient 
+testing site  
+1 
+10  
+N  
+Conditions to be fulfilled  
+1. No change in the specification of the excipient or final product outside the approved 
+limits.  
+2. The change does not concern a human plasma-derived excipient.  
+3. The human plasma-derived excipient from the new supplier is an approve medicinal 
+product and no manufacturing changes were made by the supplier of the new 
+excipient since its last approval in the country/jurisdiction of the NMRA.  
+4. The excipient does not influence the structure/conformation of the active ingredient.  
+5. The TSE risk source is covered by a TSE certificate of suitability and is of the same or 
+lower TSE risk as the previously approved material.  
+6. Any new excipient does not require the assessment of viral safety data. 
+ 
+1. Documentation required  
+2. Declaration from the manufacturer of the excipient that the excipient is entirely of 
+vegetable or synthetic origin.  
+3. Details of the source of the excipient (for example, animal species, country of origin) 
+and the steps undertaken during processing to minimize the risk of TSE exposure   
+4. Information demonstrating comparability in terms of physicochemical properties, and 
+the impurity profile of the proposed excipient compared to the approved excipient.  
+5. Information on the manufacturing process and on the controls performed at critical 
+steps of the manufacturing process, and on the intermediate of the proposed 
+excipient.  
+6. Description of the batches and summary of results as quantitative data, in a 
+comparative tabular format, for at least three (3) commercial-scale batches of the 
+proposed excipient.  
+7. Comparative pre- and post-change test results for the manufacturer’s characterized 
+key stability-indicating attributes for at least three (3) commercial scale final product 
+batches produced with the proposed changes under real-time/ real-temperature 
+testing conditions. Comparative pre-change test results do not need to be generated 
+concurrently; relevant historical results for lots on the stability programme are 
+acceptable. The data should cover a minimum of 3 months testing unless otherwise 
+justified. Additionally, the manufacturer should commit to undertake real-time 
+stability studies to support the full shelf-life/hold-time of the final product under its 
+normal storage conditions and to report to the NMRA any failures in these ongoing 
+long-term stability studies. Matrixing, bracketing, the use of smaller-scale batches, the 
+use of fewer than 3 batches and/or use of forced degradation or accelerated 
+temperature conditions for stability testing may be acceptable where justified and 
+agreed by the NMRA.  
+8. Information assessing the risk with respect to potential contamination with 
+adventitious agents (for example, impact on the viral clearance studies, or BSE/TSE 
+risk including viral safety documentation where necessary.  
+9. Complete manufacturing and clinical safety data to support the use of the proposed 
+human plasma-derived excipient.  
+ 
+42 
+ 
+10. Letter from the supplier certifying that no changes were made to the plasma-derived 
+excipient compared to the currently approved corresponding medicinal product.  
+11. Evidence that the new company/facility is GMP compliant 
+3.7.13 Control of the final product 
+Description of change  
+Conditions 
+to be  
+fulfilled 
+Documentation 
+required  
+Reporting type  
+45 
+Change affecting the QC testing of the final product (release and stability), involving:  
+ Note: Transfer of testing to a different facility within a GMP-approved site is not 
+considered to be a reportable change but is treated as a minor GMP change and 
+reviewed during inspections.  
+45a  
+transfer of the QC testing 
+activities for a non 
+pharmacopoeial assay (in-
+house) to a new company or 
+to a different site within the 
+same company 
+None 
+1,2  
+Vmin  
+45b  
+transfer of the QC testing 
+activities for a 
+pharmacopoeial assay to a 
+new company  
+1 
+1,2  
+N  
+Conditions to be fulfilled  
+1. The transferred QC test is not a potency assay or a bioassay.  
+Documentation required  
+1.    Information demonstrating technology transfer qualification.  
+2.    Evidence that the new company/facility is GMP compliant.  
+3.7.14 Change in the specification used to release the final product 
+Description of change  
+Conditions 
+to 
+be  
+fulfilled 
+Documentation 
+required  
+Reporting type  
+46 
+Change in the specification used to release the final product, involving:  
+46a  
+or 
+products 
+or 
+components subject to 
+terminal sterilization by 
+heat (for example, diluent 
+for 
+reconstitution 
+of 
+lyophilized 
+vaccines), 
+replacing the sterility test 
+with process parametric 
+release  
+None 
+1,2,6,8,10 
+Vmaj 
+ 
+46b  
+deletion of a test  
+None 
+2,9,10 
+Vmin 
+46c  
+addition of a test  
+1,2,9 
+2-4,8 
+N 
+ 
+43 
+ 
+46d  
+change 
+in 
+animal 
+species/strains for a test 
+(for example, new  
+species/strains, 
+animals of different ages, 
+and/or 
+new 
+supplier 
+where genotype of the 
+animal 
+cannot 
+be 
+confirmed)  
+None 
+5,11 
+Vmin 
+46e  
+replacement 
+of 
+an 
+analytical procedure  
+None 
+2-4,7,8 
+Vmin 
+46f 
+minor changes to an 
+approved  
+analytical procedure  
+3-6 
+3,8 
+N 
+46g  
+change from an in-house 
+analytical  
+procedure to a recognized 
+compendial 
+analytical 
+procedure 
+3,6 
+2-4 
+N 
+ 
+46h  
+widening 
+of 
+an 
+acceptance criterion  
+None 
+2,8,10 
+Vmin 
+46i 
+narrowing 
+of 
+an 
+acceptance criterion  
+7-10 
+2 
+N 
+Conditions to be fulfilled  
+1. 
+No change in the limits/acceptance criteria outside the approved limits for the approved 
+assays.  
+2. 
+The additional test is not intended to monitor new impurity species.  
+3. 
+No change in the acceptance criteria outside the approved limits.  
+4. 
+The method of analysis is the same (for example, a change in column length or 
+temperature, but not a different type of column or method) and no new impurities are 
+detected.  
+5. 
+The modified analytical procedure maintains or tightens precision, accuracy, specificity 
+and sensitivity.  
+6. 
+The change does not concern potency testing.  
+7. 
+The change is within the range of approved acceptance criteria.  
+8. 
+Acceptance criteria for residual solvents are within recognized or approve acceptance 
+limits (for example, within ICH limits for a Class 3 residual solvent, or pharmacopeial 
+requirements)  
+9. 
+The change does not result from unexpected events arising during manufacture (for 
+example, new unqualified impurity, or impurity content outside of the approved limits). 
+10. The analytical procedure remains the same, or changes to the analytical procedure are 
+minor. 
+Documentation required  
+1. 
+Process validation study reports on the proposed final product.  
+2. 
+Updated copy of the proposed final product specification.  
+3. 
+Copies or summaries of analytical procedures, if new analytical procedures are used 
+4. 
+Validation study reports, if new analytical procedures are used 
+5. 
+Data demonstrating that the change in animals gives results comparable to those 
+obtained using the approved animals 
+6. 
+Description of the batches and summary of results as quantitative data for a sufficient 
+number of batches to support the process parametric release 
+7. 
+Description of the batches and summary of results as quantitative data, in a comparative 
+tabular format, for at least three (3) commercial-scale batches of the final product 
+8. 
+Justification for the change to the analytical procedure (for example, demonstration of 
+the suitability of the analytical procedure in monitoring the final product, including the 
+ 
+44 
+ 
+degradation products) or for the change to the specification (for example, demonstration 
+of the suitability of the revised acceptance criterion in controlling the final product) 
+9. 
+Justification for the change to the analytical procedure (for example, demonstration of 
+the suitability of the analytical procedure in monitoring the final product, including the 
+degradation products) or for the change to the specification (for example, demonstration 
+of the suitability of the revised acceptance criterion in controlling the final product) 
+10. 
+Declaration/evidence that consistency of quality and of the production process is 
+maintained 
+11. 
+Copies of relevant certificates of fitness for use 
+3.7.15 Reference standards or materials 
+Description of change  
+Conditions to be  
+fulfilled 
+Documentation 
+required  
+Reporting type  
+  47 
+Qualification of a reference 
+standard against a new 
+primary international 
+standard 
+None 
+1,2  
+Vmin  
+ 48 
+Change of the reference 
+standard from in-house 
+(no relationship with 
+international standard) to 
+pharmacopeial or 
+international standard 
+None 
+1,2 
+Vmin 
+  
+  49 
+Qualification of a new lot of 
+reference standard against 
+the 
+approved 
+reference 
+standard 
+(including 
+qualification of a new lot of 
+a 
+secondary 
+reference 
+standard 
+against 
+the 
+approved 
+primary 
+standard)  
+1 
+2  
+N  
+ 50 
+Change to the reference 
+standard 
+qualification 
+protocol  
+None 
+3,4  
+Vmin  
+  51 
+Extension of the shelf-life 
+of the reference standard  
+2 
+5  
+N  
+ Conditions to be fulfilled  
+1. The qualification of a new standard is carried out in accordance with an approved 
+protocol.  
+2. The extension of the shelf-life of the reference standard is carried out in accordance with 
+an approved protocol.  
+Documentation required  
+1. Revised product labelling to reflect the change in reference standard (as applicable).  
+2. Qualification data of the proposed reference standards or materials (for example, source, 
+characterization and certificate of analysis).  
+3. Justification of the change to the reference standard qualification protocol.  
+4. Updated reference standard qualification protocol.  
+5. Summary of stability testing and results or retest data to support the extension   of the 
+reference standard shelf-life. 
+3.7.16 Container closure system 
+ 
+45 
+ 
+Description of change  
+Conditions to be  
+fulfilled  
+Documentation 
+required  
+Reporting type  
+52 
+Modification 
+of 
+a 
+primary 
+container 
+closure 
+system 
+(for 
+example, new coating, 
+adhesive, stopper or 
+type of glass)  
+Note: The addition of a 
+new container closure 
+system (for example, 
+addition of a pre-filled 
+syringe 
+where 
+the 
+currently 
+approved 
+presentation is only a 
+vial) is considered a 
+change 
+in 
+presentation; 
+see 
+change 29.c above.  
+None  
+1-7 
+Vmin 
+1-3 
+  
+3 
+N 
+  
+53 
+Change 
+from 
+a 
+reusable container to a 
+disposable 
+container 
+with no changes in 
+product 
+contact 
+material        (for 
+example,  
+change from reusable 
+pen to disposable pen) 
+None  
+1,3,6 
+Vmin 
+54 
+Deletion of a container 
+closure system  
+Note: 
+The 
+NMRA 
+should be notified of 
+the 
+deletion 
+of 
+a 
+container 
+closure 
+system, and product 
+labelling 
+information 
+should be updated, as 
+appropriate.  
+None 
+1 
+N 
+Conditions to be fulfilled  
+1. 
+No change in the type of container closure or materials of construction.  
+2. 
+No change in the shape or dimensions of the container closure. 
+3. 
+The change is made only to improve the quality of the container and does not modify the 
+product contact material (for example, increased thickness of the glass vial without 
+changing interior dimensions).  
+Documentation required  
+1. Revised product labelling information, as appropriate  
+2. For sterile products, process validation study reports, or providing equivalency rationale. 
+For a secondary functional container closure system, validation testing report.  
+3. Information on the proposed container closure system, as appropriate (for example, 
+description, materials of construction of primary/secondary packaging components, 
+performance specification).  
+4. Results demonstrating protection against leakage, no leaching of undesirable substance 
+and compatibility with the product, and results from the toxicity and biological reactivity 
+tests.  
+ 
+46 
+ 
+5. Summary of results as quantitative data, in a comparative tabular format, for at least three 
+(3) consecutive commercial-scale batches of the pre- and post-change final product. 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical testing results are acceptable. Bracketing for multiple-strength products, 
+container sizes and/or fills may be acceptable if scientifically justified.  
+6. Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least three (3) commercial scale final product batches 
+produced with the proposed changes under real-time/ real-temperature testing conditions. 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable. The data should cover 
+a minimum of 3 months testing unless otherwise justified. Additionally, the manufacturer 
+should commit to undertake real-time stability studies to support the full shelf-life/hold-
+time of the final product under its normal storage conditions and to report to the NMRA 
+any failures in these ongoing long-term stability studies. Matrixing, bracketing, the use of 
+smaller-scale batches, the use of fewer than 3 batches and/or use of forced degradation 
+or accelerated temperature conditions for stability testing may be acceptable where 
+justified and agreed by the NMRA 
+7. Information demonstrating the suitability of the proposed container/closure system with 
+respect to its relevant properties (for example, results from last media fills; results of 
+transportation and/or interaction studies demonstrating the preservation of protein 
+integrity and maintenance of sterility for sterile products; results of maintenance of sterility 
+in multidose containers and results of user testing 
+ 
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+55  
+Change in the supplier for a primary container closure component, involving:  
+55a  
+replacement or 
+addition of a 
+supplier  
+Note: A change in 
+container closure 
+system involving 
+new materials of  
+construction, 
+shape                    
+or 
+dimensions would 
+require supporting 
+data such as is 
+shown for change 52 
+above.  
+1,2  
+4,5  
+N  
+55b 
+deletion of a 
+supplier 
+None 
+None 
+N 
+ 
+Conditions to be fulfilled  
+1. No change in the type of container closure, materials of construction, shape and 
+dimensions, or in the sterilization process for a sterile container closure component.  
+2. No change in the specification of the container closure component outside the approved 
+limits. 
+ 
+47 
+ 
+Documentation required  
+1. Information on the supplier and make of the proposed container closure system (for 
+example, certificate of analysis, description, materials of construction of primary packaging 
+components, specification).  
+2. Data demonstrating the suitability of the container closure system (for example, 
+extractable/leachable testing).   
+3. Comparative pre- and post-change test results for the manufacturer’s characterized key 
+stability-indicating attributes for at least three (3) commercial scale final product batches 
+produced with the proposed changes under real-time/ real-temperature testing conditions. 
+Comparative pre-change test results do not need to be generated concurrently; relevant 
+historical results for lots on the stability programme are acceptable. The data should cover 
+a minimum of 3 months testing unless otherwise justified. Additionally, the manufacturer 
+should commit to undertake real-time stability studies to support the full shelf-life/hold-
+time of the final product under its normal storage conditions and to report to the NMRA 
+any failures in these ongoing long-term stability studies. Matrixing, bracketing, the use of 
+smaller-scale batches, the use of fewer than 3 batches and/or use of forced degradation or 
+accelerated temperature conditions for stability testing may be acceptable where justified 
+and agreed by the NMRA.  
+4. Letter from the MA holder certifying that there are no changes to the container closure 
+system 
+5. Certificate of analysis for the container provided by the new supplier and comparison with 
+the certificate of analysis for the approved container 
+ 
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+56  
+Change in the specification used to release a primary container closure 
+component or functional secondary container closure component, involving:  
+56a  
+deletion of a test  
+1,2 
+1,2 
+N 
+56b  
+addition of a  
+test  
+3 
+1,2 
+N 
+56c  
+replacement of an 
+analytical procedure  
+6,7 
+1-3 
+N 
+56d  
+minor changes to an 
+analytical procedure  
+4-7 
+1-3 
+N 
+56e  
+widening 
+of 
+an 
+acceptance criterion  
+None 
+1,2 
+Vmin 
+56f  
+narrowing 
+of 
+an 
+acceptance criterion  
+8 
+1 
+N 
+Conditions to be fulfilled  
+ 
+48 
+ 
+1. The deleted test has been demonstrated to be redundant compared to the remaining 
+tests or is no longer a pharmacopoeia requirement 
+2. The change to the specification does not affect the functional properties of the container 
+closure component nor result in a potential impact on the performance of the final 
+product.  
+3. The change is not necessitated by recurring events arising during manufacture or 
+because of stability concerns.  
+4. There is no change in the acceptance criteria outside the approved limits.  
+5. The new analytical procedure is of the same type.  
+6. Results of method validation demonstrate that the new or modified analytical 
+procedure is at least equivalent to the approved analytical procedure.  
+7. The new or modified analytical procedure maintains or tightens precision, accuracy, 
+specificity and sensitivity.  
+8. The change is within the range of approved acceptance criteria or has been made to 
+reflect new pharmacopoeia monograph specifications for the container closure 
+component  
+Documentation required  
+1. 
+Updated copy of the proposed specification for the primary or functional secondary 
+container closure component.  
+2. 
+Rationale for the change in specification for a primary container closure component.  
+3. 
+ Description of the analytical procedure and, if applicable, validation data.  
+  
+ 3.7.17 Stability of the Final product 
+Description of change  
+Conditions to  
+be fulfilled  
+Documentation 
+required  
+Reporting type  
+57 
+Change in the shelf-life of the final product, involving:  
+57a 
+extension 
+(includes 
+extension of shelf- life 
+of the final product as 
+packaged for sale, and 
+hold-time 
+after 
+opening 
+and 
+after 
+dilution or  
+reconstitution) 
+None 
+  
+1-5 
+Vmin 
+57b 
+reduction 
+(includes 
+reduction as packaged 
+for sale, after opening, 
+and after dilution or 
+reconstitution) 
+None 
+1-5 
+Vmin 
+  
+Conditions to be fulfilled  
+None  
+Documentation required  
+1. 
+Updated product labelling information, as appropriate.  
+2. 
+Proposed storage conditions and shelf-life, as appropriate.  
+4. 
+Updated post-approval stability protocol.  
+5. 
+Justification of the change to the post-approval stability protocol or stability 
+commitment.  
+6. 
+Results of stability testing under real-time/real-temperature conditions covering the 
+proposed shelf-life generated on at least three (3) commercial-scale batches.  
+Description of change  
+Conditions to be 
+fulfilled  
+Documentation 
+required  
+Reporting type  
+ 
+49 
+ 
+58 
+Change in the post-approval stability protocol of the final product, involving:  
+58a  
+major change to the 
+post-approval 
+stability protocol or 
+stability 
+commitment, such as 
+deletion of a test, 
+replacement 
+of 
+an 
+analytical procedure 
+or change in storage 
+temperature  
+None 
+1-6 
+Vmaj 
+ 
+58b  
+addition 
+of 
+time 
+point(s) into the post-
+approval 
+stability 
+protocol  
+None 
+4,6 
+N 
+58c  
+addition 
+of 
+test(s) 
+into 
+the 
+post 
+approval 
+stability 
+protocol  
+1 
+4,6 
+N 
+58d  
+deletion 
+of 
+time 
+point(s) 
+from 
+the 
+post-approval 
+stability 
+protocol 
+beyond the approved 
+shelf-life  
+None 
+4,6 
+N 
+58e  
+deletion 
+of 
+time 
+point(s) 
+from 
+the 
+post-approval 
+stability 
+protocol 
+within the  
+approved shelf-life  
+2 
+4,6 
+N 
+58f  
+replacement of the 
+sterility testing None 
+by 
+the 
+container/closure 
+system 
+integrity 
+testing 
+None 
+1,2,4,6 
+Vmin 
+3 
+4,6 
+N 
+Conditions to be fulfilled  
+1. The addition of the test(s) is not due to stability concerns or to the identification of new 
+impurities. 
+2. The approved shelf-life of the final product is at least 24 months.  
+3.  The method used to demonstrate the integrity of the container/closure system has already 
+been approved as part of a previous application.  
+Documentation required  
+ 
+50 
+ 
+1. Copies or summaries of analytical procedures, if new analytical procedures are used.  
+2. Validation study reports, if new analytical procedures are used.  
+3. Proposed storage conditions and or shelf-life, as appropriate.  
+4. Updated post-approval stability protocol and stability commitment.  
+5. Copies or summaries of analytical procedures, if new analytical procedures are used.  
+6. Validation study reports, if new analytical procedures are used.  
+7. Proposed storage conditions and or shelf-life, as appropriate.  
+8. Updated post-approval stability protocol and stability commitment.  
+9. If applicable, stability testing results to support the change to the post-approval stability 
+protocol or stability commitment (for example, data showing greater reliability of the 
+alternative test).  
+10. Justification of the change to the post-approval stability protocol or stability commitment 
+Description of change  
+Conditions to  
+be fulfilled  
+Documentation 
+required  
+Reporting type  
+59 
+Change in the labelled storage conditions for the final product or the diluted or 
+reconstituted vaccine, involving:  
+59a 
+addition or change 
+of 
+storage 
+condition(s) 
+for 
+the final product, 
+or for diluted or 
+reconstituted 
+vaccine 
+(for 
+example, widening 
+or narrowing of a 
+temperature 
+criterion, 
+or 
+addition 
+of 
+or 
+change 
+to 
+controlled 
+temperature chain 
+conditions)  
+None 
+1-4,6  
+Vmin  
+ 
+59b  
+addition 
+of 
+a 
+cautionary 
+statement 
+(for 
+example, “Do not 
+freeze  
+None 
+1,2,4,5  
+Vmin  
+59c  
+deletion 
+of 
+a 
+cautionary 
+statement 
+(for 
+example, “Do not 
+freeze”)  
+None 
+1,2,4,6  
+Vmin  
+Conditions to be fulfilled  
+None  
+Documentation required 
+1. Revised product labelling information, as applicable.  
+2. Proposed storage conditions and shelf-life.  
+3. Updated post-approval stability protocol and stability commitment.  
+4. Justification of the change in the labelled storage conditions/cautionary statement.  
+ 
+51 
+ 
+5. Results of stability testing under appropriate stability conditions covering the proposed 
+shelf-life, generated on one (1) commercial scale batch unless otherwise justified 
+6. Results of stability testing under appropriate conditions covering the proposed shelf-life, 
+generated on at least three (3) commercial-scale batches unless otherwise justified. 
+ 
+ 
+ 
+ 
+52 
+ 
+4.0 
+REFERENCES  
+1. Guidelines on procedures and data requirements for changes to 
+approved vaccines. In: WHO Expert Committee on Specifications for 
+Pharmaceutical Preparations. Forty-seventh report. Geneva, World 
+Health Organization, 2015, Annex 4 (WHO Technical Report Series, 
+No. 993).  
+2. EAC Guidelines for Variation of Registered medicinal products  
+ 
+ 
+ 
+ 
+53 
+ 
+5.0 
+REVISION HISTORY 
+Revision 
+No:  
+Date   
+Author/Reviewer   
+Section(s) 
+revised   
+Description of change  
+1.      
+19/07/2022 
+  
+Anthony Kemboi 
+Second Page 
+  
+Added 
+section 
+on 
+Recommended citations. 
+Included the PPB Website 
+Removed section on No 
+part of this publication 
+may 
+be 
+reproduced, 
+stored 
+in 
+a 
+retrieval 
+system, or transmitted in 
+any form, or by any 
+means, 
+electronic, 
+mechanical, 
+photocopying, recording, 
+scanning, or otherwise, 
+without 
+the 
+prior 
+permission 
+in 
+writing 
+from the pharmacy and 
+Poisons Board. 
+Appendix 1 
+Addition of number vii, 
+Viii and ix) of Appendix  
+1(safety and Efficacy) 
+Appendix 2 
+Addition of number v and 
+vi 
+2.  
+30/1/2024 
+Dr.Jonathan 
+Meriakol 
+ 
+Dr.Vallarie 
+Muguni 
+ 
+Dr.Kireran Gitobu 
+ 
+Dr.Purity Mutinda 
+ 
+Dr.Ann Tibin 
+2.1 
+Revised 
+to 
+direct 
+applicants to the Service 
+Charter 
+for 
+detailed 
+information 
+on 
+the 
+timelines for processing 
+variation applications 
+3.1 and 3.4 
+Updated 
+the 
+variation 
+guidelines to clarify the 
+categories of variations: 
+those requiring approval 
+before 
+implementation, 
+those 
+requiring 
+notification to the PPB 
+before 
+or 
+during 
+implementation, 
+and 
+those that do not require 
+any notification to the 
+PPB 
+3.4.2 
+Clear distinction between 
+administrative 
+product 
+labeling 
+information 
+ 
+54 
+ 
+changes 
+and 
+product 
+labeling 
+information 
+change that has impact 
+on clinical use 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.0 
+APPENDICES 
+Appendix I: Safety and efficacy changes 
+Examples of safety and efficacy changes that require data from clinical 
+studies, post-marketing observational studies, or extensive post-marketing 
+safety data include:  
+ 
+i. 
+Change to the indication:  
+a. addition of a new indication (such as prevention of a 
+previously unspecified disease);  
+b. modification of an approved indication (such as the 
+expansion of the age of use or restriction of an indication 
+based on clinical studies demonstrating a lack of efficacy).  
+ii. 
+Change in the recommended dose and/or dosing schedule:  
+a. addition of a new vaccination regimen (such as the 
+addition of accelerated vaccination regiments);  
+b. addition or modification of the existing vaccination 
+regimen (such as the addition of a booster dose or 
+modification of the recommended time interval for booster 
+vaccinations).  
+iii. 
+Change to add information on shedding and transmission  
+iv. 
+Change to the use in specific at-risk groups (such as the addition of 
+information on use in pregnant women or immunocompromised 
+patients).  
+v. 
+Change to add information on co-administration with other vaccines 
+or medicines.  
+vi. 
+Change in existing risk-management measures:  
+a. deletion of an existing route of administration, dosage 
+form, and/or strength due to safety reasons;  
+b. deletion of a contraindication (such as use in pregnant 
+women).   
+vii. 
+Any other addition or expansion of a safety claim, indication, or 
+efficacy claim, whether explicit or implicit  
+viii. 
+Identification or characterization of any adverse events   
+ 
+ 
+ix. 
+The identification of subgroups, or conditions of use, for which the 
+benefit to the risk profile of the vaccine has the potential to be 
+favorable;  
+ For the above changes, the applicant should submit to PPB the below stated 
+• Detailed description and rationale of the proposed change;  
+• Summary of the methods used and studies performed to evaluate 
+the effect of the change on the vaccine’s safety or efficacy;  
+• Amended 
+product 
+labelling 
+information; 
+Clinical studies (protocol, statistical analysis plan and clinical study 
+report); Clinical assay methods (including SOPs) and validations; 
+The pharmacovigilance plan.  
+Safety and efficacy changes require prior approval by PPB.  
+Product labelling information changes  
+Examples of product labelling information changes associated with changes 
+that have an impact on clinical use include: 
+i. The addition of an adverse event identified as consistent with a 
+causal association with immunization with the vaccine concerned. 
+ii. A change in the frequency of occurrence of an adverse reaction.  
+iii. Addition of a contraindication or warning (such as identification of a 
+specific subpopulation as being at greater risk, such as individuals 
+with a concomitant condition or taking concomitant medicines, or a 
+specific age group). These changes may include the provision of 
+recommended risk-management actions (for example, required 
+testing before vaccination, specific monitoring following vaccination, 
+and ensuring patient awareness of certain risks).  
+iv. Strengthening or clarification of product labelling information text 
+relating to contraindications, warnings, precautions, and adverse 
+reactions.  
+v. Revisions 
+to 
+the 
+instructions 
+for 
+use, 
+including 
+dosage, 
+administration, and preparation for administration to optimize the 
+safe use of the vaccine.  
+Product labeling information changes that has an impact on clinical use 
+require prior approval by PPB.  
+ 
+ 
+Examples of Administrative product labelling information changes which do 
+require reporting to PPB and approval prior to implementation by the MA 
+holder include: 
+• Change in the name of the MA holder and/or manufacturer (such as 
+change of name due to a merger). 
+• Change in the trade name of the vaccine. 
+Examples of Administrative product labelling information changes which do 
+not require approval by PPB A prior to implementation include: 
+• Minor changes to the layout of the product labelling information 
+items, or revision of typographical errors without changing the 
+content of the label. 
+• Update of the MA holder’s contact information (for example, customer 
+service number or web site addresses) or the distributor’s name. 
+• Update of the existing information for referenced literature without 
+adding or removing references. 
+• Changes made to comply with an official compendium (such as 
+change of common name). 
+• Minor changes to the text to add clarity in relation to maintaining 
+consistency with common label phrase standards (for example, 
+a change from “not recommended for children” to “not for use 
+in children”). 
+These administrative product labelling information changes (that is, changes 
+that have been implemented since the time of the last approved product 
+labelling information not subject to prior approval) should be included when 
+submitting subsequent supplements for safety and efficacy changes, or for 
+product labelling information changes. 
+ 
+ 
+ 
+ 
+Appendix II: Examples of changes that make a new application 
+necessary 
+These include the following:  
+i. Change to add new route of administration  
+ii. Change to add a new dosage form (such as replacement of a suspension 
+for injection with a lyophilized cake  
+iii. Change to add a new strength  
+iv. Change to add a new delivery device (such as adding a needle-free jet 
+injector)  
+v. New cell substrates that are unrelated to the MCB or pre-MCB material 
+vi. Change in the type/structure of a chemical adjuvant, in the type of a 
+biological adjuvant, or a component of a biological adjuvant 
+ 
+ 
+ 
+ 
+ 
+Annex I: Application for Submission of Variation  
+ 
+ 
+REPUBLIC OF KENYA 
+ 
+ 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+ 
+ 
+APPLICATION FOR VARIATION TO A REGISTERED 
+PHARMACEUTICAL 
+ 
+(Please complete each section of this application form electronically as a word 
+document AND   as a scanned signed PDF file.  To be submitted as one 
+original hard-copy and one electronic copy (in   Ms –Word and PDF version on 
+a CD-Rom) 
+ 
+ 
+CONFIDENTIAL 
+(Effective from January 2022) 
+ 
+Application Number 
+(VAR No.) 
+ 
+Date of submission of 
+the dossier  
+ 
+Name of the 1st 
+Evaluator 
+ 
+Signature 
+Name of the 2nd 
+Evaluator 
+ 
+Signature 
+Date of 1st evaluation 
+ 
+Date of 2nd Evaluation  
+Number of files 
+received  
+ 
+ 
+ 
+CONCLUSION OF THE ASSESSMENT 
+APPROVED (no outstanding issues) 
+QUERY RAISED (Indicate the sections 
+where query is raised) 
+REJECTED (indicate the sec(s) that led 
+to the rejection) 
+(Please delete which does not apply) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Applicant details 
+ 
+Information required (Particulars 
+of the applicant) 
+Information to be filled by the 
+Applicant 
+a) Name and Business Address of 
+the Marketing Authorization 
+Holder (MAH) 
+Company) Name:  
+Address:  
+Country:  
+Telephone:  
+Telefax:  
+E-Mail:  
+b) Name and complete address of the 
+Local Technical Representative of 
+Manufacturer (if Applicable or 
+different from section (a) above) 
+Company name:      
+Address:  
+PPB File Number:  
+Telephone:  
+Telefax:  
+E-Mail:  
+ 
+1.1 
+Product Details  
+ 
+ 
+ 
+Information required (Product 
+Details) 
+Information to be filled by the 
+Applicant 
+a) Trade Name of the product, 
+Product registration number,  
+Product retention number, Active 
+pharmaceutical ingredient (s) etc 
+Note: Product retention number is 
+not applicable(N/A) for a product 
+registered the same year during 
+which the variation is applied  
+Trade Name of the product:  
+Product registration number: 
+Product retention number (N/A for 
+products registered within the same 
+year:  
+Active pharmaceutical ingredient 
+((s) (API) :  
+Strength of the API(s): 
+Dosage form: e.g. Tablet 
+Registered Shelf Life: 
+Registered Batch Size(s):  
+Registered Pack Size(s) 
+  
+ 
+1.1 Variation type: (tick all applicable options) 
+ 
+                    Notification                                       
+ 
+ 
+   
+                    Minor variation    
+ 
+                     Major variation  
+ 
+1.2 Grouping of variations 
+ 
+       Single variation 
+ 
+                              Grouped variations 
+ 
+ 
+ 
+ 
+2.  Variation title and Summary of the proposed changes 
+ 
+2.1. Variation title(s) and Variation type Number (s): 
+Indicate the variation title e.g. Change of Batch size of the finished 
+pharmaceutical product. For multiple variations (grouped variations), indicate 
+all the titles of the variation as per PPB Variation guideline. 
+ 
+2.2  Summarry of the proposed changes 
+ 
+Provide a summary of the proposed changes as indicated in the table below. 
+For Multiple variations(Grouped Variations), reproduce this section 
+ 
+Current  Details  
+ Proposed  Details (change) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 3  Reason for Change(s)  
+ 
+ Provide reason(s) and justification for the requested changes  
+ 
+3.  Documentation required to be provided 
+ 
+3.1 Mandatory documents applicable for every variation (tick all 
+applicable options) 
+ 
+The following documentation   SHALL be provided   for each variation 
+requested 
+Name of the Document to be 
+Submitted   
+ Applicant to tick all applicable 
+options, if the document is 
+provided 
+ Copy of Pharmacy and Poisons 
+Board Initial registration 
+certificate of the product  
+ 
+ 
+ 
+Copy of Pharmacy and Poisons   
+Retention certificate of the 
+product 
+ 
+Copy of cGMP from PPB for the 
+Manufacturing site/ Evidence for 
+payment for GMP 
+ 
+ 
+ 
+ 
+3.2 Mandatory specific documents required to fulfil the condition set 
+for a specific variation  
+ 
+ Provide in the table below the supportive documentation   as described 
+(listed) in the Pharmacy and Poisons Board variation Guideline.  For multiple 
+variations (grouped variations), reproduce this table  
+ 
+ 
+ 
+ 
+ 
+ 
+Name of the Document(s) to be 
+Submitted   
+ Applicant to tick all applicable 
+options, if the document is 
+provided 
+  
+Refer to Pharmacy and Poisons 
+Board Variation Guideline to 
+indicate the specific document 
+ 
+ 
+ 
+ 
+ 
+4. Declaration 
+ 
+ 
+I declare that: 
+ 
+1. I, the undersigned certify that all the information in this application form 
+and accompanying documentation is correct, complete and true to the best 
+of my knowledge. 
+2. I further confirm that the information referred to in my application is 
+available for verification during GMP inspection. 
+3. I also agree that the undersigned will continue to carry out 
+pharmacovigilance to monitor the safety of the product in the market and 
+provide safety update reports in accordance with PPB requirements  
+ 
+4. I also agree that I am obliged to follow the requirements of the Pharmacy 
+and Poisons Act, which are related to pharmaceutical products. 
+5. I also consent to the processing of information provided for by the 
+Pharmacy and Poisons Board.  
+6.  I hereby confirm that fees will be paid/have been paid as provided for in 
+the Pharmacy and Poisons Board Drug Registration Guideline. 
+ 
+Name: 
+…………………………………………………………………..…………………………….. 
+ 
+Position in the company (Title/ 
+Designation):………………………………………………………… 
+ 
+Signature: 
+…………………………………………………………………………….……………….. 
+ 
+Date:……………………………………………………………………………………………
+………. 
+ 
+ 
+Official stamp: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 27663 - 00506 Lenana Road Opposite Russian Embassy 
+Nairobi, 
+Tel: +254-02-12345/6789, Fax: +254-02-12345, 
+Website: www.Pharmacyboardkenya.org.ke, 
+Email: info@pharmacyboardkenya.org.ke 
+ 

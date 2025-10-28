@@ -1,0 +1,2162 @@
+ 
+HPT/ISE/EFS/GUD/019 
+Revision 2 
+ 
+MINISTRY OF HEALTH 
+ 
+PHARMACY AND POISONS BOARD 
+ 
+ 
+ 
+ 
+GUIDELINES FOR GOOD DISTRIBUTION PRACTICES FOR 
+HEALTH PRODUCTS AND TECHNOLOGIES IN KENYA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 2023
+ 
+Citation of this Document 
+The author of this document is the Pharmacy and Poisons Board, a State 
+Corporation under the Ministry of Health, Republic of Kenya. It may be 
+reproduced or adopted on condition that the recommended citation below is 
+made. 
+ 
+Recommended citation: Republic of Kenya, Ministry of Health, Pharmacy and 
+Poisons Board, Guidelines for Good Distribution practices for health products 
+and technologies in Kenya, Version 2, 2023. 
+ 
+All rights reserved: 
+©Pharmacy and Poisons Board, 2023 
+For clarifications, comments, or suggestions, please contact: 
+The Chief Executive Officer 
+Pharmacy and Poisons Board 
+P.O. Box 27663 – 00506, Nairobi 
+Telephone: 0709770100 
+Email: info@pharmacyboardkenya.org 
+Website: www.pharmacyboardkenya.org
+ 
+ 
+ii 
+Table of Contents 
+Abbreviations and Acronyms ............................................................................................. iv 
+Glossary of Terms .............................................................................................................. v 
+Acknowledgments .............................................................................................................. x 
+Foreword ........................................................................................................................... xi 
+1.0 
+INTRODUCTION ...................................................................................................... 1 
+1.1 
+Legal framework .................................................................................................. 1 
+2.0 
+GENERAL CONSIDERATIONS ................................................................................. 1 
+2.1 
+Organization Structure and Management ............................................................ 1 
+2.2 
+Quality Management System ............................................................................... 2 
+2.3 
+Personnel ............................................................................................................ 4 
+2.4 
+Premises, Warehousing and Storage .................................................................... 5 
+2.4.1 General requirements ...................................................................................... 5 
+2.4.2 General storage areas ...................................................................................... 8 
+2.4.3 Storage conditions ......................................................................................... 12 
+2.4.4 Monitoring of storage conditions .................................................................... 13 
+2.4.5 Good cold chain management Storage ........................................................... 13 
+2.5 
+Good Retail Practice for Pharmaceuticals ........................................................... 15 
+2.5.1 Nature and setup of premises ........................................................................ 15 
+2.5.2 Equipment .................................................................................................... 18 
+2.5.3 Reference materials ....................................................................................... 18 
+2.5.4 Retail pharmacy licence ................................................................................. 19 
+2.5.5 Operations .................................................................................................... 20 
+2.5.6 Good Wholesale Practice for Pharmaceuticals ................................................ 21 
+2.5.7 Building and grounds .................................................................................... 21 
+2.5.8 Facilities ........................................................................................................ 22 
+2.5.9 Personnel ...................................................................................................... 23 
+2.5.10 
+Wholesale Pharmacy licence ...................................................................... 24 
+2.6 
+Good Hospital Pharmacy Practice for Pharmaceuticals ...................................... 25 
+2.6.1 Nature and Setup of premises. ....................................................................... 25 
+2.6.2 Hospital Pharmacy licence. ............................................................................ 26 
+2.6.3 Staff establishment ........................................................................................ 27 
+2.6.4 Operations .................................................................................................... 28 
+2.6.5 Equipment (where necessary) ........................................................................ 28 
+2.6.6 Reference materials ....................................................................................... 29 
+2.7 
+Good E-Pharmacy Practice for Pharmaceuticals ................................................. 30 
+3.0 
+HANDLING AND CONTROL OF HEALTH PRODUCTS AND TECHNOLOGIES ......... 31 
+3.1 
+Inward Goods – From Suppliers ........................................................................ 32 
+3.2 
+Outward Goods – To Retail Pharmacies ............................................................. 32 
+3.3 
+Port Handling and Customs Clearance .............................................................. 33 
+3.4 
+Special/ Temporary Storage Facilities at Ports of Entry ..................................... 34 
+3.5 
+Handling During Importation of Health products and technologies .................... 34 
+3.6 
+Damaged Goods from Stock .............................................................................. 36 
+3.7 
+Returned Goods ................................................................................................ 36 
+3.7.1 From customers ............................................................................................ 36 
+3.7.2 From Recall ................................................................................................... 37 
+ 
+ 
+iii 
+3.7.3 Inventory Management .................................................................................. 37 
+3.7.4 Substandard and Falsified Medicals products (SF) and Unregistered Products39 
+3.7.5 Complaints .................................................................................................... 40 
+3.7.6 Self-Audit ...................................................................................................... 40 
+3.7.7 Corrective Action and Preventive Action (CAPA) .............................................. 41 
+3.8 
+Validation ......................................................................................................... 42 
+3.9 
+Calibration ........................................................................................................ 42 
+3.10 
+Electronic Records ............................................................................................ 43 
+3.11 
+Good Distribution Practices Certification ........................................................... 43 
+4.0 
+REFERENCES ....................................................................................................... 44 
+5.0 
+REVISION HISTORY .............................................................................................. 44 
+6.0 
+CONTRIBUTORS/REVIEWERS ............................................................................. 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+Abbreviations and Acronyms 
+PPB-  
+Pharmacy and Poisons Board 
+GUD-  
+Guidelines 
+GDP-  
+Good Distribution Practice 
+INSP-  
+Inspectorate 
+ICRC- 
+International Committee of the Red Cross 
+GSP-  
+Good Storage Practices 
+SOP-  
+Standard Operating Procedure 
+QMS-  
+Quality Management System 
+QSE-  
+Quality Safety and Efficacy 
+WHO- 
+World Health Organization 
+OPV-  
+Oral Polio Vaccine 
+POM-  
+Prescription-only Medicines 
+SSFFPs- 
+Suspected Spurious Falsified and Falsely Labelled Products 
+FEFO- 
+First Expired First Out 
+FIFI-  
+First in First out 
+SF -            Substandard and Falsified Medical Products 
+CAPA- 
+Corrective Action and Preventive Action 
+ 
+ 
+ 
+ 
+v 
+Glossary of Terms 
+Auditing: An independent and objective activity designed to add value and 
+improve an organization’s operations by helping the organization to accomplish 
+its objectives by using a systematic, disciplined approach to evaluate and 
+improve the effectiveness of risk management, control, and governance 
+processes. 
+Authorized personnel: A registered pharmacist, enrolled pharmaceutical 
+technologist, or any other person approved by the Pharmacy and Poisons 
+Board.  
+Batch: A deﬁned quantity of health products and technologies processed in a 
+single process or series of processes so that it is expected to be homogeneous. 
+Calibration: The set of operations which establish, under specified 
+conditions, the relationship between values indicated by an instrument or 
+system for measuring, recording, and controlling, or the values represented 
+by a material measure, and the corresponding known values of a reference 
+standard. Limits for acceptance of the results of measuring should be 
+established. Including the maximum permissible error or uncertainty of 
+measurement; 
+Cold chain:  All of the materials, equipment, processes, and procedures used 
+to maintain all products (which require cold chain conditions) within the 
+required temperature range of 2 °C to 8 °C from the time of manufacture until 
+the products are administered to individuals. However, Storage conditions 
+should align with the manufacturer’s label specifications. 
+Corrective action: Any action taken when the results of monitoring at the 
+critical control point indicate a loss of control; and the action taken in 
+response to audit findings; 
+Consignment: The quantity of health products and technologies supplied at 
+one time in response to a particular request or order. A consignment may 
+comprise one or more packages or containers and may include health 
+products and technologies belonging to more than one batch. 
+ 
+ 
+vi 
+Container: The material employed in the packaging of a pharmaceutical 
+product. Containers include primary, secondary and transportation 
+containers. Containers are referred to as primary if they are intended to be in 
+direct contact with the product. Secondary containers are not intended to be 
+in direct contact with the product. 
+Contamination: The undesired introduction of impurities of a chemical or 
+microbiological nature, or of foreign matter, into or on to a starting material, 
+intermediate or pharmaceutical product during handling, production, 
+sampling, packaging or repackaging, storage or transportation. 
+Cross-contamination: Contamination of a starting material, intermediate 
+product or ﬁnished pharmaceutical product with another starting material or 
+product during production, storage and transportation 
+Dangerous goods: Materials or items with hazardous properties which, if not 
+properly controlled, present a potential hazard to human health and safety, 
+infrastructure and/ or their means of transport. These are available as 
+updated on: www.incb.org  
+  
+Deviation: The failure to fulfil a specified requirement in terms of processes, 
+standards and regulations prescribed. 
+Distribution:  The procuring, purchasing, holding, storing, selling, supplying, 
+importing, exporting, or movement of health products and technologies, with 
+the exception of the dispensing or providing health products and technologies 
+directly to a patient or his or her agent. 
+Expiry date: The date given on the individual container (usually on the label) 
+of a pharmaceutical product up to and including the date on which the product 
+is expected to remain within speciﬁcations, if stored correctly. It is established 
+for each batch by adding the shelf-life to the date of manufacture. 
+Good Distribution Practices (GDP): That part of quality assurance that 
+ensures that the quality of a pharmaceutical product is maintained by means 
+of adequate control of the numerous activities which occur during the 
+distribution process as well as providing a tool to secure the distribution 
+system from counterfeits, unapproved, illegally imported, stolen, counterfeit, 
+ 
+ 
+vii
+substandard, adulterated, and/or misbranded health products and 
+technologies. 
+Good Storage Practices (GSP): That part of quality assurance that ensures 
+that the quality of health products and technologies is maintained by means 
+of adequate control throughout the storage thereof. 
+Importation:  The act of bringing or causing any goods to be brought into a      
+customs territory (national territory, excluding any free zone). 
+Labelling:  Process of identifying a pharmaceutical product including the 
+following information, as appropriate: name of the product; active 
+ingredient(s) 
+Lagged containers: An   insulated   container which meets the requirements 
+of transporting health products and technologies at the required 
+temperatures for the necessary duration of time 
+Pharmacy student: an individual who has been approved by the Pharmacy 
+and poisons board for training under the direct personal supervision of a 
+registered pharmacist or enrolled Pharmaceutical technologist 
+Pest: Refers to any objectionable animals or insects including, but not limited 
+to, birds, rodents, flies, and larvae. 
+Preventive action: An action to eliminate the cause of a potential non-
+conformity or another undesirable potential situation. 
+Medical Product: 
+Product recall: The removal of specific batch/batches of a pharmaceutical 
+product from the market for reasons relating to deficiencies in quality, safety 
+or efficacy 
+Quality system: An 
+appropriate 
+infrastructure, 
+encompassing 
+the 
+organizational structure, procedures, processes, and resources, and 
+systematic actions necessary to ensure adequate conﬁdence that a product 
+(or services) will satisfy given requirements for quality 
+ 
+ 
+viii 
+Quarantine: The status of health products and technologies isolated 
+physically or by other effective means while a decision is awaited on their 
+release, rejection or reprocessing. 
+Repackaging & relabelling:  Any operations in which the original labeling 
+and or packaging materials more so, the primary and secondary packaging 
+are subsequently changed or replaced, leading to loss of product traceability 
+Sampling: Operations designed to obtain a representative portion of a 
+pharmaceutical product, based on an appropriate statistical procedure, for a 
+deﬁned purpose, e.g. acceptance of consignments or batch release. 
+Shelf-life: The period of time during which a pharmaceutical product, if 
+stored correctly, is expected to comply with the speciﬁcation as determined 
+by stability studies on a number of batches of the product. The shelf-life is 
+used to establish the expiry date of each batch. 
+Standard operating procedure (SOP): An authorized, written procedure 
+giving instructions for performing operations not necessarily speciﬁc to a 
+given product but of a more general nature (e.g. equipment operation, 
+maintenance 
+and 
+cleaning, 
+validation, 
+cleaning 
+of 
+premises 
+and 
+environmental control, sampling and inspection). 
+Storage: The storing of health products and technologies up to the point of 
+use. 
+Supplier: A person or entity engaged in the activity of providing products 
+and/or services.  
+Thermolabile: A substance that is subject to destruction, decomposition, or 
+change in response to temperature. 
+Transit: The period during which health products and technologies are in the 
+process of being carried, conveyed, or transported across, over or through a 
+passage or route to reach the destination. 
+Vehicles: Trucks, vans, buses, minibuses, cars, trailers, aircraft, railway 
+carriages, boats and other means which are used to convey health products 
+and technologies 
+ 
+ 
+ix 
+Validation: Action of proving, in accordance with Good Distribution 
+Practices, that any procedure, process, equipment, material, activity or 
+system actually leads to the expected results (see also qualification); 
+Withdrawal: The total removal of a pharmaceutical product from the market. 
+ 
+ 
+ 
+ 
+x 
+Acknowledgments  
+The Pharmacy and Poisons Board wishes to express its appreciation to the 
+Chief Executive Officer Dr. F. M. Siyoi, the Director Health Products and 
+Technologies Dr. Ahmed Mohamed and all those whose efforts and valuable 
+contributions made this guideline possible.  
+ 
+ 
+ 
+ 
+xi 
+Foreword 
+ 
+The Pharmacy and Poisons Board is committed to ensuring the availability of 
+health products and technologies in Kenya which satisfy the needs of all 
+citizens for the prevention, diagnosis and treatment of diseases using safe, 
+efficacious, high quality and cost-effective pharmaceutical products 
+Pursuant to this mission, it is imperative that pharmaceuticals are distributed 
+by highly qualified personnel through outlets that are duly licensed and 
+professionally run. Pharmaceuticals require specialized handling to ensure 
+their quality is maintained throughout the distribution chain and the risk of 
+exposing the public to unsafe medicines should be avoided at all cost.  
+This GDP guideline, which replaces the 2019 guideline, defines a number of 
+new provisions. They have been prepared to provide persons involved or 
+wishing to be involved in distribution Health products and technologies with 
+a method of assessing eligibility and the process of lawfully operating 
+distribution outlets. It further provides specific requirements on distribution 
+that are practices currently acceptable. 
+The success of this initiative will ultimately depend on the active contribution 
+and cooperation of every stakeholder. I trust that all will strive to uphold the 
+standards of practice in pharmaceutical distribution. 
+The Pharmacy and Poisons Board strongly encourages the widespread 
+implementation of these guidelines and is ready to assist users in 
+implementing them. 
+ 
+ 
+Dr. F.M Siyoi 
+CHIEF EXECUTIVE OFFICER 
+ 
+ 
+ 
+1 
+1.0 INTRODUCTION 
+1.1 Legal framework 
+The pharmacy and poisons ACT CAP 244 laws of Kenya mandate 
+the PPB to regulate the trade in health products and technologies. 
+Distribution is an important activity in the integrated supply chain 
+management of health products and technologies. All parties 
+involved in the distribution of health products and technologies 
+have a responsibility to ensure that the quality of the products and 
+the integrity of the distribution chain are maintained throughout 
+the distribution process from the site of manufacture to the entity 
+responsible for dispensing the product to the end user.  
+Article 43 (1) (a) of the constitution of Kenya 2010 provides that 
+every person has the right to the highest attainable standard of 
+health. Highest standards of health are only attainable if the quality 
+of health products and technologies in the market are of the right 
+quality. 
+2.0 GENERAL CONSIDERATIONS 
+2.1 Organization Structure and Management 
+The distributor must be an entity that is appropriately authorized 
+to perform the intended function in terms of the applicable 
+legislation, and which can be held accountable for its activities by 
+ensuring that: 
+1. There should be an adequate organizational structure defined 
+with the aid of an organizational chart. The responsibility, 
+authority and interrelationships of all personnel should be clearly 
+indicated. This must be duly dated, be current, valid and 
+authorized. 
+2. A designated qualified person (Pharmacist/ pharmaceutical 
+technologist) shall be appointed at each distribution outlet that 
+has the defined authority and responsibility for ensuring that a 
+quality management system is implemented and maintained. 
+ 
+ 
+2 
+3. Managerial and technical personnel must have the authority and 
+resources needed to carry out their duties and to set up and 
+maintain a quality management system, as well as to identify and 
+correct deviations from the established quality management 
+system. 
+4. The responsibilities placed on any one individual should not be 
+so extensive as to present any risks to the health products and 
+technologies’ quality or process. Individual responsibilities 
+should be clearly defined and understood by the individuals 
+concerned and recorded as written job descriptions. Certain 
+activities may require special attention such as the supervision of 
+performance of activities, in accordance with legislation. 
+5. Duties may be delegated or contracted out to suitably designated 
+persons or entities as necessary and documented. There should, 
+however, be no gaps or unexplained overlaps with regard to the 
+application of Good Distribution Practices. These activities 
+should be documented in quality agreements or contracts. There 
+should be periodic audits of such activities concerning the 
+application of Good Distribution Practices 
+6. Any person who wishes to start the business of a pharmacy may 
+first consult the concerned Pharmacy and Poisons Board regional 
+office for guidance on suitability of proposed location prior to 
+making financial commitments.  
+2.2 Quality Management System 
+Every distribution entity shall have a quality management system 
+that assures quality of medicinal products and health technologies. 
+Senior management should demonstrate its commitment to the 
+development and implementation of the Quality Management 
+System (QMS) and continual improvement of its effectiveness and 
+performance by:  
+ 
+ 
+3 
+1. Communicating the importance of adhering to customer, 
+regulatory (Good distribution Practices) and legal requirements, 
+including environmental, health and safety aspects; 
+2. Establishing functional quality objectives; 
+3. Ensuring regular reviews of quality management systems; 
+4. Applying risk assessments; 
+5. Maintaining appropriate conditions throughout the organization 
+for processes and systems 
+6. Ensuring the availability of resources to support quality 
+management system 
+7. Ensuring the integration of quality management system into their 
+operations and processes. 
+8. Supporting other relevant management roles to demonstrate 
+leadership as it applies to their areas of responsibilities. 
+9. Ensuring that customer satisfaction is enhanced and maintained. 
+10. Establish a system for handling customer compliments and 
+complaints 
+Every entity shall establish and maintain documented information 
+on:  
+1. Standard Operating Procedures (SOPs) for all activities affecting 
+the quality, safety, and efficacy of health products and 
+technologies;  
+2. Work Instructions and Process Maps;  
+3. Forms and Records.   
+Entities shall have in place effective measures for Risk Management 
+to ensure risks are controlled to such an extent unwanted outcome 
+can be mitigated adequately.  
+Additionally, 
+wholesalers 
+should 
+annually 
+conduct 
+risk 
+assessments to assess potential risks to the quality and integrity of 
+health products and technologies. The quality system should be 
+developed and implemented to address any potential risks 
+ 
+ 
+4 
+identified. The quality system should be reviewed and revised 
+annually to address new risks identified during a risk assessment. 
+2.3 Personnel  
+1. Authorized personnel shall bear the responsibility of ensuring that 
+health products and technologies are correctly handled, stored and 
+distributed. Such personnel should have the relevant education, 
+training, experience and/ or combination of these elements that will 
+allow them to effectively discharge this responsibility. 
+2. A pharmacy student may provide or perform all the services or 
+acts pertaining to the scope of practice as per the PPB Training 
+guidelines under the direct personal supervision of a registered 
+pharmacist or an enrolled pharmaceutical technologist.  
+3. Operating personnel should be trained to perform assigned duties 
+and functions at an acceptable level. Records of any training 
+relevant to their functions should be kept. 
+4. Procedures and job descriptions for employees and other persons 
+having access to the products must be designed and administered 
+to minimize the possibility of drugs coming into unauthorized 
+possession. 
+5. During operating hours, the business must at all times be 
+conducted under the continuous personal supervision of a 
+registered 
+pharmacist 
+or 
+an 
+enrolled 
+pharmaceutical 
+technologist. 
+6. There must be an adequate number of competent personnel 
+involved in all stages of the distribution of health products and 
+technologies in order to ensure that the quality of these products 
+is maintained. Dispensing and medication use counselling is the 
+responsibility of authorized personnel only. Regulations by the 
+relevant authorities with regard to qualification and training of 
+personnel should be complied with.  
+7. Personnel involved in the wholesaling or distribution of health 
+products and technologies should be supplied with appropriate 
+ 
+ 
+5 
+personal protective equipment suitable for the activities that they 
+perform. Personnel dealing with hazardous health products and 
+technologies, including products containing materials that are 
+highly active, toxic and infectious or sensitizing, should be 
+provided with specialized protective garments as necessary. 
+8. Appropriate procedures relating to personnel personal hygiene 
+and sanitation relevant to the activities to be carried out, should 
+be established and observed. Such procedures should cover 
+health, hygiene and clothing of personnel.  
+2.4 Premises, Warehousing and Storage 
+2.4.1 General requirements 
+1. Premises should provide protection for the goods from 
+contamination and deterioration, including protection from 
+excessive local heating, humidity/ moisture, or undue 
+exposure to direct sunlight. 
+2. Premises should be kept free of rodents, vermin, birds, pets 
+and pests. Storage of food products should be separated 
+from health products and technologies.  
+3. Premises should have dedicated and demarcated areas 
+available for the receipt of stock, general storage area, 
+goods in quarantine, goods rejected, cold-chain storage, 
+goods returned, dispatch and storage of health products 
+and technologies. The goods received or dispatched at 
+receiving or dispatch bays, docks, platforms or areas 
+should be protected from dust, dirt and rain in line with 
+GDP 
+4. The storage areas at a wholesaler should be of sufficient 
+capacity to allow the orderly storage of the various 
+categories of health products and technologies. 
+5. Warehousing of health products and technologies should 
+be carried out in permanent buildings or parts of the 
+ 
+ 
+6 
+permanent building that have been built for, or adapted to 
+warehouse health products and technologies. 
+6. The layout of a pharmaceutical warehouse shall consist of 
+Receiving area, ordering /sales, dispatch, quarantine, and 
+storage area.  
+7. The grounds should be established and maintained to 
+minimize ingress into the buildings of dust, soil, or other 
+contaminants and should be maintained in an orderly 
+condition. They should be free of accumulated waste, dirt, 
+and debris. Waste should be collected in designated closed 
+containers and disposed of at frequent intervals. 
+8. Premise must have a permanent address and be located at 
+a site approved by the local authority and/or other related 
+Acts or Regulations which must be adhered to by the 
+licensee. 
+9. Where premises are not directly operated by the company, 
+a written contract should be in place. The contracted 
+premises should have a separate authorisation for 
+distribution. 
+10. Where one has more than one storage or warehousing 
+facility separate from the main registered premise, a 
+separate authorization for the premise shall be sought. 
+11. Wholesale and retail practices shall be carried out 
+separately in distinct different premises. 
+12. Buildings should have sufficient security to help prevent 
+pilferage of the health products and technologies. 
+13. Sufficient space should be provided for the orderly receipt, 
+warehousing and dispatch of health products and 
+technologies and, in particular, a quarantine area for 
+isolation when necessary, including isolation of faulty 
+packs and recalled goods. 
+ 
+ 
+7 
+14. Buildings and fixtures should be kept clean and well 
+maintained. Cleaning equipment should be stored in 
+hygienic conditions. 
+15. Sufficient lighting should be provided to enable all 
+operations to be carried out accurately and safely. 
+16. Storage facilities should protect goods from deterioration.  
+The conditions of storage for goods should be compatible 
+with the storage conditions specified on their labels. All 
+health products and technologies should be stored off the 
+floor. 
+17. Controlled storage environments, e.g. deep freeze, 
+refrigeration, 
+should 
+be 
+monitored 
+using 
+suitable 
+temperature recording devices and the records reviewed 
+and filed. Refrigerated and freezing storage environments 
+should be fitted with signals to indicate that refrigeration 
+has failed. The signal should permit resetting only by the 
+authorized person. 
+18. Temperatures and humidity conditions in other areas 
+where goods requiring specific storage conditions are held 
+should be monitored and the results tabulated and 
+analysed so as to demonstrate the suitability of these 
+areas for their purposes. 
+19. If any temperature and or humidity records are found to 
+have 
+deviated 
+outside 
+the 
+relevant 
+recommended 
+conditions for an extended time, the products shall be 
+quarantined and the report sent to the Quality Safety and 
+Efficacy (QSE) committee of the PPB for further direction. 
+20. Instruments 
+or 
+equipment 
+used 
+for 
+monitoring 
+temperature and humidity should be calibrated by a 
+Kenya Bureau of Standards (KEBS) recognized agency on 
+a regular basis to ensure their accuracy. The reference 
+used should be traceable to International and or National 
+Standards 
+ 
+ 
+8 
+21. Special storage facilities should be provided for Narcotic 
+drugs, psychotropic substances, precursors, Dangerous 
+Goods, or other categories of goods as required by 
+applicable legislation. 
+22. Incompatible activities such as manufacture (including 
+repackaging) or the handling of toxic chemicals should be 
+avoided in areas in which health products and 
+technologies are handled by wholesale. 
+2.4.2 General storage areas 
+1. Precautions must be taken to prevent unauthorized 
+persons from entering storage areas.  
+2. Storage areas should have sufficient capacity to allow the 
+orderly storage of the various categories of health 
+products and technologies namely usable products, 
+products in quarantine, released, rejected, returned or 
+recalled products.  
+3. Storage areas should be designed or adapted to ensure 
+good storage conditions. In particular they should be 
+clean 
+and 
+dry 
+and 
+maintained 
+within 
+specified 
+temperature and humidity limits. Health products and 
+technologies should be stored off the floor and suitably 
+spaced to permit cleaning and inspection. Pallets should 
+be kept in a good state of cleanliness and repair.  
+4. Secure measures should be taken to ensure that rejected 
+products cannot be used and they should be stored 
+separately 
+from 
+other 
+products 
+while 
+awaiting 
+destruction or return to the supplier. The measures 
+adopted should possess adequate safeguards to prevent 
+uncontrolled or unsatisfactory health products and 
+technologies from being used or released.  
+5. Written procedures and a sanitation program should be 
+available, indicating the frequency of cleaning and the 
+ 
+ 
+9 
+methods to be used to clean the premises and storage 
+areas. 
+6. A cleaning log must be in place, completed, signed and 
+checked by the appropriate designated person.  
+7. There should be a written procedure and a programme 
+available for pest control. The pest control agents used 
+should be safe, and there should be no risk of 
+contamination of health products and technologies. A 
+site flow plan, indicating where the bait stations are 
+situated, must be available. 
+8. There should be appropriate written procedures available 
+for the clean-up of any spillage to ensure complete 
+removal of any risk of contamination.  
+9. There should be appropriate written procedures available 
+for the removal of spilled hazardous products and 
+cytotoxic substances and products to ensure any risk of 
+contamination or health hazard is controlled.  
+10. If sampling is performed in the storage area, it should 
+be conducted in accordance with a written procedure 
+and in such a way as to prevent contamination or cross-
+contamination. 
+11. Written procedures should be available for the isolation 
+and control of goods. Goods should be moved to a 
+controlled area in the event of:  
+a) Health products and technologies that await release by 
+the Holder of the Certificate of Registration;  
+b) Suspected and confirmed substandard and falsified 
+health products and technologies  
+c) Returned, damaged or expired health products and 
+technologies for disposal;  
+d) Health products and technologies that have been 
+recalled or withdrawn from the market;  
+ 
+ 
+10 
+e) Health products and technologies that are being 
+investigated after a cold-chain failure; 
+f) Instructions issued by the regulatory authority or the 
+Holder of the Certificate of Registration  
+12. Where quarantine status is ensured by storage in separate 
+areas, these areas must be clearly marked and their 
+access restricted to authorised personnel. Any system 
+replacing physical quarantine should provide equivalent 
+security. For example, computerised systems can be used, 
+provided that they are validated to demonstrate security 
+of access. 
+13. Physical or other equivalent validated (e.g. electronic) 
+segregation should be provided for the storage of rejected, 
+expired, recalled or returned products. The products and 
+areas concerned should be appropriately identified. 
+14. Radioactive materials, narcotics and other hazardous, 
+sensitive and/ or dangerous health products and 
+technologies, as well as products presenting special risks 
+of abuse, fire or explosion (e.g. combustible liquids and 
+solids and pressurised gases) should be stored in 
+dedicated areas that are subject to appropriate additional 
+safety and security measures that include but not limited 
+to lock and key, security cameras, restricted rights of 
+access and frisking of persons accessing the dedicated 
+storage areas.  
+15. Health products and technologies should be handled and 
+stored in such a manner as to prevent contamination, 
+mix-ups and cross-contamination.  
+16. Broken or damaged items should be withdrawn from 
+usable stock and stored separately. 
+17. Storage areas should be provided with adequate lighting 
+to enable all operations to be carried out accurately and 
+safely.  
+ 
+ 
+11 
+18. Sufficient warehouse security should be maintained to 
+prevent misappropriation of the goods by preventing 
+unauthorised possession of, or access to the product and 
+to allow for appropriate stock control. 
+19. Stock losses should be minimised by taking the following 
+appropriate measures:  
+a) Restricted entry and exit points to the warehouse being 
+used 
+b) Vehicles (other than delivery vehicles) not being allowed 
+near the warehouse;  
+c) All goods leaving the store being carefully checked 
+against the relevant documentation;  
+d) Security checks of all vehicles entering or leaving the 
+warehouse area taking place;  
+e) High-risk goods being well protected, ideally in a 
+separate area that is sealed off from the rest of the 
+warehouse with access control;  
+f) Implementing good housekeeping;  
+g) Ensuring that workers are not able to leave the 
+warehouse area during working hours without going 
+through security;  
+h) Preventing theft by using appropriate security systems;  
+i) Avoiding 
+fires 
+in 
+the 
+warehouse 
+by 
+removing 
+combustible waste materials several times a day. No-
+Smoking policies and notice boards should be in place.  
+j) Firefighting equipment should be frequently serviced 
+and maintained. 
+k) Implementing and adhering to The Occupational Health 
+and Safety code. Details of the code should be displayed 
+in the work environment for all staff to see.  
+ 
+ 
+12 
+2.4.3 Storage conditions  
+1. Storage conditions for health products and technologies 
+as described by the product storage requirements 
+should follow the instructions on the label and package 
+insert, which are based on the results of stability 
+testing. When specified on the label, controls for 
+temperature, humidity, light, etc. should be in place.  
+2. The warehouse should be maintained at a temperature 
+not exceeding 30 °C, and relative humidity not 
+exceeding 75% Relative humidity (WHO zone IVb 
+requirements) at all times.  
+3. All warehouses should be temperature and humidity 
+mapped over a period of at least one year to determine 
+the temperature distribution under seasonal extremes.  
+4. Temperature mapping should be repeated every two to 
+three years and after every significant modification to 
+the premises, stock layout or ventilation system  
+5. Temperature monitoring should be done at strategic 
+locations (hot and cold spots identified from the 
+temperature mapping process) covering the stock 
+containment areas and data recorded at least twice 
+daily (morning and afternoon) and records maintained. 
+Temperature monitoring should be in accordance with 
+Storage 
+requirements 
+to 
+specifically 
+reflect 
+the 
+manufacturer’s label specifications, such as Oral polio 
+Vaccine (OPV), etc. 
+6. Continuous temperature monitoring devices or systems 
+should be validated. 
+7. Written procedures should be available describing the 
+action to be taken in the event of temperature deviating 
+outside of the set standards and conditions must be 
+appropriately investigated. The fate of the goods outside 
+of the set standards must be decided by the Responsible 
+ 
+ 
+13 
+Pharmacist in consultation with the Holder of 
+Certificate of Registration. 
+2.4.4 Monitoring of storage conditions 
+At all times, Temperature and humidity should be 
+controlled and monitored using calibrated monitoring 
+devices based on temperature mapping.  
+Recorded temperature monitoring data should be available 
+for review. The equipment used for monitoring should be 
+checked at suitable intervals and the results of such checks 
+should be recorded.  
+Monitoring equipment should be calibrated once a year by 
+a KEBS approved agent and all monitoring records be kept 
+for at least the shelf-life of the stored health products and 
+technologies plus one year.  
+2.4.5 Good cold chain management Storage 
+1. All thermolabile products must be stored in a 
+refrigerator/cold room/freezer exclusively dedicated to 
+medical products.  
+2. All thermolabile products must be stored in a 
+refrigerator/cold room in a temperature-regulated 
+environment between 2 °C and 8 °C or as per the 
+information on the product label, and the cold chain 
+must be maintained at all times, and records of the same 
+kept for review when necessary.  
+3. Thermolabile products that are required to be frozen 
+must be maintained at temperatures in accordance with 
+manufacturers' storage requirements. 
+4. The temperature of the freezers for all products including 
+coolants must be temperature monitored. 
+ 
+ 
+14 
+5. The refrigerator, freezer, or cold room must be connected 
+to an alarm system - in the event of a power failure or if 
+the temperature limits are not met. 
+6. The refrigerator, freezer, or cold room must be connected 
+to a standby generator or other emergency power system 
+to ensure an uninterrupted power supply in the event of 
+a power failure.  
+7. There must be a written procedure in place in the event 
+of a power failure. 
+8. Refrigerators, cold rooms and freezers used to store 
+thermolabile health products and technologies should at 
+a minimum:  
+a. Be well-maintained;  
+b. Be 
+equipped 
+with 
+temperature 
+and 
+humidity 
+monitoring devices;  
+c. Be free from frost build-up;  
+d. Allow for adequate air distribution and orderly storage 
+within the chamber. Good storage practices and 
+loading configurations should not lead to the 
+obstruction of air distribution. 
+e. Have sensors for continuous temperature and 
+humidity monitoring and alarms located at the points 
+representing the temperature extremes.  
+9. The refrigerator, freezer, or cold room must be mapped 
+in terms of temperature. 
+10. Products should not be stored in areas shown by 
+temperature mapping to present a risk (e.g. in the 
+airflow from the refrigeration unit). 
+11. Sufficient space should be maintained to permit 
+adequate air circulation, especially between shelving. If 
+the refrigerator is filled to capacity, the effect on 
+temperature distribution should be investigated. 
+ 
+ 
+15 
+12. Ensure that no condensation from chillers collects or 
+drips onto product or collects inside the facility. 
+13. On receipt of a shipment of thermolabile stock, all cold 
+chain items should be moved to the refrigerator within 
+the shortest possible time from offloading the truck. 
+14. When a lagged container used for transportation of the 
+product is opened, all cold chain products must 
+immediately be removed and stored in the refrigerator, 
+in order to maintain the cold chain. Checks should be 
+done to ensure that the cold chain has been maintained 
+during transportation. 
+2.5 Good Retail Practice for Pharmaceuticals 
+2.5.1 Nature and setup of premises 
+These guidelines will serve as the minimum acceptable 
+requirements for premises, which will be licensed as retail 
+pharmacies. 
+1. The premises must be fixed. For the purpose of this 
+guideline, a fixed premise does not include a vehicle, 
+trailer, caravan or any other thing which may be 
+transported on, in or attached to a vehicle. It does not 
+include unroofed and/or temporary structures. The 
+premise should meet all the relevant local bylaws and 
+planning regulations. 
+2. A distance of not less than 200 metres shall exist between 
+registered 
+premises 
+per 
+cadre 
+of 
+superintendent 
+(pharmacist 
+to 
+pharmacist 
+and 
+pharmaceutical 
+technologist to pharmaceutical technologist).  
+For clarity, it is the Cadre of the superintendent under 
+consideration and not the cadre of the owner.  
+In addition, consideration shall be made as to the level of 
+urbanization, population status among other factors 
+(streets, malls and metropolitan cities).  
+ 
+ 
+16 
+The issue of distance between registered pharmacies does 
+not apply to registered hospital pharmacies. 
+3. The floors and walls will be made of washable and 
+impervious materials, and the ceiling covered with a non-
+flaking finish that allows for easy cleaning. 
+4. The premises should be well lit, ventilated and secure. 
+Measures on security concerns including metallic grills and 
+panels shouldn’t undermine Good Pharmacy Practices 
+including patient service. 
+5. The premises should be protected against adverse weather 
+conditions, ground water seepage, vermin and pest 
+infestation. 
+6. The premises should have sufficient space for the carrying 
+out of the necessary operations. 
+7. There should be no overcrowding of customers and staff 
+thus 
+promoting 
+efficient 
+flow 
+of 
+work, 
+effective 
+communication and supervision. 
+8. Premises should be well designed with sufficient spaces. 
+This includes an overall surface area not less than 4meters 
+by 6meters, divided into at least a dispensary (4meters by 
+2meters) and the general area (4meters by 4meters). 
+9. Premises shall reflect the practice level, painted as white 
+with a green cross for pharmacists, and white with a blue 
+cross for pharmaceutical technologists. The crosses should 
+be conspicuous and located before and at the end of the 
+premises name. In addition, branding to reflect practice 
+level is a requirement at pre-registration inspection. For 
+clarity, the colour of the crosses shall be determined by the 
+cadre of the superintendent and not the cadre of the owner.  
+ 
+ 
+17 
+ 
+ 
+Above: Green cross branding for a retail pharmacy where the 
+superintendent is a pharmacist. 
+In the middle is the name of the pharmacy as the case may be 
+ 
+ 
+ 
+Above: Blue cross branding for a retail pharmacy where the 
+superintendent is a pharmaceutical technologist. 
+In the middle is the name of the pharmacy as the case may be 
+10. Licensed premises should be used for the practice of 
+pharmacy. However, any other additional business 
+activity beyond the practice of pharmacy should be 
+notified to PPB for approval. 
+11. Premises should have running potable water, toilet 
+facilities, waste disposal system and space dedicated for 
+the storage of cleaning equipment. 
+12. Premises should be maintained in a good state of repair 
+and decoration.  When these processes are being carried 
+out, they will not cause or tend to cause any 
+contamination of ingredients or products. 
+13. All products should be protected from light, heat and 
+moisture and there must be temperature-controlled 
+ 
+ 
+18 
+storage facilities for ingredients and drugs, which are 
+sensitive.  
+14. Prescription only medicines (POM) must be separated 
+from 
+over 
+the 
+counter 
+drugs 
+and 
+narcotic 
+and 
+psychotropic drugs shall be kept in a secure fixed and 
+lockable storage place. Records of these products must be 
+maintained at all times, reflecting true stock balances. 
+There should be a lockable door separating the dispensary 
+from the over the counter area. 
+15. There should be a separate office or administrative office 
+for the pharmacist or pharmaceutical technologist, where 
+prescription, purchase records and other administrative 
+records may be maintained and it should be located so as 
+to have a full view of the dispensary. 
+16. The number of registered pharmacists or enrolled 
+pharmaceutical technologists) per premises shall be 
+determined by the workload at the premises.  
+2.5.2 Equipment  
+There should be some basic equipment: 
+a) A tablet counter  
+b) A refrigerator 
+c) Appropriate litter bins 
+d) Drinking water dispenser 
+e) Weighing balance 
+f) Measuring cylinders with a capacity to accurately 
+measure volumes between 0 and 100 ml 
+g) Pestle and mortar 
+h) Spatula and Slab 
+2.5.3 Reference materials  
+The following reference books and materials should be 
+available and they should be the latest editions 
+ 
+ 
+19 
+1. Guidelines 
+a. GDP guidelines 
+b. Safe management of Pharmaceutical waste  
+c. Product recall and withdrawal 
+d. Transportation of pharmaceuticals  
+2. CAP 244 laws of Kenya 
+3. Professional code of ethics 
+4. Reference books  
+a. British National Formulary 
+b. Martindale, the extra pharmacopoeia 
+c. Kenya Standard Treatment Guidelines 
+d. Kenya National Drug Policy 
+e. Lists of drugs that are registered in Kenya 
+f. East African Pharmaceutical Loci or 
+5. Any other text that gives trade names of drugs on the 
+market. 
+6. Online reference materials  
+2.5.4 Retail pharmacy licence 
+No person will be issued with a licence to operate a retail 
+pharmacy, 
+unless 
+the 
+person 
+complies 
+with 
+the 
+requirements stipulated in the guidelines for registration of 
+premises including, but not limited to, the following: 
+a. Is a registered pharmacist with the Pharmacy and 
+Poisons Board. 
+b. Is an enrolled Pharmaceutical technologist with the 
+Pharmacy and Poisons Board, with three years post 
+enrolment experience 
+c. Is not a holder of another such licence for a different 
+premise. 
+d. Is 
+not 
+engaged 
+as 
+a 
+pharmacist/pharmaceutical 
+technologist in any other enterprise 
+ 
+ 
+20 
+e. The premise has been certified for suitability by the 
+Pharmacy and Poisons Board’s inspectorate department. 
+f. Pays the prescribed fee. 
+2.5.5 Operations  
+Operations in the retail outlet shall ensure that: 
+1. The dispensing of prescriptions and sale of pharmacy-
+only medicine shall be under the supervision of a 
+qualified pharmacist or pharmaceutical technologist. 
+Warehousing may be contracted out e.g. for scientific 
+offices, but only to Pharmacy and Poisons Board 
+registered warehouses. This should be documented in 
+written contracts and quality agreements 
+2. The Pharmacy shall not dispense any prescription or sell 
+any Pharmacy-only medicine when the registered 
+pharmacist/ enrolled pharmaceutical technologist is not 
+present. 
+3. No prescription-only medicine is to be dispensed except 
+in compliance with a valid prescription written by a 
+registered Medical Practitioner, Dental Surgeon, or 
+Veterinary Surgeon. 
+4. Every retail pharmacy should keep and use suitable 
+dispensing containers and labels.  The container shall be 
+capable of keeping dispensed medicines in a safe and 
+usable condition. 
+5. A suitable and adequate prescription/patient recording 
+system shall be maintained which shall consist of a 
+prescription record ledger well indexed and up to date. 
+This may be supplemented by patient profile cards, a 
+computerized system or any other approved recording 
+system. 
+ 
+ 
+21 
+6. Records of all stocks received their source, batch 
+number, expiry date and quantity received shall be 
+maintained. 
+7. All records will be retained for a minimum of five years 
+for narcotic drugs and two years for other drugs. 
+8. All records should be available for inspection by 
+pharmaceutical inspectors at all reasonable times.  
+9. Adequate personal hygiene and clothing should be 
+maintained throughout working hours. Professionals 
+shall wear white dust coats with name tags clearly 
+displayed. Non–technical staff will use grey dust coats. 
+10. The retail pharmacy shall comply with these and any 
+other requirement as may be specified by the Pharmacy 
+and Poisons Board from time to time. 
+2.5.6 Good Wholesale Practice for Pharmaceuticals 
+Wholesale distribution forms part of the supply chain of 
+manufactured 
+health 
+products 
+and 
+technologies.  
+Wholesalers are responsible for effective, efficient and safe 
+handling, storage and distribution of such products.  As 
+such, these guidelines set out appropriate steps for meeting 
+these responsibilities. 
+2.5.7 Building and grounds 
+1. Warehousing of pharmaceuticals should be carried out 
+in permanent buildings or parts of buildings, made of 
+stone/ brick that have been built for, or adapted to this 
+purpose. The minimum requirement in square meters for 
+storage space in a wholesale set up is 100M2. 
+2. The grounds should be established and maintained so as 
+to minimize ingress into the buildings of dust, soil or 
+other contaminants and should be maintained in an 
+orderly condition.  They should be free of the 
+accumulated waste, dirt and debris.  Waste should be 
+ 
+ 
+22 
+collected in designated closed containers and disposed of 
+at frequent intervals, as per the guideline on disposal of 
+pharmaceutical waste. 
+3. Buildings should have sufficient security to help prevent 
+pilferage of the pharmaceuticals. 
+4. Buildings and fixtures should be kept clean and well 
+maintained.  Cleaning equipment should be stored in 
+hygienic conditions. 
+5. Sufficient lighting should be provided to enable all 
+operations to be carried out accurately and safely. 
+2.5.8 Facilities 
+1. Storage 
+facilities 
+should 
+protect 
+goods 
+from 
+deterioration. The conditions of storage for goods should 
+be compatible with the storage conditions specified on 
+their labels.  All pharmaceuticals should be stored off the 
+floor. 
+2. Controlled storage environments, e.g. deep freeze, 
+refrigeration, should be monitored using suitable 
+temperature recording devices and the records reviewed 
+and 
+filed. 
+ 
+Refrigerated 
+and 
+freezing 
+storage 
+environments should be fitted with signals to indicate 
+that refrigeration has failed.  The signal should permit 
+resetting only by the authorized person. 
+3. Temperatures in other areas where goods requiring 
+specific storage conditions are held should be monitored 
+and the results tabulated and analysed so as to 
+demonstrate the suitability of these areas for their 
+purposes. 
+4. If any temperature is found to have deviated outside the 
+relevant recommended conditions for an extended time, 
+the manufacturer of the goods should be consulted, and 
+the suitability of the product for use resolved. 
+ 
+ 
+23 
+5. Instruments 
+or 
+equipment 
+used 
+for 
+monitoring 
+temperature should be calibrated on a regular basis to 
+ensure their accuracy. 
+6. Special storage facilities should be provided for poisons, 
+drugs, and addiction, “Dangerous Drugs” or other 
+categories of goods as required by applicable legislation. 
+7. Incompatible activities such as manufacture (including 
+repackaging) or the handling of toxic chemicals should 
+be avoided in areas in which pharmaceuticals are 
+handled by wholesale. 
+2.5.9 Personnel 
+1. Pharmacists bearing the responsibility for ensuring that 
+products/materials are correctly handled, stored, and 
+distributed, 
+should 
+have 
+the 
+education, 
+training 
+experience, or combination of these elements that will 
+allow them to effectively discharge this responsibility. 
+2. It shall be the responsibility of the superintendent 
+pharmacist/pharmaceutical technologist to submit to 
+the concerned Pharmacy and Poisons Board regional 
+office reports on the consumption/distribution of 
+Narcotics and Psychotropic medicines on a quarterly 
+basis.  
+The superintendent should also provide an updated list 
+of clients preferably biannually in January and in July of 
+every year. 
+Any superintendent should always officially notify 
+writing PPB/Regional office whenever they are away from 
+their registered premises indicating the name and 
+registration number of the professional holding brief for 
+them. 
+The 
+superintendent 
+pharmacist/pharmaceutical 
+technologist 
+for 
+active 
+reporting 
+of 
+poor-quality 
+ 
+ 
+24 
+medicines and suspected adverse drug reactions by retail 
+pharmacies and wholesale pharmacies. 
+3. Operating personnel should be trained to perform 
+assigned duties and functions at an acceptable level. 
+Records of any training relevant to their functions should 
+be kept. 
+4. Procedures and job descriptions for employees and other 
+persons having access to the products must be designed 
+and administered to minimize the possibility of drugs 
+coming into unauthorized possession. 
+5. During operating hours, the business must at all times 
+be conducted under the continuous personal supervision 
+of a pharmacist or pharmaceutical technologists. 
+2.5.10 Wholesale Pharmacy licence 
+No person will be issued with a licence to operate a 
+wholesale pharmacy, unless the person complies with the 
+requirements stipulated in the guidelines for registration 
+of premises including, but not limited to, the following: 
+a. Is a holder of a certificate of Registration as a 
+pharmacist from the Pharmacy and Poisons Board. 
+b. Is not a holder of another such licence for a different 
+premise. 
+c. Is not engaged as a pharmacist in any other enterprise 
+d. The premise has been certified for suitability by the 
+Pharmacy 
+and 
+Poisons 
+Board’s 
+inspectorate 
+department. 
+e. Pays the prescribed fee. 
+ 
+ 
+25 
+2.6 Good Hospital Pharmacy Practice for Pharmaceuticals 
+2.6.1 Nature and Setup of premises. 
+1. The premises are to consist of one room, at least 4 meters 
+by 3 meters in dimension, with lockable cabinets for 
+controlled substances and quarantined products. 
+2. Premises to have a designated office area for the 
+superintendent, where administrative activities will be done 
+and records kept and maintained, with a full view of the 
+pharmacy and where necessary a separate drug store. 
+3. The premises will be permanent in nature, made of 
+materials providing ease of cleaning and suitable sanitary 
+conditions. All products will be protected from light, heat, 
+moisture and there must be temperature control facilities 
+in the pharmacy area. 
+4. The premises will have suitable and adequate provisions for 
+light and ventilation, with hand wash facilities with clean 
+running water, waste disposal bin within the pharmacy 
+with toilet facility and storage for cleaning equipment. 
+5. The pharmacy design will include provisions for privacy for 
+the patients during service and sufficient space for carrying 
+out operations. 
+6. The premises structure will be protected against adverse 
+weather conditions, ground water slippage, vermin and 
+pest infestation. 
+7. Pharmacy premises to reflect the level of practice, painted 
+as white with a green cross for pharmacist, and white with 
+a blue cross for pharmaceutical technologist. 
+ 
+ 
+ 
+ 
+26 
+ 
+Above: Green cross branding for a hospital pharmacy where the 
+superintendent is a pharmacist. 
+In the middle is the name of the hospital as the case may be and the 
+word pharmacy 
+ 
+Above: Blue cross branding for a hospital pharmacy where the 
+superintendent is a pharmaceutical technologist. 
+In the middle is the name of the hospital as the case may be and 
+the word pharmacy  
+8. There should be restricted entry to the pharmacy. 
+9. There should be no other unauthorized activities within 
+the hospital pharmacy. 
+2.6.2 Hospital Pharmacy licence. 
+No person will be issued with a licence to operate a hospital 
+pharmacy unless the person complies with the requirement 
+stipulated in Guidelines for Registration of Premises 
+including, but not limited to, the following: 
+1. Is a registered pharmacist with the Pharmacy and 
+Poisons Board. 
+2. Is an enrolled pharmaceutical technologist with the 
+Pharmacy and Poisons Board. 
+3. Is not a holder of retail, hospital, wholesale or such 
+licence for a different premise. 
+ 
+ 
+27 
+4. Is not engaged as a pharmacist or pharmaceutical 
+technologist in any other enterprise. 
+5. The premises have been certified for suitability by the 
+Pharmacy 
+and 
+Poisons 
+Board’s 
+Inspectorate 
+Department. 
+6. Such a premise should have a valid license from the 
+Kenya Medical Practitioners and Dentist Council. 
+7. Pays the prescribed fee. 
+2.6.3 Staff establishment 
+The Ministry of Health Human Resources for Health Norms 
+and Standards Guidelines for the Health Sector, August 
+2014 will apply. The minimum requirement will be as 
+follows; 
+1. Level 2 Hospitals. One pharmaceutical technologist 
+2. Level 3A Hospitals 
+  One pharmacist 
+  Three pharmaceutical technologists 
+3. Level 3B Hospitals 
+  One pharmacist 
+  Four pharmaceutical technologists 
+4. Level 4 Hospitals 
+  Four pharmacists 
+  Ten pharmaceutical technologists 
+5. Level 5 Hospitals 
+  6 pharmacists 
+  10 pharmaceutical technologists 
+  At least one specialist pharmacist 
+6. Level 6 Hospitals 
+  Depending on specialization and workload 
+ 
+ 
+28 
+2.6.4 Operations 
+1. Quality assured Health products and technologies will be 
+procured through robust and appropriate process 
+supervised by the superintendent pharmacist or 
+pharmaceutical technologist. 
+2. Pharmaceutical expertise will be available with relevant, 
+up to date, evidence-based information to healthcare 
+professionals prescribing, administering and monitoring 
+effect of drug at point of care. 
+3. Pharmaceutical staff will be integrated into clinical teams 
+in the hospital and provide safe and appropriate 
+pharmaceutical care directly to the patients. 
+4. The pharmaceutical staff will ensure that all aspects of 
+medicinal use within the hospital are safe. 
+5. Medicine is to be prepared, labelled and dispensed by a 
+registered pharmacist or an enrolled pharmaceutical 
+technologist. 
+6. There will be systems of work established that are safe, 
+productive, support quality improvement, are regularly 
+audited, and comply with relevant regulations. 
+7. Patient care will be provided in a secure, appropriate, 
+and suitable environment, ensuring the confidentiality 
+and dignity of the patient. 
+8. Suitable, appropriate, and relevant records will be kept 
+in an environment that is safe and in a secure form. 
+9. For extemporaneous preparations, necessary SOPs and 
+Reference materials must be available. 
+10. Where manufacturing activities take place, necessary 
+Good Manufacturing Practice (GMP) requirements 
+apply. 
+2.6.5 Equipment (where necessary) 
+  Hot plate 
+ 
+ 
+29 
+  Weighing machines 
+  Source of clean water 
+  Dispensing Cylinders of various sizes 
+  Beakers 
+  Motor and Pestles 
+  Trituration Slabs 
+  Spatula 
+  Refrigerator 
+  Tablet/capsule counters 
+2.6.6 Reference materials 
+1. PPB Guidelines 
+  GDP guidelines 
+  Safe Management of Pharmaceutical Waste 
+  Product recall and withdrawal 
+  Transportation of Pharmaceuticals 
+  Safety 
+and 
+Vigilance 
+of 
+Health 
+products 
+and 
+technologies.  
+  Guidelines 
+for 
+Implementation 
+of 
+Continuing 
+Professional Development for Pharmacy Practitioners 
+2. Cap 244 Laws of Kenya 
+3. Professional Code of Ethics 
+4. Reference books 
+  BNF – Latest Edition 
+  Standard Treatment Guidelines 
+  Kenya National Drugs Policy 
+  Hospital Formulary 
+  EA Pharmaceutical Loci 
+  Guidelines for Medicines and therapeutics Committee. 
+5. Any other text that gives trade names of drugs on the 
+market 
+ 
+ 
+30 
+2.7 Good E-Pharmacy Practice for Pharmaceuticals 
+1. E-pharmacy” means business of distribution or sale, stock, 
+exhibit or offer for sale of drugs through web portal or any 
+other electronic mode. 
+2. Any person who intends to conduct the business of e- 
+pharmacy shall apply for grant of the registration to the 
+Pharmacy and Poisons Board through the prescribed portal. 
+3. The e-pharmacy registration holder shall inform the Boards 
+Licensing Department `in writing in the event of any change 
+in the constitution of the firm operating under the registration. 
+4. The e-pharmacy registration holder shall make provision for 
+a duly registered brick and mortar pharmacy outlets for 
+supplies, customer support, redress of grievances among 
+other supportive services, e.g., answering customer queries 
+through a customer helpline. 
+5. The HPT requested/ordered through e-pharmacy shall be 
+delivered to the patient by a registered pharmacist or enrolled 
+pharmaceutical technologist within the period of validity of the 
+prescription received from the patient. 
+6. For providers of e-pharmacy who link clients to existing 
+Registered Pharmaceutical premises, such information must 
+be shared with PPB. 
+7. Information received by the e-pharmacy registration holder 
+from the customer by way of prescription or in any other 
+manner shall not be disclosed by the e-pharmacy registration 
+holder for any other purposes nor shall the same be disclosed 
+to any other person. 
+8. Details of records /documents in regard to dispensing made 
+against a cash or credit memo generated through the e-
+pharmacy portal shall be maintained by the e-pharmacy 
+registration holder, e.g., patient details, serial number and 
+ 
+ 
+31 
+date of the cash/credit memo, etc, for a period of at least six 
+years. 
+9. The e-pharmacy registration holder shall not carry out e-
+pharmacy business with respect to the drugs covered under 
+the categories of  
+10. Narcotic and psychotropic as referred to in the Narcotic 
+Drugs and Psychotropic Substances Act, 1985 (61 of 1985). 
+11. The e-pharmacy registration holder shall not advertise any 
+drug unless the advertisement has been approved by the 
+Pharmacy and Poisons Board. 
+12. The e-pharmacy registration holder shall maintain and 
+update, from time to time, the information regarding the 
+drug’s availability, types of drugs offered for sale, supply 
+channels or vendor lists, details of registered pharmacists, 
+registered medical practitioner (if any), and any other 
+requirements of the Pharmacy and Poisons Act and rules 
+there under, to Pharmacy and Poisons Board. 
+13. The e-pharmacy registration holder shall demonstrate 
+adequate backup for their online data. 
+14. All products supplied through e-pharmacy should have a 
+valid market authorization from PPB. 
+3.0 
+HANDLING 
+AND 
+CONTROL 
+OF 
+HEALTH 
+PRODUCTS 
+AND 
+TECHNOLOGIES  
+Handling and storage of health products and technologies should be in 
+accordance 
+with 
+established 
+procedures 
+designed 
+to 
+prevent 
+contamination or deterioration, damage to packs or confusion of 
+products. Particular care should be given to maintaining the integrity 
+of seals on packs of sterile products and thermo-labile products. 
+Attention should be paid to any special instructions from the 
+manufacturer relating to handling or storage of the products. 
+ 
+ 
+32 
+Importers should take all reasonable measures to ensure that health 
+products and technologies are not mishandled or exposed to adverse 
+storage conditions at ports of entry e.g. airports. 
+3.1 Inward Goods – From Suppliers 
+Receiving bays should protect products from the weather. Receiving 
+areas should be designed and equipped to allow incoming 
+containers of products to be cleaned, if necessary before storage. 
+The stock should be received and examined for correctness against 
+the order, for expiry date and for the absence of damage. 
+Additionally, the registration/ retention status of these products 
+MUST be verified with PPB. 
+The wholesaler will ensure that received goods comply with PPB-
+approved labelling and packaging requirements.  
+There should be a system for the recognition and prompt handling 
+of drugs of addiction, or those products requiring specific 
+temperature storage, of products that have a short shelf life and of 
+any other products that require special care. 
+Goods from suppliers rejected by the wholesaler because of error, 
+breakage, leaking containers or other faults should be placed in 
+quarantine until the matter is resolved with the supplier. 
+Goods bearing an expiry date must not be received or supplied after 
+their expiry date or so close to their expiry date that they are likely 
+to expire before they are used by the consumer. 
+3.2 Outward Goods – To Retail Pharmacies 
+Dispatch bays should protect products from the weather. Dispatch 
+areas should be designed and equipped to allow out going 
+containers of products to be inspected, if necessary, before dispatch. 
+Every wholesaler/ distributor must put in place a mechanism of 
+tracing the products distributed by their batch numbers. It is very 
+necessary to account for all the stock. 
+ 
+ 
+33 
+It is unlawful to sell products to unlicensed pharmaceutical outlets 
+or to unauthorized persons. The wholesaler shall keep an up-to-
+date database of client’s registration status with healthcare 
+regulatory authorities. 
+The wholesaler shall at all times maintain a record of distribution of 
+their products. 
+3.3 Port Handling and Customs Clearance  
+Where an organization, imports or distributes medical products for 
+more than one manufacturer, the importer shall identify the range 
+of different requirements and accommodate them all within the 
+same carrier. 
+In ensuring quality, efficacy, and safety, medical products and 
+technologies should be stored under conditions complying with 
+instructions from the manufacturer, in particular concerning 
+appropriate humidity, temperature, and light requirements; this will 
+ensure storage conditions will prevent damage, deterioration, or 
+other adverse effects to the medicinal products. 
+The use of actively powered systems using electricity or other fuel 
+sources to maintain a temperature-controlled environment inside 
+an insulated enclosure under thermostatic regulation, especially for 
+the 
+time 
+and 
+temperature-sensitive 
+health 
+products 
+and 
+technologies are recommended for example refrigerated ocean and 
+air containers, temperature-controlled trucks, cold rooms etc.  
+For temperature-sensitive products, the authorized importer should 
+alert customs officials in advance of the anticipated arrival of 
+consignments so that necessary arrangements are put in place to 
+transfer to the designated storage facilities without breaking the 
+cold chain 
+ 
+ 
+34 
+3.4 Special/ Temporary Storage Facilities at Ports of Entry  
+The requirements described herewith apply to the temporary 
+storage of Health products and technologies awaiting clearance and 
+release from Ports of Entry in the Republic of Kenya.  
+These temporary storage facilities include but not limited to the 
+following: Container Freight Stations (CFS’s), Warehouses, Customs 
+cage(s) and shades. These facilities store consignments as pre-
+clearance procedures are being worked on. Consignments arrive 
+into the country through Air ports, Dry land ports, and Sea ports. 
+3.5 Handling 
+During 
+Importation 
+of 
+Health 
+products 
+and 
+technologies 
+All import/export consignments containing Health products and 
+technologies 
+must 
+be 
+accompanied 
+with 
+import/export 
+authorizations from the Pharmacy and Poisons Board. 
+The Port of Entry to be used must be declared in the import/export 
+authorization permits by the consignee and shall be adhered to. 
+Importers/Exporters of health products and technologies and 
+Health Technologies shall declare to Customs and Drug Regulatory 
+Officials upon arrival or expected arrival of consignments of interest. 
+Pharmaceutical inspectors in collaboration with Customs officials 
+and importers/exporters will carry out physical examination of all 
+imported 
+consignment 
+of 
+medicinal 
+products 
+and 
+their 
+documentation.  
+Where necessary, the pharmaceutical inspector will carry out 
+random sampling of health products and technologies in 
+accordance with laid down guidelines on sampling of medicinal 
+products imported into the country for drug analysis.  
+All products whose details cannot be verified or fall within the scope 
+of SSFF should be forfeited and destroyed as per provisions in the 
+legislation (Anti-counterfeit Act 2008).  
+ 
+ 
+35 
+Storage of all medical products should adhere to the following basic 
+requirements: - 
+i. Clean, dry and dust free storage facility 
+ii. Suitable space to allow cleaning and inspection 
+iii. Surfaces and shelves in ware houses and shades should be made 
+of covered/and impermeable materials to enable proper and safe 
+cleaning in order to maintain product integrity. 
+iv. Storage areas should be adequately lit and ventilated in order for 
+tasks to be performed in the appropriate and safe manner while 
+ensuring product quality is maintained. 
+v. Adequate storage area for proper segregation and arrangement of 
+products to prevent cross -contamination and mix-up. 
+vi. Temperature, moisture and humidity control tools and protocols 
+vii. Prevent Exposure to light 
+viii. Direction the package should face 
+ix. Maximum number of packages staked above each other. 
+If the manufacturer requires products to be stored or transported at 
+certain conditions (e.g temperature and humidity) these conditions 
+shall be monitored and periodically recorded. Such records shall be 
+maintained and available for review. 
+If packaging labels do not include information about the required 
+storage and transport conditions, such information should be 
+obtained from the manufacturer. 
+Importers/Exporters of health products and technologies shall 
+declare to Customs and Drug Regulatory Officials upon arrival or 
+expected arrival of consignments of interest 
+Pharmaceutical inspectors in collaboration with Customs officials 
+and importers/exporters will carry out physical examination of 
+imported 
+consignments 
+of 
+medicinal 
+products 
+and 
+their 
+documentation as per risk assessment reports.  
+ 
+ 
+36 
+Where necessary, the pharmaceutical inspector will carry out 
+random sampling of health products and technologies in 
+accordance with laid down guidelines on sampling of medicinal 
+products imported into the country for drug analysis.  
+All products whose details cannot be verified or fall within the scope 
+of SSFFCP’s should be forfeited and destroyed as per provisions in 
+the legislation (Anti-counterfeit Act 2008) 
+3.6 Damaged Goods from Stock 
+Stock which has been damaged or withheld from sale and which is 
+not immediately destroyed should be placed in quarantine until 
+disposal so that it cannot be sold in error or, in the case of liquid 
+leakage, cause contamination to other goods. 
+Stocks of products with broken seals, damaged packaging or 
+suspected of possible contamination must not be sold or supplied. 
+3.7 Returned Goods  
+3.7.1 From customers  
+Goods which have left the care of the wholesaler should only 
+be returned to saleable stock if: 
+i. They are in their original unopened containers, in good 
+conditions and bear a valid expiry date; 
+ii. If it is evident that they have not been subject to adverse 
+conditions; 
+iii. They are packed separately from other goods and 
+accompanied by a separate Returns Note; and 
+iv. They have been examined and assessed by a person 
+authorized to do so. Such assessment should consider the 
+nature of goods, and any special storage conditions they may 
+quire. If necessary, advice should be sought from the person 
+responsible for the quality assurance of the manufactured 
+product. 
+ 
+ 
+37 
+Reconditioning or repackaging (including re- labelling) of 
+health products and technologies goods must not be carried 
+out by wholesalers unless such activity is specifically 
+exempted by the PPB from the requirement to hold a 
+manufacturer’s license. 
+3.7.2 From Recall 
+There should be a written procedure detailing the action to be 
+taken in recalling goods on behalf of their manufacturer or 
+sponsor, subject to any amendment necessary in specific 
+circumstances.  
+The above procedure should be consistent with the “PPB 
+Recall guidelines for Pharmaceutical and allied products”. The 
+Wholesaler should be able to facilitate a recall procedure 
+relative to the area to which goods have been supplied. Recalls 
+carried out should be documented and records of all recalled 
+goods received in the warehouse should be kept. A person 
+should be designated as responsible for the execution and co-
+ordination of recalls. 
+3.7.3 Inventory Management 
+Written procedures should describe the different operations 
+which may affect the quality of the products or of the 
+distribution activity: receipt and checking of deliveries, 
+storage, cleaning and maintenance of the premises, (including 
+pest control), recording storage conditions, security of stocks 
+and on-site, consignments in transit, withdrawal from 
+saleable stock records, including records of clients’ orders, 
+returned products, recall plans, etc. These procedures should 
+be approved, signed, and dated by the person responsible for 
+the quality system. 
+Invoices or packaging slips should be issued for each delivery 
+and accompany the goods. 
+ 
+ 
+38 
+Clear and readily available records should be maintained 
+showing the receipt and disposal of all products purchased 
+and sold. Such records should be kept in an accessible form 
+and place for the appropriate legislated period (currently five 
+years). 
+Keep records of each sale or purchase, showing the date of 
+purchase (supply) name of the medicinal product, quantity 
+received (or supplied) name, and address of suppliers or 
+consignee. Records should ensure traceability of the origin 
+and destination of products, e.g. by use of batch numbers in 
+the order that they can be identified/ traced. 
+Periodic (at least annually) physical counts should be done, 
+involving counting all items and comparing the counts with 
+the records.  
+The differences should be reconciled i.e. all significant stock 
+discrepancies should be investigated to check that there have 
+been no inadvertent mix-ups, incorrect issues, and/or 
+misappropriation of health products and technologies; and 
+any stock discrepancy must be referred to the Responsible 
+Pharmacist  
+A written procedure must be in place to ensure effective stock 
+rotation. Health products and technologies due to expire first 
+must be sold and/or distributed in accordance with the first 
+expiry, first out (FEFO) principles. Where no expiry dates exist 
+for health products and technologies, the first in, first out 
+(FIFO) principle should be applied. 
+All stock must be checked regularly for obsolete and short-
+dated stock items. All due precautions should be observed to 
+prevent the issuance of such short-dated or expired stock.  
+Health products and technologies with broken seals, damaged 
+packaging, 
+or 
+suspected 
+of 
+possible 
+tampering/ 
+ 
+ 
+39 
+contamination must not be sold or supplied and must be 
+segregated pending an investigation and decision. 
+3.7.4 Substandard and Falsified Medicals products (SF) and 
+Unregistered Products 
+Products which are suspected or confirmed to be SF should 
+be kept in a designated area apart from other medicinal 
+products to avoid confusion. They should be clearly labelled 
+as “NOT FOR SALE”. The Pharmacy and Poisons Board and 
+the holder of the products registration should immediately be 
+informed 
+Where quarantine status is ensured by storage in separate 
+areas, these areas must be clearly marked and their access 
+restricted to authorized personnel. Any system replacing 
+physical quarantine should provide equivalent security. For 
+example, computerized systems can be used, provided that 
+they are validated to demonstrate security of access.  
+Sale of unregistered medicines is not allowed, but should 
+written permission under the appropriate provisions in the 
+Pharmacy and Poisons Act be given by the Board, the 
+following should be observed: 
+i. Records of sales should be kept. This may also include 
+special conditions imposed by the Board on giving the 
+permission; and 
+ii. The medicines should be stored separately from other 
+registered medicines. The area should be clearly indicated as 
+to its use to ensure adequate control of sales. 
+Handling, storage, distribution or trade in SF products is 
+highly prohibited. Any such product encountered/ detected 
+should be quarantined and PPB be notified for necessary 
+regulatory action. 
+ 
+ 
+40 
+3.7.5 Complaints 
+Complaints regarding the product or its packaging, as distinct 
+from those relating solely to matters within the wholesalers’ 
+control, must be notified promptly to the manufacturer or 
+sponsor of the goods. Complaints relating to the wholesalers’ 
+own activity should be evaluated and measures are taken, 
+where appropriate, to prevent their recurrence. 
+All complaints shall be comprehensively documented, as per 
+in-house procedure for handling complaints. 
+3.7.6 Self-Audit 
+The System of Quality Assurance of the distribution outlets 
+should include self- audit. These inspections should be in line 
+with the principles of Good Distribution Practices and if 
+necessary, to trigger corrective and preventative measures.  
+The Authorized person should ensure that self-audit is 
+performed and any deviations are followed up and concluded. 
+Written procedures for self- audit should be established to 
+provide minimum and uniform standards. 
+Self-audit should be conducted in an independent and 
+detailed way by a designated and competent person, and 
+should cover all aspects of Good Distribution Practices.  
+The frequency of self-audit should be at least twice a year.  
+Audit reports should include results, evaluation, conclusions, 
+and recommended measures. These reports should be 
+summarized 
+and 
+periodically 
+submitted 
+to 
+Senior 
+Management as an integral part of the management review 
+process.  
+There should be an effective follow-up programme whereby 
+company management must evaluate both the report and 
+ 
+ 
+41 
+corrective measures. The follow-up activities should verify the 
+effectiveness of the corrective action taken.  
+3.7.7 Corrective Action and Preventive Action (CAPA)  
+3.7.7.1 Corrective Action  
+Entities should have Corrective action procedures in 
+place to eliminate causes of existing non-conformities 
+or other undesirable situations.  
+Corrective action procedures must be implemented 
+and the effectiveness of the results must be verified. It 
+must be determined whether the non-conformity is an 
+isolated or a repetitive problem, and any actions to be 
+taken, if necessary.  
+3.7.7.2 Preventive Action  
+Entities should have Preventive action in place to 
+prevent occurrence of existing non-conformities or 
+other undesirable situations. 
+Preventive action should be considered if there are 
+opportunities to improve the quality management 
+system.  
+Corrective Action is taken after non-conformities are 
+identified. Preventive Action is taken when a potential 
+non-conformity is identified as a result of the analysis 
+of records and other relevant sources of information, 
+such as:  
+(a) Statistical process control documents;  
+(b) Customer complaints;  
+(c) Review product, process and quality system 
+information; 
+(d) Risk analysis and risk assessment of products and 
+processes.  
+ 
+ 
+42 
+Records relating to product performance should be 
+analysed regularly, to detect trends and to identify 
+areas of risk that may lead to non-conformities. 
+The analysis should also determine how to prevent any 
+identified potential problems.  
+Information on preventive action taken must be part 
+of the management review to maintain and improve 
+the quality system.  
+3.8 Validation  
+Wholesalers should have a Validation Master Plan. The Validation 
+Master Plan provides a summary of the company’s philosophy, 
+policy, intentions and approaches to validation. 
+The following should be validated at minimum:  
+a. Warehouse premises: ambient and cold-chain storage conditions 
+including temperature mapping 
+b. Lagged containers  
+c. Cold-chain processes  
+d. Computerized systems and  
+e. Transportation systems  
+Validation should be conducted in accordance with a validation 
+protocol. A written Validation Report should be available after 
+completion of the validation exercise 
+3.9 Calibration  
+All measuring equipment must be calibrated in accordance with an 
+approved schedule that details which equipment requires 
+calibration, as well as the frequency of calibration. The frequency 
+will depend on the type of equipment used, as well as the purpose 
+for which it is used.  
+It is the Authorized person’s responsibility to approve the calibration 
+schedule.  
+ 
+ 
+43 
+3.10 Electronic Records  
+Data, especially, legal records, may be recorded by electronic data 
+processing systems but detailed procedures relating to the system 
+in use should be available and the accuracy of the records should 
+be checked.  
+A written detailed description of the system should be produced 
+(including diagrams as appropriate) and kept up to date. It should 
+describe the principles, objectives, security measures and scope of 
+the system and the main features of the way in which the computer 
+is used and how it interacts with other systems and procedures.  
+Only authorized persons should be able to enter or modify data in 
+the computer. Access should be restricted by passwords or other 
+means. User should have a unique identifier (User ID) for their 
+personal and sole use so that activities can subsequently be traced 
+to the responsible individual 
+Written procedures should be in place for the validation of 
+computerized systems in order to demonstrate security of access 
+and data integrity.  
+There should be a record of changes and deletions. Any alteration 
+to an entry of critical data (which must be defined by each 
+organization) should be authorized and recorded with the reason 
+for the change in accordance with the procedure. Consideration 
+should be given to the system creating a complete record of all 
+entries and amendments (an “audit trail”).  
+Records electronically stored should be protected by back-up 
+transfer on magnetic tape, microfilm, paper or other means, at 
+regular intervals. Back-up data should be stored as long as 
+possible at a separate and secure off-site location. 
+3.11 Good Distribution Practices Certification 
+Based on an inspection report, the plan for corrective actions taken 
+by the inspectee(s), and recommendation by PPB GDP inspectors, 
+ 
+ 
+44 
+the premises shall be deemed compliant/non-compliant with 
+regulatory requirements and a Certificate of Compliance/Non-
+compliance with Good Distribution Practices will be issued. 
+In the event that an inspectee wishes to appeal the decision, the 
+appeal should be submitted in writing to the Chief Executive 
+Officer, Pharmacy and Poisons Board within 30 days from the date 
+of the decision. 
+4.0 
+REFERENCES 
+1. Constitution of Kenya 2010 
+2. Pharmacy and Poisons Act, Cap 244 laws of Kenya 
+3. PPB 2020-2025 Strategic Plan 
+4. Code of ethics for PPB Inspectors 
+5. WHO Technical Report Series No.957, annexe 5. WHO good 
+distribution practices for pharmaceutical products. 
+6. European Medicine Agency. Good Distribution Practice. 
+7. Good Distribution Practice, TMDA, United Republic of Tanzania. 
+ 
+5.0 
+REVISION HISTORY 
+Revision No: 
+Date 
+Reviewer 
+Section(s) 
+revised  
+Description of change 
+Revision No.1 
+12/01/2022 
+Dr. 
+Kariuki 
+Document 
+numbering 
+To be in line with the new 
+organogram 
+ 
+ 
+ 
+2.5 
+Inclusion 
+of 
+guidelines 
+for 
+hospital pharmacy 
+ 
+2.6 
+Inclusion of guidelines for e-
+pharmacy 
+Revision No.2 
+01/11/2023 
+Dr. 
+Kariuki 
+Cover page 
+Inclusion of the new Court of 
+arms 
+ 
+ 
+45 
+ 
+01/11/2023 
+Dr. 
+Kariuki 
+Table 
+of 
+contents 
+Correction 
+of 
+the 
+table 
+of 
+contents for formatting errors. 
+ 
+ 
+46 
+6.0 
+CONTRIBUTORS/REVIEWERS 
+NO 
+NAME 
+POSITION 
+1. 
+Dr. F.M. siyoi 
+Chief Executive Officer 
+2. 
+Dr. Ahmed Mohamed 
+Director, Health Products and Technologies 
+3. 
+Dr. Dominic Kariuki 
+Deputy Director, Inspectorate and Enforcement 
+4. 
+Dr. Tom Kauki 
+Regional Head, Central Region 
+5. 
+Mr. Julius Kaluai 
+Regional head, Nairobi Region 
+6. 
+Dr. Paddy Agoro 
+Regional Head, Coast Region 
+7. 
+Dr. Kibet Chebeo 
+Regional Head, North rift Region 
+8. 
+Dr. Sibalile Simiyu 
+Regional Head, South rift Region  
+9. 
+Dr. Onesmus Kilonzo 
+Regional Head, Western Region  
+10. Dr. Washington Oyoo 
+Regional Head, Nyanza Region  
+11. Dr. James Gathogo 
+Regional Head, Upper Eastern Region  
+12. Dr. Benson Kanji 
+Regional Head, Lower Eastern Region  
+13. Mr. Omar Sheikh 
+Regional Head, North Eastern Region 
+14. Mr. Peter Kiptoo 
+Head Ports of Entry 
+15. Mr. Denis Otieno 
+Head Drug Crime Investigation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+END OF DOCUMENT 
+ 
+© Pharmacy and Poisons Board 2022 
+All rights reserved. This is a controlled document. 
+It must not be copied without authorization from the Pharmacy 
+and Poisons Board 
