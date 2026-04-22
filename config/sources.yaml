@@ -1,0 +1,30 @@
+# Per-domain rate limiting and schedule configuration.
+# rate:     requests added to the token bucket per second
+# capacity: maximum burst size (tokens)
+# schedule: cron expression for the scheduler (future: Modal / Celery)
+
+domains:
+  api.fda.gov:
+    rate: 4.0        # 240 req/min without API key; 4/s is safe
+    capacity: 10.0
+    schedule: "0 6 * * *"   # daily at 06:00 UTC
+
+  web.pharmacyboardkenya.org:
+    rate: 0.5        # 1 request every 2 seconds — polite
+    capacity: 3.0
+    schedule: "0 7 * * *"   # daily at 07:00 UTC
+
+  www.sahpra.org.za:
+    rate: 0.5
+    capacity: 3.0
+    schedule: "0 8 * * 1"   # weekly on Monday
+
+  clinicaltrials.gov:
+    rate: 2.0
+    capacity: 5.0
+    schedule: "0 5 * * *"
+
+  www.ema.europa.eu:
+    rate: 1.0
+    capacity: 5.0
+    schedule: "0 4 * * 1"   # weekly on Monday

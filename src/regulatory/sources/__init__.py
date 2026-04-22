@@ -1,0 +1,1 @@
+"""Concrete regulatory source adapters."""
