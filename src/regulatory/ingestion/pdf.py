@@ -15,9 +15,25 @@ import io
 import json
 from typing import Any
 
+import anthropic
 import structlog
 
 log = structlog.get_logger(__name__)
+
+
+def _first_text_block(content: list[anthropic.types.ContentBlock]) -> str:
+    """Return the text from the first TextBlock in *content*, or empty string.
+
+    Args:
+        content: List of Anthropic content blocks.
+
+    Returns:
+        Text string from the first ``TextBlock``, or ``""`` if none found.
+    """
+    for block in content:
+        if isinstance(block, anthropic.types.TextBlock):
+            return block.text
+    return ""
 
 
 def _extract_pdfplumber(pdf_bytes: bytes) -> str | None:
@@ -30,7 +46,7 @@ def _extract_pdfplumber(pdf_bytes: bytes) -> str | None:
         Extracted text string, or ``None`` on failure.
     """
     try:
-        import pdfplumber  # type: ignore[import-untyped]
+        import pdfplumber
 
         with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
             pages = [page.extract_text() or "" for page in pdf.pages]
@@ -53,7 +69,7 @@ def _extract_pymupdf(pdf_bytes: bytes) -> str | None:
         Extracted text string, or ``None`` on failure.
     """
     try:
-        import fitz  # type: ignore[import-untyped]  # PyMuPDF
+        import fitz  # PyMuPDF
 
         doc = fitz.open(stream=pdf_bytes, filetype="pdf")
         pages = [doc[i].get_text("text") for i in range(doc.page_count)]
@@ -123,7 +139,7 @@ def _extract_anthropic(
                 }
             ],
         )
-        text = response.content[0].text if response.content else ""
+        text = _first_text_block(response.content)
         client.cache_response(source_hash, text)
         return text if text else None
     except Exception as exc:
@@ -188,7 +204,7 @@ def extract_structured(
         cached = client.get_cached_response(cache_key)
         if cached is not None:
             log.debug("anthropic_structured_cache_hit", source_hash=source_hash)
-            return dict(cached)  # type: ignore[arg-type]
+            return dict(cached)
 
         schema_str = json.dumps(schema_hint, indent=2)
         prompt = (
@@ -217,7 +233,7 @@ def extract_structured(
                 }
             ],
         )
-        raw_json = response.content[0].text if response.content else ""
+        raw_json = _first_text_block(response.content)
         result: dict[str, Any] = json.loads(raw_json)
         client.cache_response(cache_key, result)
         return result

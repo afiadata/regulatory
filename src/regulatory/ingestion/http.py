@@ -75,7 +75,8 @@ def _load_domain_config(config_path: str = "config/sources.yaml") -> dict[str, d
         with open(config_path) as fh:
             raw: dict[str, object] = yaml.safe_load(fh) or {}
         domains: dict[str, dict[str, float]] = {}
-        for domain, cfg in (raw.get("domains") or {}).items():
+        raw_domains = raw.get("domains") or {}
+        for domain, cfg in (raw_domains if isinstance(raw_domains, dict) else {}).items():
             if isinstance(cfg, dict):
                 domains[str(domain)] = {
                     "rate": float(cfg.get("rate", 1.0)),
@@ -123,7 +124,9 @@ class RobotsCache:
                 rp.parse(resp.text.splitlines())
             except Exception as exc:  # noqa: BLE001
                 log.warning("robots_fetch_failed", url=robots_url, error=str(exc))
-                # Assume allowed on failure — conservative but practical
+                # robots.txt unreachable — parse a permissive stand-in so
+                # can_fetch() returns True for all paths.
+                rp.parse(["User-agent: *", "Allow: /"])
             self._cache[domain] = rp
         return self._cache[domain].can_fetch(USER_AGENT, url)
 

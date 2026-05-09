@@ -45,15 +45,15 @@ class Document(Base):
         Index("ix_documents_source_date", "source_id", "date_published"),
         Index(
             "ix_documents_jurisdiction_type_date",
-            "jurisdiction", "document_type", "date_published",
+            "jurisdiction",
+            "document_type",
+            "date_published",
         ),
         Index("ix_documents_active_ingredients_gin", "active_ingredients", postgresql_using="gin"),
         Index("ix_documents_manufacturers_gin", "manufacturers", postgresql_using="gin"),
     )
 
-    id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True), primary_key=True, default=uuid.uuid4
-    )
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     source_id: Mapped[str] = mapped_column(String(64), nullable=False, index=True)
     source_url: Mapped[str] = mapped_column(Text, nullable=False)
     source_hash: Mapped[str] = mapped_column(String(64), nullable=False, unique=True, index=True)
@@ -131,9 +131,7 @@ class DocumentVersion(Base):
 
     __tablename__ = "document_versions"
 
-    id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True), primary_key=True, default=uuid.uuid4
-    )
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     document_id: Mapped[uuid.UUID] = mapped_column(
         UUID(as_uuid=True), ForeignKey("documents.id", ondelete="CASCADE"), nullable=False
     )
@@ -170,9 +168,7 @@ class Manufacturer(Base):
     __tablename__ = "manufacturers"
     __table_args__ = (UniqueConstraint("canonical_name", name="uq_manufacturers_canonical"),)
 
-    id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True), primary_key=True, default=uuid.uuid4
-    )
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     canonical_name: Mapped[str] = mapped_column(Text, nullable=False)
     aliases: Mapped[list[str]] = mapped_column(JSONB, nullable=False, default=list)
     countries: Mapped[list[str]] = mapped_column(ARRAY(Text), nullable=False, default=list)

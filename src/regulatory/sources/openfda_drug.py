@@ -130,13 +130,12 @@ class OpenFdaDrugSource(RegulatorySource):
         if since is not None:
             since_str = since.strftime("%Y%m%d")
             today_str = datetime.now(tz=timezone.utc).strftime("%Y%m%d")
-            params["search"] = f"report_date:[{since_str}+TO+{today_str}]"
+            params["search"] = f"report_date:[{since_str} TO {today_str}]"
 
         skip = 0
         while True:
             params["skip"] = str(skip)
-            async with HttpClient() as client:
-                resp = await client.get(_BASE_URL, params=params)
+            resp = await self._http.get(_BASE_URL, params=params)
             if resp is None:
                 break
 
@@ -152,11 +151,11 @@ class OpenFdaDrugSource(RegulatorySource):
 
             for record in results:
                 recall_number = record.get("recall_number", "")
-                url = f"{_BASE_URL}?search=recall_number:{recall_number}"
+                url = f'{_BASE_URL}?search=recall_number:"{recall_number}"'
                 pub_date = _parse_fda_date(record.get("report_date"))
                 yield DocumentRef(
                     source_id=self.source_id,
-                    url=url,  # type: ignore[arg-type]
+                    url=url,
                     document_id=recall_number or None,
                     title=record.get("reason_for_recall", "")[:200],
                     date_published=pub_date,
@@ -180,8 +179,7 @@ class OpenFdaDrugSource(RegulatorySource):
             :class:`~regulatory.models.RawDocument` with JSON content.
         """
 
-        async with HttpClient() as client:
-            resp = await client.get(str(ref.url))
+        resp = await self._http.get(str(ref.url))
 
         if resp is None:
             raise RuntimeError(f"No response fetching {ref.url}")

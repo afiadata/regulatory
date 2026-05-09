@@ -158,3 +158,18 @@ Before writing any Tier 3 adapter: 30-min manual inspection → document in `doc
 - `data/processed_texts/` — extracted text from above. Leave in place.
 - `data/ppb_recalls_update/` — **does not exist**. Recall data requires a separate scraper.
 - `scripts/modal_setup/` — Modal volume/batch/preprocessing scripts. Do not refactor.
+
+---
+
+## Legacy Script Policy
+
+- `main.py` — stays as a 3-line redirect to the typer CLI (`from regulatory.cli import app`).
+  Do not delete.
+- `scripts/legacy/ppb_pdf_scraper.py` and `scripts/legacy/pdf_preprocessing.py` — original
+  working scripts that produced `data/ppb_pdfs/` and `data/processed_texts/`. Their patterns
+  are ported into the ingestion framework but they are kept as:
+  1. A working fallback if the new adapters have issues during the validation period.
+  2. Inline documentation of source-specific quirks (PPB `/download/` subpage pattern,
+     filename collision handling, tolerated request cadence) that the new code inherits.
+- **Do not remove these files** until the new adapters (`openfda_drug`, `ppb_ke_alerts`)
+  have run cleanly in production for a reasonable period. See `scripts/legacy/README.md`.

@@ -21,11 +21,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Import adapters so they self-register via @register_source
-import regulatory.sources.openfda_drug  # noqa: F401
-import regulatory.sources.ppb_ke_alerts  # noqa: F401
-from regulatory.ingestion.registry import all_sources
-from regulatory.ingestion.scheduler import run
+# These must follow load_dotenv() so env vars are set before module-level reads.
+import regulatory.sources.openfda_drug  # noqa: E402, F401
+import regulatory.sources.ppb_ke_alerts  # noqa: E402, F401
+from regulatory.ingestion.registry import all_sources  # noqa: E402
+from regulatory.ingestion.scheduler import run  # noqa: E402
 
 log = structlog.get_logger(__name__)
 
@@ -93,10 +93,15 @@ def ingest_run(
         typer.echo("Use --source or --all, not both.", err=True)
         raise typer.Exit(1)
 
+    if source and source not in all_sources():
+        typer.echo(
+            f"Unknown source '{source}'. Run 'regulatory sources list' to see options.",
+            err=True,
+        )
+        raise typer.Exit(1)
+
     since_value: str | datetime | None = since
-    typer.echo(
-        f"Starting ingestion: source={'all' if all_sources_flag else source}, since={since}"
-    )
+    typer.echo(f"Starting ingestion: source={'all' if all_sources_flag else source}, since={since}")
 
     try:
         run(source_id=source, since=since_value)

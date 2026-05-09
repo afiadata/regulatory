@@ -40,9 +40,7 @@ log = structlog.get_logger(__name__)
 
 _ROOT_URL = "https://web.pharmacyboardkenya.org/"
 _ALERT_KEYWORDS = ["alert", "recall", "product alert", "safety alert", "market withdrawal"]
-_SEVERITY_PATTERN = re.compile(
-    r"class\s+(i{1,3}|1|2|3)\b", re.IGNORECASE
-)
+_SEVERITY_PATTERN = re.compile(r"class\s+(i{1,3}|1|2|3)\b", re.IGNORECASE)
 
 _SEVERITY_MAP: dict[str, Severity] = {
     "i": Severity.class_1,
@@ -201,27 +199,24 @@ class PpbKeAlertsSource(RegulatorySource):
         Yields:
             One :class:`~regulatory.models.DocumentRef` per PDF found.
         """
-        async with HttpClient() as client:
-            alerts_url = await _discover_alerts_url(client)
-            if alerts_url is None:
-                log.error("ppb_alerts_url_not_found")
-                return
+        alerts_url = await _discover_alerts_url(self._http)
+        if alerts_url is None:
+            log.error("ppb_alerts_url_not_found")
+            return
 
-            pdfs = await _scrape_alert_listing(client, alerts_url)
+        pdfs = await _scrape_alert_listing(self._http, alerts_url)
 
         for pdf_url, title, raw_date in pdfs:
             pub_date = _parse_date_flexible(raw_date) if raw_date else None
 
             if since is not None and pub_date is not None:
-                pub_dt = datetime(
-                    pub_date.year, pub_date.month, pub_date.day, tzinfo=timezone.utc
-                )
+                pub_dt = datetime(pub_date.year, pub_date.month, pub_date.day, tzinfo=timezone.utc)
                 if pub_dt <= since:
                     continue
 
             yield DocumentRef(
                 source_id=self.source_id,
-                url=pdf_url,  # type: ignore[arg-type]
+                url=pdf_url,
                 title=title[:200],
                 date_published=pub_date,
             )
@@ -238,8 +233,7 @@ class PpbKeAlertsSource(RegulatorySource):
         Raises:
             RuntimeError: If the HTTP request returns no response.
         """
-        async with HttpClient() as client:
-            resp = await client.get(str(ref.url))
+        resp = await self._http.get(str(ref.url))
 
         if resp is None:
             raise RuntimeError(f"No response fetching {ref.url}")
@@ -320,11 +314,7 @@ class PpbKeAlertsSource(RegulatorySource):
         else:
             severity = _infer_severity(raw_text)
 
-        title = (
-            structured.get("title")
-            or raw.ref.title
-            or str(raw.ref.url).split("/")[-1]
-        )
+        title = structured.get("title") or raw.ref.title or str(raw.ref.url).split("/")[-1]
 
         regions_raw = structured.get("regions_affected") or []
         if isinstance(regions_raw, str):
@@ -354,11 +344,22 @@ class PpbKeAlertsSource(RegulatorySource):
                 "extraction_method": method,
                 "batch_numbers": structured.get("batch_numbers", []),
                 "reason": structured.get("reason", ""),
-                **{k: v for k, v in structured.items() if k not in (
-                    "title", "product_names", "active_ingredients",
-                    "manufacturers", "batch_numbers", "reason",
-                    "date_published", "severity", "regions_affected",
-                )},
+                **{
+                    k: v
+                    for k, v in structured.items()
+                    if k
+                    not in (
+                        "title",
+                        "product_names",
+                        "active_ingredients",
+                        "manufacturers",
+                        "batch_numbers",
+                        "reason",
+                        "date_published",
+                        "severity",
+                        "regions_affected",
+                    )
+                },
             },
             extracted_at=raw.fetched_at,
         )

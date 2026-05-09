@@ -173,3 +173,6 @@ class TestOpenFdaDiscover:
         assert len(refs) == 1
         assert refs[0].document_id == "D-001-2024-00001"
         assert refs[0].source_id == "openfda_drug"
+        # pydantic encodes " as %22 in URL query strings
+        assert "recall_number" in str(refs[0].url)
+        assert "D-001-2024-00001" in str(refs[0].url)

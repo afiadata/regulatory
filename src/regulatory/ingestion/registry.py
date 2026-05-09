@@ -66,8 +66,7 @@ def get_source(source_id: str) -> type[RegulatorySource]:
     """
     if source_id not in _REGISTRY:
         raise KeyError(
-            f"No source registered with id '{source_id}'. "
-            f"Available: {sorted(_REGISTRY.keys())}"
+            f"No source registered with id '{source_id}'. Available: {sorted(_REGISTRY.keys())}"
         )
     return _REGISTRY[source_id]
 

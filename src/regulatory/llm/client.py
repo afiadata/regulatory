@@ -72,7 +72,10 @@ class AnthropicClient:
             max_tokens=max_tokens,
             messages=[{"role": "user", "content": prompt}],
         )
-        return response.content[0].text if response.content else ""
+        for block in response.content:
+            if isinstance(block, anthropic.types.TextBlock):
+                return block.text
+        return ""
 
 
 _CLIENT: AnthropicClient | None = None

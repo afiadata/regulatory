@@ -243,12 +243,60 @@ class TestParseSince:
         assert result.day == 15
 
     def test_datetime_passthrough(self) -> None:
-        """A datetime object is returned as-is (made UTC-aware)."""
+        """A naive datetime object is made UTC-aware."""
         dt = datetime(2024, 3, 1, 0, 0, 0)
         result = _parse_since(dt)
         assert result is not None
         assert result.tzinfo is not None
         assert result.year == 2024
+
+    def test_aware_datetime_returned_unchanged(self) -> None:
+        """A tz-aware datetime is returned as-is."""
+        dt = datetime(2024, 3, 1, 0, 0, 0, tzinfo=timezone.utc)
+        result = _parse_since(dt)
+        assert result is dt
+
+
+# ---------------------------------------------------------------------------
+# Scheduler run() tests
+# ---------------------------------------------------------------------------
+
+
+class TestSchedulerRun:
+    """Tests for the scheduler run() entry point."""
+
+    def test_run_calls_source(self) -> None:
+        """run() invokes _run_source for a single source ID."""
+        from unittest.mock import patch
+
+        from regulatory.ingestion.scheduler import run
+
+        async def _noop(source_id: str, since: object) -> None:
+            pass
+
+        with patch("regulatory.ingestion.scheduler._run_source", side_effect=_noop) as mock_fn:
+            run(source_id="openfda_drug", since="7d")
+
+        mock_fn.assert_called_once()
+        call_args = mock_fn.call_args
+        assert call_args[0][0] == "openfda_drug"
+
+    def test_run_all_sources(self) -> None:
+        """run() without source_id targets all registered sources."""
+        from unittest.mock import patch
+
+        from regulatory.ingestion.scheduler import run
+
+        calls: list[str] = []
+
+        async def _noop(source_id: str, since: object) -> None:
+            calls.append(source_id)
+
+        with patch("regulatory.ingestion.scheduler._run_source", side_effect=_noop):
+            run(source_id=None, since=None)
+
+        assert "openfda_drug" in calls
+        assert "ppb_ke_alerts" in calls
 
 
 # ---------------------------------------------------------------------------

@@ -69,7 +69,7 @@ async def _run_source(
         return
 
     source_cls = sources[source_id]
-    source = source_cls()  # type: ignore[call-arg]
+    source = source_cls()
     logger = log.bind(source_id=source_id)
     logger.info("ingest_start", since=since)
 
@@ -136,9 +136,7 @@ def run(
             Accepts ``datetime``, ISO string, or relative shorthand like ``"30d"``.
     """
     since_dt = _parse_since(since)
-    targets: list[str] = (
-        [source_id] if source_id is not None else list(all_sources().keys())
-    )
+    targets: list[str] = [source_id] if source_id is not None else list(all_sources().keys())
 
     log.info("scheduler_start", targets=targets, since=since_dt)
 
