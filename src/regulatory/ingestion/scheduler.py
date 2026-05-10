@@ -109,17 +109,20 @@ async def _run_source(
                 doc_count += 1
 
             except Exception as exc:
-                fetch_log = FetchLog(
-                    source_id=source_id,
-                    url=str(ref.url),
-                    status="error",
-                    started_at=fetch_start,
-                    finished_at=datetime.now(tz=timezone.utc),
-                    error=str(exc),
-                )
-                session.add(fetch_log)
-                await session.commit()
                 logger.error("fetch_failed", url=str(ref.url), error=str(exc))
+                try:
+                    fetch_log = FetchLog(
+                        source_id=source_id,
+                        url=str(ref.url),
+                        status="error",
+                        started_at=fetch_start,
+                        finished_at=datetime.now(tz=timezone.utc),
+                        error=str(exc),
+                    )
+                    session.add(fetch_log)
+                    await session.commit()
+                except Exception as db_exc:
+                    logger.warning("fetch_log_write_failed", error=str(db_exc))
 
         logger.info("ingest_complete", docs_added=doc_count, docs_skipped=skip_count)
 
