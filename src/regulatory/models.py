@@ -49,6 +49,7 @@ class DocumentRef(BaseModel):
     date_published: date | None = None
     etag: str | None = None
     last_modified: str | None = None
+    extra: dict[str, Any] | None = None  # adapter-specific pass-through data
 
 
 class RawDocument(BaseModel):
