@@ -1,0 +1,17 @@
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.5.5
+    hooks:
+      - id: ruff
+        args: [--fix]
+      - id: ruff-format
+
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.11.1
+    hooks:
+      - id: mypy
+        args: [--strict, --ignore-missing-imports]
+        additional_dependencies:
+          - pydantic>=2.7.4
+          - types-pyyaml>=6.0.12
+          - types-beautifulsoup4>=4.12.0
