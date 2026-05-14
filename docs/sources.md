@@ -29,12 +29,17 @@ findings in `docs/sources/<source_id>.md`.
 | Source ID | Authority | Base URL | Status |
 |---|---|---|---|
 | `mhra_alerts` | MHRA (UK) | `https://www.gov.uk/drug-safety-update` | Backlog |
+| `sahpra_recalls` | SAHPRA (ZA) | `https://www.sahpra.org.za/document-category/product-recall/` | ✅ Implemented |
 | `sahpra_alerts` | SAHPRA (ZA) | `https://www.sahpra.org.za/safety-updates-and-recalls/` | Backlog |
 | `pactr` | PACTR (Africa) | `https://pactr.samrc.ac.za/` | Backlog |
 
 ### Notes
-- **SAHPRA**: Stable listing page with pagination. Mix of HTML entries and PDF
-  attachments. Requires South Africa-specific product naming conventions.
+- **SAHPRA recalls** (`sahpra_recalls`, ZA): Implemented. Listing-page pagination,
+  detail-page table parsing, severity mapping (Class I/II/III). Cross-border distribution
+  in narrative text is not yet extracted — planned future enrichment. See
+  `docs/sources/sahpra_recalls.md`.
+- **SAHPRA alerts** (`sahpra_alerts`): Separate adapter, backlog. Mix of HTML entries
+  and PDF attachments.
 - **PACTR**: Pan African Clinical Trials Registry — useful backup for clinical trial
   data when ClinicalTrials.gov coverage is sparse for African sites.
 
