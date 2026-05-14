@@ -568,9 +568,8 @@ class TestSahpraParse:
         )
         import structlog.testing
 
-        with structlog.testing.capture_logs() as cap_logs:
-            with pytest.raises(ValueError, match="recall date"):
-                source.parse(raw)
+        with structlog.testing.capture_logs() as cap_logs, pytest.raises(ValueError, match="recall date"):
+            source.parse(raw)
 
         warning_events = [e for e in cap_logs if e.get("log_level") == "warning"]
         assert any("unparseable" in e.get("event", "").lower() for e in warning_events)

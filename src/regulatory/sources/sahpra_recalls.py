@@ -40,7 +40,17 @@ log = structlog.get_logger(__name__)
 _LISTING_BASE = "https://www.sahpra.org.za/document-category/product-recall/"
 _MAX_PAGES = 50
 
-_DATE_FORMATS = ["%d %B %Y", "%d.%B.%Y"]
+_DATE_FORMATS = [
+    "%d %B %Y",   # 04 May 2026
+    "%d.%B.%Y",   # 20.April.2026 / 18.December.2025 (after dot normalisation)
+    "%d.%B %Y",   # 26.November 2024
+    "%d %b %Y",   # 10 Mar 2026
+    "%d.%b.%Y",   # 17.Mar.2026 / 29.Sep.2022 (after Sept→Sep + dot normalisation)
+    "%d.%b %Y",   # 29.Sep 2022 (space between abbrev month and year)
+]
+
+# Non-standard month abbreviation seen on older SAHPRA pages.
+_MONTH_NORM = re.compile(r"\bSept\b", re.IGNORECASE)
 
 # Known section-header substrings used to stop narrative extraction.
 _SECTION_HEADERS = (
@@ -73,7 +83,9 @@ def _parse_date_flexible(value: str) -> date | None:
     Returns:
         Parsed ``date``, or ``None`` if all formats fail.
     """
-    cleaned = value.strip()
+    cleaned = _MONTH_NORM.sub("Sep", value.strip())
+    cleaned = re.sub(r"\s*\.\s*", ".", cleaned)   # strip spaces around dots
+    cleaned = " ".join(cleaned.split())            # collapse remaining whitespace
     for fmt in _DATE_FORMATS:
         try:
             return datetime.strptime(cleaned, fmt).date()
@@ -159,7 +171,11 @@ def _parse_recall_table(table: Tag) -> dict[str, str]:
     headers: list[str] = []
     for cell in header_cells:
         strong = cell.find("strong")
-        headers.append((strong or cell).get_text(strip=True))
+        if strong is not None:
+            text = strong.get_text(strip=True)
+            headers.append(text if text else cell.get_text(strip=True))
+        else:
+            headers.append(cell.get_text(strip=True))
 
     data_cells = rows[1].find_all("td")
     return {
@@ -180,8 +196,10 @@ def _get_field(fields: dict[str, str], *keys: str) -> str:
         First matching value, or empty string.
     """
     for key in keys:
+        key_norm = re.sub(r"[\s\-]", "", key.lower())
         for header, val in fields.items():
-            if key.lower() in header.lower():
+            header_norm = re.sub(r"[\s\-]", "", header.lower())
+            if key_norm in header_norm:
                 return val
     return ""
 

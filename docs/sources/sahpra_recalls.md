@@ -103,6 +103,20 @@ the recalled product was distributed (e.g., Eswatini, Rwanda, Kenya, Tanzania, N
 This data is **not extracted in this PR** — `regions_affected` is always `["ZA"]`.
 Cross-border extraction is a planned future enrichment (separate PR).
 
+### Content-hash dedup not effective
+
+SAHPRA's WordPress pages include dynamic content (nonces, timestamps) that changes on
+every request. The scheduler's dedup mechanism compares `raw.source_hash` (SHA-256 of
+full page HTML) against the `documents` table — this check never matches because the
+hash is unstable. Each run re-fetches all detail pages and re-inserts all records.
+
+Mitigation options (not implemented in this PR):
+- URL-based unique index on `documents` (scheduler framework change)
+- Content-stable hash (`sha256(table_text + recall_reason)`) in `parse()` paired with a
+  pre-fetch URL lookup in the scheduler
+- Conditional-GET via ETag/Last-Modified (SAHPRA's WordPress does not appear to emit
+  these headers)
+
 ### SharePoint PDF
 
 Most recalls include a download link to a SharePoint-hosted PDF
