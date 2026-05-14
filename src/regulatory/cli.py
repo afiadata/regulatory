@@ -24,6 +24,7 @@ load_dotenv()
 # These must follow load_dotenv() so env vars are set before module-level reads.
 import regulatory.sources.openfda_drug  # noqa: E402, F401
 import regulatory.sources.ppb_ke_alerts  # noqa: E402, F401
+import regulatory.sources.sahpra_recalls  # noqa: E402, F401
 from regulatory.ingestion.registry import all_sources  # noqa: E402
 from regulatory.ingestion.scheduler import run  # noqa: E402
 
