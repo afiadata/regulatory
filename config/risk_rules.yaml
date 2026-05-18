@@ -1,0 +1,29 @@
+version: "1.0"
+
+repeat_violator:
+  window_months: 24
+  severity_weights:
+    class_1: 3
+    class_2: 2
+    class_3: 1
+    unclassified: 1
+  thresholds:
+    medium:
+      min_recalls: 3
+      min_weighted_score: 4
+    high:
+      min_recalls: 4
+      min_weighted_score: 8
+    critical:
+      min_recalls: 6
+      min_weighted_score: 12
+
+supply_chain_exposure:
+  min_county_share_pct: 25.0
+  min_alternative_suppliers_for_low: 3
+  time_to_expiry_floor_days: 60
+
+cross_source_corroboration:
+  enable: true
+  jurisdiction_count_for_boost: 2
+  boost_levels: 1
