@@ -1,0 +1,65 @@
+# Hand-curated manufacturer alias overrides.
+#
+# Format:
+#   canonical_name:
+#     - alias_1
+#     - alias_2
+#
+# These mappings always win over algorithmic matching (confidence 1.0).
+# Populated from the top-20 manufacturers in the PPB + SAHPRA corpus.
+# Add entries here when the reconciler's review file surfaces a known-bad split.
+
+Cipla Limited:
+  - Cipla Ltd
+  - CIPLA LIMITED
+  - Cipla Ltd.
+  - Cipla Medpro
+
+Sun Pharmaceutical Industries:
+  - Sun Pharma
+  - Sun Pharmaceuticals
+  - Sun Pharmaceutical Industries Ltd
+  - Sun Pharma Industries
+
+Aspen Pharmacare:
+  - Aspen Pharmacare Holdings
+  - Aspen Pharmacare (Pty) Ltd
+  - Aspen Pharmacare South Africa
+
+Pfizer:
+  - Pfizer Inc
+  - Pfizer Limited
+  - Pfizer Ltd
+  - Pfizer (Pty) Ltd
+
+GlaxoSmithKline:
+  - GSK
+  - GlaxoSmithKline plc
+  - GlaxoSmithKline Ltd
+  - GSK Kenya
+
+Novartis:
+  - Novartis AG
+  - Novartis International AG
+  - Novartis Pharma AG
+
+Roche:
+  - F. Hoffmann-La Roche
+  - Hoffmann-La Roche
+  - Roche Products
+  - Roche Ltd
+
+Johnson & Johnson:
+  - Janssen Pharmaceutica
+  - Janssen-Cilag
+  - J&J
+
+Sanofi:
+  - Sanofi-Aventis
+  - Sanofi S.A.
+  - Aventis Pharma
+
+AstraZeneca:
+  - AstraZeneca plc
+  - AstraZeneca UK Limited
+  - AstraZeneca Kenya
