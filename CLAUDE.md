@@ -139,9 +139,52 @@ Before writing any Tier 3 adapter: 30-min manual inspection → document in `doc
 
 ---
 
+## Risk Engine
+
+The risk engine (`src/regulatory/risk/`) turns normalized documents into risk signals.
+
+### Three rules
+
+| Module | Kind | Trigger |
+|---|---|---|
+| `repeat_violator.py` | `repeat_violator` | ≥ 3 recalls in 24 months |
+| `supply_chain.py` | `supply_chain_exposure` | ≥ 25% county share for a recalled manufacturer |
+| `corroboration.py` | `cross_source_corroboration` | Same ingredient recalled in ≥ 2 jurisdictions |
+
+### CLI commands
+
+```
+regulatory manufacturers reconcile [--dry-run | --apply]
+regulatory manufacturers review
+regulatory manufacturers show <name>
+
+regulatory procurement load [--csv-dir data/synthetic]
+
+regulatory risk run [--as-of YYYY-MM-DD] [--dry-run]
+regulatory risk list
+regulatory risk show <signal-id>
+regulatory risk explain <signal-id>
+regulatory risk resolve <signal-id> --reason "..."
+regulatory risk suppress <signal-id> --reason "..."
+```
+
+### Docs
+
+- `docs/risk_engine.md` — rules, config schema, adding a new rule, merge semantics
+- `docs/manufacturer_canonicalization.md` — 3-stage algorithm, overrides, review file
+- `docs/synthetic_procurement.md` — schema, generator, real-data swap-in plan
+
+### Key invariants
+
+- Re-running `risk run` with the same `--as-of` date is idempotent (no extra DB writes).
+- All queries use parameterized SQLAlchemy ORM — ruff S608 is enabled, zero violations.
+- `risk_signal_events` is append-only; no DELETE or UPDATE.
+- Operational role `regulatory_readonly` grants SELECT-only access. See `scripts/ops/`.
+
+---
+
 ## Out of Scope (do NOT build until explicitly tasked)
 
-- Risk engine (repeat-violator, supply-chain join)
 - Agent / LLM orchestration beyond PDF fallback
 - Streamlit dashboard
 - FastAPI service
