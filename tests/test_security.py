@@ -67,7 +67,9 @@ def test_readonly_role_cannot_write() -> None:
             " END $$;"
         )
         # Grant CONNECT + USAGE so we can actually connect.
-        cur.execute("GRANT CONNECT ON DATABASE current_database() TO regulatory_readonly;")
+        cur.execute("SELECT current_database()")
+        db_name: str = cur.fetchone()[0]  # type: ignore[index]
+        cur.execute(f"GRANT CONNECT ON DATABASE {db_name} TO regulatory_readonly;")  # noqa: S608
         cur.execute("GRANT USAGE ON SCHEMA public TO regulatory_readonly;")
         # Explicitly REVOKE write privileges to be safe.
         for table in _REGULATED_TABLES:
@@ -84,9 +86,11 @@ def test_readonly_role_cannot_write() -> None:
     allowed: list[str] = []
 
     with conn.cursor() as cur:
-        cur.execute("SET ROLE regulatory_readonly;")
         for table in _REGULATED_TABLES:
             for op in _WRITE_OPERATIONS:
+                # Re-issue SET ROLE each iteration: SET ROLE is transaction-local
+                # and is rolled back after each conn.rollback() call below.
+                cur.execute("SET ROLE regulatory_readonly;")
                 try:
                     if op == "INSERT":
                         cur.execute(f"INSERT INTO {table} DEFAULT VALUES;")  # noqa: S608

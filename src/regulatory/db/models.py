@@ -72,6 +72,9 @@ class Document(Base):
     title: Mapped[str] = mapped_column(Text, nullable=False)
     product_names: Mapped[list[str]] = mapped_column(ARRAY(Text), nullable=False, default=list)
     active_ingredients: Mapped[list[str]] = mapped_column(ARRAY(Text), nullable=False, default=list)
+    active_ingredients_normalized: Mapped[list[str]] = mapped_column(
+        ARRAY(Text), nullable=False, default=list
+    )
     active_ingredients_raw: Mapped[list[str]] = mapped_column(
         ARRAY(Text), nullable=False, default=list
     )
@@ -115,6 +118,8 @@ class Document(Base):
         Returns:
             A new (unsaved) ``Document`` instance.
         """
+        from regulatory.risk.ingredient_normalize import normalize_ingredient
+
         return cls(
             source_id=doc.source_id,
             source_url=str(doc.source_url),
@@ -125,6 +130,9 @@ class Document(Base):
             title=doc.title,
             product_names=doc.product_names,
             active_ingredients=doc.active_ingredients,
+            active_ingredients_normalized=[
+                normalize_ingredient(ing) for ing in doc.active_ingredients
+            ],
             active_ingredients_raw=doc.active_ingredients_raw,
             manufacturers=doc.manufacturers,
             marketing_authorization_holders=doc.marketing_authorization_holders,

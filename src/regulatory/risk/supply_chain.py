@@ -20,6 +20,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from regulatory.db.models import County, CountySupply, Manufacturer, RiskSignal, Supplier
 from regulatory.risk.config import RiskSignalCandidate, SupplyChainConfig
+from regulatory.risk.ingredient_normalize import normalize_ingredient
 
 log = structlog.get_logger(__name__)
 
@@ -84,10 +85,12 @@ async def detect_supply_chain_exposure(  # pragma: no cover
             continue
 
         # Find all county_supply rows for this ingredient and these suppliers.
+        # Normalize the signal ingredient so "ATORVASTATIN CALCIUM" matches "atorvastatin".
+        normalized_ingredient = normalize_ingredient(ingredient)
         supply_result = await session.execute(
             select(CountySupply).where(
                 CountySupply.supplier_id.in_(supplier_ids),
-                CountySupply.active_ingredient == ingredient,
+                CountySupply.active_ingredient == normalized_ingredient,
             )
         )
         supply_rows = supply_result.scalars().all()
@@ -138,7 +141,7 @@ async def detect_supply_chain_exposure(  # pragma: no cover
             select(CountySupply.supplier_id)
             .where(
                 CountySupply.county_id.in_(exposed_county_ids),
-                CountySupply.active_ingredient == ingredient,
+                CountySupply.active_ingredient == normalized_ingredient,
                 CountySupply.supplier_id.not_in(supplier_ids),
             )
             .distinct()

@@ -1,6 +1,6 @@
 """Generate synthetic procurement data for the risk-engine demo.
 
-Produces CSV files in data/synthetic/procurement_v1/:
+Produces CSV files in data/synthetic/procurement_v2/:
   - counties.csv
   - suppliers.csv
   - county_supply.csv
@@ -13,30 +13,42 @@ KMHFL health facility counts from:
   Kenya Master Health Facility List, accessed 2024
   https://kmhfl.health.go.ke/
 
-All county_supply rows carry data_source = "synthetic_v1". Any downstream output
+Supplier design (v2):
+  ~20 suppliers are deliberately linked to real manufacturers from the recall
+  corpus by using their exact canonical_name as the supplier name. The loader
+  resolves the manufacturer_id FK by exact name match. For each linked supplier,
+  county_supply rows use the normalized INN of that manufacturer's top recall
+  ingredient, so the supply_chain_exposure rule can fire for demo purposes.
+  The remaining ~10 suppliers are distributors/agents with no manufacturer link;
+  they hold county_supply rows for EML ingredients.
+
+  This deliberate overlap is what makes the supply_chain_exposure signal possible
+  in the demo scenario. It is synthetic: real procurement data must be loaded via
+  the real-data swap-in path described in docs/synthetic_procurement.md.
+
+All county_supply rows carry data_source = "synthetic_v2". Any downstream output
 that includes supply-chain evidence MUST surface this provenance flag.
 
 Usage:
     uv run python scripts/generate_synthetic_procurement.py
-    uv run python scripts/generate_synthetic_procurement.py --seed 42 --out-dir data/synthetic/v2
+    uv run python scripts/generate_synthetic_procurement.py --seed 42 --out-dir data/synthetic/procurement_v2
 
 Then load into Postgres:
-    regulatory procurement load --version synthetic_v1
+    regulatory procurement load --version synthetic_v2 --data-dir data/synthetic/procurement_v2
 """
 
 from __future__ import annotations
 
 import argparse
 import csv
+import os
 import random
+import sys
 import uuid
 from pathlib import Path
 
-from regulatory.risk.eml_ingredients import EML_INGREDIENTS
-
 # ---------------------------------------------------------------------------
 # County reference data (all 47 Kenyan counties, 2019 census)
-# Source: KNBS 2019 Population and Housing Census
 # ---------------------------------------------------------------------------
 COUNTIES: list[dict[str, object]] = [
     {"name": "Mombasa", "region": "Coast", "population": 1208333, "health_facilities": 187},
@@ -90,32 +102,8 @@ COUNTIES: list[dict[str, object]] = [
 
 assert len(COUNTIES) == 47, f"Expected 47 counties, got {len(COUNTIES)}"
 
-# ---------------------------------------------------------------------------
-# Supplier definitions (~30 suppliers; ~20 linked to recall-corpus manufacturers)
-# ---------------------------------------------------------------------------
-SUPPLIERS: list[dict[str, object]] = [
-    # Manufacturers that appear in the recall corpus — linkable to Manufacturer rows.
-    {"name": "Cipla Limited", "role": "manufacturer", "countries_served": ["KE", "ZA", "NG", "ET"]},
-    {"name": "Sun Pharmaceutical Industries", "role": "manufacturer", "countries_served": ["KE", "UG", "TZ"]},
-    {"name": "Aspen Pharmacare", "role": "manufacturer", "countries_served": ["KE", "ZA", "GH"]},
-    {"name": "GlaxoSmithKline", "role": "manufacturer", "countries_served": ["KE", "NG", "ZA"]},
-    {"name": "Novartis", "role": "manufacturer", "countries_served": ["KE", "TZ", "ET"]},
-    {"name": "Pfizer", "role": "manufacturer", "countries_served": ["KE", "ZA", "NG"]},
-    {"name": "Roche", "role": "manufacturer", "countries_served": ["KE", "ZA"]},
-    {"name": "Sanofi", "role": "manufacturer", "countries_served": ["KE", "NG", "GH"]},
-    {"name": "AstraZeneca", "role": "manufacturer", "countries_served": ["KE", "ZA", "NG"]},
-    {"name": "Johnson & Johnson", "role": "manufacturer", "countries_served": ["KE", "ZA"]},
-    {"name": "Aurobindo Pharma", "role": "manufacturer", "countries_served": ["KE", "UG", "TZ"]},
-    {"name": "Lupin Limited", "role": "manufacturer", "countries_served": ["KE", "TZ"]},
-    {"name": "Dr. Reddy's Laboratories", "role": "manufacturer", "countries_served": ["KE", "NG"]},
-    {"name": "Macleods Pharmaceuticals", "role": "manufacturer", "countries_served": ["KE", "ET", "UG"]},
-    {"name": "Strides Pharma", "role": "manufacturer", "countries_served": ["KE", "TZ", "GH"]},
-    {"name": "Mylan (Viatris)", "role": "manufacturer", "countries_served": ["KE", "ZA", "NG"]},
-    {"name": "Sandoz", "role": "manufacturer", "countries_served": ["KE", "ZA"]},
-    {"name": "Teva Pharmaceuticals", "role": "manufacturer", "countries_served": ["KE", "ZA"]},
-    {"name": "Hikma Pharmaceuticals", "role": "manufacturer", "countries_served": ["KE", "NG", "EG"]},
-    {"name": "Gedeon Richter", "role": "manufacturer", "countries_served": ["KE", "TZ"]},
-    # Distributors / agents not directly linked to a manufacturer row.
+# Distributors/agents — never linked to a manufacturer row.
+_DISTRIBUTORS: list[dict[str, object]] = [
     {"name": "KEMSA", "role": "distributor", "countries_served": ["KE"]},
     {"name": "Medisel Kenya", "role": "distributor", "countries_served": ["KE"]},
     {"name": "Beta Healthcare", "role": "distributor", "countries_served": ["KE", "UG"]},
@@ -128,97 +116,240 @@ SUPPLIERS: list[dict[str, object]] = [
     {"name": "HealthPlus Kenya", "role": "agent", "countries_served": ["KE"]},
 ]
 
-assert len(SUPPLIERS) == 30, f"Expected 30 suppliers, got {len(SUPPLIERS)}"
+# EML ingredients for distributor/agent county_supply rows.
+_EML_INGREDIENTS: tuple[str, ...] = (
+    "amoxicillin",
+    "ceftriaxone",
+    "metronidazole",
+    "artemether-lumefantrine",
+    "oxytocin",
+    "insulin (regular human)",
+    "paracetamol",
+    "ibuprofen",
+    "omeprazole",
+    "salbutamol",
+    "atorvastatin",
+    "hydrochlorothiazide",
+    "metformin",
+    "prednisolone",
+    "tenofovir-lamivudine-dolutegravir",
+)
 
-# Indices into SUPPLIERS that are "manufacturer" type (indices 0-19).
-_MANUFACTURER_SUPPLIER_INDICES = list(range(20))
+
+def _query_top_manufacturers(
+    db_url: str,
+    limit: int = 25,
+) -> list[dict[str, str]]:
+    """Query the DB for manufacturers ranked by recall count in the last 24 months.
+
+    Each returned dict has keys ``id``, ``canonical_name``, ``top_ingredient``
+    (normalized INN of the most frequently recalled active ingredient, or ``""``
+    if unavailable).
+
+    Args:
+        db_url: PostgreSQL connection string.
+        limit: Maximum number of manufacturers to return.
+
+    Returns:
+        List of manufacturer dicts, ranked by recall count descending.
+    """
+    import psycopg2
+
+    conn = psycopg2.connect(db_url)
+    try:
+        with conn.cursor() as cur:
+            cur.execute(
+                """
+                SELECT m.id::text, m.canonical_name, COUNT(*) AS recall_count
+                FROM manufacturers m
+                JOIN documents d ON m.id = ANY(d.canonical_manufacturer_ids)
+                WHERE d.document_type IN ('recall', 'alert', 'enforcement')
+                  AND d.date_published >= CURRENT_DATE - INTERVAL '24 months'
+                  AND m.canonical_name IS NOT NULL
+                  AND m.canonical_name != ''
+                GROUP BY m.id, m.canonical_name
+                ORDER BY recall_count DESC
+                LIMIT %s
+                """,
+                (limit,),
+            )
+            top_mfrs = [
+                {"id": row[0], "canonical_name": row[1], "recall_count": row[2]}
+                for row in cur.fetchall()
+            ]
+
+        # For each manufacturer, find top recall ingredient (normalized).
+        sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
+        from regulatory.risk.ingredient_normalize import normalize_ingredient
+
+        for mfr in top_mfrs:
+            with conn.cursor() as cur:
+                cur.execute(
+                    """
+                    SELECT unnest(active_ingredients) AS ing, COUNT(*) AS cnt
+                    FROM documents
+                    WHERE %s = ANY(canonical_manufacturer_ids::text[])
+                      AND document_type IN ('recall', 'alert', 'enforcement')
+                      AND active_ingredients != '{}'
+                    GROUP BY ing
+                    ORDER BY cnt DESC
+                    LIMIT 1
+                    """,
+                    (mfr["id"],),
+                )
+                row = cur.fetchone()
+                if row and row[0]:
+                    mfr["top_ingredient"] = normalize_ingredient(str(row[0]))
+                else:
+                    mfr["top_ingredient"] = ""
+    finally:
+        conn.close()
+
+    # Only keep manufacturers that have at least one recall ingredient — these
+    # are the ones that can actually drive a supply_chain_exposure signal.
+    with_ingredient = [m for m in top_mfrs if m["top_ingredient"]]
+    return with_ingredient
 
 
-def _generate_county_supply(
+def _generate_county_supply_for_linked(
+    rng: random.Random,
+    county_ids: list[str],
+    supplier_id: str,
+    ingredient: str,
+    n_counties: int = 20,
+) -> list[dict[str, object]]:
+    """Generate county_supply rows for a manufacturer-linked supplier.
+
+    The supplier covers *n_counties* randomly sampled counties at ≥30% share
+    so that supply_chain_exposure signals reliably fire at the 25% threshold.
+
+    Args:
+        rng: Seeded random for determinism.
+        county_ids: All 47 county IDs.
+        supplier_id: The linked supplier's UUID string.
+        ingredient: Normalized ingredient name.
+        n_counties: Number of counties this supplier covers.
+
+    Returns:
+        List of county_supply row dicts.
+    """
+    chosen_counties = rng.sample(county_ids, k=min(n_counties, len(county_ids)))
+    rows = []
+    lead_time = rng.choice([14, 21, 30, 45, 60])
+    for county_id in chosen_counties:
+        share = round(rng.uniform(30.0, 70.0), 2)
+        rows.append(
+            {
+                "id": str(uuid.uuid4()),
+                "county_id": county_id,
+                "supplier_id": supplier_id,
+                "active_ingredient": ingredient,
+                "share_pct": share,
+                "lead_time_days": lead_time,
+                "contract_start": "2024-01-01",
+                "contract_end": "2026-12-31",
+                "data_source": "synthetic_v2",
+            }
+        )
+    return rows
+
+
+def _generate_county_supply_for_distributors(
     rng: random.Random,
     county_ids: list[str],
     supplier_ids: list[str],
     ingredients: tuple[str, ...],
 ) -> list[dict[str, object]]:
-    """Generate county_supply rows with realistic concentration.
-
-    ~60% of county-ingredient pairs have a single dominant supplier ≥50%.
-    Each pair sums to approximately 100% (±5%).
+    """Generate county_supply rows for distributor/agent suppliers (EML ingredients).
 
     Args:
-        rng: Seeded random instance for determinism.
-        county_ids: Ordered list of county UUIDs (strings).
-        supplier_ids: Ordered list of supplier UUIDs (strings).
-        ingredients: Tuple of active ingredient names.
+        rng: Seeded random for determinism.
+        county_ids: All 47 county IDs.
+        supplier_ids: IDs of the distributor/agent suppliers only.
+        ingredients: EML ingredient names.
 
     Returns:
         List of county_supply row dicts.
     """
     rows = []
-
     for county_id in county_ids:
         for ingredient in ingredients:
-            # Pick 1–4 suppliers for this county-ingredient pair.
             n_suppliers = rng.choices([1, 2, 3, 4], weights=[15, 45, 30, 10])[0]
-
-            # Dominant-supplier pattern: ~60% of pairs have a dominant ≥50%.
             dominant = rng.random() < 0.60
-
-            chosen_indices = rng.sample(range(len(supplier_ids)), k=min(n_suppliers, len(supplier_ids)))
-            chosen = [supplier_ids[i] for i in chosen_indices]
+            chosen = rng.sample(supplier_ids, k=min(n_suppliers, len(supplier_ids)))
 
             if dominant and len(chosen) >= 1:
                 dominant_share = rng.uniform(50.0, 75.0)
                 remaining = 100.0 - dominant_share
                 others = []
                 if len(chosen) > 1:
-                    raw = [rng.random() for _ in range(len(chosen) - 1)]
-                    total = sum(raw)
-                    others = [r / total * remaining for r in raw]
+                    raw_w = [rng.random() for _ in range(len(chosen) - 1)]
+                    total = sum(raw_w)
+                    others = [r / total * remaining for r in raw_w]
                 shares = [dominant_share] + others
             else:
-                raw = [rng.random() for _ in chosen]
-                total = sum(raw)
-                shares = [r / total * 100.0 for r in raw]
+                raw_w = [rng.random() for _ in chosen]
+                total = sum(raw_w)
+                shares = [r / total * 100.0 for r in raw_w]
 
-            # Round and adjust so sum ≈ 100 ± 5.
-            rounded = [round(s, 2) for s in shares]
-
-            lead_time_days = rng.choice([14, 21, 30, 45, 60, 90])
-            for supplier_id, share in zip(chosen, rounded):
+            lead_time = rng.choice([14, 21, 30, 45, 60, 90])
+            for supplier_id, share in zip(chosen, shares):
                 rows.append(
                     {
                         "id": str(uuid.uuid4()),
                         "county_id": county_id,
                         "supplier_id": supplier_id,
                         "active_ingredient": ingredient,
-                        "share_pct": share,
-                        "lead_time_days": lead_time_days,
+                        "share_pct": round(share, 2),
+                        "lead_time_days": lead_time,
                         "contract_start": "2024-01-01",
                         "contract_end": "2026-12-31",
-                        "data_source": "synthetic_v1",
+                        "data_source": "synthetic_v2",
                     }
                 )
-
     return rows
 
 
-def generate(seed: int = 42) -> tuple[
+def generate(
+    seed: int = 42,
+    db_url: str | None = None,
+) -> tuple[
     list[dict[str, object]],
     list[dict[str, object]],
     list[dict[str, object]],
 ]:
-    """Generate all synthetic procurement data.
+    """Generate all synthetic procurement data (v2).
+
+    Queries the DB for the top 25 recalled manufacturers and creates ~20
+    supplier rows that deliberately link to those manufacturers by canonical
+    name. Each linked supplier's county_supply rows use that manufacturer's
+    top recall ingredient (normalized INN) so the supply_chain_exposure rule
+    can fire.
 
     Args:
         seed: Random seed for determinism.
+        db_url: PostgreSQL connection string.  Falls back to
+            ``DATABASE_URL`` env var, then a local dev default.
 
     Returns:
         Tuple of ``(counties, suppliers, county_supply)`` record lists.
     """
     rng = random.Random(seed)
 
-    county_records = [
+    resolved_db_url = (
+        db_url
+        or os.environ.get("DATABASE_URL")
+        or "postgresql://regulatory:regulatory@127.0.0.1:5433/regulatory"
+    )
+
+    print(f"Querying top manufacturers from {resolved_db_url.split('@')[-1]} …")
+    top_mfrs = _query_top_manufacturers(resolved_db_url, limit=25)
+    linked_count = min(20, len(top_mfrs))
+    linked_mfrs = top_mfrs[:linked_count]
+    print(f"  {len(linked_mfrs)} manufacturer-linked suppliers will be created.")
+
+    # ---- Counties ----
+    county_records: list[dict[str, object]] = [
         {
             "id": str(uuid.UUID(int=i + 1)),
             "name": c["name"],
@@ -228,24 +359,70 @@ def generate(seed: int = 42) -> tuple[
         }
         for i, c in enumerate(COUNTIES)
     ]
+    county_ids = [str(r["id"]) for r in county_records]
 
-    supplier_records = [
+    # ---- Suppliers ----
+    # Linked suppliers: name = manufacturer's canonical_name so the loader
+    # can resolve manufacturer_id by exact match.
+    linked_supplier_records: list[dict[str, object]] = []
+    for i, mfr in enumerate(linked_mfrs):
+        linked_supplier_records.append(
+            {
+                "id": str(uuid.UUID(int=2001 + i)),
+                "name": mfr["canonical_name"],
+                "role": "manufacturer",
+                "countries_served": "KE,ZA,NG",
+                "manufacturer_id": "",  # resolved by name at load time
+                "data_source": "synthetic_v2",
+            }
+        )
+
+    distributor_records: list[dict[str, object]] = [
         {
-            "id": str(uuid.UUID(int=i + 1001)),
-            "name": s["name"],
-            "role": s["role"],
-            "countries_served": ",".join(str(cs) for cs in s["countries_served"]),  # type: ignore[arg-type]
-            "manufacturer_id": "",  # loader resolves by name
-            "data_source": "synthetic_v1",
+            "id": str(uuid.UUID(int=3001 + i)),
+            "name": d["name"],
+            "role": d["role"],
+            "countries_served": ",".join(str(cs) for cs in d["countries_served"]),  # type: ignore[arg-type]
+            "manufacturer_id": "",
+            "data_source": "synthetic_v2",
         }
-        for i, s in enumerate(SUPPLIERS)
+        for i, d in enumerate(_DISTRIBUTORS)
     ]
 
-    county_ids = [str(r["id"]) for r in county_records]
-    supplier_ids = [str(r["id"]) for r in supplier_records]
+    supplier_records = linked_supplier_records + distributor_records
 
-    supply_records = _generate_county_supply(
-        rng, county_ids, supplier_ids, EML_INGREDIENTS
+    # ---- County supply ----
+    linked_supplier_ids = [str(r["id"]) for r in linked_supplier_records]
+    distributor_ids = [str(r["id"]) for r in distributor_records]
+
+    supply_records: list[dict[str, object]] = []
+
+    # Linked suppliers: rows for their recall ingredient.
+    for sup_rec, mfr in zip(linked_supplier_records, linked_mfrs):
+        ingredient = str(mfr["top_ingredient"])
+        if not ingredient:
+            continue
+        supply_records.extend(
+            _generate_county_supply_for_linked(
+                rng,
+                county_ids,
+                str(sup_rec["id"]),
+                ingredient,
+                n_counties=20,
+            )
+        )
+
+    # Distributor suppliers: rows for EML ingredients.
+    supply_records.extend(
+        _generate_county_supply_for_distributors(
+            rng, county_ids, distributor_ids, _EML_INGREDIENTS
+        )
+    )
+
+    print(
+        f"  Generated {len(supply_records)} county_supply rows "
+        f"({len(linked_supplier_ids)} linked suppliers × ~20 counties + "
+        f"{len(distributor_ids)} distributors × {len(_EML_INGREDIENTS)} EML ingredients × 47 counties)."
     )
 
     return county_records, supplier_records, supply_records
@@ -257,7 +434,7 @@ def write_csvs(
     suppliers: list[dict[str, object]],
     county_supply: list[dict[str, object]],
 ) -> None:
-    """Write the three CSV files to ``out_dir``.
+    """Write the three CSV files to *out_dir*.
 
     Args:
         out_dir: Destination directory (created if absent).
@@ -287,14 +464,21 @@ def write_csvs(
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate synthetic procurement CSVs.")
+    parser = argparse.ArgumentParser(
+        description="Generate synthetic procurement CSVs (v2 — DB-aware)."
+    )
     parser.add_argument("--seed", type=int, default=42, help="Random seed (default 42).")
     parser.add_argument(
         "--out-dir",
-        default="data/synthetic/procurement_v1",
-        help="Output directory (default data/synthetic/procurement_v1).",
+        default="data/synthetic/procurement_v2",
+        help="Output directory (default data/synthetic/procurement_v2).",
+    )
+    parser.add_argument(
+        "--db-url",
+        default=None,
+        help="PostgreSQL URL (defaults to DATABASE_URL env var).",
     )
     args = parser.parse_args()
 
-    counties, suppliers, supply = generate(seed=args.seed)
+    counties, suppliers, supply = generate(seed=args.seed, db_url=args.db_url)
     write_csvs(Path(args.out_dir), counties, suppliers, supply)

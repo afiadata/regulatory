@@ -182,6 +182,11 @@ def _find_recall_table(soup: BeautifulSoup) -> Tag | None:
     return None
 
 
+_INGREDIENT_STOPWORDS: frozenset[str] = frozenset(
+    {"and", "or", "with", "in", "of", "the", "a", "an", "to", "for"}
+)
+
+
 def _parse_inn_cell(text: str) -> tuple[list[str], list[str]]:
     """Parse an INN cell (possibly with dosage) into (normalized, raw) lists.
 
@@ -189,6 +194,9 @@ def _parse_inn_cell(text: str) -> tuple[list[str], list[str]]:
     multiple ingredients separated by newlines or semicolons.  Dosage
     suffixes are stripped before the INN lookup so that
     ``"Methyldopa 250mg"`` correctly normalizes via ``normalize("methyldopa")``.
+
+    Single-word stopwords (e.g. "and" on its own line between multi-product
+    recall entries) are silently dropped from both output lists.
 
     Args:
         text: Raw cell text.
@@ -201,6 +209,7 @@ def _parse_inn_cell(text: str) -> tuple[list[str], list[str]]:
         return [], []
 
     normalized: list[str] = []
+    raw_kept: list[str] = []
     for part in parts:
         bare = re.sub(
             r"\s+\d[\d.,]*\s*(?:mg|mcg|µg|ug|g|ml|iu|units?)\b.*$",
@@ -208,9 +217,12 @@ def _parse_inn_cell(text: str) -> tuple[list[str], list[str]]:
             part,
             flags=re.IGNORECASE,
         ).strip()
+        if bare.lower() in _INGREDIENT_STOPWORDS:
+            continue
         normalized.append(normalize(bare if bare else part))
+        raw_kept.append(part)
 
-    return normalized, parts
+    return normalized, raw_kept
 
 
 def _parse_table_row(

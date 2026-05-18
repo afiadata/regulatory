@@ -86,7 +86,7 @@ async def detect_repeat_violators(  # pragma: no cover
         select(
             Document.id,
             Document.canonical_manufacturer_ids,
-            Document.active_ingredients,
+            Document.active_ingredients_normalized,
             Document.severity,
             Document.date_published,
             Document.jurisdiction,
@@ -111,7 +111,7 @@ async def detect_repeat_violators(  # pragma: no cover
                     "document_id": str(doc.id),
                     "severity": doc.severity,
                     "date_published": doc.date_published.isoformat(),
-                    "active_ingredients": list(doc.active_ingredients or []),
+                    "active_ingredients": list(doc.active_ingredients_normalized or []),
                     "jurisdiction": doc.jurisdiction,
                 }
             )
