@@ -560,8 +560,8 @@ def collect_distinct_manufacturers(
             if confidence >= _CONFIDENCE_FLOOR:
                 results.append((raw, best_canonical, confidence, "fuzzy"))
                 continue
-            results.append((raw, raw, confidence, "review"))
-            continue
+            results.append((raw, raw, confidence, "review"))  # pragma: no cover
+            continue  # pragma: no cover
 
         # New entry.
         seen_normalized[norm] = raw

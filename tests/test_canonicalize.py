@@ -2,11 +2,15 @@
 
 from __future__ import annotations
 
+import uuid
 from pathlib import Path
 
 import pytest
+import yaml
 
 from regulatory.risk.canonicalize import (
+    ReconcileResult,
+    _load_overrides,
     collect_distinct_manufacturers,
     get_unmerged_candidates,
     normalize_name,
@@ -152,3 +156,84 @@ def test_low_confidence_writes_review_file(tmp_path: Path) -> None:
     assert len(candidates) == 1
     assert candidates[0]["raw_name"] == "Alpha Generics"
     assert candidates[0]["confidence"] == 0.50
+
+
+# ---------------------------------------------------------------------------
+# Test 9: _load_overrides returns empty dict for a missing file
+# ---------------------------------------------------------------------------
+
+
+def test_load_overrides_missing_file(tmp_path: Path) -> None:
+    result = _load_overrides(path=tmp_path / "nonexistent.yaml")
+    assert result == {}
+
+
+# ---------------------------------------------------------------------------
+# Test 10: _load_overrides reads a real YAML file correctly
+# ---------------------------------------------------------------------------
+
+
+def test_load_overrides_loads_yaml_file(tmp_path: Path) -> None:
+    p = tmp_path / "overrides.yaml"
+    p.write_text(
+        yaml.dump({"Cipla": ["Cipla Ltd", "CIPLA LIMITED"]}),
+        encoding="utf-8",
+    )
+    result = _load_overrides(path=p)
+    assert result == {"Cipla": ["Cipla Ltd", "CIPLA LIMITED"]}
+
+
+# ---------------------------------------------------------------------------
+# Test 11: override normalized fallback — case-mismatch hits lines 124-127
+# ---------------------------------------------------------------------------
+
+
+def test_override_normalized_fallback() -> None:
+    # "CIPLA" does not exactly match canonical "Cipla" or alias "Cipla Ltd",
+    # but normalize("CIPLA") == normalize("Cipla") == "cipla" → override hit.
+    names = ["CIPLA"]
+    results = collect_distinct_manufacturers(names, overrides={"Cipla": ["Cipla Ltd"]})
+    assert len(results) == 1
+    assert results[0][1] == "Cipla"
+    assert results[0][3] == "override"
+
+
+# ---------------------------------------------------------------------------
+# Test 12: fuzzy merge path — distinct normalized forms, high token_set_ratio
+# ---------------------------------------------------------------------------
+
+
+def test_fuzzy_path_different_normalized_forms() -> None:
+    # "Bayer AG" → "bayer"; "Bayer Consumer" → "bayer consumer"
+    # token_set_ratio("bayer", "bayer consumer") = 100 ≥ 92 → fuzzy merge.
+    names = ["Bayer AG", "Bayer Consumer"]
+    results = collect_distinct_manufacturers(names, overrides={})
+    assert len(results) == 2
+    canonicals = {r[1] for r in results}
+    assert len(canonicals) == 1
+    assert any(r[3] == "fuzzy" for r in results)
+
+
+# ---------------------------------------------------------------------------
+# Test 13: ReconcileResult constructor and repr
+# ---------------------------------------------------------------------------
+
+
+def test_reconcile_result_repr() -> None:
+    mfr_id = uuid.uuid4()
+    r = ReconcileResult(
+        raw_name="Cipla Ltd",
+        canonical_name="Cipla",
+        manufacturer_id=mfr_id,
+        confidence=1.0,
+        action="exact",
+    )
+    assert r.raw_name == "Cipla Ltd"
+    assert r.canonical_name == "Cipla"
+    assert r.manufacturer_id == mfr_id
+    assert r.confidence == 1.0
+    assert r.action == "exact"
+    text = repr(r)
+    assert "Cipla Ltd" in text
+    assert "Cipla" in text
+    assert "exact" in text

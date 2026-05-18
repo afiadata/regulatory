@@ -244,14 +244,14 @@ def manufacturers_show(
             raise typer.Exit(1)
         typer.echo(f"\nCanonical name : {info['canonical_name']}")
         typer.echo(f"Confidence     : {info['confidence']}")
-        typer.echo(f"Countries      : {', '.join(info['countries']) or '(none)'}")  # type: ignore[arg-type]
+        typer.echo(f"Countries      : {', '.join(info['countries']) or '(none)'}")
         typer.echo(f"Linked docs    : {info['linked_documents']}")
         typer.echo(f"Created        : {info['created_at']}")
         typer.echo(f"Updated        : {info['updated_at']}")
         aliases = info["aliases"]
         if aliases:
             typer.echo("\nAliases:")
-            for a in aliases:  # type: ignore[union-attr]
+            for a in aliases:
                 typer.echo(f"  - {a}")
 
     asyncio.run(_run())
@@ -370,7 +370,7 @@ def procurement_load(
                     county_id=uuid.UUID(row["county_id"]),
                     supplier_id=uuid.UUID(row["supplier_id"]),
                     active_ingredient=row["active_ingredient"],
-                    share_pct=row["share_pct"],  # type: ignore[arg-type]
+                    share_pct=row["share_pct"],
                     lead_time_days=int(row["lead_time_days"]),
                     contract_start=(
                         date.fromisoformat(row["contract_start"])

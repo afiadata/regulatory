@@ -360,13 +360,47 @@ async def test_merge_resolves_old_signal_and_carries_first_seen() -> None:
     assert old_signal.resolved_at is not None
 
     # Verify an event was written with reason=manufacturer_merged.
-    from regulatory.db.models import RiskSignalEvent
+    from regulatory.db.models import RiskSignal, RiskSignalEvent
+
     event_adds = [o for o in session.add.call_args_list if isinstance(o.args[0], RiskSignalEvent)]
     assert len(event_adds) == 1
     assert event_adds[0].args[0].reason == "manufacturer_merged"
 
-    # Step 2: Verify config_hash changes produce stale flag in explain.
-    # (covered by test_config_change_marks_signal_stale below)
+    # Step 2: new signal for merged manufacturer B carries first_seen forward.
+    from regulatory.risk.persist import persist_signals
+
+    new_mfr_id = str(uuid.uuid4())
+    candidate_b = RiskSignalCandidate(
+        kind="repeat_violator",
+        severity="medium",
+        manufacturer_id=new_mfr_id,
+        active_ingredient=ingredient,
+        evidence_document_ids=["doc-1", "doc-2"],
+        first_seen_override=old_first_seen.isoformat(),
+    )
+    session2 = AsyncMock()
+    execute_result2 = MagicMock()
+    execute_result2.scalars.return_value.all.return_value = []
+    session2.execute.return_value = execute_result2
+    session2.get = AsyncMock(return_value=None)
+    session2.flush = AsyncMock()
+    session2.commit = AsyncMock()
+    added_objects2: list[object] = []
+    session2.add = MagicMock(side_effect=added_objects2.append)
+
+    counts2 = await persist_signals(
+        session2,
+        [candidate_b],
+        config=_make_config(),
+        as_of=_AS_OF,
+        dry_run=False,
+        actor="test",
+    )
+    assert counts2["created"] == 1  # assertion (ii): new signal on B was created
+
+    signal_adds2 = [o for o in added_objects2 if isinstance(o, RiskSignal)]
+    assert len(signal_adds2) == 1
+    assert signal_adds2[0].first_seen == old_first_seen  # assertion (iii): first_seen carried
 
 
 # ---------------------------------------------------------------------------
