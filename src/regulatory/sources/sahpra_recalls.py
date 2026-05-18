@@ -295,6 +295,7 @@ class SahpraRecallsSource(RegulatorySource):
 
     source_id = "sahpra_recalls"
     jurisdiction = "ZA"
+    check_for_updates = True
     document_types = [DocumentType.recall]
 
     LISTING_BASE = _LISTING_BASE
