@@ -1,8 +1,8 @@
 """SQLAlchemy ORM models for the regulatory document store.
 
 Tables:
-- ``documents`` — one row per unique content hash (canonical record).
-- ``document_versions`` — history when a URL's content changes.
+- ``documents`` — one row per unique (source_id, source_url) canonical record.
+- ``document_versions`` — history when a URL's parsed content changes.
 - ``fetch_log`` — per-attempt audit trail.
 - ``manufacturers`` — deduplicated manufacturer directory.
 """
@@ -34,14 +34,18 @@ class Base(DeclarativeBase):
 
 
 class Document(Base):
-    """One row per unique source_hash (content-addressed document store).
+    """One row per unique (source_id, source_url).
 
-    When the content at a URL changes, the old row is archived in
-    ``document_versions`` and a new ``Document`` row is inserted.
+    ``normalized_hash`` tracks parsed-field content; when it changes the old
+    state is archived in ``document_versions`` and this row is updated in place.
+    ``source_hash`` is the raw-content SHA-256 — kept for audit but not used
+    for dedup after the URL-keyed dedup layer was introduced.
     """
 
     __tablename__ = "documents"
     __table_args__ = (
+        UniqueConstraint("source_id", "source_url", name="uq_documents_source_id_url"),
+        Index("ix_documents_source_url", "source_url"),
         Index("ix_documents_source_date", "source_id", "date_published"),
         Index(
             "ix_documents_jurisdiction_type_date",
@@ -57,6 +61,7 @@ class Document(Base):
     source_id: Mapped[str] = mapped_column(String(64), nullable=False, index=True)
     source_url: Mapped[str] = mapped_column(Text, nullable=False)
     source_hash: Mapped[str] = mapped_column(String(64), nullable=False, unique=True, index=True)
+    normalized_hash: Mapped[str | None] = mapped_column(Text, nullable=True)
     jurisdiction: Mapped[str] = mapped_column(String(8), nullable=False)
     document_type: Mapped[str] = mapped_column(String(32), nullable=False)
     document_id: Mapped[str | None] = mapped_column(String(256), nullable=True)
@@ -100,12 +105,13 @@ class Document(Base):
             doc: The Pydantic normalized document.
 
         Returns:
-            A new (unsaved) ``Document`` instance.
+            A new (unsaved) ``Document`` instance with ``normalized_hash`` populated.
         """
         return cls(
             source_id=doc.source_id,
             source_url=str(doc.source_url),
             source_hash=doc.source_hash,
+            normalized_hash=doc.normalized_content_hash(),
             jurisdiction=doc.jurisdiction,
             document_type=doc.document_type.value,
             document_id=doc.document_id,
@@ -127,18 +133,30 @@ class Document(Base):
 
 
 class DocumentVersion(Base):
-    """Historical snapshot when a document's content at a URL changes."""
+    """Historical snapshot archived when a document's parsed content changes."""
 
     __tablename__ = "document_versions"
+    __table_args__ = (
+        Index(
+            "ix_document_versions_document_id_superseded_at",
+            "document_id",
+            "superseded_at",
+        ),
+    )
 
     id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     document_id: Mapped[uuid.UUID] = mapped_column(
         UUID(as_uuid=True), ForeignKey("documents.id", ondelete="CASCADE"), nullable=False
     )
-    source_hash: Mapped[str] = mapped_column(String(64), nullable=False)
+    normalized_hash: Mapped[str] = mapped_column(Text, nullable=False, default="")
     raw_text: Mapped[str] = mapped_column(Text, nullable=False, default="")
     raw_metadata: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False, default=dict)
-    captured_at: Mapped[datetime] = mapped_column(
+    superseded_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        nullable=False,
+        default=lambda: datetime.now(tz=timezone.utc),
+    )
+    created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True),
         nullable=False,
         default=lambda: datetime.now(tz=timezone.utc),

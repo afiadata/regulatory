@@ -24,6 +24,7 @@ class RegulatorySource(ABC):
     source_id: str
     jurisdiction: str
     document_types: list[DocumentType]
+    check_for_updates: bool = False
 
     @abstractmethod
     async def discover(
