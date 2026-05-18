@@ -64,8 +64,12 @@ def _build_evidence(
     as_of: date,
 ) -> dict[str, object]:
     """Build the ``evidence`` JSONB blob for a signal."""
-    return {
-        "document_ids": list(candidate.evidence_document_ids),
+    # Preserve order while deduplicating document IDs (corroboration can produce duplicates
+    # if a document lists the same active ingredient more than once).
+    deduped_doc_ids = list(dict.fromkeys(candidate.evidence_document_ids))
+
+    evidence: dict[str, object] = {
+        "document_ids": deduped_doc_ids,
         "supply_ids": list(candidate.evidence_supply_ids),
         "rule_version": config.version,
         "config_hash": config.config_hash,
@@ -77,6 +81,15 @@ def _build_evidence(
             "kind": candidate.kind,
         },
     }
+
+    if candidate.kind == "repeat_violator" and candidate.recall_count is not None:
+        evidence["recall_count"] = candidate.recall_count
+        evidence["weighted_score"] = candidate.weighted_score
+
+    if candidate.kind == "cross_source_corroboration":
+        evidence["jurisdictions"] = sorted(candidate.regions_affected)
+
+    return evidence
 
 
 def _evidence_changed(existing: dict[str, object], new: dict[str, object]) -> bool:

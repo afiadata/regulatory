@@ -162,6 +162,8 @@ async def detect_repeat_violators(  # pragma: no cover
                     f"in {config.window_months} months."
                 ),
                 evidence_document_ids=[str(r["document_id"]) for r in recalls],
+                recall_count=recall_count,
+                weighted_score=weighted_score,
             )
         )
 
@@ -249,6 +251,8 @@ def detect_repeat_violators_sync(
                     f"(score {weighted_score}) in {config.window_months} months."
                 ),
                 evidence_document_ids=[str(r["document_id"]) for r in recalls],
+                recall_count=recall_count,
+                weighted_score=weighted_score,
             )
         )
 

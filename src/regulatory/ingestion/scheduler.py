@@ -82,19 +82,46 @@ async def _run_source(
             try:
                 raw = await source.fetch(ref)
 
-                # Skip unchanged content
-                existing = await session.execute(
+                # Skip if content is unchanged.
+                existing_by_hash = await session.execute(
                     select(Document).where(Document.source_hash == raw.source_hash)
                 )
-                if existing.scalar_one_or_none() is not None:
+                if existing_by_hash.scalar_one_or_none() is not None:
                     skip_count += 1
                     logger.debug("skipping_unchanged", url=str(ref.url))
                     continue
 
                 normalized = source.parse(raw)
-
                 doc = Document.from_normalized(normalized)
-                session.add(doc)
+
+                # If the URL already exists (content changed), update in place.
+                existing_by_url = await session.execute(
+                    select(Document).where(
+                        Document.source_id == source_id,
+                        Document.source_url == str(ref.url),
+                    )
+                )
+                existing_doc = existing_by_url.scalar_one_or_none()
+                if existing_doc is not None:
+                    existing_doc.source_hash = doc.source_hash
+                    existing_doc.title = doc.title
+                    existing_doc.product_names = doc.product_names
+                    existing_doc.active_ingredients = doc.active_ingredients
+                    existing_doc.active_ingredients_raw = doc.active_ingredients_raw
+                    existing_doc.manufacturers = doc.manufacturers
+                    existing_doc.marketing_authorization_holders = (
+                        doc.marketing_authorization_holders
+                    )
+                    existing_doc.severity = doc.severity
+                    existing_doc.date_published = doc.date_published
+                    existing_doc.date_effective = doc.date_effective
+                    existing_doc.regions_affected = doc.regions_affected
+                    existing_doc.raw_text = doc.raw_text
+                    existing_doc.raw_metadata = doc.raw_metadata
+                    existing_doc.extracted_at = doc.extracted_at
+                    logger.debug("updating_changed_content", url=str(ref.url))
+                else:
+                    session.add(doc)
 
                 fetch_log = FetchLog(
                     source_id=source_id,

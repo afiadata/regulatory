@@ -99,3 +99,5 @@ class RiskSignalCandidate(BaseModel):
     evidence_document_ids: list[str] = Field(default_factory=list)
     evidence_supply_ids: list[str] = Field(default_factory=list)
     first_seen_override: str | None = None
+    recall_count: int | None = None
+    weighted_score: int | None = None
