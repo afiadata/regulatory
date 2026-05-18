@@ -5,20 +5,29 @@ Tables:
 - ``document_versions`` — history when a URL's content changes.
 - ``fetch_log`` — per-attempt audit trail.
 - ``manufacturers`` — deduplicated manufacturer directory.
+- ``counties`` — Kenyan county reference data.
+- ``suppliers`` — supplier/distributor directory linked to manufacturers.
+- ``county_supply`` — county-level active-ingredient supply shares.
+- ``risk_signals`` — active risk signals emitted by the risk engine.
+- ``risk_signal_events`` — append-only audit log of signal state transitions.
 """
 
 from __future__ import annotations
 
 import uuid
 from datetime import date, datetime, timezone
+from decimal import Decimal
 from typing import Any
 
 from sqlalchemy import (
+    CheckConstraint,
     Date,
     DateTime,
+    Float,
     ForeignKey,
     Index,
     Integer,
+    Numeric,
     String,
     Text,
     UniqueConstraint,
@@ -86,6 +95,10 @@ class Document(Base):
         nullable=False,
         default=lambda: datetime.now(tz=timezone.utc),
         onupdate=lambda: datetime.now(tz=timezone.utc),
+    )
+    # Resolved canonical manufacturer IDs (populated by reconciliation job).
+    canonical_manufacturer_ids: Mapped[list[uuid.UUID]] = mapped_column(
+        ARRAY(UUID(as_uuid=True)), nullable=False, default=list
     )
 
     versions: Mapped[list[DocumentVersion]] = relationship(
@@ -172,6 +185,177 @@ class Manufacturer(Base):
     canonical_name: Mapped[str] = mapped_column(Text, nullable=False)
     aliases: Mapped[list[str]] = mapped_column(JSONB, nullable=False, default=list)
     countries: Mapped[list[str]] = mapped_column(ARRAY(Text), nullable=False, default=list)
+    confidence: Mapped[float] = mapped_column(Float, nullable=False, default=1.0)
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), nullable=False, default=lambda: datetime.now(tz=timezone.utc)
     )
+    updated_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        nullable=False,
+        default=lambda: datetime.now(tz=timezone.utc),
+        onupdate=lambda: datetime.now(tz=timezone.utc),
+    )
+
+    suppliers: Mapped[list[Supplier]] = relationship("Supplier", back_populates="manufacturer")
+    risk_signals: Mapped[list[RiskSignal]] = relationship(
+        "RiskSignal", back_populates="manufacturer"
+    )
+
+
+class County(Base):
+    """Kenyan county reference data (47 counties, 2019 census)."""
+
+    __tablename__ = "counties"
+    __table_args__ = (UniqueConstraint("name", name="uq_counties_name"),)
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    name: Mapped[str] = mapped_column(Text, nullable=False)
+    region: Mapped[str] = mapped_column(Text, nullable=False)
+    population: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    health_facilities: Mapped[int | None] = mapped_column(Integer, nullable=True)
+
+    supply_rows: Mapped[list[CountySupply]] = relationship(
+        "CountySupply", back_populates="county"
+    )
+
+
+class Supplier(Base):
+    """Supplier/distributor directory, optionally linked to a canonical manufacturer."""
+
+    __tablename__ = "suppliers"
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    manufacturer_id: Mapped[uuid.UUID | None] = mapped_column(
+        UUID(as_uuid=True),
+        ForeignKey("manufacturers.id", ondelete="SET NULL"),
+        nullable=True,
+        index=True,
+    )
+    name: Mapped[str] = mapped_column(Text, nullable=False)
+    role: Mapped[str] = mapped_column(String(32), nullable=False)  # manufacturer/distributor/agent
+    countries_served: Mapped[list[str]] = mapped_column(ARRAY(Text), nullable=False, default=list)
+
+    manufacturer: Mapped[Manufacturer | None] = relationship(
+        "Manufacturer", back_populates="suppliers"
+    )
+    supply_rows: Mapped[list[CountySupply]] = relationship(
+        "CountySupply", back_populates="supplier"
+    )
+
+
+class CountySupply(Base):
+    """County-level active-ingredient supply share per supplier."""
+
+    __tablename__ = "county_supply"
+    __table_args__ = (
+        CheckConstraint("share_pct >= 0 AND share_pct <= 100", name="ck_county_supply_share_pct"),
+        Index("ix_county_supply_county_ingredient", "county_id", "active_ingredient"),
+        Index("ix_county_supply_supplier_ingredient", "supplier_id", "active_ingredient"),
+    )
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    county_id: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("counties.id", ondelete="CASCADE"), nullable=False
+    )
+    supplier_id: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("suppliers.id", ondelete="CASCADE"), nullable=False
+    )
+    active_ingredient: Mapped[str] = mapped_column(Text, nullable=False)
+    share_pct: Mapped[Decimal] = mapped_column(Numeric(5, 2), nullable=False)
+    lead_time_days: Mapped[int] = mapped_column(Integer, nullable=False)
+    contract_start: Mapped[date | None] = mapped_column(Date, nullable=True)
+    contract_end: Mapped[date | None] = mapped_column(Date, nullable=True)
+    data_source: Mapped[str] = mapped_column(Text, nullable=False, default="synthetic_v1")
+
+    county: Mapped[County] = relationship("County", back_populates="supply_rows")
+    supplier: Mapped[Supplier] = relationship("Supplier", back_populates="supply_rows")
+
+
+class RiskSignal(Base):
+    """A risk signal emitted by the risk engine for a manufacturer/ingredient pair.
+
+    The partial unique constraint (kind, manufacturer_id, active_ingredient) WHERE
+    status = 'active' prevents duplicate active signals for the same situation.
+    Re-running the engine updates last_updated + evidence rather than inserting a
+    duplicate row.
+    """
+
+    __tablename__ = "risk_signals"
+    __table_args__ = (
+        Index(
+            "uq_risk_signals_active",
+            "kind",
+            "manufacturer_id",
+            "active_ingredient",
+            unique=True,
+            postgresql_where="status = 'active'",
+        ),
+    )
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    kind: Mapped[str] = mapped_column(String(64), nullable=False, index=True)
+    severity: Mapped[str] = mapped_column(String(16), nullable=False)
+    status: Mapped[str] = mapped_column(String(16), nullable=False, default="active", index=True)
+    manufacturer_id: Mapped[uuid.UUID | None] = mapped_column(
+        UUID(as_uuid=True),
+        ForeignKey("manufacturers.id", ondelete="SET NULL"),
+        nullable=True,
+        index=True,
+    )
+    active_ingredient: Mapped[str | None] = mapped_column(Text, nullable=True)
+    regions_affected: Mapped[list[str]] = mapped_column(ARRAY(Text), nullable=False, default=list)
+    exposure_pct: Mapped[Decimal | None] = mapped_column(Numeric(5, 2), nullable=True)
+    alternative_supplier_count: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    recommended_action: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    time_to_expiry_days: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    evidence: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False, default=dict)
+    first_seen: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        nullable=False,
+        default=lambda: datetime.now(tz=timezone.utc),
+    )
+    last_updated: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        nullable=False,
+        default=lambda: datetime.now(tz=timezone.utc),
+        onupdate=lambda: datetime.now(tz=timezone.utc),
+    )
+    resolved_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+
+    manufacturer: Mapped[Manufacturer | None] = relationship(
+        "Manufacturer", back_populates="risk_signals"
+    )
+    events: Mapped[list[RiskSignalEvent]] = relationship(
+        "RiskSignalEvent", back_populates="signal", cascade="all, delete-orphan"
+    )
+
+
+class RiskSignalEvent(Base):
+    """Append-only audit log of every risk signal state transition.
+
+    Rows are never updated or deleted (no UPDATE/DELETE grants for any role).
+    """
+
+    __tablename__ = "risk_signal_events"
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    signal_id: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True),
+        ForeignKey("risk_signals.id", ondelete="CASCADE"),
+        nullable=False,
+        index=True,
+    )
+    event_type: Mapped[str] = mapped_column(
+        String(32), nullable=False
+    )  # created/updated/resolved/suppressed
+    old_state: Mapped[dict[str, Any] | None] = mapped_column(JSONB, nullable=True)
+    new_state: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False)
+    actor: Mapped[str] = mapped_column(Text, nullable=False, default="system")
+    reason: Mapped[str | None] = mapped_column(Text, nullable=True)
+    occurred_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        nullable=False,
+        default=lambda: datetime.now(tz=timezone.utc),
+    )
+
+    signal: Mapped[RiskSignal] = relationship("RiskSignal", back_populates="events")
