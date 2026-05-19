@@ -89,7 +89,26 @@ def _build_evidence(
     if candidate.kind == "cross_source_corroboration":
         evidence["jurisdictions"] = sorted(candidate.regions_affected)
 
+    if candidate.kind == "supply_chain_exposure":
+        evidence["data_provenance"] = {
+            "supply_chain_source": "synthetic_v2",
+            "caveat": (
+                "Supply-chain figures derived from synthetic procurement data. "
+                "Real KEMSA/county procurement integration pending."
+            ),
+        }
+
     return evidence
+
+
+def _supply_chain_action(kind: str, action: str) -> str:
+    """Append a synthetic-data disclaimer to supply_chain_exposure recommended_action."""
+    if kind != "supply_chain_exposure":
+        return action
+    suffix = " (based on synthetic supply data)"
+    if action.endswith(suffix):
+        return action
+    return action.rstrip() + suffix
 
 
 def _evidence_changed(existing: dict[str, object], new: dict[str, object]) -> bool:
@@ -278,7 +297,9 @@ async def persist_signals(
                     candidate.exposure_pct  # type: ignore[assignment]
                 )
                 existing_sig.alternative_supplier_count = candidate.alternative_supplier_count
-                existing_sig.recommended_action = candidate.recommended_action
+                existing_sig.recommended_action = _supply_chain_action(
+                    candidate.kind, candidate.recommended_action or ""
+                )
                 existing_sig.time_to_expiry_days = candidate.time_to_expiry_days
                 existing_sig.evidence = evidence
                 existing_sig.last_updated = datetime.now(tz=timezone.utc)
@@ -312,7 +333,9 @@ async def persist_signals(
                     regions_affected=candidate.regions_affected,
                     exposure_pct=candidate.exposure_pct,
                     alternative_supplier_count=candidate.alternative_supplier_count,
-                    recommended_action=candidate.recommended_action,
+                    recommended_action=_supply_chain_action(
+                        candidate.kind, candidate.recommended_action or ""
+                    ),
                     time_to_expiry_days=candidate.time_to_expiry_days,
                     evidence=evidence,
                     first_seen=first_seen_override or now_utc,

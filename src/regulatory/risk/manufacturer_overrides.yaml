@@ -63,3 +63,21 @@ AstraZeneca:
   - AstraZeneca plc
   - AstraZeneca UK Limited
   - AstraZeneca Kenya
+
+# --- Address-variant splits identified in Round 2 live validation ---
+
+Pfizer Laboratories (Pty) Ltd:
+  - Pfizer Laboratories (Pty) Ltd, 85 Bute Lane, Sandton South
+  - Pfizer Laboratories (Pty) Ltd, 85 Bute Lane, Sandton South Africa
+
+Pharmacare Limited trading as Aspen Pharmacare:
+  - Pharmacare Limited t/a Aspen Pharmacare, Healthcare Park, Woodlands Drive, Woodmead, Sandton 2196, South Africa
+  - Pharmacare Ltd t/a Aspen Pharmacare Building 12, Healthcare Park Woodlands Drive
+
+Biopharma Ltd:
+  - Biopharma ltd, Kenya
+
+Empower Clinic Services, LLC dba Empower Pharmacy:
+  - EMPOWER CLINIC SERVICES LLC
+  - Empower Pharmacy
+

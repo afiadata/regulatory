@@ -523,3 +523,60 @@ def test_config_hash_differs_when_version_changes() -> None:
     config_v1 = _make_config("1.0")
     config_v2 = _make_config("2.0")
     assert config_v1.config_hash != config_v2.config_hash
+
+
+# ---------------------------------------------------------------------------
+# Test: supply_chain_exposure signals surface synthetic data provenance
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.asyncio
+async def test_supply_chain_signal_surfaces_synthetic_provenance() -> None:
+    """supply_chain_exposure evidence carries data_provenance; recommended_action has suffix."""
+    from regulatory.risk.persist import persist_signals
+
+    mfr_id = str(uuid.uuid4())
+    config = _make_config()
+    candidate = RiskSignalCandidate(
+        kind="supply_chain_exposure",
+        severity="medium",
+        manufacturer_id=mfr_id,
+        active_ingredient="amoxicillin",
+        evidence_document_ids=["doc-1"],
+        evidence_supply_ids=["sup-1"],
+        recommended_action="Diversify amoxicillin sourcing. Exposure ~40%, alternatives: 2.",
+        exposure_pct=40.0,
+        alternative_supplier_count=2,
+        time_to_expiry_days=90,
+        regions_affected=["Nairobi"],
+    )
+
+    session = AsyncMock()
+    execute_result = MagicMock()
+    execute_result.scalars.return_value.all.return_value = []
+    session.execute.return_value = execute_result
+    session.get = AsyncMock(return_value=None)
+    session.flush = AsyncMock()
+    session.commit = AsyncMock()
+    added_objects: list[object] = []
+    session.add = MagicMock(side_effect=added_objects.append)
+
+    counts = await persist_signals(
+        session, [candidate], config=config, as_of=_AS_OF, dry_run=False, actor="test"
+    )
+    assert counts["created"] == 1
+
+    from regulatory.db.models import RiskSignal
+
+    signal_adds = [o for o in added_objects if isinstance(o, RiskSignal)]
+    assert len(signal_adds) == 1
+    sig = signal_adds[0]
+
+    # Evidence must carry data_provenance with synthetic_v2 source.
+    assert "data_provenance" in sig.evidence
+    assert sig.evidence["data_provenance"]["supply_chain_source"] == "synthetic_v2"
+    assert "synthetic" in sig.evidence["data_provenance"]["caveat"].lower()
+
+    # recommended_action must carry the synthetic disclaimer.
+    assert "synthetic" in sig.recommended_action.lower()
+    assert sig.recommended_action.endswith("(based on synthetic supply data)")

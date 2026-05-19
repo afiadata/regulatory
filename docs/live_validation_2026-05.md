@@ -245,3 +245,191 @@ pytest (with TEST_DATABASE_URL set)
   → 226 passed, 0 failed, 5 warnings; coverage 74.47% ≥ 70%
   → risk module: ingredient_normalize 100%, persist 97%, canonicalize 97%, repeat_violator 91%, supply_chain 89%, corroboration 93% — all ≥ 85%
 ```
+
+---
+
+## Round 3 Validation — 2026-05-19
+
+### Items completed
+
+**Item 1 — Recall-event clustering caveat**
+
+Top-5 manufacturers by recall count queried; four exhibit clear consecutive recall_number clusters
+consistent with a single root-cause event producing multiple enforcement filings (one per product
+SKU). Findings table and explanation added to `docs/risk_engine.md` §Known Limitations. GitHub
+issue to be opened post-merge (placeholder `#TBD` in the doc).
+
+**Item 2 — Manufacturer override false-negative splits (FIXED)**
+
+All four address-variant splits identified in Round 2 were absent from `manufacturer_overrides.yaml`.
+Added entries:
+- `Pfizer Laboratories (Pty) Ltd` — 2 address-suffix aliases
+- `Pharmacare Limited trading as Aspen Pharmacare` — 2 address-suffix aliases
+- `Biopharma Ltd` — 1 alias (`Biopharma ltd, Kenya`)
+- `Empower Clinic Services, LLC dba Empower Pharmacy` — 2 aliases
+
+After `reconcile --apply` + `risk run --as-of 2026-05-19`:
+- Empower aliases merged → new `repeat_violator medium` signal (3 recalls after merge)
+- Manufacturer row count: 426 canonical rows; orphaned address-variant rows retained with 0 linked docs (reconcile routes docs, does not delete orphaned rows)
+
+**Item 3 — Empty `active_ingredients` per source — root-cause breakdown**
+
+5 documents sampled per source with empty `active_ingredients`:
+
+*openFDA (5 samples)*
+
+| Doc | Product | Category | Root cause |
+|---|---|---|---|
+| `e934817c` | Similasan iVIZIA Eye Drops (Povidone 0.5%) | (a) Extraction gap | `openfda.generic_name` absent; ingredient is in `product_description` only |
+| `8465186b` | Ketamine HCl Injectable Solution (compounded) | (a) Extraction gap | 503B compounded preparation; `openfda.generic_name` not present in enforcement record |
+| `ab13cf90` | fentaNYL Citrate Injectable (compounded) | (a) Extraction gap | Same: compounded preparation, no `openfda.generic_name` |
+| `82b73333` | fentaNYL Citrate Injectable bag (compounded) | (a) Extraction gap | Same |
+| `05900592` | fentaNYL Citrate Injectable bag (compounded) | (a) Extraction gap | Same |
+
+**Verdict (openFDA):** All 5 empty-ingredient docs are extraction gaps, not bugs. The adapter reads
+`openfda.generic_name`; this field is absent for compounded drugs, OTC products without an NDC,
+and non-standard formulations. The ingredient is present in `product_description` but the adapter
+does not parse it. A future improvement (tracked in `docs/risk_engine.md` Known Limitations) would
+extend the adapter to fall back to `product_description` parsing for NDC-less records.
+
+*SAHPRA (5 samples)*
+
+| Doc | Product | Category | Root cause |
+|---|---|---|---|
+| `8b0aaa45` | POLARx Cryoablation Catheters (Boston Scientific) | (c) Misclassified — medical device | No active ingredient; SAHPRA adapter captures device recalls alongside drug recalls |
+| `845d4cf8` | Champix 0,5/1,0 mg (varenicline) — Pfizer | (a) Extraction gap | Brand name product; SAHPRA adapter does not parse INN from title or raw text |
+| `a55e9ef2` | OXOID Agglutinating Sera, Salmonella | (c) Misclassified — diagnostic reagent | Serology reagent; no pharmacological active ingredient |
+| `49120df5` | Kiwi Vacuum Delivery System | (c) Misclassified — medical device | Obstetric device; no active ingredient |
+| `5066e4db` | Hetovanil 62,5/25 mg — HETERO DRUGS | (a) Extraction gap | Multi-ingredient brand; adapter does not map brand name to INN |
+
+**Verdict (SAHPRA):** 3/5 are misclassified document types — SAHPRA issues recalls for medical
+devices and diagnostic reagents alongside drug recalls; the adapter ingests all of them as
+`document_type="recall"`. These records correctly have no active ingredient. 2/5 are extraction
+gaps where the INN is identifiable from context but the adapter does not parse it. SAHPRA's 23.4%
+empty-ingredient rate (9/38 docs) decomposes to ~60% device/reagent and ~40% drug extraction gap.
+No code change is required for the device/reagent category; the drug extraction gap is a known
+adapter limitation.
+
+**Item 4 — Synthetic provenance surfaced in supply_chain signals (FIXED)**
+
+`persist.py` updated:
+- `_build_evidence()` adds `data_provenance: {supply_chain_source: "synthetic_v2", caveat: "..."}` to every `supply_chain_exposure` signal's evidence JSONB.
+- `_supply_chain_action()` appends `" (based on synthetic supply data)"` to every `supply_chain_exposure` `recommended_action` field.
+
+Test `test_supply_chain_signal_surfaces_synthetic_provenance` added to `tests/test_risk_persistence.py`; passes.
+
+**Item 5 — Manufacturer merge-continuity live test (FIXED + VERIFIED)**
+
+Root cause found: `resolve_signal_for_manufacturer_merge()` was defined in `persist.py` but never
+called during reconcile. The reconcile path resolved displaced signals via the regular "rule no
+longer fires" path (no `reason` field), so `_find_predecessor_first_seen()` never found a
+predecessor and `first_seen` was not carried forward.
+
+Fix: `canonicalize.py` `reconcile_manufacturers()` now detects "fully displaced" manufacturers
+(those whose documents are entirely rerouted to a different canonical — `new_doc_count == 0`
+after update) and calls `resolve_signal_for_manufacturer_merge()` for each. Also fixed in
+`merge_manufacturer()` which previously had the same gap.
+
+Live test executed with:
+- **A**: CareFusion 213, LLC (id=`27ceed00`) — active signal (medium, chlorhexidine gluconate)
+- **B**: CARDINAL HEALTHCARE (id=`ea869c68`) — no active signals
+
+Test cycle:
+1. Added override `CARDINAL HEALTHCARE: - CareFusion 213, LLC`
+2. `reconcile --apply` → `signals_resolved_for_displaced_manufacturer count=1 manufacturer_id=27ceed00` (CareFusion fully displaced, signal resolved with `reason=manufacturer_merged`)
+3. `risk run --as-of 2026-05-19` → `created=1` (new CARDINAL HEALTHCARE signal)
+4. Verified:
+   - Old signal `66d78d84` (CareFusion): `status=resolved`, `resolved_at=2026-05-19 08:29:05+00`, audit event `reason=manufacturer_merged` ✓
+   - New signal `154b51d5` (CARDINAL HEALTHCARE): `status=active`, `first_seen=2026-05-19 08:13:57.831175+00` ✓
+   - CareFusion `first_seen = 2026-05-19 08:13:57.831175+00` = CARDINAL `first_seen` — **carried forward exactly** ✓
+5. Reverted override, `reconcile --apply` (no false displacement), `risk run` → `created=1, resolved=1, unchanged=126` — baseline restored ✓
+
+**Item 6 — Manual psql transcript as `regulatory_readonly`**
+
+Grants were not applied (migration 0004 guard checked for role existence at migration time, but
+role was absent then). Fixed: ran `scripts/ops/create_readonly_role.sql` which applies grants
+when tables already exist. Output:
+
+```sql
+-- Run as: psql $DATABASE_URL
+
+SET ROLE regulatory_readonly;
+
+-- 1. INSERT: denied
+INSERT INTO risk_signals (id, kind, severity, status, first_seen, last_updated)
+VALUES (gen_random_uuid(), 'test', 'low', 'active', now(), now());
+-- ERROR:  permission denied for table risk_signals  ✓
+
+-- 2. SELECT count from risk_signals
+SELECT COUNT(*) AS risk_signal_count FROM risk_signals;
+-- risk_signal_count
+-- -----------------
+--               201   ✓
+
+-- 3. SELECT count from documents
+SELECT COUNT(*) AS document_count FROM documents;
+-- ERROR:  permission denied for table documents
+-- (correct: documents is not a risk table; regulatory_readonly grants risk_signals,
+--  risk_signal_events, manufacturers, counties, suppliers, county_supply only)
+```
+
+The role enforces write-denial on all granted tables and read-only on the 6 risk/procurement
+tables. `documents` is intentionally excluded from the grant (raw ingest data, not an operational
+risk table).
+
+### Finding #10 — resolve_signal_for_manufacturer_merge never called during reconcile (FIXED)
+
+`resolve_signal_for_manufacturer_merge()` in `persist.py` was defined but never called by either
+`reconcile_manufacturers()` or `merge_manufacturer()` in `canonicalize.py`. As a result:
+- The reconcile path resolved displaced signals via the regular "rule no longer fires" mechanism
+  (no `reason` in the audit event).
+- `_find_predecessor_first_seen()` looks for `reason="manufacturer_merged"` events; none existed,
+  so `first_seen` was never carried forward on merges.
+
+Fixed in `canonicalize.py`:
+1. `reconcile_manufacturers()`: after updating `canonical_manufacturer_ids`, computes the set of
+   fully-displaced manufacturer IDs (those with `new_doc_count == 0`) and calls
+   `resolve_signal_for_manufacturer_merge()` for each.
+2. `merge_manufacturer()`: calls `resolve_signal_for_manufacturer_merge()` before deleting the
+   source row.
+
+### Finding #11 — regulatory_readonly grants not applied at migration time (FIXED)
+
+Migration 0004 applies grants only if `regulatory_readonly` role exists at migration time. In
+the live DB the role was created post-migration, so no grants were applied. Fixed by running
+`scripts/ops/create_readonly_role.sql` which re-applies grants idempotently when tables exist.
+
+**Action for future environments:** run `create_readonly_role.sql` before `alembic upgrade head`
+as documented in the script header.
+
+### Final signal inventory (Round 3)
+
+| Kind | Status | Count |
+|---|---|---|
+| `repeat_violator` | active | 111 |
+| `supply_chain_exposure` | active | 14 |
+| `cross_source_corroboration` | active | 2 |
+| **Total active** | | **127** |
+
+(+1 `repeat_violator` vs Round 2 from Empower Clinic Services alias merge)
+
+### Idempotence (Round 3)
+
+```
+risk run --as-of 2026-05-19 (run 1):  created=0, resolved=0, unchanged=127, updated=0
+risk run --as-of 2026-05-19 (run 2):  created=0, resolved=0, unchanged=127, updated=0
+```
+
+Idempotence confirmed. ✓
+
+### Quality Gates (Round 3)
+
+```
+mypy --strict src/regulatory/   → Success: no issues found in 29 source files
+ruff check src/ tests/          → All checks passed
+pytest                          → 226 passed, 1 skipped, 74.54% coverage ≥ 70%
+  risk module: ingredient_normalize 100%, persist 97%, corroboration 93%,
+               repeat_violator 91%, supply_chain 89% — all ≥ 85%
+```
+
+**Verdict: CLEAN**

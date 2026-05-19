@@ -179,3 +179,42 @@ regulatory risk suppress <signal-id> --reason "False positive confirmed"
 - `risk_signal_events` is append-only by policy: no `DELETE` or `UPDATE` on event rows.
 - `regulatory_readonly` role has `SELECT`-only access to risk tables.
   See `scripts/ops/create_readonly_role.sql`.
+
+---
+
+## Known Limitations
+
+### Recall event clustering (follow-up issue #TBD)
+
+**Recall event clustering:** the engine counts documents (recall enforcement filings), not
+underlying root-cause events. Sources like openFDA file one enforcement record per affected
+product code, so a single underlying recall event can produce 10–60 records with consecutive
+recall_numbers filed on the same day. A manufacturer's repeat-violator count may therefore
+over-state the number of independent quality failures by a factor of 10–50×.
+
+Observed extremes (2026-05-18 snapshot):
+
+| Manufacturer | Doc count | Cluster | Likely true events |
+|---|---|---|---|
+| GenoGenix LLC | 57 | D-0038-2026 → D-0094-2026 (all 57 consecutive) | ~1 |
+| GOLD STAR DISTRIBUTION INC | 27 | D-0261-2026 → D-0287-2026 (all 27 consecutive) | ~1 |
+| Glenmark Pharmaceuticals | 95 | 73 of 94 gaps ≤ 3 recall_numbers; multiple clusters | ~5–10 |
+| ACME UNITED CORPORATION | 22 | 21 consecutive (D-0358–D-0378) + 1 earlier | ~2 |
+
+Distinguishing enforcement filings from root-cause events requires clustering on
+`(firm_fei_number, recall_initiation_date, recall_class)` — out of scope for v1. See
+follow-up issue #TBD.
+
+### Supply-chain figures are synthetic
+
+All county-level supply data currently loaded into `county_supply` is synthetic
+(`data_source = 'synthetic_v2'`). Supply-chain exposure percentages, alternative supplier
+counts, and lead times are illustrative, not real procurement data. All supply_chain_exposure
+signals carry a `data_provenance` field in their evidence explicitly noting this.
+
+### openFDA ingredient extraction gap
+
+47% of openFDA documents have empty `active_ingredients`. The openFDA adapter reads
+`openfda.generic_name`; this field is absent for many compounded drugs, OTC products without
+an NDC, and non-standard formulations. The ingredient is present in `product_description` but
+the adapter does not parse it. See follow-up issue #TBD (openFDA adapter extraction gap).

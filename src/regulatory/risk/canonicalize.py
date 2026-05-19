@@ -262,10 +262,52 @@ async def reconcile_manufacturers(  # pragma: no cover
                     canonical_ids.append(r.manufacturer_id)
             doc_to_canonical_ids[doc_id] = canonical_ids
 
+        # Capture pre-update canonical IDs so we can detect displaced manufacturers.
+        pre_update_ids: dict[uuid.UUID, set[uuid.UUID]] = {}
+        for doc_id in doc_to_canonical_ids:
+            doc_obj = await session.get(Document, doc_id)
+            if doc_obj is not None:
+                pre_update_ids[doc_id] = set(doc_obj.canonical_manufacturer_ids or [])
+
         for doc_id, canonical_ids in doc_to_canonical_ids.items():
             doc = await session.get(Document, doc_id)
             if doc is not None:
                 doc.canonical_manufacturer_ids = canonical_ids
+
+        # Resolve active risk signals for manufacturers that are *fully* displaced —
+        # i.e. all their documents have been rerouted to a different canonical so
+        # they now have zero linked documents.  A manufacturer that loses only some
+        # of its documents (e.g. during a revert) is not fully displaced and should
+        # keep its signals.
+        displaced_mfr_ids: set[uuid.UUID] = set()
+        for doc_id, new_ids in doc_to_canonical_ids.items():
+            new_id_set = set(new_ids)
+            for old_id in pre_update_ids.get(doc_id, set()):
+                if old_id not in new_id_set:
+                    displaced_mfr_ids.add(old_id)
+
+        # Count docs per manufacturer in the post-update state (across all docs).
+        new_doc_counts: dict[uuid.UUID, int] = {}
+        for new_ids in doc_to_canonical_ids.values():
+            for mfr_id in new_ids:
+                new_doc_counts[mfr_id] = new_doc_counts.get(mfr_id, 0) + 1
+
+        fully_displaced: set[uuid.UUID] = {
+            mid for mid in displaced_mfr_ids if new_doc_counts.get(mid, 0) == 0
+        }
+
+        if fully_displaced:
+            from regulatory.risk.persist import resolve_signal_for_manufacturer_merge
+
+            for displaced_id in fully_displaced:
+                n = await resolve_signal_for_manufacturer_merge(session, displaced_id)
+                if n:
+                    log.info(
+                        "signals_resolved_for_displaced_manufacturer",
+                        manufacturer_id=str(displaced_id),
+                        count=n,
+                    )
+
         await session.commit()
 
     log.info(
@@ -464,6 +506,9 @@ async def merge_manufacturer(  # pragma: no cover
             ids = [target_id if i == source_id else i for i in ids]
             doc.canonical_manufacturer_ids = list(dict.fromkeys(ids))  # dedupe
 
+    from regulatory.risk.persist import resolve_signal_for_manufacturer_merge
+
+    await resolve_signal_for_manufacturer_merge(session, source_id, actor=actor)
     await session.delete(source)
     await session.flush()
 
