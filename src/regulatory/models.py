@@ -7,6 +7,7 @@ canonical data contract between ingestion and storage/risk-engine layers.
 from __future__ import annotations
 
 import hashlib
+import json
 from datetime import date, datetime
 from enum import Enum
 from typing import Any
@@ -115,3 +116,26 @@ class NormalizedDocument(BaseModel):
     def validate_language(cls, v: str) -> str:
         """Normalise to lowercase ISO 639-1."""
         return v.lower()
+
+    def normalized_content_hash(self) -> str:
+        """SHA-256 over parsed fields only — stable across re-fetches of the same
+        source URL when the underlying record hasn't changed.
+
+        Excludes ``raw_text``, ``extracted_at``, and ``source_hash`` (the
+        raw-HTML hash) because those drift between fetches even when content
+        is unchanged.
+        """
+        parts = [
+            self.source_id,
+            str(self.source_url),
+            self.document_id or "",
+            self.title,
+            ",".join(sorted(self.product_names)),
+            ",".join(sorted(self.active_ingredients)),
+            ",".join(sorted(self.manufacturers)),
+            self.severity.value if self.severity else "",
+            self.date_published.isoformat(),
+            self.date_effective.isoformat() if self.date_effective else "",
+            json.dumps(self.raw_metadata, sort_keys=True, default=str),
+        ]
+        return hashlib.sha256("\x1f".join(parts).encode("utf-8")).hexdigest()

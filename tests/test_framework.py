@@ -299,6 +299,346 @@ class TestSchedulerRun:
         assert "ppb_ke_alerts" in calls
 
 
+# Patch targets reused across scheduler test classes
+_PATCH_ALL_SOURCES = "regulatory.ingestion.scheduler.all_sources"
+_PATCH_GET_SESSION = "regulatory.ingestion.scheduler.get_session"
+
+
+# ---------------------------------------------------------------------------
+# Scheduler URL-keyed dedup tests
+# ---------------------------------------------------------------------------
+
+
+class TestRunSourceUrlDedup:
+    """_run_source skips fetch when the URL is already in documents."""
+
+    @pytest.mark.asyncio
+    async def test_skips_fetch_for_known_url(self) -> None:
+        """fetch() is never called when source_url already exists in documents."""
+        from unittest.mock import AsyncMock, MagicMock, patch
+
+        from regulatory.ingestion.scheduler import _run_source
+        from regulatory.models import DocumentRef
+
+        ref = DocumentRef(
+            source_id="test_src",
+            url="https://example.com/document/known-recall/",  # type: ignore[arg-type]
+        )
+
+        # Source that yields one ref and tracks fetch calls
+        mock_source = MagicMock()
+        mock_source.check_for_updates = False
+        mock_source.fetch = AsyncMock()
+
+        async def _discover(since: object):  # type: ignore[override]
+            yield ref
+
+        mock_source.discover = _discover
+
+        # Session returns an existing document → URL already known
+        mock_doc = MagicMock()
+        mock_result = MagicMock()
+        mock_result.scalar_one_or_none.return_value = mock_doc
+        mock_session = AsyncMock()
+        mock_session.execute = AsyncMock(return_value=mock_result)
+        mock_ctx = MagicMock()
+        mock_ctx.__aenter__ = AsyncMock(return_value=mock_session)
+        mock_ctx.__aexit__ = AsyncMock(return_value=False)
+
+        mock_source_cls = MagicMock(return_value=mock_source)
+
+        with (
+            patch(
+                "regulatory.ingestion.scheduler.all_sources",
+                return_value={"test_src": mock_source_cls},
+            ),
+            patch("regulatory.ingestion.scheduler.get_session", return_value=mock_ctx),
+        ):
+            await _run_source("test_src", since=None)
+
+        mock_source.fetch.assert_not_called()
+
+    @pytest.mark.asyncio
+    async def test_fetches_unknown_url(self) -> None:
+        """fetch() is called when source_url is not yet in documents."""
+        from datetime import date
+        from unittest.mock import AsyncMock, MagicMock, patch
+
+        from regulatory.ingestion.scheduler import _run_source
+        from regulatory.models import DocumentRef, DocumentType, NormalizedDocument, RawDocument
+
+        ref = DocumentRef(
+            source_id="test_src",
+            url="https://example.com/document/new-recall/",  # type: ignore[arg-type]
+        )
+        raw = RawDocument(
+            ref=ref,
+            content=b"<html>new recall</html>",
+            content_type="text/html",
+            source_hash="b" * 64,
+            fetched_at=__import__("datetime").datetime.now(tz=__import__("datetime").timezone.utc),
+        )
+        normalized = NormalizedDocument(
+            source_id="test_src",
+            source_url="https://example.com/document/new-recall/",  # type: ignore[arg-type]
+            source_hash="b" * 64,
+            jurisdiction="ZA",
+            document_type=DocumentType.recall,
+            title="New Recall",
+            date_published=date(2026, 5, 1),
+            extracted_at=__import__("datetime").datetime.now(
+                tz=__import__("datetime").timezone.utc
+            ),
+        )
+
+        mock_source = MagicMock()
+        mock_source.fetch = AsyncMock(return_value=raw)
+        mock_source.parse = MagicMock(return_value=normalized)
+
+        async def _discover(since: object):  # type: ignore[override]
+            yield ref
+
+        mock_source.discover = _discover
+
+        # First execute (URL check) → None; second (hash check) → None
+        none_result = MagicMock()
+        none_result.scalar_one_or_none.return_value = None
+        mock_session = AsyncMock()
+        mock_session.execute = AsyncMock(return_value=none_result)
+        mock_session.add = MagicMock()
+        mock_session.commit = AsyncMock()
+        mock_ctx = MagicMock()
+        mock_ctx.__aenter__ = AsyncMock(return_value=mock_session)
+        mock_ctx.__aexit__ = AsyncMock(return_value=False)
+
+        mock_source_cls = MagicMock(return_value=mock_source)
+
+        with (
+            patch(
+                "regulatory.ingestion.scheduler.all_sources",
+                return_value={"test_src": mock_source_cls},
+            ),
+            patch("regulatory.ingestion.scheduler.get_session", return_value=mock_ctx),
+        ):
+            await _run_source("test_src", since=None)
+
+        mock_source.fetch.assert_called_once_with(ref)
+
+
+# ---------------------------------------------------------------------------
+# Scheduler version-tracking tests (check_for_updates flag)
+# ---------------------------------------------------------------------------
+
+
+class TestVersionTracking:
+    """Tests for the check_for_updates flag and document_versions write path."""
+
+    # ── helpers ────────────────────────────────────────────────────────────
+
+    def _make_ref(self, url: str = "https://example.com/document/recall/") -> DocumentRef:
+        return DocumentRef(source_id="test_src", url=url)  # type: ignore[arg-type]
+
+    def _make_normalized(
+        self, url: str = "https://example.com/document/recall/"
+    ) -> NormalizedDocument:
+        return NormalizedDocument(
+            source_id="test_src",
+            source_url=url,  # type: ignore[arg-type]
+            source_hash="c" * 64,
+            jurisdiction="ZA",
+            document_type=DocumentType.recall,
+            title="Test Recall",
+            date_published=date(2026, 5, 1),
+            extracted_at=datetime.now(tz=timezone.utc),
+        )
+
+    def _mock_session(self, url_hit: object = None, hash_hit: object = None):  # type: ignore[no-untyped-def]
+        """Return a mock session whose execute() side-effects match url/hash lookups."""
+        from unittest.mock import AsyncMock, MagicMock
+
+        def _result(value: object) -> MagicMock:
+            r = MagicMock()
+            r.scalar_one_or_none.return_value = value
+            return r
+
+        mock = AsyncMock()
+        mock.execute = AsyncMock(side_effect=[_result(url_hit), _result(hash_hit)])
+        mock.add = MagicMock()
+        mock.commit = AsyncMock()
+        mock.delete = AsyncMock()
+        ctx = MagicMock()
+        ctx.__aenter__ = AsyncMock(return_value=mock)
+        ctx.__aexit__ = AsyncMock(return_value=False)
+        return mock, ctx
+
+    def _source_cls(
+        self, check_for_updates: bool = False, normalized: NormalizedDocument | None = None
+    ):  # type: ignore[no-untyped-def]
+        from unittest.mock import AsyncMock, MagicMock
+
+        ref = self._make_ref()
+        norm = normalized or self._make_normalized()
+        raw_doc = RawDocument(
+            ref=ref,
+            content=b"<html/>",
+            content_type="text/html",
+            source_hash="c" * 64,
+            fetched_at=datetime.now(tz=timezone.utc),
+        )
+
+        mock_source = MagicMock()
+        mock_source.check_for_updates = check_for_updates
+        mock_source.fetch = AsyncMock(return_value=raw_doc)
+        mock_source.parse = MagicMock(return_value=norm)
+
+        async def _discover(since: object):  # type: ignore[override]
+            yield ref
+
+        mock_source.discover = _discover
+        return MagicMock(return_value=mock_source), mock_source
+
+    # ── test 6 ─────────────────────────────────────────────────────────────
+
+    @pytest.mark.asyncio
+    async def test_check_for_updates_false_skips_known_url_without_fetching(self) -> None:
+        """check_for_updates=False: known URL → fetch never called."""
+        from unittest.mock import MagicMock, patch
+
+        from regulatory.ingestion.scheduler import _run_source
+
+        existing = MagicMock()
+        mock_session, mock_ctx = self._mock_session(url_hit=existing)
+        source_cls, mock_source = self._source_cls(check_for_updates=False)
+
+        with (
+            patch(
+                "regulatory.ingestion.scheduler.all_sources", return_value={"test_src": source_cls}
+            ),
+            patch("regulatory.ingestion.scheduler.get_session", return_value=mock_ctx),
+        ):
+            await _run_source("test_src", since=None)
+
+        mock_source.fetch.assert_not_called()
+
+    # ── test 7 ─────────────────────────────────────────────────────────────
+
+    @pytest.mark.asyncio
+    async def test_check_for_updates_true_fetches_known_url(self) -> None:
+        """check_for_updates=True: known URL → fetch IS called."""
+        from unittest.mock import MagicMock, patch
+
+        from regulatory.ingestion.scheduler import _run_source
+
+        normalized = self._make_normalized()
+        existing = MagicMock()
+        existing.normalized_hash = normalized.normalized_content_hash()  # same → skip
+
+        mock_session, mock_ctx = self._mock_session(url_hit=existing)
+        source_cls, mock_source = self._source_cls(check_for_updates=True, normalized=normalized)
+
+        with (
+            patch(
+                "regulatory.ingestion.scheduler.all_sources", return_value={"test_src": source_cls}
+            ),
+            patch("regulatory.ingestion.scheduler.get_session", return_value=mock_ctx),
+        ):
+            await _run_source("test_src", since=None)
+
+        mock_source.fetch.assert_called_once()
+
+    # ── test 8 ─────────────────────────────────────────────────────────────
+
+    @pytest.mark.asyncio
+    async def test_check_for_updates_true_skips_when_hash_matches(self) -> None:
+        """check_for_updates=True: same normalized hash → docs_skipped, no version row."""
+        from unittest.mock import MagicMock, patch
+
+        from regulatory.ingestion.scheduler import _run_source
+
+        normalized = self._make_normalized()
+        existing = MagicMock()
+        existing.normalized_hash = normalized.normalized_content_hash()
+
+        mock_session, mock_ctx = self._mock_session(url_hit=existing)
+        source_cls, _ = self._source_cls(check_for_updates=True, normalized=normalized)
+
+        with (
+            patch(
+                "regulatory.ingestion.scheduler.all_sources", return_value={"test_src": source_cls}
+            ),
+            patch("regulatory.ingestion.scheduler.get_session", return_value=mock_ctx),
+        ):
+            await _run_source("test_src", since=None)
+
+        # No DocumentVersion should have been added
+
+        added_types = [type(c.args[0]).__name__ for c in mock_session.add.call_args_list]
+        assert "DocumentVersion" not in added_types
+
+    # ── test 9 ─────────────────────────────────────────────────────────────
+
+    @pytest.mark.asyncio
+    async def test_check_for_updates_true_versions_when_hash_differs(self) -> None:
+        """check_for_updates=True: different hash → DocumentVersion written, doc updated."""
+        import uuid
+        from unittest.mock import MagicMock, patch
+
+        from regulatory.db.models import DocumentVersion
+        from regulatory.ingestion.scheduler import _run_source
+
+        normalized = self._make_normalized()
+        existing = MagicMock()
+        existing.id = uuid.uuid4()
+        existing.normalized_hash = "old_hash_that_does_not_match"
+        existing.raw_text = "old raw text"
+        existing.raw_metadata = {"old": "data"}
+
+        mock_session, mock_ctx = self._mock_session(url_hit=existing)
+        source_cls, _ = self._source_cls(check_for_updates=True, normalized=normalized)
+
+        with (
+            patch(
+                "regulatory.ingestion.scheduler.all_sources", return_value={"test_src": source_cls}
+            ),
+            patch("regulatory.ingestion.scheduler.get_session", return_value=mock_ctx),
+        ):
+            await _run_source("test_src", since=None)
+
+        added_objects = [c.args[0] for c in mock_session.add.call_args_list]
+        version_rows = [o for o in added_objects if isinstance(o, DocumentVersion)]
+        assert len(version_rows) == 1
+        assert version_rows[0].normalized_hash == "old_hash_that_does_not_match"
+        assert existing.normalized_hash == normalized.normalized_content_hash()
+
+    # ── test 10 ────────────────────────────────────────────────────────────
+
+    @pytest.mark.asyncio
+    async def test_new_url_inserts_with_normalized_hash_populated(self) -> None:
+        """New URL insert (check_for_updates=False) sets normalized_hash on the Document."""
+        from unittest.mock import patch
+
+        from regulatory.db.models import Document
+        from regulatory.ingestion.scheduler import _run_source
+
+        normalized = self._make_normalized()
+        # url_hit=None (new URL), hash_hit=None (new hash)
+        mock_session, mock_ctx = self._mock_session(url_hit=None, hash_hit=None)
+        source_cls, _ = self._source_cls(check_for_updates=False, normalized=normalized)
+
+        with (
+            patch(
+                "regulatory.ingestion.scheduler.all_sources", return_value={"test_src": source_cls}
+            ),
+            patch("regulatory.ingestion.scheduler.get_session", return_value=mock_ctx),
+        ):
+            await _run_source("test_src", since=None)
+
+        added_objects = [c.args[0] for c in mock_session.add.call_args_list]
+        doc_rows = [o for o in added_objects if isinstance(o, Document)]
+        assert len(doc_rows) == 1
+        assert doc_rows[0].normalized_hash == normalized.normalized_content_hash()
+
+
 # ---------------------------------------------------------------------------
 # HTTP layer unit tests
 # ---------------------------------------------------------------------------

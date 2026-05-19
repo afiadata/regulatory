@@ -139,47 +139,67 @@ Before writing any Tier 3 adapter: 30-min manual inspection → document in `doc
 
 ---
 
-## Risk Engine
+## Operational Guardrails
 
-The risk engine (`src/regulatory/risk/`) turns normalized documents into risk signals.
+### 1. Live-source validation is non-negotiable before any PR merges
 
-### Three rules
+Every adapter and every framework change must be validated against the live sources before the PR
+is merged. Unit tests pass clean on openFDA, PPB, SAHPRA, and the URL-keyed dedup fix — and every
+single one surfaced a bug at the live-validation step anyway. This is not coincidence. Regulatory
+sites are messy in ways fixtures cannot fully capture, and framework changes interact with real
+data in ways unit tests do not exercise.
 
-| Module | Kind | Trigger |
-|---|---|---|
-| `repeat_violator.py` | `repeat_violator` | ≥ 3 recalls in 24 months |
-| `supply_chain.py` | `supply_chain_exposure` | ≥ 25% county share for a recalled manufacturer |
-| `corroboration.py` | `cross_source_corroboration` | Same ingredient recalled in ≥ 2 jurisdictions |
+**Required validation sequence for every PR:**
 
-### CLI commands
+1. `regulatory db migrate` — apply migrations against the real database.
+2. Run each affected adapter with `--since 30d` (or a date that returns results). Note
+   `docs_added / docs_skipped / docs_updated`.
+3. Re-run immediately. All counts should flip to `docs_added=0`. If not, there is a dedup bug.
+4. For any adapter with `check_for_updates=True`: force a hash mismatch via SQL, re-run, confirm
+   `docs_updated=1` and a matching row in `document_versions`.
+5. Run `alembic downgrade -1 && alembic upgrade head` to verify the migration round-trips cleanly.
 
-```
-regulatory manufacturers reconcile [--dry-run | --apply]
-regulatory manufacturers review
-regulatory manufacturers show <name>
+### 2. Multi-part prompts require a checklist confirmation before execution
 
-regulatory procurement load [--csv-dir data/synthetic]
+When given a prompt that contains multiple deliverables, list them back as a numbered checklist
+with the file each will touch, then **wait for explicit confirmation before writing any code**.
+This is a standing protocol, not a per-session preference. It catches missed scope at the cheapest
+possible moment.
 
-regulatory risk run [--as-of YYYY-MM-DD] [--dry-run]
-regulatory risk list
-regulatory risk show <signal-id>
-regulatory risk explain <signal-id>
-regulatory risk resolve <signal-id> --reason "..."
-regulatory risk suppress <signal-id> --reason "..."
-```
+### 3. Schema migration discipline
 
-### Docs
+When a migration adds a column to `documents` that participates in
+`NormalizedDocument.normalized_content_hash()`, the migration **must** backfill
+the column for existing rows before applying any NOT NULL constraint. Backfill by
+reconstructing `NormalizedDocument` instances from stored fields and calling
+`normalized_content_hash()` — the same method the scheduler calls — so the values
+are guaranteed to match on the next ingest run.
 
-- `docs/risk_engine.md` — rules, config schema, adding a new rule, merge semantics
-- `docs/manufacturer_canonicalization.md` — 3-stage algorithm, overrides, review file
-- `docs/synthetic_procurement.md` — schema, generator, real-data swap-in plan
+Skipping the backfill causes the next ingest to see `NULL != new_hash` for every
+existing row, inflate `docs_updated` with false-positive update events, and — without
+the scheduler null-hash guard — write empty-prior-state rows into `document_versions`.
+The scheduler has a defensive guard (`if existing_doc.normalized_hash`) that
+suppresses empty-archive writes, but metric pollution from inflated `docs_updated`
+counters must be prevented at source.
 
-### Key invariants
+**Fields that currently participate in the hash (as of migration 0003):**
+`source_id`, `source_url`, `document_id`, `title`, `product_names`,
+`active_ingredients`, `manufacturers`, `severity`, `date_published`,
+`date_effective`, `raw_metadata`.
 
-- Re-running `risk run` with the same `--as-of` date is idempotent (no extra DB writes).
-- All queries use parameterized SQLAlchemy ORM — ruff S608 is enabled, zero violations.
-- `risk_signal_events` is append-only; no DELETE or UPDATE.
-- Operational role `regulatory_readonly` grants SELECT-only access. See `scripts/ops/`.
+When the hash recipe changes, update this list and any migration that backfills
+the hash.
+
+### 4. Bug-prevention checklist (apply on every adapter and scheduler touch)
+
+| Rule | Why |
+|---|---|
+| Reuse a single `httpx.AsyncClient` per source run | Per-request clients leak sockets and ignore rate-limit state |
+| `robots.txt` check must **fail open** — log and continue on network error | A dead robots.txt must not block ingestion |
+| DB write errors inside `except` handlers must be caught separately | An error writing `FetchLog` must not shadow the original exception |
+| Date parsing must raise loudly **per record**, not abort the whole run | One malformed date should log an error and `continue`, not kill the session |
+| No bare `except` — catch `Exception` at most, always log with `structlog` | Silent swallowing hides bugs that only appear with live data |
+| Type hints on every function signature; `mypy --strict` must pass | Catches class-attribute vs instance-attribute mistakes before runtime |
 
 ---
 
