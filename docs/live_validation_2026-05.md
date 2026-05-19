@@ -413,6 +413,40 @@ as documented in the script header.
 
 (+1 `repeat_violator` vs Round 2 from Empower Clinic Services alias merge)
 
+### Follow-up issues opened (Round 3)
+
+`gh` CLI is not installed in this environment; issues are to be opened manually from the committed docs. Bodies are in `docs/followup_issues/`.
+
+| Title | Body file | Issue # |
+|---|---|---|
+| openFDA adapter: active ingredient extraction reads wrong field | `docs/followup_issues/openfda_active_ingredient_extraction.md` | #TBD |
+| SAHPRA adapter: misclassified non-drug records | `docs/followup_issues/sahpra_document_classification.md` | #TBD |
+| Recall-event clustering for repeat-violator counts | `docs/risk_engine.md` §Known Limitations | #TBD |
+
+### Pfizer merge verification (Round 3)
+
+After the address-variant overrides merged three `Pfizer Laboratories (Pty) Ltd` rows:
+
+```sql
+SELECT m.canonical_name, COUNT(*) AS recall_count,
+       COUNT(DISTINCT d.source_id) AS source_count,
+       (SELECT rs.severity FROM risk_signals rs WHERE rs.manufacturer_id = m.id AND rs.status = 'active' LIMIT 1) AS active_signal_severity
+FROM manufacturers m
+LEFT JOIN documents d ON m.id = ANY(d.canonical_manufacturer_ids)
+WHERE m.canonical_name ILIKE '%pfizer%'
+  AND (d.document_type = 'recall' OR d.id IS NULL)
+GROUP BY m.canonical_name, m.id ORDER BY recall_count DESC;
+```
+
+| canonical_name | recall_count | source_count | active_signal |
+|---|---|---|---|
+| Pfizer | 8 | 1 | critical (pre-existing) |
+| Pfizer Laboratories (Pty) Ltd | 0 (within window) | sahpra_recalls | none |
+| Pfizer Laboratories (Pty) Ltd, 85 Bute Lane, Sandton South Africa | 0 | 0 | — (orphaned row, docs rerouted) |
+| Pfizer Laboratories (Pty) Ltd, 85 Bute Lane, Sandton South | 0 | 0 | — (orphaned row, docs rerouted) |
+
+**Outcome: Category 2 — sub-threshold.** The 3 merged Pfizer Laboratories docs are SAHPRA recalls dated 2021-08-19, 2022-04-25, 2022-07-04 — all outside the 24-month window (`as_of = 2026-05-19` → `window_start = 2024-05-19`). Within-window recall count is 0; no new signal. The main `Pfizer` brand retains its pre-existing `critical` repeat_violator signal from 8 FDA enforcement records. No gap identified.
+
 ### Idempotence (Round 3)
 
 ```
