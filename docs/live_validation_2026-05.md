@@ -257,7 +257,7 @@ pytest (with TEST_DATABASE_URL set)
 Top-5 manufacturers by recall count queried; four exhibit clear consecutive recall_number clusters
 consistent with a single root-cause event producing multiple enforcement filings (one per product
 SKU). Findings table and explanation added to `docs/risk_engine.md` §Known Limitations. GitHub
-issue to be opened post-merge (placeholder `#TBD` in the doc).
+issue #6 opened.
 
 **Item 2 — Manufacturer override false-negative splits (FIXED)**
 
@@ -419,9 +419,9 @@ as documented in the script header.
 
 | Title | Body file | Issue # |
 |---|---|---|
-| openFDA adapter: active ingredient extraction reads wrong field | `docs/followup_issues/openfda_active_ingredient_extraction.md` | #TBD |
-| SAHPRA adapter: misclassified non-drug records | `docs/followup_issues/sahpra_document_classification.md` | #TBD |
-| Recall-event clustering for repeat-violator counts | `docs/risk_engine.md` §Known Limitations | #TBD |
+| openFDA adapter: active ingredient extraction reads wrong field | `docs/followup_issues/openfda_active_ingredient_extraction.md` | #4 |
+| SAHPRA adapter: misclassified non-drug records | `docs/followup_issues/sahpra_document_classification.md` | #5 |
+| Recall-event clustering for repeat-violator counts | `docs/risk_engine.md` §Known Limitations | #6 |
 
 ### Pfizer merge verification (Round 3)
 

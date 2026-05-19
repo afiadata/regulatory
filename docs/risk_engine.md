@@ -184,7 +184,7 @@ regulatory risk suppress <signal-id> --reason "False positive confirmed"
 
 ## Known Limitations
 
-### Recall event clustering (follow-up issue #TBD)
+### Recall event clustering (follow-up issue #6)
 
 **Recall event clustering:** the engine counts documents (recall enforcement filings), not
 underlying root-cause events. Sources like openFDA file one enforcement record per affected
@@ -202,8 +202,7 @@ Observed extremes (2026-05-18 snapshot):
 | ACME UNITED CORPORATION | 22 | 21 consecutive (D-0358–D-0378) + 1 earlier | ~2 |
 
 Distinguishing enforcement filings from root-cause events requires clustering on
-`(firm_fei_number, recall_initiation_date, recall_class)` — out of scope for v1. See
-follow-up issue #TBD.
+`(firm_fei_number, recall_initiation_date, recall_class)` — out of scope for v1. See issue #6.
 
 ### Supply-chain figures are synthetic
 
@@ -217,4 +216,4 @@ signals carry a `data_provenance` field in their evidence explicitly noting this
 47% of openFDA documents have empty `active_ingredients`. The openFDA adapter reads
 `openfda.generic_name`; this field is absent for many compounded drugs, OTC products without
 an NDC, and non-standard formulations. The ingredient is present in `product_description` but
-the adapter does not parse it. See follow-up issue #TBD (openFDA adapter extraction gap).
+the adapter does not parse it. See issue #4 (openFDA adapter extraction gap).
