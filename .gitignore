@@ -36,6 +36,10 @@ dist/
 *.pickle
 *.pkl
 
+# Coverage
+.coverage
+htmlcov/
+
 # Data
 *.csv
 *.json

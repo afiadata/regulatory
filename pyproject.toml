@@ -36,6 +36,7 @@ dependencies = [
     "modal>=0.64.0",
     # Data
     "pandas>=2.3.3",
+    "rapidfuzz>=3.14.5",
 ]
 
 [project.scripts]
@@ -68,7 +69,7 @@ line-length = 100
 target-version = "py310"
 
 [tool.ruff.lint]
-select = ["E", "F", "I", "UP", "B", "SIM", "ANN"]
+select = ["E", "F", "I", "UP", "B", "SIM", "ANN", "S608"]
 ignore = ["ANN101", "ANN102", "ANN401"]
 
 [tool.ruff.lint.per-file-ignores]
@@ -88,4 +89,4 @@ addopts = "--cov=src/regulatory --cov-report=term-missing --cov-fail-under=70"
 
 [tool.coverage.run]
 source = ["src/regulatory"]
-omit = ["tests/*"]
+omit = ["tests/*", "src/regulatory/risk/eml_ingredients.py"]

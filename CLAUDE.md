@@ -205,7 +205,6 @@ the hash.
 
 ## Out of Scope (do NOT build until explicitly tasked)
 
-- Risk engine (repeat-violator, supply-chain join)
 - Agent / LLM orchestration beyond PDF fallback
 - Streamlit dashboard
 - FastAPI service
