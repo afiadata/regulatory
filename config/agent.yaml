@@ -1,0 +1,31 @@
+version: "1.0"
+
+models:
+  primary: claude-sonnet-4-6
+  fallback: claude-haiku-4-5-20251001
+  # If --live eval surfaces accuracy issues (hallucinated citations, missed caveats,
+  # refusal bypasses), bump primary to claude-opus-4-8. Do not bump preemptively.
+
+generation:
+  max_tokens_per_turn: 4096
+  temperature: 0.0
+
+budgets:
+  tool_calls_per_turn: 8
+  tokens_per_turn: 10000
+  tokens_per_conversation: 50000
+  cost_per_conversation_usd: 0.50
+  cost_per_day_usd: 5.0
+  budget_remaining_threshold_usd: 0.10
+
+# Approximate token prices used for cost_usd_estimate in agent_audit_log.
+# Update when Anthropic publishes new pricing.
+model_pricing_usd_per_million_tokens:
+  claude-sonnet-4-6:
+    input: 3.00
+    output: 15.00
+  claude-haiku-4-5-20251001:
+    input: 0.80
+    output: 4.00
+
+system_prompt_path: src/regulatory/agent/templates/system_prompt.md

@@ -60,6 +60,9 @@ db_app = typer.Typer(help="Database management commands.")
 manufacturers_app = typer.Typer(help="Manufacturer canonicalization commands.")
 procurement_app = typer.Typer(help="Procurement data management.")
 risk_app = typer.Typer(help="Risk signal detection and management.")
+agent_app = typer.Typer(help="Natural-language agent over the risk corpus.")
+agent_audit_app = typer.Typer(help="Audit log queries.")
+agent_eval_app = typer.Typer(help="Evaluation commands.")
 
 app.add_typer(sources_app, name="sources")
 app.add_typer(ingest_app, name="ingest")
@@ -67,6 +70,9 @@ app.add_typer(db_app, name="db")
 app.add_typer(manufacturers_app, name="manufacturers")
 app.add_typer(procurement_app, name="procurement")
 app.add_typer(risk_app, name="risk")
+app.add_typer(agent_app, name="agent")
+agent_app.add_typer(agent_audit_app, name="audit")
+agent_app.add_typer(agent_eval_app, name="eval")
 
 
 # ---------------------------------------------------------------------------
@@ -684,6 +690,176 @@ def risk_suppress(
         typer.echo(f"Signal {signal_id[:8]}... suppressed.")
 
     asyncio.run(_run())
+
+
+# ---------------------------------------------------------------------------
+# regulatory agent ask / chat / audit / eval
+# ---------------------------------------------------------------------------
+
+
+def _get_agent_runner(conversation_id: uuid.UUID | None = None) -> "AgentRunner":  # noqa: F821
+    """Acquire API key, build runner, return it.
+
+    Imported lazily so the CLI doesn't fail at import time if anthropic isn't
+    installed or a key isn't present in non-LLM commands.
+    """
+    from regulatory.agent.key_handling import acquire_api_key
+    from regulatory.agent.runner import AgentRunner, _load_agent_config
+
+    config = _load_agent_config()
+    fallback = config.get("models", {}).get("fallback", "claude-haiku-4-5-20251001")
+    api_key = acquire_api_key(fallback_model=fallback)
+    return AgentRunner(api_key=api_key, config=config, conversation_id=conversation_id)
+
+
+@agent_app.command("ask")
+def agent_ask(
+    question: str = typer.Argument(..., help="Question to ask the agent."),
+) -> None:
+    """Ask the agent a single question and print the response."""
+    runner = _get_agent_runner()
+    response = asyncio.run(runner.run_turn(question))
+    typer.echo(response)
+
+
+@agent_app.command("chat")
+def agent_chat(
+    conversation_id_str: str | None = typer.Option(
+        None,
+        "--conversation-id",
+        hidden=True,
+        help=(
+            "Start a new session linked to this audit conversation_id. "
+            "Does NOT resume prior conversation; for forensics only."
+        ),
+    ),
+) -> None:
+    """Run an interactive multi-turn chat session (type /quit or Ctrl-D to exit)."""
+    conv_id: uuid.UUID | None = None
+    if conversation_id_str is not None:
+        try:
+            conv_id = uuid.UUID(conversation_id_str)
+        except ValueError:
+            typer.echo(f"Invalid conversation-id: {conversation_id_str!r}", err=True)
+            raise typer.Exit(1)
+
+    runner = _get_agent_runner(conversation_id=conv_id)
+    typer.echo(
+        f"AfiaData Regulatory Agent  (conversation: {runner.conversation_id})\n"
+        "Type /quit or press Ctrl-D to exit.\n"
+    )
+    while True:
+        try:
+            user_input = typer.prompt("You")
+        except (EOFError, KeyboardInterrupt):
+            typer.echo("\nExiting.")
+            break
+        if user_input.strip().lower() in {"/quit", "/exit", "/q"}:
+            typer.echo("Goodbye.")
+            break
+        if not user_input.strip():
+            continue
+        response = asyncio.run(runner.run_turn(user_input))
+        typer.echo(f"\nAgent: {response}\n")
+
+
+@agent_audit_app.command("list")
+def audit_list(
+    conversation_id_str: str | None = typer.Option(
+        None, "--conversation-id", help="Filter to one conversation."
+    ),
+    since_str: str | None = typer.Option(None, "--since", help="ISO date lower bound."),
+    limit: int = typer.Option(50, "--limit", help="Max rows to show."),
+) -> None:
+    """List recent audit log events."""
+    from regulatory.agent.audit import list_audit_events
+    from regulatory.db.session import get_session
+
+    conv_id: uuid.UUID | None = None
+    if conversation_id_str:
+        conv_id = uuid.UUID(conversation_id_str)
+    since_date = date.fromisoformat(since_str) if since_str else None
+
+    async def _run() -> None:
+        async with get_session() as session:
+            events = await list_audit_events(
+                session, conversation_id=conv_id, since=since_date, limit=limit
+            )
+        if not events:
+            typer.echo("No audit events found.")
+            return
+        typer.echo(f"\n{'ID':8} {'Conv':8} {'Turn':4} {'TS':22} {'Type':16} Summary")
+        typer.echo("-" * 100)
+        for ev in events:
+            typer.echo(
+                f"{ev['id'][:8]} {str(ev['conversation_id'])[:8]} "
+                f"{ev['turn_index']:4} {str(ev['ts'])[:22]:22} "
+                f"{ev['event_type']:16} {ev['payload_summary']}"
+            )
+
+    asyncio.run(_run())
+
+
+@agent_audit_app.command("show")
+def audit_show(event_id: str = typer.Argument(..., help="Audit event UUID.")) -> None:
+    """Show full details for an audit event."""
+    import json as _json
+
+    from regulatory.agent.audit import get_audit_event
+    from regulatory.db.session import get_session
+
+    async def _run() -> None:
+        async with get_session() as session:
+            ev = await get_audit_event(session, uuid.UUID(event_id))
+        if ev is None:
+            typer.echo(f"Event not found: {event_id}", err=True)
+            raise typer.Exit(1)
+        typer.echo(_json.dumps(ev, indent=2, default=str))
+
+    asyncio.run(_run())
+
+
+@agent_audit_app.command("cost")
+def audit_cost(
+    since_str: str | None = typer.Option(None, "--since", help="ISO date lower bound."),
+) -> None:
+    """Show aggregate cost statistics."""
+    from regulatory.agent.audit import aggregate_cost
+    from regulatory.db.session import get_session
+
+    since_date = date.fromisoformat(since_str) if since_str else None
+
+    async def _run() -> None:
+        async with get_session() as session:
+            stats = await aggregate_cost(session, since=since_date)
+        typer.echo(f"\nConversations : {stats['conversation_count']}")
+        typer.echo(f"Total cost    : ${stats['total_cost_usd']}")
+        typer.echo(f"Input tokens  : {stats['total_tokens_input']:,}")
+        typer.echo(f"Output tokens : {stats['total_tokens_output']:,}")
+
+    asyncio.run(_run())
+
+
+@agent_eval_app.command("run")
+def eval_run(
+    live: bool = typer.Option(
+        False,
+        "--live",
+        help=(
+            "Run against the real Anthropic API (costs money). "
+            "Requires ANTHROPIC_API_KEY or interactive prompt. "
+            "Writes transcripts to tests/agent/eval_transcripts/."
+        ),
+    ),
+) -> None:
+    """Run the golden QA eval suite.
+
+    Default mode replays committed transcripts (no API cost). Use --live to
+    run against the real API and capture new transcripts.
+    """
+    from regulatory.agent.eval import run_eval
+
+    asyncio.run(run_eval(live=live))
 
 
 if __name__ == "__main__":

@@ -43,3 +43,8 @@ htmlcov/
 # Data
 *.csv
 *.json
+
+# Agent secrets and live eval transcripts
+**/secrets.env
+**/*.api_key
+tests/agent/eval_transcripts/*_live.jsonl

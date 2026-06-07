@@ -385,3 +385,33 @@ class RiskSignalEvent(Base):
     )
 
     signal: Mapped[RiskSignal] = relationship("RiskSignal", back_populates="events")
+
+
+class AgentAuditLog(Base):
+    """Append-only audit log for every agent tool call and final response.
+
+    No UPDATE or DELETE is granted to any role; see migration 0007 and
+    scripts/ops/create_agent_roles.sql for the INSERT-only grant structure.
+    """
+
+    __tablename__ = "agent_audit_log"
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    conversation_id: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True), nullable=False, index=True
+    )
+    turn_index: Mapped[int] = mapped_column(Integer, nullable=False)
+    ts: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        nullable=False,
+        default=lambda: datetime.now(tz=timezone.utc),
+    )
+    event_type: Mapped[str] = mapped_column(
+        String(32), nullable=False
+    )  # user_message | tool_call | tool_result | agent_response | refusal | error
+    payload: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False, default=dict)
+    model_id: Mapped[str | None] = mapped_column(Text, nullable=True)
+    tokens_input: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    tokens_output: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    cost_usd_estimate: Mapped[Any | None] = mapped_column(Numeric(10, 6), nullable=True)
+    config_version: Mapped[str | None] = mapped_column(String(32), nullable=True)
