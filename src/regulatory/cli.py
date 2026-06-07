@@ -31,6 +31,10 @@ import os
 import uuid
 from datetime import date, datetime, timezone
 from pathlib import Path
+from typing import TYPE_CHECKING
+
+if TYPE_CHECKING:
+    from regulatory.agent.runner import AgentRunner
 
 import structlog
 import typer
@@ -697,7 +701,7 @@ def risk_suppress(
 # ---------------------------------------------------------------------------
 
 
-def _get_agent_runner(conversation_id: uuid.UUID | None = None) -> "AgentRunner":  # noqa: F821
+def _get_agent_runner(conversation_id: uuid.UUID | None = None) -> AgentRunner:
     """Acquire API key, build runner, return it.
 
     Imported lazily so the CLI doesn't fail at import time if anthropic isn't
@@ -739,9 +743,9 @@ def agent_chat(
     if conversation_id_str is not None:
         try:
             conv_id = uuid.UUID(conversation_id_str)
-        except ValueError:
+        except ValueError as exc:
             typer.echo(f"Invalid conversation-id: {conversation_id_str!r}", err=True)
-            raise typer.Exit(1)
+            raise typer.Exit(1) from exc
 
     runner = _get_agent_runner(conversation_id=conv_id)
     typer.echo(

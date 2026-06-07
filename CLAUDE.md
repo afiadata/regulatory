@@ -236,3 +236,36 @@ the hash.
      filename collision handling, tolerated request cadence) that the new code inherits.
 - **Do not remove these files** until the new adapters (`openfda_drug`, `ppb_ke_alerts`)
   have run cleanly in production for a reasonable period. See `scripts/legacy/README.md`.
+
+---
+
+## Agent
+
+The Claude-powered natural-language agent lives in `src/regulatory/agent/`. It wraps the risk
+engine with a 6-tool read-only interface and returns evidence-cited answers.
+
+### Key docs
+- `docs/agent.md` — architecture, tool surface, prompt design, how to add tools
+- `docs/agent_security.md` — prompt-injection defences, audit log schema, threat model
+- `docs/agent_costs.md` — budgets, model selection, fallback behaviour, how to configure
+
+### CLI
+```bash
+regulatory agent ask "what's our exposure to ..."
+regulatory agent chat
+regulatory agent audit list [--conversation-id <uuid>]
+regulatory agent eval run            # replay committed transcripts
+regulatory agent eval run --live     # real API (costs money, requires key)
+```
+
+### Models (as of 2026-06-07)
+- Primary: `claude-sonnet-4-6`
+- Fallback: `claude-haiku-4-5-20251001`
+
+Model IDs are configured in `config/agent.yaml`; do not hardcode in source.
+
+### Out of scope (do NOT build until explicitly tasked)
+- HTTP / FastAPI service
+- Dashboard / Streamlit / web frontend
+- Cross-session conversation memory
+- Agent-initiated writes of any kind

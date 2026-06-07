@@ -225,8 +225,8 @@ async def list_risk_signals(
         summaries.append(
             RiskSignalSummary(
                 signal_id=str(sig.id),
-                kind=sig.kind,  # type: ignore[arg-type]
-                severity=sig.severity,  # type: ignore[arg-type]
+                kind=sig.kind,
+                severity=sig.severity,
                 manufacturer_canonical_name=mfr_name,
                 active_ingredient=sig.active_ingredient,
                 regions=list(sig.regions_affected or []),
@@ -277,7 +277,8 @@ async def get_risk_signal(session: AsyncSession, *, signal_id: str) -> RiskSigna
         evidence_docs = list(result.scalars().all())
 
     inflation_likely = _compute_count_inflation_likely(sig, evidence_docs)
-    data_provenance: dict[str, Any] | None = sig.evidence.get("data_provenance")  # type: ignore[assignment]
+    raw_prov = sig.evidence.get("data_provenance")
+    data_provenance: dict[str, Any] | None = raw_prov if isinstance(raw_prov, dict) else None
 
     return RiskSignalDetail(
         signal_id=str(sig.id),
@@ -393,8 +394,8 @@ async def manufacturer_profile(
     signal_summaries = [
         RiskSignalSummary(
             signal_id=str(s.id),
-            kind=s.kind,  # type: ignore[arg-type]
-            severity=s.severity,  # type: ignore[arg-type]
+            kind=s.kind,
+            severity=s.severity,
             manufacturer_canonical_name=mfr.canonical_name,
             active_ingredient=s.active_ingredient,
             regions=list(s.regions_affected or []),

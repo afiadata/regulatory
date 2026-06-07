@@ -18,7 +18,7 @@ import traceback
 import uuid as _uuid_mod
 from decimal import Decimal
 from pathlib import Path
-from typing import Any
+from typing import Any, cast
 
 import anthropic
 import structlog
@@ -282,7 +282,7 @@ class AgentRunner:
                     temperature=self._temperature,
                     system=self._system_prompt,
                     tools=agent_tools.TOOL_DEFINITIONS,  # type: ignore[arg-type]
-                    messages=messages,
+                    messages=cast(Any, messages),
                 )
 
                 usage = response.usage
@@ -361,7 +361,7 @@ class AgentRunner:
                         continue
 
                     tool_calls_used += 1
-                    tool_input: dict[str, Any] = dict(block.input)  # type: ignore[arg-type]
+                    tool_input: dict[str, Any] = dict(cast(Any, block.input))
 
                     # Log tool call.
                     await self._write_audit(

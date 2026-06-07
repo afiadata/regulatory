@@ -8,6 +8,53 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Added — NL Agent (feat/nl-agent)
+
+**Schema**
+- `agent_audit_log` table — append-only audit log for every tool call and response (migration 0007)
+- `REVOKE ALL` from PUBLIC + `GRANT INSERT` to `regulatory_agent_writer`, `GRANT SELECT` to `regulatory_ops`
+
+**Agent source** (`src/regulatory/agent/`)
+- `models.py` — 8 Pydantic response types (RiskSignalListResponse, RiskSignalDetail, ManufacturerProfile, CountyExposure, DocumentSearchResponse, DocumentDetail, etc.)
+- `sanitize.py` — control-char stripping, `<untrusted_content>` wrapping, pagination (8000-char pages)
+- `tools.py` — 6 read-only tools: `list_risk_signals`, `get_risk_signal`, `manufacturer_profile`, `county_exposure`, `search_documents`, `get_document`
+- `prompts.py` + `templates/system_prompt.md` — static system prompt with runtime substitutions (corpus dates, rule version, tool budget)
+- `runner.py` — AgentRunner: API loop, tool dispatch, budget enforcement (tool/token/cost/daily), model fallback, audit writes
+- `audit.py` — audit log query helpers for CLI
+- `key_handling.py` — ANTHROPIC_API_KEY detection, `getpass` prompt, validation, optional persistence to `~/.config/regulatory/secrets.env` (chmod 600)
+- `eval.py` — golden QA eval runner (recorded transcript replay + live mode)
+
+**CLI** (`regulatory agent ...`)
+- `regulatory agent ask <question>` — single-turn query
+- `regulatory agent chat` — multi-turn interactive REPL
+- `regulatory agent audit list/show/cost` — forensic audit access
+- `regulatory agent eval run [--live]` — golden QA evaluation
+
+**Config**
+- `config/agent.yaml` — models (`claude-sonnet-4-6` primary, `claude-haiku-4-5-20251001` fallback), budgets, pricing table
+
+**Ops**
+- `scripts/ops/create_agent_roles.sql` — creates `regulatory_agent_writer` and `regulatory_ops` Postgres roles
+
+**Tests** (`tests/agent/`)
+- Layer 1 unit tests: tool functions, sanitization, validation, prompt assembly (44 tests)
+- Layer 2 integration: budget enforcement, runner budget paths, cost estimation (18 tests)
+- Layer 3 adversarial: 12+ prompt injection attack patterns (structural defence verified)
+- Layer 4 security: bandit static check, audit log INSERT-only, tool table restrictions
+- Layer 5 API key: 12 tests including sentinel-not-in-logs, cost-confirm guard, non-TTY exit-2
+- `tests/agent/golden_qa.yaml` — 40 representative Q&A pairs across 7 categories
+
+**Docs**
+- `docs/agent.md`, `docs/agent_security.md`, `docs/agent_costs.md`
+- `docs/followup_issues/recall_event_clustering.md` (backfilled from risk-engine closeout)
+- `CLAUDE.md` Agent section
+
+**Dependencies**
+- `anthropic>=0.40.0` (was `>=0.34.2`)
+- `bandit>=1.7.9` (dev; for security static analysis)
+
+---
+
 ### Added — Risk Engine (feat/risk-engine)
 
 **Schema**

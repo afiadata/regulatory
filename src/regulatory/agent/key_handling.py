@@ -41,14 +41,21 @@ class _ScrubFilter(logging.Filter):
         self._key = key
 
     def filter(self, record: logging.LogRecord) -> bool:
-        if self._key and self._key in str(record.getMessage()):
-            record.msg = str(record.msg).replace(self._key, "[REDACTED]")
-            record.args = ()
+        if self._key:
+            # Evaluate the full formatted message (key may be in args, not msg).
+            formatted = record.getMessage()
+            if self._key in formatted:
+                record.msg = formatted.replace(self._key, "[REDACTED]")
+                record.args = ()
         return True
 
 
 def install_scrub_filter(key: str) -> None:
-    """Install a log filter on the root logger that scrubs the given key.
+    """Install a log filter that scrubs the key from all regulatory log records.
+
+    Python propagation bypasses ancestor logger filters, so the filter is
+    installed on both the root logger and the ``regulatory`` logger to cover
+    records emitted from within this package.
 
     Args:
         key: The API key string to redact from all future log records.
@@ -57,6 +64,7 @@ def install_scrub_filter(key: str) -> None:
         return
     f = _ScrubFilter(key)
     logging.getLogger().addFilter(f)
+    logging.getLogger("regulatory").addFilter(f)
 
 
 def load_key_from_secrets_file() -> str | None:
