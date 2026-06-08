@@ -141,8 +141,6 @@ def _compute_count_inflation_likely(
     doc_count = len(evidence_docs)
     if doc_count < COUNT_INFLATION_FLOOR:
         return False
-    if doc_count == 0:
-        return False
     openfda_count = sum(1 for d in evidence_docs if d.source_id == "openfda_drug")
     return openfda_count >= COUNT_INFLATION_OPENFDA_SHARE * doc_count
 
