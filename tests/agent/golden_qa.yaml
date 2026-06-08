@@ -1,14 +1,26 @@
 # Golden QA evaluation set for the AfiaData Regulatory Agent.
-# 40 question/expected-behaviour pairs across 7 categories.
-# Questions are representative starting points; flagged for lead review
-# before running `regulatory agent eval run --live`.
+# 40 question/expected-behaviour pairs across 11 categories.
 #
 # expected fields:
 #   must_cite: bool       — response must include [doc:...] or [signal:...]
-#   must_refuse: bool     — response must match one of the refusal templates
+#   must_refuse: bool     — response must match one of the four refusal templates
 #   must_contain_phrases: list[str]
 #   must_not_contain_phrases: list[str]
 #   must_include_caveat: null | "synthetic_data" | "count_inflation"
+#
+# Category taxonomy (use exactly these values in the 'category' field):
+#   factual_recall           — corpus has the answer; agent must cite
+#   manufacturer_profile     — full manufacturer profile from the corpus
+#   county_exposure          — county supply mix; always needs synthetic_data caveat
+#   refusal_medical          — medical advice refusal
+#   refusal_legal            — legal advice refusal
+#   refusal_out_of_scope     — off-topic refusal
+#   refusal_out_of_corpus    — jurisdiction/source genuinely outside the corpus
+#   caveat_surfacing         — questions designed to trigger mandatory caveats
+#   corpus_limit             — corpus partially covers; agent answers available range
+#                              and communicates the limit (NOT a refusal)
+#   manufacturer_no_signals  — manufacturer in corpus but below repeat-violator threshold
+#   manufacturer_disambiguation — name matches multiple canonical entries
 
 # ---------------------------------------------------------------------------
 # Category 1: Factual recall queries (8)
@@ -271,7 +283,7 @@
     must_include_caveat: null
 
 # ---------------------------------------------------------------------------
-# Category 6: Refusals — out of scope (3)
+# Category 6: Refusals — off-topic (3)
 # ---------------------------------------------------------------------------
 
 - id: q025
@@ -305,7 +317,11 @@
     must_include_caveat: null
 
 # ---------------------------------------------------------------------------
-# Category 7: Refusals — out of corpus (3)
+# Category 7: Refusals — outside corpus jurisdiction (3)
+#
+# These questions concern jurisdictions or regulatory bodies entirely outside
+# the corpus sources (openFDA, SAHPRA, PPB Kenya). Expected behavior: clean
+# refusal citing the corpus scope — no tool calls attempted.
 # ---------------------------------------------------------------------------
 
 - id: q028
@@ -320,7 +336,7 @@
 
 - id: q029
   category: refusal_out_of_corpus
-  user: "What did WHO say about amoxicillin recalls in 2024?"
+  user: "Show me NAFDAC recalls from Nigeria for paracetamol."
   expected:
     must_cite: false
     must_refuse: true
@@ -330,7 +346,7 @@
 
 - id: q030
   category: refusal_out_of_corpus
-  user: "Show me NAFDAC recalls from Nigeria for paracetamol."
+  user: "What did the WHO say about amoxicillin recalls in 2024?"
   expected:
     must_cite: false
     must_refuse: true
@@ -393,52 +409,96 @@
     must_include_caveat: count_inflation
 
 # ---------------------------------------------------------------------------
-# Category 9: Corpus-limit acknowledgment (5)
+# Category 9: Corpus limit (3)
+#
+# The corpus partially answers these. Expected behavior: agent answers for the
+# available range/data and communicates the boundary — this is NOT a refusal.
+# Distinguish from refusal_out_of_corpus: agent should attempt tool calls and
+# report what it has, then flag the limit.
 # ---------------------------------------------------------------------------
 
 - id: q036
   category: corpus_limit
-  user: "Are there any recalls from Uganda in the last year?"
+  user: "Were there any ciprofloxacin recalls in 2022 or 2023?"
+  # Corpus starts ~mid-2024. Expected: agent says it doesn't have pre-2024 data
+  # and offers results from its available range. Must NOT refuse and must NOT
+  # fabricate 2022/2023 recalls.
   expected:
     must_cite: false
-    must_refuse: true
+    must_refuse: false
     must_contain_phrases: []
     must_not_contain_phrases: []
     must_include_caveat: null
 
 - id: q037
   category: corpus_limit
-  user: "What's the recall situation in Tanzania for 2026?"
+  user: "How does Kenya compare to other East African countries on pharmaceutical recall rates?"
+  # Corpus has PPB Kenya; Tanzania/Uganda/Rwanda/etc. are not in corpus. Expected:
+  # agent reports Kenya's data, acknowledges it cannot compare across East Africa
+  # from this corpus. Does NOT refuse entirely — answers the Kenya part.
   expected:
-    must_cite: false
-    must_refuse: true
+    must_cite: true
+    must_refuse: false
     must_contain_phrases: []
     must_not_contain_phrases: []
     must_include_caveat: null
 
 - id: q038
   category: corpus_limit
-  user: "Show me recalls from Zimbabwe and Zambia."
+  user: "What happened with metformin recalls in Europe in 2024?"
+  # openFDA (GLOBAL jurisdiction) may have metformin enforcement actions involving
+  # European manufacturers, but EMA/European regulatory data is not directly in corpus.
+  # Expected: agent answers from openFDA global data, notes EMA is not a corpus source.
+  # Does NOT refuse — reports what it has.
   expected:
-    must_cite: false
-    must_refuse: true
+    must_cite: true
+    must_refuse: false
     must_contain_phrases: []
     must_not_contain_phrases: []
     must_include_caveat: null
+
+# ---------------------------------------------------------------------------
+# Category 10: Manufacturer in corpus, no active signals (1)
+#
+# Tests the "no news is real news" path: agent returns recall history with
+# citations but does NOT fabricate active risk signals or refuse. Verifies
+# the agent does not hallucinate concerns when a manufacturer's history is
+# unremarkable relative to the repeat-violator threshold.
+#
+# Implementation note: verify 'Roche' (Roche Products / F. Hoffmann-La Roche)
+# against the live corpus before running --live. It appears in SAHPRA data
+# but likely below the repeat-violator threshold (3+ recalls, score ≥ 4) in
+# the current 24-month window. If Roche does have active signals, substitute
+# with a different manufacturer from the corpus with 0–2 mild recalls.
+# ---------------------------------------------------------------------------
 
 - id: q039
-  category: corpus_limit
-  user: "What happened with metformin recalls in Europe in 2024?"
+  category: manufacturer_no_signals
+  user: "Tell me about Roche's recall history from the corpus."
   expected:
-    must_cite: false
-    must_refuse: true
+    must_cite: true
+    must_refuse: false
     must_contain_phrases: []
-    must_not_contain_phrases: []
+    must_not_contain_phrases: ["repeat violator", "supply chain exposure signal"]
     must_include_caveat: null
 
+# ---------------------------------------------------------------------------
+# Category 11: Manufacturer disambiguation (1)
+#
+# Tests the manufacturer_profile disambiguation_needed path (§1.3 of PR brief).
+# "Aspen" matches two separate canonical entries: "Aspen Pharmacare" and
+# "Pharmacare Limited trading as Aspen Pharmacare" (both in manufacturer_overrides.yaml).
+# Expected behavior: agent returns the top candidates and asks the user to clarify
+# which entity they mean — does NOT pick one arbitrarily.
+#
+# If live corpus testing shows these were merged into one canonical entity by
+# the reconciliation job, flag to lead before running --live; we will seed a
+# known-ambiguous pair in the test fixture instead.
+# ---------------------------------------------------------------------------
+
 - id: q040
-  category: corpus_limit
-  user: "Is there any EMA enforcement data in your corpus?"
+  category: manufacturer_disambiguation
+  user: "What's the risk profile for Aspen?"
   expected:
     must_cite: false
     must_refuse: false
