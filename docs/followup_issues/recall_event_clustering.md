@@ -8,14 +8,14 @@ The repeat-violator rule counts `documents` rows (enforcement filings), not the 
 
 ## Observed extremes (2026-05-18 corpus snapshot)
 
-| Manufacturer | Doc count | Recall number cluster | Likely true events |
-|---|---|---|---|
-| GenoGenix LLC | 57 | D-0038-2026 → D-0094-2026 (all 57 consecutive) | ~1 |
-| GOLD STAR DISTRIBUTION INC | 27 | D-0261-2026 → D-0287-2026 (all 27 consecutive) | ~1 |
-| Glenmark Pharmaceuticals | 95 | 73 of 94 gaps ≤ 3 recall_numbers; multiple clusters | ~5–10 |
-| ACME UNITED CORPORATION | 22 | 21 consecutive (D-0358–D-0378) + 1 earlier | ~2 |
+| Manufacturer | Doc count | Recall number cluster | Likely true events | In risk engine? |
+|---|---|---|---|---|
+| GenoGenix LLC | 57 | D-0038-2026 → D-0094-2026 (all 57 consecutive) | ~1 | **No** — canonicalization gap; see [canonicalization_drops_genogenix.md](canonicalization_drops_genogenix.md) |
+| GOLD STAR DISTRIBUTION INC | 27 | D-0261-2026 → D-0287-2026 (all 27 consecutive) | ~1 | Yes |
+| Glenmark Pharmaceuticals | 95 | 73 of 94 gaps ≤ 3 recall_numbers; multiple clusters | ~5–10 | Yes |
+| ACME UNITED CORPORATION | 22 | 21 consecutive (D-0358–D-0378) + 1 earlier | ~2 | Yes |
 
-All four appear as repeat violators in the risk engine. GenoGenix LLC and Gold Star Distribution are likely single-event outliers that crossed the high/critical threshold solely due to filing granularity.
+Gold Star Distribution, Glenmark, and ACME appear as repeat violators in the risk engine. GenoGenix LLC has 57 documents in the `documents` table but was not canonicalized into the `manufacturers` table, so no risk signal exists for it. Gold Star and ACME are likely single-event outliers that crossed the high/critical threshold solely due to filing granularity.
 
 ## Impact
 
