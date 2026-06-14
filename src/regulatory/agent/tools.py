@@ -571,14 +571,17 @@ async def search_documents(
     effective_limit = min(max(1, limit), _MAX_DOCS_LIMIT)
 
     # Build tsquery from websearch_to_tsquery (more forgiving than to_tsquery).
+    # Title is concatenated with raw_text so that PPB Kenya docs (sparse raw_text,
+    # keyword-rich titles) are reachable by content terms like "recall".
     ts_expr = func.websearch_to_tsquery("english", clean_query)
-    ts_rank = func.ts_rank(func.to_tsvector("english", Document.raw_text), ts_expr)
+    ts_vec = func.to_tsvector(
+        "english", func.concat_ws(" ", Document.title, Document.raw_text)
+    )
+    ts_rank = func.ts_rank(ts_vec, ts_expr)
 
     q = (
         select(Document, ts_rank.label("rank"))
-        .where(
-            func.to_tsvector("english", Document.raw_text).op("@@")(ts_expr)
-        )
+        .where(ts_vec.op("@@")(ts_expr))
         .order_by(ts_rank.desc())
     )
     if source_id is not None:
