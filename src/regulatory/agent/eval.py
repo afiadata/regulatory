@@ -20,6 +20,8 @@ log = structlog.get_logger(__name__)
 _GOLDEN_QA_PATH = Path(__file__).parents[3] / "tests" / "agent" / "golden_qa.yaml"
 _TRANSCRIPTS_DIR = Path(__file__).parents[3] / "tests" / "agent" / "eval_transcripts"
 
+_MAX_CONSECUTIVE_ERRORS: int = 3
+
 
 def _load_golden_qa() -> list[dict[str, Any]]:
     """Load golden_qa.yaml."""
@@ -40,9 +42,7 @@ def _find_latest_transcript() -> Path | None:
     return None
 
 
-def _check_response(
-    response: str, expected: dict[str, Any]
-) -> tuple[bool, list[str]]:
+def _check_response(response: str, expected: dict[str, Any]) -> tuple[bool, list[str]]:
     """Evaluate a response against expected behaviour.
 
     Args:
@@ -88,6 +88,28 @@ def _check_response(
     return len(failures) == 0, failures
 
 
+async def _preflight_db_check() -> None:
+    """Verify DB is reachable before starting the eval.
+
+    Without this check, a Docker outage produces identical connection-error
+    'responses' that the per-question pass/fail logic evaluates against,
+    producing meaningless results from a run that never made an API call.
+    """
+    from sqlalchemy import text
+
+    from regulatory.db.session import get_session
+
+    try:
+        async with get_session() as session:
+            await session.execute(text("SELECT 1"))
+    except Exception as exc:
+        raise RuntimeError(
+            f"Database connection failed: {exc}\n"
+            "Ensure Postgres is running (Docker container started, "
+            "DATABASE_URL correct, port reachable) and re-run."
+        ) from exc
+
+
 async def run_eval(*, live: bool = False) -> None:
     """Run the golden QA eval suite.
 
@@ -111,11 +133,13 @@ async def run_eval(*, live: bool = False) -> None:
         _run_recorded(questions, transcript_path)
         return
 
-    # Live mode — requires API key.
+    # Live mode — requires API key and healthy DB.
     import uuid
 
     from regulatory.agent.key_handling import acquire_api_key
     from regulatory.agent.runner import AgentRunner, _load_agent_config
+
+    await _preflight_db_check()
 
     config = _load_agent_config()
     models = config.get("models", {})
@@ -147,9 +171,10 @@ async def run_eval(*, live: bool = False) -> None:
         print("Aborted.")
         return
 
-
     results: list[dict[str, Any]] = []
     transcripts: list[dict[str, Any]] = []
+    consecutive_errors = 0
+    aborted = False
 
     for q in questions:
         runner = AgentRunner(
@@ -159,11 +184,31 @@ async def run_eval(*, live: bool = False) -> None:
         )
         try:
             response = await runner.run_turn(q["user"])
+            consecutive_errors = 0
         except Exception as exc:
-            response = f"[ERROR: {exc}]"
+            consecutive_errors += 1
+            log.error("eval_question_error", qid=q["id"], error=str(exc))
+            err_result: dict[str, Any] = {
+                "id": q["id"],
+                "category": q.get("category"),
+                "user": q["user"],
+                "errored": True,
+                "error": str(exc),
+            }
+            results.append(err_result)
+            transcripts.append({**err_result, "response": ""})
+            print(f"  [ERROR] {q['id']}: {str(exc)[:80]}")
+            if consecutive_errors >= _MAX_CONSECUTIVE_ERRORS:
+                aborted = True
+                print(
+                    f"\nEval ABORTED after {_MAX_CONSECUTIVE_ERRORS} consecutive errors. "
+                    f"Last error: {exc}"
+                )
+                break
+            continue
 
         passed, failures = _check_response(response, q.get("expected", {}))
-        result = {
+        result: dict[str, Any] = {
             "id": q["id"],
             "category": q.get("category"),
             "user": q["user"],
@@ -184,9 +229,7 @@ async def run_eval(*, live: bool = False) -> None:
     import subprocess
 
     try:
-        sha = subprocess.check_output(
-            ["git", "rev-parse", "--short", "HEAD"], text=True
-        ).strip()
+        sha = subprocess.check_output(["git", "rev-parse", "--short", "HEAD"], text=True).strip()
     except Exception:
         sha = "unknown"
 
@@ -196,32 +239,42 @@ async def run_eval(*, live: bool = False) -> None:
             fh.write(json.dumps(t) + "\n")
 
     summary_file = _TRANSCRIPTS_DIR / f"{sha}_summary.json"
-    passed_count = sum(1 for r in results if r["passed"])
+    passed_count = sum(1 for r in results if r.get("passed", False))
+    failed_count = sum(
+        1 for r in results if not r.get("passed", False) and not r.get("errored", False)
+    )
+    errored_count = sum(1 for r in results if r.get("errored", False))
+    scored_count = passed_count + failed_count
+    pass_rate = f"{passed_count / scored_count * 100:.1f}%" if scored_count else "N/A"
+
     with summary_file.open("w", encoding="utf-8") as fh:
         json.dump(
             {
                 "commit": sha,
-                "total": len(results),
+                "total": len(questions),
+                "scored": scored_count,
                 "passed": passed_count,
-                "failed": len(results) - passed_count,
-                "pass_rate": f"{passed_count / len(results) * 100:.1f}%",
+                "failed": failed_count,
+                "errored": errored_count,
+                "aborted": aborted,
+                "pass_rate": pass_rate,
                 "results": results,
             },
             fh,
             indent=2,
         )
 
-    print(
-        f"\nEval complete: {passed_count}/{len(results)} passed "
-        f"({passed_count / len(results) * 100:.1f}%)"
-    )
+    summary_line = f"\nEval complete: {passed_count}/{scored_count} passed ({pass_rate})"
+    if errored_count:
+        summary_line += f", {errored_count} errored"
+    if aborted:
+        summary_line += " [ABORTED]"
+    print(summary_line)
     print(f"Transcripts: {transcript_file}")
     print(f"Summary:     {summary_file}")
 
 
-def _run_recorded(
-    questions: list[dict[str, Any]], transcript_path: Path
-) -> None:
+def _run_recorded(questions: list[dict[str, Any]], transcript_path: Path) -> None:
     """Replay a committed transcript and report pass/fail.
 
     Args:
@@ -244,6 +297,9 @@ def _run_recorded(
         entry = transcripts.get(qid)
         if entry is None:
             print(f"  [SKIP] {qid}: no transcript")
+            continue
+        if entry.get("errored"):
+            print(f"  [ERROR] {qid}: {entry.get('error', 'unknown error')}")
             continue
         response = entry.get("response", "")
         ok, failures = _check_response(response, q.get("expected", {}))

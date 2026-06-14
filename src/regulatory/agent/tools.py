@@ -459,9 +459,11 @@ async def county_exposure(
 
     supply_rows = list((await session.execute(supply_q)).all())
 
-    # Identify suppliers with active signals.
+    # Identify suppliers with active signals; collect signal IDs for agent citation.
     flagged_supplier_names: list[str] = []
     flagged_supplier_ids: set[_uuid_mod.UUID] = set()
+    supplier_signal_ids: dict[_uuid_mod.UUID, list[str]] = {}
+    flagged_supplier_signal_ids: list[str] = []
     for _cs, supplier in supply_rows:
         if supplier.manufacturer_id is not None:
             sig_result = await session.execute(
@@ -471,10 +473,16 @@ async def county_exposure(
                     RiskSignal.kind.in_(["repeat_violator", "supply_chain_exposure"]),
                 )
             )
-            if sig_result.scalars().first() is not None:
+            active_sigs = list(sig_result.scalars().all())
+            if active_sigs:
                 flagged_supplier_ids.add(supplier.id)
                 if supplier.name not in flagged_supplier_names:
                     flagged_supplier_names.append(supplier.name)
+                sig_ids = [str(s.id) for s in active_sigs]
+                supplier_signal_ids[supplier.id] = sig_ids
+                for sid in sig_ids:
+                    if sid not in flagged_supplier_signal_ids:
+                        flagged_supplier_signal_ids.append(sid)
 
     # Alternative supplier counts per ingredient.
     alt_counts: dict[str, int] = {}
@@ -512,6 +520,7 @@ async def county_exposure(
             contract_end=cs.contract_end,
             data_source=cs.data_source,
             has_active_signal=supplier.id in flagged_supplier_ids,
+            active_signal_ids=supplier_signal_ids.get(supplier.id, []),
         )
         for cs, supplier in supply_rows
     ]
@@ -523,6 +532,7 @@ async def county_exposure(
         health_facilities=county_obj.health_facilities,
         supply_mix=mix_rows,
         flagged_supplier_names=flagged_supplier_names,
+        flagged_supplier_signal_ids=flagged_supplier_signal_ids,
         alternative_supplier_counts=alt_counts,
         data_provenance=data_provenance,
     )

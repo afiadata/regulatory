@@ -6,24 +6,19 @@ Uses mocked DB sessions — no live DB required.
 from __future__ import annotations
 
 import uuid
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 from decimal import Decimal
-from unittest.mock import AsyncMock, MagicMock, patch
+from unittest.mock import AsyncMock, MagicMock, patch  # noqa: F401
 
 import pytest
 
 from regulatory.agent.models import (
-    CountyExposure,
-    DocumentDetail,
     DocumentSearchResponse,
-    ManufacturerProfile,
-    RiskSignalDetail,
     RiskSignalListResponse,
 )
 from regulatory.agent.sanitize import (
-    COUNT_INFLATION_FLOOR,
-    COUNT_INFLATION_OPENFDA_SHARE,
     _SNIPPET_MAX_CHARS,
+    COUNT_INFLATION_FLOOR,
     paginate_raw_text,
     sanitize_text,
     truncate_snippet,
@@ -31,12 +26,10 @@ from regulatory.agent.sanitize import (
 )
 from regulatory.agent.tools import (
     _compute_count_inflation_likely,
-    _is_valid_uuid,
     _validate_name,
     _validate_query,
     _validate_uuid,
 )
-
 
 # ---------------------------------------------------------------------------
 # Sanitization unit tests
@@ -232,7 +225,7 @@ async def test_list_risk_signals_hard_cap() -> None:
 
     # Simulate 60 signals in DB.
     fake_signals = []
-    for i in range(50):
+    for _ in range(50):
         s = MagicMock()
         s.id = uuid.uuid4()
         s.kind = "repeat_violator"
@@ -286,7 +279,9 @@ async def test_get_risk_signal_not_found_raises() -> None:
 
     session = AsyncMock()
     session.get = AsyncMock(return_value=None)
-    session.execute = AsyncMock(return_value=MagicMock(scalars=MagicMock(return_value=MagicMock(all=MagicMock(return_value=[])))))
+    _empty = MagicMock()
+    _empty.scalars.return_value.all.return_value = []
+    session.execute = AsyncMock(return_value=_empty)
 
     with pytest.raises(ValueError, match="Signal not found"):
         await get_risk_signal(session, signal_id=str(uuid.uuid4()))
@@ -324,6 +319,88 @@ async def test_county_exposure_name_validation() -> None:
 
     with pytest.raises(ValueError, match="failed validation"):
         await county_exposure(session, county="'; DROP TABLE counties;--")
+
+
+@pytest.mark.asyncio
+async def test_county_exposure_includes_signal_ids_for_flagged_suppliers() -> None:
+    """county_exposure populates flagged_supplier_signal_ids and per-supplier active_signal_ids."""
+    from regulatory.agent.tools import county_exposure
+
+    county_id = uuid.uuid4()
+    supplier_a_id = uuid.uuid4()
+    supplier_b_id = uuid.uuid4()
+    manufacturer_id = uuid.uuid4()
+    signal_id = uuid.uuid4()
+
+    mock_county = MagicMock()
+    mock_county.id = county_id
+    mock_county.name = "Nakuru"
+    mock_county.region = "Rift Valley"
+    mock_county.population = 2000000
+    mock_county.health_facilities = 300
+
+    supplier_a = MagicMock()
+    supplier_a.id = supplier_a_id
+    supplier_a.name = "Cosmos Pharmaceuticals"
+    supplier_a.manufacturer_id = manufacturer_id
+
+    supplier_b = MagicMock()
+    supplier_b.id = supplier_b_id
+    supplier_b.name = "Africa Inland Medical"
+    supplier_b.manufacturer_id = None  # no manufacturer → no signal query
+
+    cs_a = MagicMock()
+    cs_a.active_ingredient = "amoxicillin"
+    cs_a.share_pct = Decimal("70.0")
+    cs_a.lead_time_days = 14
+    cs_a.contract_end = None
+    cs_a.data_source = "synthetic_v2"
+
+    cs_b = MagicMock()
+    cs_b.active_ingredient = "amoxicillin"
+    cs_b.share_pct = Decimal("30.0")
+    cs_b.lead_time_days = 14
+    cs_b.contract_end = None
+    cs_b.data_source = "synthetic_v2"
+
+    mock_signal = MagicMock()
+    mock_signal.id = signal_id
+    mock_signal.kind = "repeat_violator"
+
+    session = AsyncMock()
+
+    county_mock = MagicMock()
+    county_mock.scalar_one_or_none.return_value = mock_county
+
+    supply_mock = MagicMock()
+    supply_mock.all.return_value = [(cs_a, supplier_a), (cs_b, supplier_b)]
+
+    signal_mock = MagicMock()
+    signal_mock.scalars.return_value.all.return_value = [mock_signal]
+
+    count_mock_a = MagicMock()
+    count_mock_a.scalar_one.return_value = 2
+    count_mock_b = MagicMock()
+    count_mock_b.scalar_one.return_value = 2
+
+    # Execution order: county lookup, supply rows, signal query for supplier_a (only),
+    # alt-count query for cs_a, alt-count query for cs_b.
+    session.execute = AsyncMock(
+        side_effect=[county_mock, supply_mock, signal_mock, count_mock_a, count_mock_b]
+    )
+
+    result = await county_exposure(session, county="Nakuru")
+
+    assert len(result.flagged_supplier_signal_ids) == 1
+    assert result.flagged_supplier_signal_ids[0] == str(signal_id)
+
+    a_row = next(r for r in result.supply_mix if r.supplier_name == "Cosmos Pharmaceuticals")
+    assert a_row.active_signal_ids == [str(signal_id)]
+    assert a_row.has_active_signal is True
+
+    b_row = next(r for r in result.supply_mix if r.supplier_name == "Africa Inland Medical")
+    assert b_row.active_signal_ids == []
+    assert b_row.has_active_signal is False
 
 
 @pytest.mark.asyncio

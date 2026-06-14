@@ -13,11 +13,9 @@ import os
 import subprocess
 import sys
 from pathlib import Path
-from typing import Any
-from unittest.mock import AsyncMock, MagicMock
+from unittest.mock import AsyncMock
 
 import pytest
-
 
 _DB_URL = os.environ.get("TEST_DATABASE_URL")
 _AGENT_SRC = Path(__file__).parents[2] / "src" / "regulatory" / "agent"
@@ -53,7 +51,6 @@ def test_bandit_no_high_severity() -> None:
 @pytest.mark.asyncio
 async def test_no_tool_returns_audit_log_rows() -> None:
     """No tool in TOOL_DEFINITIONS queries agent_audit_log."""
-    from regulatory.agent import tools
 
     tool_src = Path(__file__).parents[2] / "src" / "regulatory" / "agent" / "tools.py"
     src_text = tool_src.read_text(encoding="utf-8")
@@ -65,7 +62,6 @@ async def test_no_tool_returns_audit_log_rows() -> None:
 @pytest.mark.asyncio
 async def test_no_tool_returns_risk_signal_events() -> None:
     """No tool in TOOL_DEFINITIONS queries risk_signal_events."""
-    from regulatory.agent import tools
 
     tool_src = Path(__file__).parents[2] / "src" / "regulatory" / "agent" / "tools.py"
     src_text = tool_src.read_text(encoding="utf-8")

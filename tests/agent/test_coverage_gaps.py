@@ -18,7 +18,6 @@ from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
-
 # ---------------------------------------------------------------------------
 # audit.py — full coverage
 # ---------------------------------------------------------------------------
@@ -301,7 +300,7 @@ async def test_get_risk_signal_happy_path() -> None:
     docs_result_mock.scalars.return_value.all.return_value = docs
 
     # session.get returns sig for RiskSignal, mfr for Manufacturer
-    from regulatory.db.models import Manufacturer, RiskSignal  # noqa: PLC0415
+    from regulatory.db.models import RiskSignal  # noqa: PLC0415
 
     async def fake_get(model_cls: Any, uid: Any) -> Any:
         if model_cls is RiskSignal:
@@ -525,8 +524,9 @@ async def test_county_exposure_with_flagged_supplier() -> None:
 
     # Signals query — returns an active signal.
     sig_mock = MagicMock()
+    sig_mock.id = uuid.uuid4()
     active_signals_result = MagicMock()
-    active_signals_result.scalars.return_value.first.return_value = sig_mock
+    active_signals_result.scalars.return_value.all.return_value = [sig_mock]
 
     alt_count_result = MagicMock()
     alt_count_result.scalar_one.return_value = 2

@@ -6,9 +6,7 @@ All tests mock the Anthropic client so no real API calls are made.
 from __future__ import annotations
 
 import os
-import sys
-from pathlib import Path
-from unittest.mock import AsyncMock, MagicMock, call, patch
+from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
@@ -30,12 +28,14 @@ def test_missing_key_prompts_in_interactive_mode(monkeypatch: pytest.MonkeyPatch
     fake_key = "sk-ant-test-INTERACTIVE12345"
     monkeypatch.setattr("sys.stdin.isatty", lambda: True)
 
-    with patch("regulatory.agent.key_handling.getpass.getpass", return_value=fake_key) as mock_gp:
-        with patch("regulatory.agent.key_handling._validate_key", return_value=True) as mock_val:
-            with patch("builtins.input", return_value="n"):
-                from regulatory.agent.key_handling import acquire_api_key
+    with (
+        patch("regulatory.agent.key_handling.getpass.getpass", return_value=fake_key) as mock_gp,
+        patch("regulatory.agent.key_handling._validate_key", return_value=True) as mock_val,
+        patch("builtins.input", return_value="n"),
+    ):
+        from regulatory.agent.key_handling import acquire_api_key
 
-                result = acquire_api_key(fallback_model="claude-haiku-4-5-20251001")
+        result = acquire_api_key(fallback_model="claude-haiku-4-5-20251001")
 
     assert result == fake_key
     mock_gp.assert_called_once()
@@ -85,16 +85,18 @@ def test_invalid_key_reprompts_then_exits(monkeypatch: pytest.MonkeyPatch) -> No
         call_count += 1
         return False
 
-    with patch("regulatory.agent.key_handling._validate_key", side_effect=fake_validate):
-        with patch(
+    with (
+        patch("regulatory.agent.key_handling._validate_key", side_effect=fake_validate),
+        patch(
             "regulatory.agent.key_handling.getpass.getpass",
             return_value="sk-ant-test-BADKEY",
-        ):
-            with patch("builtins.input", return_value="n"):
-                from regulatory.agent.key_handling import acquire_api_key
+        ),
+        patch("builtins.input", return_value="n"),
+    ):
+        from regulatory.agent.key_handling import acquire_api_key
 
-                with pytest.raises(SystemExit) as exc_info:
-                    acquire_api_key(fallback_model="claude-haiku-4-5-20251001")
+        with pytest.raises(SystemExit) as exc_info:
+            acquire_api_key(fallback_model="claude-haiku-4-5-20251001")
 
     assert exc_info.value.code == 2
     assert call_count == 3
@@ -159,17 +161,16 @@ async def test_key_never_appears_in_audit_log(monkeypatch: pytest.MonkeyPatch) -
 
     runner = AgentRunner(api_key=sentinel_key, config=config)
 
-    with patch("regulatory.agent.runner.get_session") as mock_get_session:
+    with (
+        patch("regulatory.agent.runner.get_session") as mock_get_session,
+        patch.object(runner._client.messages, "create", return_value=mock_response),
+        patch("regulatory.agent.runner.get_corpus_date_range", return_value=(None, None)),
+        patch("regulatory.agent.runner.load_config") as mock_cfg,
+    ):
         mock_get_session.return_value.__aenter__ = AsyncMock(return_value=mock_session)
         mock_get_session.return_value.__aexit__ = AsyncMock(return_value=False)
-
-        with patch.object(
-            runner._client.messages, "create", return_value=mock_response
-        ):
-            with patch("regulatory.agent.runner.get_corpus_date_range", return_value=(None, None)):
-                with patch("regulatory.agent.runner.load_config") as mock_cfg:
-                    mock_cfg.return_value = MagicMock(version="1.0")
-                    await runner.run_turn("list signals")
+        mock_cfg.return_value = MagicMock(version="1.0")
+        await runner.run_turn("list signals")
 
     # Verify sentinel does not appear in any audit row payload.
     for row_payload in audit_rows:
@@ -201,9 +202,7 @@ def test_key_never_appears_in_application_logs(
     install_scrub_filter(sentinel_key)
 
     with caplog.at_level(logging.DEBUG):
-        logging.getLogger("regulatory").info(
-            "processing request with key=%s", sentinel_key
-        )
+        logging.getLogger("regulatory").info("processing request with key=%s", sentinel_key)
 
     for record in caplog.records:
         assert "SENTINEL12345ABCDEF" not in record.getMessage(), (
@@ -254,12 +253,18 @@ async def test_eval_live_confirms_cost_before_running(
         api_call_made = True
         return "response"
 
-    with patch("regulatory.agent.eval._load_golden_qa", return_value=[]):
-        with patch("regulatory.agent.key_handling.acquire_api_key", return_value="sk-ant-test-FAKE"):
-            with patch("builtins.input", return_value="n") as mock_input:
-                from regulatory.agent.eval import run_eval
+    with (
+        patch("regulatory.agent.eval._preflight_db_check", new_callable=AsyncMock),
+        patch("regulatory.agent.eval._load_golden_qa", return_value=[]),
+        patch(
+            "regulatory.agent.key_handling.acquire_api_key",
+            return_value="sk-ant-test-FAKE",
+        ),
+        patch("builtins.input", return_value="n"),
+    ):
+        from regulatory.agent.eval import run_eval
 
-                await run_eval(live=True)
+        await run_eval(live=True)
 
     # User said N; no API calls should have been made.
     assert not api_call_made
@@ -285,11 +290,13 @@ async def test_eval_recorded_mode_does_not_touch_key(
         key_acquired = True
         return "sk-ant-fake"
 
-    with patch("regulatory.agent.key_handling.acquire_api_key", side_effect=fake_acquire):
-        with patch("regulatory.agent.eval._find_latest_transcript", return_value=None):
-            with patch("regulatory.agent.eval._load_golden_qa", return_value=[]):
-                from regulatory.agent.eval import run_eval
+    with (
+        patch("regulatory.agent.key_handling.acquire_api_key", side_effect=fake_acquire),
+        patch("regulatory.agent.eval._find_latest_transcript", return_value=None),
+        patch("regulatory.agent.eval._load_golden_qa", return_value=[]),
+    ):
+        from regulatory.agent.eval import run_eval
 
-                await run_eval(live=False)
+        await run_eval(live=False)
 
     assert not key_acquired, "Recorded eval mode must not acquire an API key"

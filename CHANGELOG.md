@@ -8,6 +8,12 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Fixed
+- Eval framework no longer treats runtime exceptions as agent responses;
+  errors are distinguished from failures and surface explicitly. Preflight
+  DB check prevents `eval run --live` from spending against an unhealthy
+  backend. Aborts after 3 consecutive errors.
+
 ### Added — NL Agent (feat/nl-agent)
 
 **Schema**

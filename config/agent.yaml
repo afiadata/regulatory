@@ -12,7 +12,7 @@ generation:
 
 budgets:
   tool_calls_per_turn: 8
-  tokens_per_turn: 10000
+  tokens_per_turn: 15000   # raised from 10000 after Round 2 eval truncation on 4 questions
   tokens_per_conversation: 50000
   cost_per_conversation_usd: 0.50
   cost_per_day_usd: 5.0

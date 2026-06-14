@@ -93,6 +93,7 @@ class SupplyMixRow(BaseModel):
     contract_end: date | None = None
     data_source: str
     has_active_signal: bool = False
+    active_signal_ids: list[str] = Field(default_factory=list)
 
 
 class CountyExposure(BaseModel):
@@ -104,6 +105,7 @@ class CountyExposure(BaseModel):
     health_facilities: int | None = None
     supply_mix: list[SupplyMixRow] = Field(default_factory=list)
     flagged_supplier_names: list[str] = Field(default_factory=list)
+    flagged_supplier_signal_ids: list[str] = Field(default_factory=list)
     alternative_supplier_counts: dict[str, int] = Field(default_factory=dict)
     data_provenance: dict[str, Any] = Field(default_factory=dict)
 

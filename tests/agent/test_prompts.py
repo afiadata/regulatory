@@ -5,8 +5,6 @@ from __future__ import annotations
 from datetime import date
 from pathlib import Path
 
-import pytest
-
 
 class TestAssembleSystemPrompt:
     def test_substitutes_corpus_dates(self) -> None:

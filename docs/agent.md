@@ -109,3 +109,21 @@ See `docs/agent_costs.md` for budget configuration.
 - **openFDA ingredient extraction gap**: ~100% of openFDA recall documents have empty `active_ingredients`. See [openFDA follow-up](followup_issues/openfda_active_ingredient_extraction.md).
 - **SAHPRA misclassification**: ~60% of SAHPRA documents flagged as drug recalls are actually medical devices or diagnostics. See [SAHPRA follow-up](followup_issues/sahpra_document_classification.md).
 - **Recall event clustering**: openFDA per-SKU filing inflates repeat-violator counts by 10–57×. The `count_inflation_likely` flag in `get_risk_signal` heuristically identifies affected signals. See [clustering follow-up](followup_issues/recall_event_clustering.md).
+
+### Eval framework error handling (resolved 2026-06-11)
+
+The eval framework previously wrapped any exception from `run_turn()` into a
+string `"[ERROR: ...]"` response, which the per-question pass/fail logic then
+evaluated against — producing meaningless results when infrastructure (e.g.
+Postgres) was unavailable. A DB connection failure on a live run produced 40
+identical error "responses" and a vacuous 3/40 pass rate against questions
+with no positive assertions.
+
+Fixed by: (a) preflight DB health check that aborts `eval run --live` before
+any spend if the DB is unreachable, (b) distinguishing errored questions from
+failed ones in the per-question loop, (c) aborting after 3 consecutive errors
+rather than running the full set against an unhealthy backend.
+
+The cost tracker was unaffected by this issue (DB error fires before the
+session scope where cost accumulation lives), so no cost-tracker reset was
+needed.
