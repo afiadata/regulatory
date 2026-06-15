@@ -127,3 +127,24 @@ rather than running the full set against an unhealthy backend.
 The cost tracker was unaffected by this issue (DB error fires before the
 session scope where cost accumulation lives), so no cost-tracker reset was
 needed.
+
+### Audit log writes silently rolled back (resolved 2026-06-15)
+
+`_write_audit` in `runner.py` called `session.flush()` but not
+`session.commit()`. The shared `get_session()` helper does not auto-commit
+(`AsyncSession.__aexit__` calls `close()`, not `commit()`), so every flushed
+audit row was rolled back on session close. The `agent_audit_log` table was
+always empty despite the agent appearing to log normally. The 62.5% Round 2
+eval pass rate was achieved with zero audit data captured.
+
+Fixed by adding `await session.commit()` immediately after `await
+session.flush()` in `_write_audit`. A round-trip test (write via
+`_write_audit`, read back through an independent session) was added to
+`test_runner_integration.py` to catch regressions of this exact pattern.
+
+A fourth instance of "system reported success without doing the work" in this
+project (after dead-code `resolve_signal_for_manufacturer_merge`, missing
+`regulatory_readonly` GRANTs, and the eval error-wrapping). See
+[get_session_commit_semantics.md](followup_issues/get_session_commit_semantics.md)
+for the broader investigation into whether other writers share the same latent
+bug.

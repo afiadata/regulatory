@@ -6,6 +6,7 @@ Skipped when TEST_DATABASE_URL is not set (same pattern as test_security.py).
 from __future__ import annotations
 
 import os
+import uuid
 from decimal import Decimal
 from typing import Any
 from unittest.mock import AsyncMock, MagicMock, patch
@@ -87,7 +88,6 @@ class TestRunnerBudgetEnforcement:
         mock_session.__aexit__ = AsyncMock(return_value=False)
 
         call_count = 0
-        audit_rows: list[dict[str, Any]] = []
 
         async def fake_execute(stmt: Any, **kwargs: Any) -> MagicMock:
             # Return empty results for any query.
@@ -116,11 +116,13 @@ class TestRunnerBudgetEnforcement:
             mock_get_session.return_value.__aenter__ = AsyncMock(return_value=mock_session)
             mock_get_session.return_value.__aexit__ = AsyncMock(return_value=False)
 
-            with patch.object(runner._client.messages, "create", side_effect=fake_messages_create):
-                with patch("regulatory.agent.runner.get_corpus_date_range", return_value=(None, None)):
-                    with patch("regulatory.agent.runner.load_config") as mock_cfg:
-                        mock_cfg.return_value = MagicMock(version="1.0")
-                        result = await runner.run_turn("list active signals")
+            with (
+                patch.object(runner._client.messages, "create", side_effect=fake_messages_create),
+                patch("regulatory.agent.runner.get_corpus_date_range", return_value=(None, None)),
+                patch("regulatory.agent.runner.load_config") as mock_cfg,
+            ):
+                mock_cfg.return_value = MagicMock(version="1.0")
+                result = await runner.run_turn("list active signals")
 
         assert isinstance(result, str)
 
@@ -136,7 +138,9 @@ class TestRunnerBudgetEnforcement:
         mock_session = AsyncMock()
         mock_session.__aenter__ = AsyncMock(return_value=mock_session)
         mock_session.__aexit__ = AsyncMock(return_value=False)
-        mock_session.execute = AsyncMock(return_value=MagicMock(scalar_one=MagicMock(return_value=0)))
+        _scalar_mock = MagicMock()
+        _scalar_mock.scalar_one.return_value = 0
+        mock_session.execute = AsyncMock(return_value=_scalar_mock)
         mock_session.flush = AsyncMock()
         mock_session.add = MagicMock()
         mock_session.get = AsyncMock(return_value=None)
@@ -145,10 +149,12 @@ class TestRunnerBudgetEnforcement:
             mock_get_session.return_value.__aenter__ = AsyncMock(return_value=mock_session)
             mock_get_session.return_value.__aexit__ = AsyncMock(return_value=False)
 
-            with patch("regulatory.agent.runner.get_corpus_date_range", return_value=(None, None)):
-                with patch("regulatory.agent.runner.load_config") as mock_cfg:
-                    mock_cfg.return_value = MagicMock(version="1.0")
-                    result = await runner.run_turn("any question")
+            with (
+                patch("regulatory.agent.runner.get_corpus_date_range", return_value=(None, None)),
+                patch("regulatory.agent.runner.load_config") as mock_cfg,
+            ):
+                mock_cfg.return_value = MagicMock(version="1.0")
+                result = await runner.run_turn("any question")
 
         assert "budget" in result.lower() or "session" in result.lower()
 
@@ -222,3 +228,76 @@ class TestTracebackSanitization:
         tb = "TypeError: int is not str"
         result = _sanitize_traceback(tb)
         assert result == tb
+
+
+# ---------------------------------------------------------------------------
+# Audit-log persistence round-trip (requires live DB)
+# ---------------------------------------------------------------------------
+
+
+@_SKIP_NO_DB
+@pytest.mark.asyncio
+async def test_audit_log_row_persists_to_db_after_write_audit() -> None:
+    """_write_audit must commit so rows are visible from a separate session.
+
+    Regression test for the bug where _write_audit called flush() but not
+    commit(). The shared get_session() helper does not auto-commit; flush
+    writes to the connection buffer but the rows are rolled back when the
+    session closes. Without an explicit commit(), agent_audit_log is always
+    empty regardless of how many turns the agent processes.
+
+    The independent-session read is critical: reading back in the same
+    session would see the flushed row regardless — only a separate session
+    exposes the missing commit.
+    """
+    from decimal import Decimal as Dec
+
+    from sqlalchemy import text
+    from sqlalchemy.ext.asyncio import async_sessionmaker, create_async_engine
+
+    from regulatory.agent.runner import AgentRunner
+
+    conversation_id = uuid.uuid4()
+    config = _make_agent_config()
+
+    runner = AgentRunner.__new__(AgentRunner)
+    runner._conversation_id = conversation_id
+    runner._turn_index = 0
+    runner._config_version = "test"
+    runner._primary_model = config["models"]["primary"]
+    runner._fallback_model = config["models"]["fallback"]
+    runner._conversation_cost_used = Dec("0")
+    runner._cost_per_conversation = Dec(config["budgets"]["cost_per_conversation_usd"])
+    runner._fallback_threshold = Dec(config["budgets"]["budget_remaining_threshold_usd"])
+
+    db_url = _DB_URL or ""
+    if db_url.startswith("postgresql://"):
+        db_url = db_url.replace("postgresql://", "postgresql+asyncpg://", 1)
+    elif db_url.startswith("postgres://"):
+        db_url = db_url.replace("postgres://", "postgresql+asyncpg://", 1)
+
+    engine = create_async_engine(db_url, echo=False)
+    factory = async_sessionmaker(engine, expire_on_commit=False)
+
+    async with factory() as write_session:
+        await runner._write_audit(
+            write_session,
+            event_type="user_message",
+            payload={"text": "round-trip test"},
+        )
+
+    async with factory() as verify_session:
+        result = await verify_session.execute(
+            text(
+                "SELECT COUNT(*) FROM agent_audit_log WHERE conversation_id = :cid"
+            ),
+            {"cid": str(conversation_id)},
+        )
+        count = result.scalar()
+
+    await engine.dispose()
+
+    assert count == 1, (
+        f"Expected 1 audit row for conversation {conversation_id}, found {count}. "
+        "Likely cause: _write_audit didn't commit before session close."
+    )

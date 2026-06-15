@@ -211,6 +211,7 @@ class AgentRunner:
             )
             session.add(row)
             await session.flush()
+            await session.commit()
         except Exception as audit_exc:
             log.error("audit_write_failed", event_type=event_type, error=str(audit_exc))
 
