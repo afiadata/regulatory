@@ -512,6 +512,8 @@
 
 - id: q040
   category: manufacturer_disambiguation
+  # Agent correctly surfaces address-variant canonicalization gap (3 Pharmacare Ltd rows).
+  # See docs/followup_issues/aspen_pharmacare_address_variants.md
   user: "What's the risk profile for Aspen?"
   expected:
     must_cite: false

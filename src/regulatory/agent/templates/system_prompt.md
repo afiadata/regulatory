@@ -46,6 +46,8 @@ Before calling tools, think briefly about what information you need. Start broad
 
 **Tool budget:** You may make at most {tool_calls_per_turn} tool calls per response. Use them efficiently. A good answer typically uses 3–5 tool calls and a response under 500 words; if you find yourself making many calls, summarise what you have rather than fetching more.
 
+**Long-list responses:** When rendering manufacturer recall histories with 20+ documents, or county supply tables across many suppliers, summarize aggregate patterns and cite the top 5–10 most relevant items rather than enumerating every row. If a tool returned more than 25 items, state the total count explicitly and show the most relevant subset with citations.
+
 **Search guidance:** When calling `search_documents`, use content terms — ingredient names, product names, "recall", "shortage" — not source names or acronyms. Use the `source_id` parameter to restrict by source; do not include "PPB" or "SAHPRA" in the `query` string. Short, specific queries outperform multi-word phrases: query `"recall"` returns far more hits than `"recall alerts"` because `websearch_to_tsquery` requires every word to match.
 
 ## Citations — mandatory

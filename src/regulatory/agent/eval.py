@@ -42,6 +42,32 @@ def _find_latest_transcript() -> Path | None:
     return None
 
 
+_NULL_RESULT_INDICATORS: tuple[str, ...] = (
+    "no results",
+    "no records",
+    "no matching",
+    "no active",
+    "no flagged",
+    "no signals",
+    "0% ",
+    "not part of this dataset",
+    "outside this dataset",
+    "not available here",
+)
+
+
+def _is_null_result_response(response: str) -> bool:
+    """Return True if the response legitimately has nothing to cite.
+
+    A null-result response explicitly states that no matching records were
+    found. Requiring citations from such responses is a category error — there
+    is nothing to cite. The check uses a conservative list of phrases that
+    appear in well-formed "nothing found" agent responses.
+    """
+    lower = response.lower()
+    return any(indicator in lower for indicator in _NULL_RESULT_INDICATORS)
+
+
 def _check_response(response: str, expected: dict[str, Any]) -> tuple[bool, list[str]]:
     """Evaluate a response against expected behaviour.
 
@@ -54,7 +80,12 @@ def _check_response(response: str, expected: dict[str, Any]) -> tuple[bool, list
     """
     failures: list[str] = []
 
-    if expected.get("must_cite") and "[doc:" not in response and "[signal:" not in response:
+    if (
+        expected.get("must_cite")
+        and "[doc:" not in response
+        and "[signal:" not in response
+        and not _is_null_result_response(response)
+    ):
         failures.append("missing citations")
 
     must_refuse = expected.get("must_refuse", False)
@@ -171,10 +202,13 @@ async def run_eval(*, live: bool = False) -> None:
         print("Aborted.")
         return
 
+    from decimal import Decimal
+
     results: list[dict[str, Any]] = []
     transcripts: list[dict[str, Any]] = []
     consecutive_errors = 0
     aborted = False
+    total_cost: Decimal = Decimal("0")
 
     for q in questions:
         runner = AgentRunner(
@@ -207,6 +241,8 @@ async def run_eval(*, live: bool = False) -> None:
                 break
             continue
 
+        q_cost = runner._conversation_cost_used
+        total_cost += q_cost
         passed, failures = _check_response(response, q.get("expected", {}))
         result: dict[str, Any] = {
             "id": q["id"],
@@ -214,6 +250,7 @@ async def run_eval(*, live: bool = False) -> None:
             "user": q["user"],
             "passed": passed,
             "failures": failures,
+            "cost_usd": float(q_cost),
         }
         results.append(result)
         transcripts.append({**result, "response": response})
@@ -258,6 +295,7 @@ async def run_eval(*, live: bool = False) -> None:
                 "errored": errored_count,
                 "aborted": aborted,
                 "pass_rate": pass_rate,
+                "total_cost_usd": float(total_cost),
                 "results": results,
             },
             fh,
@@ -269,6 +307,7 @@ async def run_eval(*, live: bool = False) -> None:
         summary_line += f", {errored_count} errored"
     if aborted:
         summary_line += " [ABORTED]"
+    summary_line += f"  |  total cost: ${float(total_cost):.4f}"
     print(summary_line)
     print(f"Transcripts: {transcript_file}")
     print(f"Summary:     {summary_file}")
